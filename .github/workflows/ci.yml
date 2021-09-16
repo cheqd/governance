@@ -1,6 +1,6 @@
 name: Markdown quality control checks
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   check_links:
