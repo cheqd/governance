@@ -1,5 +1,9 @@
 # cheqd-governance
 
+Here is a [broken link](contributing/major-network-chang.md)
+
+Here is malformatted text **hello
+
 ## **Before you cheq in...**
 
 Governance Frameworks are generally perceived as largely inaccessible documents, for various reasons:
