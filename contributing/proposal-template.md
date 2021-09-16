@@ -7,12 +7,12 @@ description: >-
 # Governance Proposal Template
 
 {% hint style="info" %}
-Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\) 
+Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
 {% endhint %}
 
-#### \*\*\*\*
+## \*\*\*\*
 
-#### **Governance Proposal {1} {Example Proposal}**
+## **Governance Proposal {1} {Example Proposal}**
 
 **Status**
 
@@ -57,6 +57,4 @@ No notable negative consequences
 **Neutral**
 
 Changing the template loses consistency over time
-
-####  
 

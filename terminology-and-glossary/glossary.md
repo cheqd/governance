@@ -121,7 +121,7 @@
       <td style="text-align:left">An assertion about an Attribute of a Subject. Examples of a Claim include
         date of birth, height, government ID number, or postal address&#x2014;all
         of which are possible Attributes of an Individual. A Credential is comprised
-        of a set of Claims.<em> (Note: Early in the development of Self-Sovereign Identity technology, this term was used the same way it was used in the early W3C Verifiable Claims Working Group specifications&#x2014;as a synonym for what is now a Credential. That usage is now deprecated.)</em>
+        of a set of Claims. <em>(Note: Early in the development of Self-Sovereign Identity technology, this term was used the same way it was used in the early W3C Verifiable Claims Working Group specifications&#x2014;as a synonym for what is now a Credential. That usage is now deprecated.)</em>
       </td>
     </tr>
     <tr>
@@ -321,7 +321,6 @@
       </td>
       <td style="text-align:left">
         <p>This term has two meanings in different contexts.</p>
-        <p></p>
         <p>Firstly, it can mean an Identity Controller that acts on behalf of another
           Identity Controller to assist or manage Credentials, Claims or Attributes
           on behalf of that secondary Identity Controller.</p>
@@ -463,7 +462,6 @@
           The Holder may or may not be the Subject of the Credential. (There are
           many use cases in which the Holder is not the Subject, e.g., a birth certificate
           where the Subject is a baby and both the mother and father may be Holders.)</p>
-        <p></p>
         <p>Holders are also those who own and hold CHEQ.</p>
       </td>
     </tr>
@@ -489,7 +487,6 @@
         <p>An open source project under the Hyperledger umbrella for decentralized
           Self-Sovereign Identity. The source code for Hyperledger Indy was originally
           contributed to the Linux Foundation by the Sovrin Foundation.</p>
-        <p></p>
         <p>cheqd does not use Hyperledger Indy for its Network, instead it uses Cosmos.</p>
       </td>
     </tr>

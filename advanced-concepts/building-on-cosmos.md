@@ -2,13 +2,13 @@
 
 ## Introduction to Cosmos SDK
 
-cheqd’s Network is built using the Cosmos SDK, which means that it can inherit a lot of the core functionality of Cosmos. 
+cheqd’s Network is built using the Cosmos SDK, which means that it can inherit a lot of the core functionality of Cosmos.
 
 Notably, for this Governance Framework, we will often refer to specifications laid out in Cosmos’ SDK documentation, [here](https://docs.cosmos.network/v0.42/modules/gov/).
 
 Importantly, cheqd is an [Application Specific Blockchain](https://docs.cosmos.network/master/intro/why-app-specific.html). This means that Users of the cheqd Network have full control over the entire chain and are not reliant on Cosmos at all. This ensures the community will not be stuck if, for example, a bug in the Cosmos hub or Inter-Blockchain Communication is discovered, and that it has the entire freedom to choose how it is going to evolve.
 
-However, it is worth noting that once the Network has departed from Cosmos’ initial foundation, it will no longer be able to seamlessly update itself to Cosmos’ latest functionality. 
+However, it is worth noting that once the Network has departed from Cosmos’ initial foundation, it will no longer be able to seamlessly update itself to Cosmos’ latest functionality.
 
 For this reason, it is suggested that the Network mirrors Cosmos’ architecture and updates, especially during the initial stages of its lifecycle.
 
@@ -45,7 +45,7 @@ However, when looking at identity and token implementations and infrastructure, 
 
 ### Timeline impacts <a id="f720"></a>
 
-Like any other Network, our speed to market is key. Not only did we need the right protocol for the long-term, but it also couldn’t impact our execution timelines. We are strong believers in releasing early, releasing often and incorporating the feedback of the SSI and crypto communities as well as end-users. As a result, each option was compared against each other not just based on functional and non-functional requirements but also on delivery risk. The figure below outlines this between Cosmos and Indy. 
+Like any other Network, our speed to market is key. Not only did we need the right protocol for the long-term, but it also couldn’t impact our execution timelines. We are strong believers in releasing early, releasing often and incorporating the feedback of the SSI and crypto communities as well as end-users. As a result, each option was compared against each other not just based on functional and non-functional requirements but also on delivery risk. The figure below outlines this between Cosmos and Indy.
 
 ![Risk over time depending on the platform](https://miro.medium.com/max/1120/0*lVe_-7FySUoNOxas)
 

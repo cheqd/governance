@@ -1,8 +1,8 @@
 # Major Network changes
 
-## Major Network changes 
+## Major Network changes
 
-These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below. 
+These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
 Major Network changes include, but are not limited to:
 
@@ -18,13 +18,13 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd Governance](../../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for cheqd Governance](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
 
 ## Proposals
 
-One of the most important questions in this Governance Framework is explaining how any token holder can make a proposal or voice their opinion on the Network. 
+One of the most important questions in this Governance Framework is explaining how any token holder can make a proposal or voice their opinion on the Network.
 
-There are two ways of doing this: 
+There are two ways of doing this:
 
 1. **Informal ‘off-chain’ proposal**
 2. **Formal ‘on-chain’ proposal’**
@@ -35,7 +35,7 @@ These will be discussed in turn.
 
 Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain. Off-chain governance is vital for building a healthy and active governance community.
 
-Once feedback has been given in an off-chain forum, the User proposing the Proposal can have more confidence that a Proposal will reach minimum deposit and be approved on-chain. 
+Once feedback has been given in an off-chain forum, the User proposing the Proposal can have more confidence that a Proposal will reach minimum deposit and be approved on-chain.
 
 ### Your Idea
 
@@ -47,7 +47,7 @@ Before you make a Network Proposal, you should engage people \(ideally experts\)
 
 Governance proposals potentially impact many stakeholders. Introduce your idea with known members of the community before investing resources into drafting a formal proposal. Don't let negative feedback dissuade you from exploring your idea if you think that it's still important.
 
-If you know people who are very involved with cheqd, send them a private message with a concise overview of what you think will result from your idea or proposed changes. 
+If you know people who are very involved with cheqd, send them a private message with a concise overview of what you think will result from your idea or proposed changes.
 
 You could ask a simple question or present an idea in our [Github Discussions](https://github.com/cheqd/cheqd-node/discussions), specifically in:
 
@@ -67,7 +67,7 @@ Great! However, we still recommend that you introduce your idea with members of 
 
 ### **Drafting a Proposal**
 
-If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal. 
+If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
 To make reading and reviewing your Proposal easier for the community, please select a Proposal template from the list below.
 
@@ -122,12 +122,11 @@ Each Proposal type is unique in how the .json should be formatted:
 4. **ParameterChangeProposal**: defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
 5. **CancelSoftwareUpgradeProposal**: is a gov Content type for cancelling a software upgrade.
 
-To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change. 
+To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change.
 
 Once on-chain, most people will rely upon network explorers to interpret this information with a Graphical User Interface \(GUI\).
 
-This is the command format for using cheqd’s CLI \(Command-Line Interface\) to submit your proposal on-chain:  
-
+This is the command format for using cheqd’s CLI \(Command-Line Interface\) to submit your proposal on-chain:
 
 ```text
 VDR CLI tx gov submit-proposal \
@@ -137,14 +136,13 @@ VDR CLI tx gov submit-proposal \
   --deposit="8000cheq" \
   --from=<name> \
   --chain-id=<chain_id>
-
 ```
 
 ### Proposal type
 
 If &lt;proposal type&gt; is left blank, the type will be a Text proposal. Otherwise, it can be set to _**param-change**_, _**community-pool-spend**_, _**software-upgdrade**_ or _**cancel-software-upgrade**_. Use _**--help**_ to get more info from the tool.
 
-For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now: 
+For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
 ```text
 VDR CLI tx gov submit-proposal \
@@ -171,24 +169,21 @@ VDR CLI tx gov submit-proposal \
 
 Note: be careful what you use for **--fees**. A mistake here could result in spending hundreds or thousands of cheqs accidentally, which cannot be recovered.
 
-
-
 ### Deposit
 
 To prevent spam, Proposals must be submitted with a deposit in the coins defined in the _**MinDeposit**_ param. The voting period will not start until the Proposal's deposit equals _**MinDeposit**_.
 
-When a Proposal is submitted, it has to be accompanied by a deposit that must be strictly positive, but can be inferior to _**MinDeposit**_. The submitter doesn't need to pay for the entire deposit on their own. If a Proposal's deposit is inferior to _**MinDeposit**_, other token holders can increase the Proposal's deposit by sending a Deposit transaction. 
+When a Proposal is submitted, it has to be accompanied by a deposit that must be strictly positive, but can be inferior to _**MinDeposit**_. The submitter doesn't need to pay for the entire deposit on their own. If a Proposal's deposit is inferior to _**MinDeposit**_, other token holders can increase the Proposal's deposit by sending a Deposit transaction.
 
 The deposit is kept in an escrow in the governance _**ModuleAccount**_ until the proposal is finalized \(passed or rejected\).
 
 Once the proposal's deposit reaches _**MinDeposit**_, it enters the voting period. If a proposal's deposit does not reach _**MinDeposit**_ before _**MaxDepositPeriod**_, the proposal closes and nobody can deposit on it anymore.
 
-In this scenario, the tokens spent on the Deposit which did not reach the _**MinDeposit**_ will be burnt, meaning that they will be removed from the active pool of tokens and put beyond use. 
+In this scenario, the tokens spent on the Deposit which did not reach the _**MinDeposit**_ will be burnt, meaning that they will be removed from the active pool of tokens and put beyond use.
 
-The **minimum deposit** for cheqd will initially be **8,000 cheqs**. 
+The **minimum deposit** for cheqd will initially be **8,000 cheqs**.
 
-The _**MaxDepositPeriod**_ will be **2 weeks**.  
-
+The _**MaxDepositPeriod**_ will be **2 weeks**.
 
 ### Deposit refund and burn
 
@@ -199,13 +194,9 @@ When a proposal is finalized, the coins from the deposit are either refunded or 
 * If the proposal is approved, but the minimum quorum \(33.34%\) is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
 * When the proposal is vetoed by 33.34%, deposits will be burned from the governance _**ModuleAccount**_.
 
-####  
-
 ### Verifying your transaction
 
 After posting your transaction, your command line interface will provide you with the transaction's hash, which you can either query using _**gaiad**_ or by searching the hash using [Hubble](https://hubble.figment.network/cosmos/chains/cosmoshub-3/transactions/B8E2662DE82413F03919712B18F7B23AF00B50DAEB499DAD8C436514640EFC79). The hash should look something like this: **B8E2662DE82413F03919712B18F7B23AF00B50DAEB499DAD8C436514640EFC79**
-
-####  
 
 ### Troubleshooting a failed transaction
 
@@ -214,5 +205,5 @@ There are a number of reasons why a transaction may fail. Here are two examples:
 1. Running out of gas - The more data there is in a transaction, the more gas it will need to be processed. If you don't specify enough gas, the transaction will fail.
 2. Incorrect denomination - You may have specified an amount in 'nanocheq' or 'microcheq' instead of 'cheq', causing the transaction to fail.
 
-If you encounter a problem, try to troubleshoot it first, and then ask for help on the [cheqd Technical Help forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help). We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use. 
+If you encounter a problem, try to troubleshoot it first, and then ask for help on the [cheqd Technical Help forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help). We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use.
 

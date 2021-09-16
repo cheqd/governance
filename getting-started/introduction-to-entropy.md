@@ -47,8 +47,6 @@ Entropy is broadly defined as the degree of disorder or uncertainty in a system 
 
 Let’s think of a sandcastle sitting in a desert.
 
-
-
 ![Sandcastle stock image: https://jooinn.com/sand-castle.html](https://miro.medium.com/max/1120/0*6Y9_oufXGvqPs4x-)
 
 The sandcastle in the desert has both order and structure, and there are very few ways to arrange the sand grains to achieve the same structure.
@@ -95,7 +93,7 @@ The point of this elaboration, however, is to highlight that for every Network t
 
 And this is where we start at **cheqd**.
 
-![Source: https://wallpaperaccess.com/trippy-space-art](../../.gitbook/assets/cheqd-article-pt-2-image.jpg)
+![Source: https://wallpaperaccess.com/trippy-space-art](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/cheqd-article-pt-2-image.jpg)
 
 cheqd are defining a set of baseline conditions and rules for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities.
 
@@ -109,13 +107,13 @@ Entropy is a composite function of a number of different factors, consisting of 
 
 At a high level, without calculating Entropy mathematically, it can be visualised as having an inverse relationship with liability. At the genesis state, the liability on those with control over the Network will be relatively high. This will quickly tend downwards as the Network expands and decision-making is disseminated among a collective.
 
-![](../../.gitbook/assets/liability-graph.png)
+![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/liability-graph.png)
 
 Given the legal grey area around the point of sufficient decentralisation, we are setting a high threshold of decentralisation which we want to achieve.
 
 On a visual level, this can be shown as follows.
 
-![](../../.gitbook/assets/liability-graph-2.png)
+![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/liability-graph-2.png)
 
 Through such delineation, we believe that we are positioning ourselves sensibly for any updated legal opinion on the topic.
 

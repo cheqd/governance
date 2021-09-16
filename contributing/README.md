@@ -2,7 +2,7 @@
 
 ## How do I make changes on the Network?
 
-Every User is encouraged to contribute to the cheqd Network. To make this easy, it is important to explain HOW a User can contribute, and what the best practices are for making changes. 
+Every User is encouraged to contribute to the cheqd Network. To make this easy, it is important to explain HOW a User can contribute, and what the best practices are for making changes.
 
 For this reason, it is important to distinguish when a change can be made entirely off-ledger, and when a change is needed to be voted on, and made on-ledger. To do this we must differentiate between **minor changes** which are able to take place **entirely off-ledger** and **major network changes** which need to be **formalised on-ledger.**
 
@@ -18,9 +18,9 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 See more, [here](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/contributing/how-network-governance-works-user)
 
-### Major Network changes 
+### Major Network changes
 
-These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below. 
+These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
 Major Network changes include, but are not limited to:
 
@@ -38,19 +38,19 @@ See more, [here](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/cont
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd Governance](../../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for cheqd Governance](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
 
 ## cheqd's Principles
 
 Whenever a **major network change** takes place on the Network, reference MUST be made to cheqd's Foundational Principles. The Principles should act as a checks and balance against **major network changes.**
 
-This means, that **major network changes** should never oppose a Principle, unless it is acting to update or change a Principle. For more information on how the Principles should be interpreted, see the Section on Principles. 
+This means, that **major network changes** should never oppose a Principle, unless it is acting to update or change a Principle. For more information on how the Principles should be interpreted, see the Section on Principles.
 
 ## Community
 
 You do not have to own any cheq to participate in our community discussion. You are free to learn about cheqd and participate in our community discussions across multiple platforms and forums.
 
-We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [wiki](https://docs.cheqd.io/cheqd-node/) and our [source code](https://github.com/cheqd/cheqd-node) are natively interconnected. 
+We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [wiki](https://docs.cheqd.io/cheqd-node/) and our [source code](https://github.com/cheqd/cheqd-node) are natively interconnected.
 
 **What does this mean?**
 
@@ -77,14 +77,9 @@ If you want to stay updated with cheqd news, we recommend that you join us on:
 4. [Medium:](https://blog.cheqd.io/) Stay up to date with our latest blogs and articles.
 5. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 
-We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.  
+We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
 * [cheqd Code of Conduct](https://docs.google.com/document/d/1Rbw-0TMg8PZO85R0SuDKffXnwrDTzcPrSrURPI3el7c/edit)
 
-This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are. 
-
-  
-
-
-
+This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are.
 
