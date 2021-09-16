@@ -1,8 +1,8 @@
 # cheqd-governance
 
-Here is a [broken link](contributing/major-network-chang.md)
+Here is a [broken link](contributing/major-nework-chang.md)
 
-Here is malformatted text **hello
+Here is malformatted text ****hello
 
 ## **Before you cheq in...**
 
