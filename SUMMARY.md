@@ -1,10 +1,10 @@
 # Table of contents
 
 * [cheqd-governance](README.md)
-* [Getting started with Governance](getting-started/README.md)
-  * [Introduction to cheqd](getting-started/introduction-to-cheqd.md)
-  * [Introduction to Entropy](getting-started/introduction-to-entropy.md)
-  * [Introduction to Governance](getting-started/introduction-to-governance.md)
+* [Getting started with Governance](readme/README.md)
+  * [Introduction to cheqd](readme/introduction-to-cheqd.md)
+  * [Introduction to Entropy](readme/introduction-to-entropy.md)
+  * [Introduction to Governance](readme/introduction-to-governance.md)
 * [Tokenomics](tokenomics.md)
 * [Contributing](contributing/README.md)
   * [Minor Network changes](contributing/how-network-governance-works-user.md)
