@@ -11,7 +11,7 @@ description: >-
 
 If you are not familiar with Governance, and especially decentralised governance, we suggest that you should begin with our introductory documents:
 
-1. [Introduction to Governance](https://docs.google.com/document/d/1swd1WtdPkhkVcxF0-efl185506kBld2zIUKvpKp3M_E/edit#heading=h.g1hnv482cbkn)  **This document explains how we define governance, and why it is crucial in the management of a decentralised Network.** 
+1. [Introduction to Governance](https://docs.google.com/document/d/1swd1WtdPkhkVcxF0-efl185506kBld2zIUKvpKp3M_E/edit#heading=h.g1hnv482cbkn)  ****This document explains how we define governance, and why it is crucial in the management of a decentralised Network. 
 2. [Introduction to cheqd](https://docs.google.com/document/d/19_FV8bfeM3ITZIZyTObmvIt2dszqrvtVLP-2AWz8TGo/edit#)  This document explains what cheqd is trying to achieve, and what the intended goal of the Network is. 
 3. [Introduction to Entropy](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/readme/introduction-to-entropy)  This document introduces the concept of Entropy in decentralised governance. Entropy is pivotal to understanding how liability and accountability changes as the Network expands. 
 

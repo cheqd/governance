@@ -28,9 +28,9 @@ These digital profiles are generally secured behind a password, meaning that we 
 
 However, in reality this is not the case. Our data is stored across multiple gated siloes, and every time we want to access this data, we need to prove to the gatekeeper that we are who we claim to be through an authentication process.
 
-In other words, every time we want to get access to our own data and digital identity, we need to get through a locked door using a key.
+In other words, every time we want to get access to our own digital identity data, we need to get through a locked door using a key.
 
-We \__\*\*_\_play out this sequence multiple times a day:
+We play out this sequence multiple times a day:
 
 > Person: _**"Hello there, can I please get into my account to view my own data please".**_
 >
@@ -60,7 +60,7 @@ Recently, this model has led to two further issues:
 
 As we get more and more accounts, remembering and managing passwords becomes increasingly difficult. Too many times we are faced with a popup, saying something along the lines of “Hold up, before you access this service we need to ask you some questions to verify that you are who you claim to be.”
 
-And because its getting more difficult to manage, we end up using the same key to access multiple accounts, which leaves the door open for scammers, hackers and fraudsters to easily phish the key away and obtain our digital assets.
+And because it's getting more difficult to manage, we end up using the same key to access multiple accounts, which leaves the door open for scammers, hackers and fraudsters to easily phish the key away and obtain our digital assets.
 
 This constant battle to access one’s own accounts and data is frustrating. And we believe that it’s outdated.
 
@@ -92,7 +92,7 @@ The individual can then reuse this data to prove attestations of their identity 
 
 All of the cryptographic signatures exist on a public repository, which can be a blockchain or another trusted utility.
 
-This enables third-parties to match the signature on the Verifiable Credential against the publicly listed signature \(Public Decentralised Identifier DID\). Creating a trusted interaction without the need for an intermediary.
+This enables third-parties to match the signature on the Verifiable Credential against the publicly listed signature \(Public Decentralised Identifier DID\) thereby creating a trusted interaction without the need for an intermediary.
 
 With SSI, individuals can build up multiple attestations for identity attributes such as their name, their nationality etc. and build a very strong level of assurance in the claim that ‘I am X’ or 'I have X attributes'.
 
@@ -110,9 +110,9 @@ This does a few things.
 
 The value of the technology which enables SSI is also hugely widespread.
 
-By having authentic data, which is cryptographically signed and resolvable, any process which requires data transfer can become more trusted and more efficient.
+By having authentic data, which is cryptographically signed and resolvable, any process which a requires data transfer can become more trusted and more efficient.
 
-For this reason, the use cases of 'SSI' have branched out much further than empowering identity control, to the point where SSI as a term, is now misleading. The term 'authentic data' is far more all-encompassing.
+For this reason, the use cases of 'SSI' have branched out much further than empowering identity control alone to the point where SSI as a term is now misleading. The term 'authentic data' is far more all-encompassing.
 
 Authentic data is being used to add trust to:
 
@@ -137,13 +137,13 @@ To support this objective, cheqd has built its own blockchain, using the Cosmos 
 
 In simple terms, if the verifier pays a nominal fee for authentic data, then this fee can be distributed via the rest of the ecosystem participants.
 
-They key tool used to incentivise this behaviour depends on the stakeholder being considered:
+The key tool used to incentivise this behaviour depends on the stakeholder being considered:
 
-1. Holder: Rewarded for participation in ecosystem;
-2. Verifier: Reduced cost for verifying / receiving trusted information;
-3. Issuer: Recurring revenue stream from issued credentials;
-4. Node operators: Rewarded for providing capacity and speedy consensus;
-5. Foundation: Rewarded for building new, desired functionality 
+1. **Holder**: Rewarded for participation in ecosystem;
+2. **Verifier**: Reduced cost for verifying / receiving trusted information;
+3. **Issuer**: Recurring revenue stream from issued credentials;
+4. **Node operators**: Rewarded for providing capacity and speedy consensus;
+5. **Foundation**: Rewarded for building new, desired functionality 
 
 {% hint style="info" %}
 **Verifier payment = Payment to holder + payment to issuer + payment to node operators + payment to foundation**

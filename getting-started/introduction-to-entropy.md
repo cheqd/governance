@@ -22,7 +22,7 @@ William Hinman, the Director of Corporate Finance at the Securities and Exchange
 
 > _“If a network on which the token or coin is to function is **sufficiently decentralized** — where **purchasers would no longer reasonably expect a person or group to carry out essential managerial or entrepreneurial efforts** — the assets may not represent an investment contract. Moreover, when the efforts of the third party are no longer a key factor for determining the enterprise’s success, material information asymmetries recede. **As a network becomes truly decentralized, the ability to identify an issuer or promoter to make the requisite disclosures becomes difficult, and less meaningful**.”_
 
-Hinman also later describes Ethereum and Bitcoin as both being sufficiently decentralised because an “unaffiliated, dispersed community of network users”, perform essential tasks on the respective networks.
+Hinman also later described Ethereum and Bitcoin as both being sufficiently decentralised because an “unaffiliated, dispersed community of network users”, perform essential tasks on the respective networks.
 
 This is particularly interesting when compared to Ripple, another cryptocurrency, who are currently facing a legal battle with the SEC in the USA.
 
@@ -43,7 +43,7 @@ This is why we have created the concept of **Entropy** to transparently and effe
 
 ## **Entropy** <a id="fd67"></a>
 
-Entropy is broadly defined as the degree of disorder or uncertainty in a system or process of degradation or a trend to disorder, according to the [Mirriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/entropy). In Physics, and specifically, the Second Law of Thermodynamics, and its function is best explained through a metaphor succinctly delivered by [Brian Cox](https://www.bbc.co.uk/programmes/p00fflcs).
+Entropy is broadly defined as the degree of disorder or uncertainty in a system or process of degradation or a trend to disorder, according to the [Mirriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/entropy). In Physics, and specifically, the Second Law of Thermodynamics, its function is best explained through a metaphor succinctly delivered by [Brian Cox](https://www.bbc.co.uk/programmes/p00fflcs).
 
 Let’s think of a sandcastle sitting in a desert.
 
@@ -119,7 +119,7 @@ Through such delineation, we believe that we are positioning ourselves sensibly 
 
 ## **Future proofing cheqd** <a id="fb1b"></a>
 
-As explained in above, Entropy is such an important concept in this context because it ties directly into liability and to the legal classification of tokens.
+As explained above, Entropy is such an important concept in this context because it ties directly into liability and to the legal classification of tokens.
 
 As seen with Ripple, it is possible for Networks to be partially decentralised but still retain a controlling stake or pulling power in the Network.
 

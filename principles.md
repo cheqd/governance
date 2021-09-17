@@ -129,7 +129,7 @@ For example, this COULD be achieved through a Carbon Tax on the Network. A Carbo
 
 ### 11. Inclusion
 
-cheqd Users SHALL not exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+cheqd Users SHALL NOT exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 cheqd Users SHOULD always seek to use inclusive and neutral language to best reflect the interests of a diverse, multidisciplinary and multicultural Network.
 

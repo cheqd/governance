@@ -31,7 +31,7 @@ Now, let’s break these down simply.
 
 The law is something we are all familiar with. It’s a set of rules imposed on us, usually by a government or sovereign entity in a particular, defined jurisdiction. Non-compliance with law often results in a punishment of some sort.
 
-Importantly, however, laws are rules that you have a choice whether to follow. You can choose to break the law if you want to, if you feel a law is morally unjust, there will just be consequences for your actions. Laws act to deter people from breaking them. In this sense, they are guidelines that are enforced by punishment.
+Importantly, however, laws are rules that you have a choice whether to follow. You can choose to break the law if you want to, if for example you feel a law is morally unjust, however there will be consequences for your actions. Laws act to deter people from breaking them. In this sense, they are guidelines that are enforced by punishment.
 
 ### **2. Principles and social norms**
 
@@ -73,7 +73,7 @@ In this sense, Governance is something flexible, which can be adapted for differ
 
 1. Whether there is a clear jurisdiction;
 2. Whether the system is in the physical or digital world;
-3. Whether there is a currency;
+3. Whether there is a currency.
 
 At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: What is Decentralised Governance?
 
