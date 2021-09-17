@@ -96,7 +96,7 @@ This enables third-parties to match the signature on the Verifiable Credential a
 
 With SSI, individuals can build up multiple attestations for identity attributes such as their name, their nationality etc. and build a very strong level of assurance in the claim that ‘I am X’ or 'I have X attributes'.
 
-Digital identities give the ability for people to prove who they are in a digital domain using signed proofs.
+Digital identities give the ability for people to prove who they are in a digital domain using signed proofs. Or in other words, a set of digital **identifiers** make up and constitute a rounded **digital identity.**
 
 **This flips the dynamics of digital identity on its head.**
 
