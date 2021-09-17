@@ -2,9 +2,9 @@
 
 * [cheqd-governance](README.md)
 * [Getting started with Governance](getting-started/README.md)
+  * [Introduction to Governance](getting-started/introduction-to-governance.md)
   * [Introduction to cheqd](getting-started/introduction-to-cheqd.md)
   * [Introduction to Entropy](getting-started/introduction-to-entropy.md)
-  * [Introduction to Governance](getting-started/introduction-to-governance.md)
 * [Contributing](contributing/README.md)
   * [Minor Network changes](contributing/how-network-governance-works-user.md)
   * [How Network Governance works \(Node Operator\)](contributing/how-network-governance-works-node-operator.md)

@@ -151,3 +151,5 @@ The key tool used to incentivise this behaviour depends on the stakeholder being
 
 For more information on why a token is needed, [our blog post expands on this here](https://blog.cheqd.io/why-self-sovereign-identity-needs-a-token-46e43dada01d).
 
+Or if you're feeling confident with cheqd and its objectives, you can start to dive deeper into our governance model, and explore our new concept, [Entropy here](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy). 
+
