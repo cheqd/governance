@@ -2,7 +2,7 @@
 
 ## Learning the basics
 
-Before you dive into this section, we suggest that you familiarise yourself with the basic concepts surrounding Governance which can be found **here**.
+Before you dive into this section, we suggest that you familiarise yourself with the basic concepts surrounding Governance which can be found [**here**](https://docs.cheqd.io/governance/contributing/learning-the-basics).
 
 ## How do I Vote?
 
