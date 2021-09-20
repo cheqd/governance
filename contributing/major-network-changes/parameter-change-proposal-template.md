@@ -14,21 +14,23 @@ This is an example of a Proposal Summary
 
 _A short \(~150 word\) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted._
 
-_Optional_
+**Parameter to change:**
 
-**Document\(s\) to change:**
+_name: MinDeposit_
 
-{[https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#}](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#})
+_Existing parameter: 8000 cheq_
 
-Document\(s\) with suggested revisions:
+**Suggestion revision:**
 
-{Link}
+name: _MinDeposit_
+
+New parameter **4000 cheq**
 
 **Description**
 
 _A longer &lt;500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
-I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community. The cheqd Proposal Template I am referring to in this Proposal can be found here: [https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#)
+I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community. 
 
 **Consequences**
 
@@ -36,13 +38,13 @@ _This section describes the resulting context, after applying the decision. All 
 
 **Positive**
 
-A new Governance template including X would be beneficial for the community and would make X easier to see.
+A lower minDeposit would be beneficial for the community for X reason and would make X easier to see.
 
 **Negative**
 
-No notable negative consequences
+Significant change which would potentially lead to more spam proposals on the Network
 
 **Neutral**
 
-Changing the template loses consistency over time
+No neutral effect
 

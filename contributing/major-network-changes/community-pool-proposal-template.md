@@ -14,21 +14,22 @@ This is an example of a Proposal Summary
 
 _A short \(~150 word\) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted._
 
-_Optional_
+**Total funds in community pool**  
+  
+_X cheq_  
+  
+**Proposed spend of pool**
 
-**Document\(s\) to change:**
+_Y cheq_  
 
-{[https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#}](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#})
-
-Document\(s\) with suggested revisions:
-
-{Link}
 
 **Description**
 
-_A longer &lt;500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
+_A longer &lt;500 description of what you want the community pool to be spent on, making direct references to where you want to make changes from, using links._
 
-I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community. The cheqd Proposal Template I am referring to in this Proposal can be found here: [https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#)
+I want to donate the community pool to X initiative because they support X. A link to the initiative can be found here:
+
+_\[insert link\]_
 
 **Consequences**
 
@@ -36,13 +37,13 @@ _This section describes the resulting context, after applying the decision. All 
 
 **Positive**
 
-A new Governance template including X would be beneficial for the community and would make X easier to see.
+_\[Insert positive consequences here\]_
 
 **Negative**
 
-No notable negative consequences
+_\[insert negative consequences here\]_
 
 **Neutral**
 
-Changing the template loses consistency over time
+_\[insert neutral consequences here\]_
 
