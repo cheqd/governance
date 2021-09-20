@@ -137,5 +137,5 @@ cheqd Users SHOULD always seek to use inclusive and neutral language to best ref
 
 The cheqd Network SHALL not allow any use of the Network that results in technical or regulatory privacy infraction, such as surveillance, personal tracking, and abuse.
 
-cheqd SHALL not be used as a Layer 1 component for further innovation that compromises Privacy.
+cheqd SHOULD make best efforts not be used as a Layer 1 component for further innovation that compromise Privacy.
 
