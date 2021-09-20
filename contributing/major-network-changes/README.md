@@ -18,7 +18,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd Governance](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for cheqd governance](../../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
 
 ## Proposals
 
@@ -76,7 +76,8 @@ To make reading and reviewing your Proposal easier for the community, please sel
 1. **Architecture Decision Record \(ADR\) Proposal**
    1. **ADR 001**
    2. **ADR 002**
-2. **General Governance Proposal**
+2. \*\*\*\*[**General Governance Proposal**](https://docs.cheqd.io/governance/contributing/major-network-changes/proposal-template)\*\*\*\*
+3. **Community Pool Proposal**
 
 The ideal format for a proposal is as a Markdown file \(ie. .md\) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
 
