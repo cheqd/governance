@@ -1,16 +1,6 @@
----
-description: >-
-  Please use the following template to make informal or formal governance
-  proposals
----
+# Parameter Change Proposal Template
 
-# Text-based Proposal Template
-
-{% hint style="info" %}
-Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
-{% endhint %}
-
-## **Text Proposal {1} {Example Proposal}**
+## Parameter Change **Proposal {1} {Example Proposal}**
 
 **Status**
 

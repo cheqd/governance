@@ -2,7 +2,7 @@
 
 ## Learning the basics
 
-Before you dive into this section, we suggest that you familiarise yourself with the basic concepts surrounding Governance which can be found **here**.
+Before you dive into this section, we suggest that you familiarise yourself with the basic concepts surrounding Governance which can be found [**here**](https://docs.cheqd.io/governance/contributing/learning-the-basics).
 
 ## How do I Vote?
 
@@ -10,7 +10,7 @@ Voting on cheqd is a core part of the Network and how each individual User can i
 
 ### Participants
 
-Participants are Users that have the right to vote on proposals. In the cheqd Network, participants are **bonded** cheq _\*\*_holders. Bonding means something different for Node Operators and for everyday Users:
+Participants are Users that have the right to vote on proposals. In the cheqd Network, participants are **bonded** cheq holders. Bonding means something different for Node Operators and for everyday Users:
 
 1. Node Operators can ‘self-bond’ their staking tokens in order to vote on governance matters;
 2. Everyday Users can ‘bond’ their tokens to a Node Operator, this is known as **delegation**. 
@@ -61,11 +61,11 @@ _**NoWithVeto**_ counts as _**No**_ but also adds a Veto vote. This s significan
 
 Abstain option allows voters to signal that they do not intend to vote in favor or against the proposal but accept the result of the vote.
 
+### Weighted Votes
+
 {% hint style="info" %}
 Note: Weighted voting may not be available in the first iteration of the cheqd Network
 {% endhint %}
-
-### Weighted Votes
 
 Users casting a vote on a proposal have the option to split their votes into several voting options. For example, a User could use 70% of its voting power to vote Yes and 30% of its voting power to vote No.
 
@@ -85,7 +85,7 @@ Going forward, more complex quorum mechanisms, such as [Adaptive Quorum Biasing]
 
 Threshold is defined as the minimum proportion of Yes votes \(excluding Abstain votes\) for the proposal to be accepted.
 
-Initially, the threshold is set at **50%** with a possibility to veto if more than **33.34% of votes** \(excluding Abstain votes\) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes \(excluding Abstain votes\) at the end of the voting period is superior to **50%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** \(excluding Abstain votes\).
+Initially, the threshold is set at **55%** with a possibility to veto if more than **33.34% of votes** \(excluding Abstain votes\) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes \(excluding Abstain votes\) at the end of the voting period is superior to **55%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** \(excluding Abstain votes\).
 
 ### Node Operator's punishment for non-voting
 
