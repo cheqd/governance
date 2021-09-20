@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd Governance](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for Network Governance](../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
 
 ## How do I make edits to general text or code in cheqd documentation?
 
@@ -39,21 +39,19 @@ You should follow these instructions to make a change to any cheqd GitBook conte
 
 1. **Make your own branch**
 
-To create a new branch, select 'New' followed by 'New variant'.
+To create a new branch, select 'New' followed by 'New variant'.  
+  
 
-![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/image%20%281%29.png)
 
 1. Next you need to **name your new branch**.
 
 You should use the prefix:
 
-* ADR/
-* gov/
+* draft/
 
 followed by a unique title indicating your draft number such as
 
-* ADR/{username}draft1
-* gov/{username}draft1
+* draft/{username}draft1
 
 On this branch you should make and save all desired changes to the content.
 
@@ -61,11 +59,11 @@ Once you have finished your changes, save the branch but **do not merge the bran
 
 Your edits will be reviewed by a cheqd admin or moderator and then merged, amended or rejected.
 
-### Github
+### GitHub
 
-You may also use Github to make changes and amendments to both the source code and the written content in this documentation.
+You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.
 
-You should similarly make a branch of the cheqd Github main.
+You should similarly make a branch of the cheqd GitHub main.
 
 You should then make a pull request with your proposed changes, edits, revisions and additions.
 
@@ -95,5 +93,5 @@ Please use the search function to make sure that you are not submitting duplicat
 
 ## Translations
 
-You can submit translations via Github or GitBook branches \(as above\). We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
+You can submit translations via GitHub or GitBook branches \(as above\). We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
 
