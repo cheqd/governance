@@ -16,7 +16,9 @@ Tip: Click 'Edit on Github' and you will be able to copy this template in Markdo
 
 {PROPOSED} {Not Implemented}
 
-_Select from below:_ _{DRAFT \| PROPOSED \| ACCEPTED \| REJECTED \| SUPERSEEDED by PROPOSAL-xxx \| ABANDONED} {Implemented \| Not Implemented}_
+_Select from below:_ _{DRAFT \| PROPOSED \| ACCEPTED \| REJECTED \| SUPERSEEDED by PROPOSAL-xxx \| ABANDONED}   
+  
+{Implemented \| Not Implemented}_
 
 **Summary**
 
