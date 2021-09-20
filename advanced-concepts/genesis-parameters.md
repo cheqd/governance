@@ -6,15 +6,15 @@
 | **inflation** | 1.00% | % decimal |
 | **annual\_provisions** | 10,000,000 | \#, cheq |
 | **goal\_bonded** | 60% | % decimal |
-| **inflation\_max** | 3.00% | % decimal |
-| **inflation\_min** | 0.50% | % decimal |
-| **inflation\_rate\_change** | 1.50% | % decimal |
+| **inflation\_max** | 4.00% | % decimal |
+| **inflation\_min** | 1.00% | % decimal |
+| **inflation\_rate\_change** | 2.00% | % decimal |
 | **blocksperyear** | 6,311,520 | \# |
 | **min\_deposit** | 8,000 | \#, cheq |
 | **max\_deposit\_period** | 1,210,000 | seconds \(= 2 weeks\) |
 | **voting\_period** | 1,210,000 | seconds \(= 2 weeks\) |
 | **quorum** | 33.34% | % decimal |
-| **threshold** | 50.00% | % decimal |
+| **threshold** | 55.00% | % decimal |
 | **veto** | 33.34% | % decimal |
 | **unbonding\_time** | 1814400 | seconds \(= 3 weeks\) |
 | **signed\_blocks\_window** | 120960 | Blocks |
