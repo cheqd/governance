@@ -25,7 +25,7 @@ cheqd is an Open Source project which means that anyone is free to propose a rev
 Changes can be made through two routes:
 
 1. [GitBook](https://docs.cheqd.io/cheqd-node/)
-2. [Github](https://github.com/cheqd)
+2. [GitHub](https://github.com/cheqd)
 
 ### GitBook
 
