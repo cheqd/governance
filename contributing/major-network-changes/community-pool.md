@@ -50,7 +50,7 @@ There are five \(5\) components:
 
 In this simple example \(below\), a network explorer will list the governance proposal as "Community Pool Spend." When an observer selects the proposal, they'll see the description. Not all explorers will show the recipient and amount, so ensure that you verify that the description aligns with the what the governance proposal is programmed to enact. If the description says that a certain address will receive a certain number of CHEQ, it should also be programmed to do that, but it's possible that that's not the case \(accidentally or otherwise\).
 
-The `amount` is `1000000000ncheq`. 1,000,000,000 nano-cheq is equal to 1 CHEQ, so `recipient` address `cosmos1qgfdn8h6fkh0ekt4n4d2c93c5gz3cv5gce783m` will receive 1 CHEQ if this proposal is passed.
+The `amount` is `1000000000ncheq`. 1,000,000,000 nano-cheq is equal to 1 CHEQ, so `recipient` address `cheqd1qgfdn8h6fkh0ekt4n4d2c93c5gz3cv5gce783m` will receive 1 CHEQ if this proposal is passed.
 
 The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the proposal submitter's account. There is a minimum deposit required for a proposal to enter the voting period, and anyone may contribute to this deposit within a 14-day period. If the minimum deposit isn't reach before this time, the deposit amounts will be burned. Deposit amounts will also be burned if quorum isn't met in the vote or if the proposal is vetoed.
 
@@ -75,7 +75,7 @@ The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the propos
 
 ```
 
-#### Real example in Cosmos hub
+#### Real example in Cosmos Hub community
 
 This is the governance proposal that [Gavin Birch](https://twitter.com/Ether_Gavin) \([Figment Networks](https://figment.network/)\) used to create [Prop23, the first successful Cosmos Hub community-spend proposal](https://hubble.figment.network/cosmos/chains/cosmoshub-3/governance/proposals/23).
 
