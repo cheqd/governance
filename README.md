@@ -1,4 +1,4 @@
-# cheqd-governance
+# cheqd Governance Framework
 
 ## **Before you cheq in...**
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [cheqd-governance](README.md)
+* [cheqd Governance Framework](README.md)
 * [Getting started with Governance](getting-started/README.md)
   * [Introduction to Governance](getting-started/introduction-to-governance.md)
   * [Introduction to cheqd](getting-started/introduction-to-cheqd.md)
