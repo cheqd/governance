@@ -116,10 +116,10 @@ For this reason, the use cases of 'SSI' have branched out much further than empo
 
 Authentic data is being used to add trust to:
 
-* \*\*\*\*[**Individuals;**](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)\*\*\*\*
-* \*\*\*\*[**Companies;**](https://www.gleif.org/en/lei-solutions/gleifs-digital-strategy-for-the-lei/introducing-the-verifiable-lei-vlei)\*\*\*\*
-* \*\*\*\*[**Objects;**](https://lists.w3.org/Archives/Public/public-credentials/2020Jun/0100.html)\*\*\*\*
-* \*\*\*\*[**Internet of Things devices.**](https://sovrin.org/library-iot/)\*\*\*\*
+* [**Individuals;**](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)
+* [**Companies;**](https://www.gleif.org/en/lei-solutions/gleifs-digital-strategy-for-the-lei/introducing-the-verifiable-lei-vlei)
+* [**Objects;**](https://lists.w3.org/Archives/Public/public-credentials/2020Jun/0100.html)
+* [**Internet of Things devices.**](https://sovrin.org/library-iot/)
 
 And the use cases and projects of this technology are growing rapidly...
 
