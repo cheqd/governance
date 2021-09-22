@@ -24,27 +24,20 @@ cheqd is an Open Source project which means that anyone is free to propose a rev
 
 Changes can be made through two routes:
 
-1. [GitBook](https://docs.cheqd.io/governance/)
+1. [GitBook](https://docs.cheqd.io/cheqd-node/)
 2. [GitHub](https://github.com/cheqd)
 
 ### GitBook
 
 GitBook is where cheqd's Wiki lives and where YOU can make suggested changes to the written documentation.
 
-We have a Wiki for:
-
-1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
-2. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
-
-To make a change on either Wiki, you need to use the link below to become an Open Source Contributor on cheqd's GitBook:
+To make a change, you need to use the link below to become an Open Source Contributor on cheqd's GitBook:
 
 {% embed url="https://app.gitbook.com/invite/cheqd?invite=-MiVxCDUlLSB22RuQ6dl" caption="" %}
 
 You should follow these instructions to make a change to any cheqd GitBook content.
 
-1. **Make your edits in the text directly**
-
-GitBook enables you to read, edit and comment directly to the text. 
+1. **Make your own branch**
 
 To create a new branch, select 'New' followed by 'New variant'.  
   
