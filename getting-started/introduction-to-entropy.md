@@ -93,8 +93,6 @@ The point of this elaboration, however, is to highlight that for every Network t
 
 And this is where we start at **cheqd**.
 
-![Source: https://wallpaperaccess.com/trippy-space-art](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/cheqd-article-pt-2-image.jpg)
-
 cheqd are defining a set of baseline conditions and rules for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities.
 
 And we want to clearly lay out how the Network will enable a smooth transition from a Low Entropy genesis event to a High Entropy, sufficiently decentralised structure.
@@ -107,13 +105,13 @@ Entropy is a composite function of a number of different factors, consisting of 
 
 At a high level, without calculating Entropy mathematically, it can be visualised as having an inverse relationship with liability. At the genesis state, the liability on those with control over the Network will be relatively high. This will quickly tend downwards as the Network expands and decision-making is disseminated among a collective.
 
-![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/liability-graph.png)
+![](../.gitbook/assets/liability-graph.png)
 
 Given the legal grey area around the point of sufficient decentralisation, we are setting a high threshold of decentralisation which we want to achieve.
 
 On a visual level, this can be shown as follows.
 
-![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/liability-graph-2.png)
+![](../.gitbook/assets/liability-graph-2.png)
 
 Through such delineation, we believe that we are positioning ourselves sensibly for any updated legal opinion on the topic.
 
