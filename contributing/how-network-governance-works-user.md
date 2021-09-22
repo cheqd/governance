@@ -38,7 +38,7 @@ We have a Wiki for:
 
 To make a change on either Wiki, you need to use the link below to become an Open Source Contributor on cheqd's GitBook:
 
-{% embed url="https://app.gitbook.com/invite/cheqd?invite=-MiVxCDSvKHYvkuHtGlI" %}
+{% embed url="https://app.gitbook.com/invite/cheqd?invite=-MiVxCDUlLSB22RuQ6dl" %}
 
 You should follow these instructions to make a change to any cheqd GitBook content.
 
