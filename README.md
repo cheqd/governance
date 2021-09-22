@@ -38,7 +38,7 @@ In return, we kindly ask that YOU, while using the cheqd Network:
 
 We also ask that YOU follow the provisions of our [Code of Conduct](https://github.com/cheqd/cheqd-node/blob/main/contributing/code_of_conduct.md) to ensure the best experience for others in the community.
 
-If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question in our [Q&A forum](https://github.com/cheqd/cheqd-node/discussions/categories/q-a), or email [governace@cheqd.io](mailto:governace@cheqd.io)
+If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question on our [Telegram](https://t.me/cheqd) or in our [Q&A discussions forum on GitHub](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a).
 
 Let’s make cheqd a success together, and payment rails for authentic data a global standard: improving trust and efficiency in every industry.
 

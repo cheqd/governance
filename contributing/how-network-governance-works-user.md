@@ -18,9 +18,9 @@ To help YOU understand how to make changes on the cheqd Network, the decision tr
 
 ## How do I make edits to general text or code in cheqd documentation?
 
-You are able to make revisions and amendments to the Wiki and source code without making a formal Proposal.
+You are able to make revisions and amendments to the wiki and source code without making a formal Proposal.
 
-cheqd is an Open Source project which means that anyone is free to propose or make a revision, addition or amendment.
+cheqd is an Open Source project which means that anyone is free to propose a revision, addition or amendment.
 
 Changes can be made through two routes:
 
@@ -42,24 +42,37 @@ To make a change on either Wiki, you need to use the link below to become an Ope
 
 You should follow these instructions to make a change to any cheqd GitBook content.
 
-1. **Make your edits in the text directly**  Via the link above, you will gain permissions to to read, edit and comment directly to the text. 
-2. **Save but do not merge**  We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft.   Saved drafts will be reviewed by cheqd admins before being merged.   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person. 
-3. **Branch for large changes**  You are able to create a new branch of the wiki if you intend to make a lot of changes.  To create a new branch, select 'New' followed by 'New variant'.  Next you need to **name your new branch**.  You should use the prefix:
+1. **Make your edits in the text directly**
 
-* draft/  followed by a unique title indicating your draft number such as 
-* draft/{username}  On this branch you should make and save all desired changes to the content.  Once you have finished your changes, you can **save** and **merge** your changes and an admin will review the branch before merging to main.
+GitBook enables you to read, edit and comment directly to the text. 
 
-{% hint style="info" %}
-Note: If you are using branches, GitBook has a bug with images and assets. For this reason, please do not upload any images or assets to GitBook branches. 
-{% endhint %}
+To create a new branch, select 'New' followed by 'New variant'.  
+  
+
+
+1. Next you need to **name your new branch**.
+
+You should use the prefix:
+
+* draft/
+
+followed by a unique title indicating your draft number such as
+
+* draft/{username}draft1
+
+On this branch you should make and save all desired changes to the content.
+
+Once you have finished your changes, save the branch but **do not merge the branch to main**.
+
+Your edits will be reviewed by a cheqd admin or moderator and then merged, amended or rejected.
 
 ### GitHub
 
-You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.  
-  
-We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).  
-  
-For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files). 
+You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.
+
+You should similarly make a branch of the cheqd GitHub main.
+
+You should then make a pull request with your proposed changes, edits, revisions and additions.
 
 **Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" \(present tense\).
 
