@@ -16,7 +16,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 * Finding, reporting and suggesting fixes to bugs;
 * Translating the cheqd documentation into various languages.
 
-See more, [here](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/contributing/how-network-governance-works-user)
+See more, [here](https://docs.cheqd.io/governance/contributing/how-network-governance-works-user)
 
 ### Major Network changes
 
@@ -32,13 +32,13 @@ Major Network changes include, but are not limited to:
 * Materially significant changes to a cheqd Principle;
 * Partnerships or connections to other infrastructure.
 
-See more, [here](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/contributing/major-network-changes)
+See more, [here](https://docs.cheqd.io/governance/contributing/major-network-changes)
 
 ## Decision Tree
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd Governance](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![](../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
 
 ## cheqd's Principles
 
@@ -50,17 +50,17 @@ This means, that **major network changes** should never oppose a Principle, unle
 
 You do not have to own any cheq to participate in our community discussion. You are free to learn about cheqd and participate in our community discussions across multiple platforms and forums.
 
-We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [wiki](https://docs.cheqd.io/cheqd-node/) and our [source code](https://github.com/cheqd/cheqd-node) are natively interconnected.
+We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [wiki](https://docs.cheqd.io/governance/) and our [source code](https://github.com/cheqd/cheqd-node) are natively interconnected.
 
 **What does this mean?**
 
-If you are a technical person and want to make changes directly to our source code, on a text-based or code-based change, you can do this directly on our [Github](https://github.com/cheqd/cheqd-node).
+If you are a technical person and want to make changes directly to our source code, on a text-based or code-based change, you can do this directly on our [GitHub](https://github.com/cheqd/cheqd-node).
 
 If you are non-technical and want to make edits in a more visual way, you can do this on our [GitBook](https://docs.cheqd.io/cheqd-node/).
 
 **Let's summarise this simply:**
 
-1. [Github](https://github.com/cheqd): Here we will host:
+1. [GitHub](https://github.com/cheqd): Here we will host:
    1. Our open sourced code;
    2. Documentation to help YOU onboard to the Network as a Node Operator;
    3. Our Wiki page, with all formal documentation YOU need to know about cheqd, including this Governance Framework;
@@ -79,7 +79,7 @@ If you want to stay updated with cheqd news, we recommend that you join us on:
 
 We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
-* [cheqd Code of Conduct](https://docs.google.com/document/d/1Rbw-0TMg8PZO85R0SuDKffXnwrDTzcPrSrURPI3el7c/edit)
+* [cheqd Code of Conduct](https://docs.cheqd.io/node/contributing/code_of_conduct)
 
 This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are.
 
