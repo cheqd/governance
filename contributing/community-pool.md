@@ -10,7 +10,7 @@ You may directly query any cheqd full node for the balance of the Community Pool
 
 `cheqd q distribution community-pool --chain-id cheqd-1 --node cheqd-node-1.figment.network:26657`
 
-Alternatively, the cheqd explorers such as [Big Dipper](https://osmosis.bigdipper.live/) or [Mint Scan](https://www.mintscan.io/cosmos/).
+Alternatively, the Cosmos explorers such as [Big Dipper](https://osmosis.bigdipper.live/) or [Mint Scan](https://www.mintscan.io/cosmos/).
 
 #### How can funds from the Community Pool be spent?
 

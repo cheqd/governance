@@ -15,16 +15,16 @@ When it comes to **Decentralised Protocol Ecosystems** or **Decentralised Autono
 3. There is no traditional, corporate facing Entity;
 4. Accountability changes over time as the Network develops.
 
-As explained in [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance), the Network is governed largely by **Architecture** and relies far less on **Laws and Guidelines** than any traditional, centralised ecosystem. 
+As explained in [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance), the Network is governed largely by [**Architecture**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#4-architecture) and relies far less on [**Laws and Guidelines**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#1-law-and-guidelines) than any traditional, centralised ecosystem. 
 
 Owing to these factors, when decentralised networks overlap with traditional business models, such as in banking and finance, there is a legal grey area. 
 
-This Disclaimer explains where the grey areas lie, and how we have structured accountability in the Network through the [Principle of Increasing Entropy](https://docs.cheqd.io/governance/principles). It will also take into account legislation which has attempted to give greater legal clarity to DAOs, such as the [Wyoming Limited Liability Company Act 2021](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf).   
+This Disclaimer explains where the grey areas lie, and how we have structured accountability in the Network through the [Principle of Increasing Entropy](https://docs.cheqd.io/governance/principles#3-the-principle-of-increasing-entropy). It will also take into account legislation which has attempted to give greater legal clarity to DAOs, such as the [Wyoming Limited Liability Company Act 2021](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf).   
 
 
 ## Definitions
 
-In this Disclaimer, the words and phrases below have the following respective meanings laid out in the [Glossary of Terms](https://docs.google.com/document/d/1G-gNBDyQxsCsx27KbkXd84H4WNQNB3OnmsjfhN0jeIM/edit).  
+In this Disclaimer, the words and phrases below have the following respective meanings laid out in the [Glossary of Terms](https://docs.cheqd.io/governance/terminology-and-glossary/glossary).  
 
 
 ## Corporate Face
