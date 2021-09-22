@@ -2,11 +2,11 @@
 
 ## Building on Trust over IP
 
-[Trust over IP \(ToIP\)](https://trustoverip.org/) is a Foundation that intends to create an interoperable ecosystem for decentralised identity companies. It does this by segmenting decentralised identity into different stack layers, for different identity components.
+Trust over IP is a Foundation that intends to create an interoperable ecosystem for decentralised identity companies. It does this by segmenting decentralised identity into different stack layers, for different identity components.
 
 The idea is that any ToIP Layer 1 innovation should be able to interoperate with any Layer 2, 3 or 4 innovation.
 
-We love this idea, and want our Network to be agnostic to the technology built on top of it, championing Open Standards and the latest SSI innovations such as BBS+ Credentials and a movement towards a unified Credential Exchange Protocol with WACI Pex.
+We love this idea, and want our Network to be agnostic to the technology built on top of it, championing Open Standards and the latest SSI innovations such as BBS+ Credentials and a movement towards a unified Credential Exchange Protocol.
 
 This is a snapshot of the ToIP stack, which many of the SSI community will be familiar with.
 

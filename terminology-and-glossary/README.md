@@ -19,7 +19,7 @@ in this document are to be interpreted as described in [RFC 2119](https://datatr
 
 The Governance Framework SHALL also make use of the terms, conventions and patterns in the [ToIP Metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel+Specification).
 
-cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://docs.google.com/document/d/1G-gNBDyQxsCsx27KbkXd84H4WNQNB3OnmsjfhN0jeIM/edit), a Controlled Document of the Governance Framework.
+cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://docs.cheqd.io/governance/terminology-and-glossary/glossary), a Controlled Document of the Governance Framework.
 
 Reference MAY also be made to:
 

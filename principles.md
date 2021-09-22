@@ -4,11 +4,11 @@
 
 The Principles listed in this Framework are designed to provide a functional reference point, and act as checks and balances, for cheqd community members and Network Users voting on the Network.
 
-These Principles are specifically designed to govern [**Major Network Changes**](https://docs.cheqd.io/governance/contributing/major-network-changes) and ‘on-chain’ governance activities. They should serve as the foundation and baseline for the Network to build upon as it iterates and becomes increasingly decentralised.
+These Principles are specifically designed to govern **Major Network Changes** and ‘on-chain’ governance activities. They should serve as the foundation and baseline for the Network to build upon as it iterates and becomes increasingly decentralised.
 
-Regulating through Principles-based Governance, as explained in [**Introduction to Governance**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance), means that these are not rules. There is no single entity that can impose a punishment for failure to comply with these Principles. Instead these are suggestions to nudge Users on the Network to act within the best interests of the community, to be inclusive and to keep the Network secure. The Principles can be interpreted broadly, or narrowly, this is up to the discretion of the User and the community.
+Regulating through Principles-based Governance, as explained in **Introduction to Governance**, means that these are not rules. There is no single entity that can impose a punishment for failure to comply with these Principles. Instead these are suggestions to nudge Users on the Network to act within the best interests of the community, to be inclusive and to keep the Network secure. The Principles can be interpreted broadly, or narrowly, this is up to the discretion of the User and the community.
 
-If the general consensus of the Network believes a Network Proposal is contrary to a Principle, they SHOULD feel inclined to reject or veto such as Proposal. This SHOULD keep the Network in check and within a set of boundaries to keep it developing in a healthy way. A decision by Network consensus MAY also incur a financial penalty on the User acting contrary to a Principle. In this way, the Network regulates behaviour through [**Principles**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#2-principles-and-social-norms) as well as [**Economics**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#3-markets-and-economics) using the Network's [**Architecture**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#3-markets-and-economics).
+If the general consensus of the Network believes a Network Proposal is contrary to a Principle, they SHOULD feel inclined to reject or veto such as Proposal. This SHOULD keep the Network in check and within a set of boundaries to keep it developing in a healthy way. A decision by Network consensus MAY also incur a financial penalty on the User acting contrary to a Principle. In this way, the Network regulates behaviour through **Principles** as well as **Economics** using the Network's **Architecture** .
 
 This type of Regulation, through norms and Principles is also flexible and can change quickly, as society and the Network develops. This is Unlike Laws and Rules which are far more static.
 
@@ -61,7 +61,7 @@ What does this look like?
 
 ## 3. The Principle of Increasing Entropy
 
-Entropy is a new concept in this context and is explained here in our [**Introduction to Entropy**](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
+Entropy is a new concept in this context and is explained here in our **Introduction to Entropy**.
 
 Entropy is the transition from a centralised Network, where very few people make decisions that change the course and direction of the Network, to a fully decentralised Network, where a large, diverse collective reach consensus on the course and direction of the Network.
 
