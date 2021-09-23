@@ -40,6 +40,8 @@ To make a change on either Wiki, you need to use the link below to become an Ope
 
 {% embed url="https://app.gitbook.com/invite/cheqd?invite=-MiVxCDUlLSB22RuQ6dl" %}
 
+Once you have made your account using the link above, you will be classified as a [Writer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook.
+
 You should follow these instructions to make a change to any cheqd GitBook content.
 
 1. **Make your edits in the text directly**  Via the link above, you will gain permissions to to read, edit and comment directly to the text. 
