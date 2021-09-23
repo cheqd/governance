@@ -1,7 +1,7 @@
 ---
 description: >-
-  This Section will begin to introduce key concepts that you will come across in
-  the course of participating in the cheqd ecosystem.
+  This Section will introduce key concepts that you will come across in the
+  course of participating in the cheqd ecosystem.
 ---
 
 # Getting started with Governance
