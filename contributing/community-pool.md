@@ -46,7 +46,7 @@ There are five \(5\) components:
 
 **Off-ledger template**
 
-You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus. 
+You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus within [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues). 
 
 #### On-ledger example
 
@@ -64,7 +64,7 @@ The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the propos
   "amount": [
     {
       "denom": "ncheq",
-      "amount": "1000000000"
+      "amount": "10000000000000"
     }
   ],
   "deposit": [
