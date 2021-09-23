@@ -31,6 +31,8 @@ Changes can be made through two routes:
 
 GitBook is where cheqd's Wiki lives and where YOU can make suggested changes to the written documentation.
 
+We suggest that YOU use our GitBook if you are unfamiliar with GitHub or if you prefer visual editors to code-based editors.
+
 We have a Wiki for:
 
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
