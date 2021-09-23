@@ -103,7 +103,7 @@ In this way, the Network acts as its own Legislature, Executive and Judiciary, a
 
 Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
 
-A decentralised Network where accountability is spread out as such is known as being **sufficiently decentralised**.
+A decentralised Network where accountability is spread out as such is known as being [sufficiently decentralised](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy#f78b).
 
 The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy) will continue to increase, until the point of sufficient decentralisation is reached.
 

@@ -7,7 +7,7 @@
   * [Introduction to Entropy](getting-started/introduction-to-entropy.md)
 * [Contributing](contributing/README.md)
   * [Learning the basics](contributing/learning-the-basics.md)
-  * [Minor Network changes](contributing/how-network-governance-works-user.md)
+  * [Minor Network changes](contributing/minor-network-changes.md)
   * [Major Network changes](contributing/major-network-changes/README.md)
     * [Text-based Proposal Template](contributing/major-network-changes/text-based-proposal-template.md)
     * [Parameter Change Proposal Template](contributing/major-network-changes/parameter-change-proposal-template.md)
