@@ -15,9 +15,11 @@ For this reason, this Governance Framework will utilise the key words:
 > * "MAY", and  
 > * "OPTIONAL"
 
-in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119)
+These terms are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119)
 
-The Governance Framework SHALL also make use of the terms, conventions and patterns in the [ToIP Metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel+Specification).
+Generally, this Governance Framework will not use prescriptive language, and will focus more on MAY and SHOULD, rather than SHALL and MUST.
+
+The Governance Framework MAY also make use of the terms, conventions and patterns in the [ToIP Metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel+Specification). It is desirable to become a ToIP compliant Network.
 
 cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://docs.cheqd.io/governance/terminology-and-glossary/glossary), a Controlled Document of the Governance Framework.
 
@@ -25,4 +27,5 @@ Reference MAY also be made to:
 
 * [Sovrin Glossary](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit)
 * [eSSIF Lab Glossary](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-glossary) 
+* [DAO Model Law Glossary](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf)
 
