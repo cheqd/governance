@@ -12,7 +12,7 @@ description: >-
 
 **Okay, but what does this actually mean?**
 
-Let's start by discussing digital identity. _\*\*_
+Let's start by discussing digital identity.
 
 Digital identity is something that we rarely think about in our day-to-day lives, but it is something that we all have subscribed to.
 
@@ -52,9 +52,9 @@ We play out this sequence multiple times a day:
 >
 > Company: _**\*sweats advertisement money\***_
 
-This is the digital sphere we have all become accustomed to, without really being aware of, or presented an alternative. For this reason, we feel a level of content sacrificing a little bit of privacy for a whole lot of convenience.
+This is the digital sphere we have all become accustomed to, without really being aware of, or presented an alternative. Companies do monetise our data and do use that data to create specific digital profiles for us. But we are somewhat comfortable with this because we get to use a seemingly free digital service. For this reason, we feel a level of content sacrificing a little bit of privacy for a whole lot of convenience.
 
-Recently, this model has led to two further issues:
+However recently, this model has led to two further issues:
 
 ### **1. Convenience becomes inconvenient:**
 
@@ -62,13 +62,13 @@ As we get more and more accounts, remembering and managing passwords becomes inc
 
 And because it's getting more difficult to manage, we end up using the same key to access multiple accounts, which leaves the door open for scammers, hackers and fraudsters to easily phish the key away and obtain our digital assets.
 
-This constant battle to access one’s own accounts and data is frustrating. And we believe that it’s outdated.
+This constant battle to access one’s own accounts and data is frustrating, and only becoming increasingly so. And we at cheqd believe that it’s outdated.
 
 ### **2. Lack of trust online has become normalised:**
 
-If you are asked to prove who you are to someone online, there is no existing way of doing this. Whilst in the physical world we have verifiable documents such as passports and driving licenses which contain trusted, safety features, in the digital world we have nothing of the sort.
+If you are asked to prove who you are to someone online, there is no existing way of doing this. Whilst in the physical world we have verifiable documents such as passports and driving licenses which contain trusted, safety features such as watermarks and common semantics, in the digital world we have nothing of the sort.
 
-If I meet someone on social media, an eCommerce platform or a dating website, I have no simple way to verify that the person is who they claim to be. Why is this the case? Even though I have hundreds of accounts online, and many of them even require a ‘Know Your Customer’ procedure, I never hold that verified data. Companies hold that verified data... and they monetise it.
+If I meet someone on social media, an eCommerce platform or a dating website, I have no simple way to verify that the person is who they claim to be. Why is this the case? Even though I have hundreds of accounts online, and many of them even require a Know Your Customer \(KYC\) ****procedure, I never hold that verified data. Companies hold that verified data... and they monetise it.
 
 ### There is a better way of managing data
 
@@ -78,7 +78,7 @@ Instead of companies managing data indirectly, on your behalf, it is now possibl
 
 **This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity \(SSI\).**
 
-![](https://github.com/cheqd/cheqd-governance/tree/7ff76c33b6ab6239208efaa2dd47ab3a32741e03/.gitbook/assets/image.png)
+![cheqd ](../.gitbook/assets/cheqd-issuer-holder-verifier-flow.png)
 
 SSI works by attaching a layer of trust to data.
 
