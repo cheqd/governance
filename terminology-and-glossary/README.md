@@ -17,7 +17,7 @@ For this reason, this Governance Framework will utilise the key words:
 
 These terms are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119)
 
-Generally, this Governance Framework will not use prescriptive language, and will focus more on MAY and SHOULD, rather than SHALL and MUST.
+Generally, this Governance Framework will use non-prescriptive language, and will focus more on MAY and SHOULD, rather than SHALL and MUST.
 
 The Governance Framework MAY also make use of the terms, conventions and patterns in the [ToIP Metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel+Specification). It is desirable to become a ToIP compliant Network.
 
