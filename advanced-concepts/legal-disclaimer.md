@@ -15,7 +15,7 @@ When it comes to **Decentralised Protocol Ecosystems** or **Decentralised Autono
 3. There is no traditional, corporate facing Entity;
 4. Accountability changes over time as the Network develops.
 
-As explained in [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance), the Network is governed largely by [**Architecture**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#4-architecture) and relies far less on [**Laws and Guidelines**](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#1-law-and-guidelines) than any traditional, centralised ecosystem. 
+As explained in [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance), the Network is governed largely by [Architecture](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#4-architecture) and relies far less on [Laws and Guidelines](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#1-law-and-guidelines) ****than any traditional, centralised ecosystem. 
 
 Owing to these factors, when decentralised networks overlap with traditional business models, such as in banking and finance, there is a legal grey area. 
 
@@ -57,11 +57,11 @@ No regulatory authority in Singapore, including the Monetary Authority of Singap
 
 The Documentation included in this Governance Framework **DOES NOT** constitute either an offer or solicitation of securities or any other regulated product and is neither a promotion, invitation nor solicitation for investment purposes. The CHEQ Tokens **DO NOT** represent equity, shares, units, royalties or rights to capital, profit, returns or income in the cheqd Network, cheqd Foundation or any other company or intellectual property associated with the cheqd ecosystem, or any other public or private enterprise, corporation, foundation or other entity in any jurisdiction. 
 
-The CHEQ Tokens are **NOT** intended to represent a security or similar legal interest.
+The CHEQ Tokens **ARE** **NOT** intended to represent a security or similar legal interest.
 
-We are of the opinion that the CHEQ Tokens are **NOT**  “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-), solely by virtue of the Token Functions.
+We are of the opinion that the CHEQ Tokens **ARE NOT**  “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-), solely by virtue of the Token Functions.
 
-We are of the opinion that the CHEQ Tokens are **NOT** “digital payment tokens” as contemplated under [Section 2\(1\) of the Payment Services Act \(PS Act\)](https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220#pr2-).
+We are of the opinion that the CHEQ Tokens **ARE** **NOT** “digital payment tokens” as contemplated under [Section 2\(1\) of the Payment Services Act \(PS Act\)](https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220#pr2-).
 
 This is based on an assessment of the following Regulation and legal commentary in Singapore:
 
@@ -108,11 +108,9 @@ This is based on an assessment of the following Regulation and legal commentary 
 
 Prospective acquirers of CHEQ should carefully assess and take into account such risks prior to acquiring CHEQ Tokens, based on relevant laws, regulations and guidance in their own jurisdiction. 
 
-The acquisition of CHEQ Tokens carries with it significant risks and is inherently speculative in nature. The distribution or dissemination of CHEQ tokens or any part of the Documentation may be prohibited or restricted by the laws, regulatory requirements and rules of any jurisdiction. No information or opinion presented herein is intended as specific recommendations or to form the basis for any decision to acquire CHEQ. Accordingly, the cheqd Documentation DOES NOT constitute investment advice or counsel or a solicitation for investment in any token or instrument. Prospective acquirers should consult with their professional advisors and advisors as needed prior to coming to their own conclusion on whether to acquire CHEQ Tokens.  
-  
+The acquisition of CHEQ Tokens carries with it significant risks and is inherently speculative in nature. The distribution or dissemination of CHEQ tokens or any part of the Documentation may be prohibited or restricted by the laws, regulatory requirements and rules of any jurisdiction. No information or opinion presented herein is intended as specific recommendations or to form the basis for any decision to acquire CHEQ. Accordingly, the cheqd Documentation **DOES NOT** constitute investment advice or counsel or a solicitation for investment in any token or instrument. Prospective acquirers should consult with their professional advisors and advisors as needed prior to coming to their own conclusion on whether to acquire CHEQ Tokens.
 
-
-## Node Operator Obligations 
+## cheqd Management 
 
 The Node Operator play an important role in the Management of the cheqd Network and running a Validator Node.
 
@@ -122,7 +120,7 @@ Node Operators SHOULD comply with the following:
 
 1. Operate, maintain and host a Node on the cheqd Network the \(“Node Operator Node”\) in compliance with the cheqd [Governance Framework](https://docs.cheqd.io/governance/) and otherwise conform to the [cheqd Principles ](https://docs.cheqd.io/governance/principles)as applicable to the Node Operator.
 2. Provide input and feedback to the cheqd community, as reasonably requested and necessary, to assist in the development and public review of future iterations of the cheqd Network and increasing of Network Entropy.
-3. Comply with cheqd’s [Code of Conduct](https://docs.cheqd.io/node/contributing/code_of_conduct) for activities and engagement in the cheqd community.
+3. Comply with cheqd’s [Code of Conduct](https://docs.cheqd.io/node/contributing/code_of_conduct) for activities and engagement in the cheqd community and beyond.
 
 ### Corporate Governance
 
@@ -134,8 +132,7 @@ Node Operators SHOULD comply with the following:
 3. In the event of: 
 
    1. a Bankruptcy Event;
-   2. a breach of this Disclaimer for any reason; or 
-   3. any occurrence of Node Operator not satisfying its obligations under this Disclaimer or an imminent threat to the security, integrity or availability of the cheqd Network:
+   2. an imminent threat to the security, integrity or availability of the cheqd Network:
 
    The Node Operator SHOULD immediately de-select itself from the active pool, promptly \(within 48 hours\), and purge the Node Operator Node and complete all other technical procedures set forth in the [Cosmos SDK documentation](https://docs.cosmos.network/). 
 
@@ -143,8 +140,8 @@ Node Operators SHOULD comply with the following:
 
 1. Comply with the [Principles of cheqd](https://docs.cheqd.io/governance/principles) regarding Personal Data and Personally Identifiable Information.
 2. Comply with the [Principles of cheqd](https://docs.cheqd.io/governance/principles) regarding hate speech and defamatory content, proposed to the Network. 
-3. Acknowledge that it may bear liability as a **joint data controller**, for any **Personal Data** anchored onto the Network, before the point of **Sufficient Decentralization**. 
-4. As soon as reasonably practicable upon becoming aware, promptly notify the cheqd community leaders and other Node Operator\(s\) of any **Personal Data** anchored on the Network, so the network can rectify any problems quickly.
+3. Acknowledge that it may bear liability as a [**joint data controller**](https://gdpr-info.eu/art-26-gdpr/), for any [**Personal Data**](https://gdpr-info.eu/art-4-gdpr/) anchored onto the Network, before the point of **Sufficient Decentralization**. 
+4. As soon as reasonably practicable upon becoming aware, promptly notify the cheqd community leaders and other Node Operator\(s\) of any [**Personal Data**](https://gdpr-info.eu/art-4-gdpr/) ****anchored on the Network, so the network can rectify any problems quickly.
 5. As soon as reasonably practicable upon becoming aware, promptly notify the cheqd community leaders and other Node Operator\(s\) of any government sanctions or other legal measures affecting any other Node Operator’s operation of a node on the Network or otherwise impacting such Node Operator’s participation in the cheqd Network or ability to comply with their obligations under this Disclaimer. 
 6. As soon as reasonably practicable and no later than 72 hours after becoming aware, notify the cheqd community and other Node Operator\(s\) of any actual or reasonably suspected breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, any data transmitted, stored or otherwise processed by Node Operator in connection with the operation of the Node Operator Node.
 
@@ -165,7 +162,7 @@ Node Operators SHOULD comply with the following:
       3. **CommunityPoolSpendProposal;**
       4. **ParameterChangeProposal;**
       5. **CancelSoftwareUpgradeProposal.**  More info on the Network governance architectural rules can be found in the [cheqd Contributing documentation](https://docs.cheqd.io/governance/contributing) or the  [Cosmos SDK gov module documentation](https://docs.cosmos.network/master/modules/gov/). 
-2. Implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk and provide sufficient evidence of the same to the Node Operator upon request. 
+2. Implement appropriate technical and organizational measures to ensure a level of security appropriate to the risk and provide sufficient evidence of the same to the Node Operator upon request in line with the [documentation on cheqd node](https://github.com/cheqd/cheqd-node). 
 3. Acknowledge the Architectural rules on Slashing and Node Operator jail. cheqd’s Architectural rules on these topics mirror those written in the [Cosmos SDK documentation, here](https://docs.cosmos.network/master/modules/slashing/). 
 4. Acknowledge and understand how Staking works on the Network. cheqd’s Architectural rules on Staking mirrors that written in the [Cosmos SDK documentation, here](https://docs.cosmos.network/master/modules/staking/).
 
@@ -183,7 +180,7 @@ Node Operator may use cheqd’s name, logos, service marks, trade names, cheqmar
 
 ## Limitation of Liability
 
-cheqd CLG and its affiliates and all of their collective past, present or future officers, team, advisors, or any other person \(collectively, “cheqd”\), expressly **DOES NOT CLAIM** any responsibility for direct or consequential loss or damage of any kind whatsoever arising directly or indirectly from: \(a\) reliance on any information contained in the Documentation; \(b\) any error, omission or inaccuracy in any such information; and \(c\) any action resulting from the CHEQ token. cheqd does not guarantee the accuracy of the statements made or conclusions reached in the Documentation and does not make, and expressly disclaims, all representations and warranties \(whether express or implied by statute or otherwise\). The Documentation does not constitute advice, nor any recommendations, by cheqd or any of its affiliates and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person, to any recipient of the Information Material.
+cheqd CLG and its affiliates and all of their collective past, present or future officers, team, advisors, or any other person \(collectively, “cheqd”\), expressly **DO NOT CLAIM** any responsibility for direct or consequential loss or damage of any kind whatsoever arising directly or indirectly from: \(a\) reliance on any information contained in the Documentation; \(b\) any error, omission or inaccuracy in any such information; and \(c\) any action resulting from the CHEQ token. cheqd does not guarantee the accuracy of the statements made or conclusions reached in the Documentation and does not make, and expressly disclaims, all representations and warranties \(whether express or implied by statute or otherwise\). The Documentation does not constitute advice, nor any recommendations, by cheqd or any of its affiliates and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person, to any recipient of the Documentation herein.
 
 ## Attestation
 
