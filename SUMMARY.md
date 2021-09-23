@@ -20,6 +20,7 @@
   * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
   * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
   * [Network Parameters](advanced-concepts/network-parameters.md)
+  * [Technical Standards & Interop](advanced-concepts/technical-standards-and-interop.md)
   * [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 * [Terminology & Glossary](terminology-and-glossary/README.md)
   * [Glossary of terms](terminology-and-glossary/glossary.md)
