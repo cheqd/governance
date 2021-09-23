@@ -44,10 +44,10 @@ You should follow these instructions to make a change to any cheqd GitBook conte
 
 1. **Make your edits in the text directly**  Via the link above, you will gain permissions to to read, edit and comment directly to the text. 
 2. **Save but do not merge**  We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft.   Saved drafts will be reviewed by cheqd admins before being merged.   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person. 
-3. **\(Optional\) Branch for large changes**  You are able to create a new branch of the wiki if you intend to make a lot of changes.  To create a new branch, select 'New' followed by 'New variant'.  Next you need to **name your new branch**.  You should use the prefix:
+3. **\(Optional\) Branch for large changes**  You are able to create a new branch of the Wiki if you intend to make a lot of changes.  To create a new branch, select 'New' followed by 'New variant'. This will create a branch of the main Wiki at that snapshot in time.  Next you need to **name your new branch**.  You should use the prefix:
 
 * draft/  followed by a unique title indicating your draft number such as 
-* draft/{username}  On this branch you should make and save all desired changes to the content.  Once you have finished your changes, you can **save** and **merge** your changes and an admin will review the branch before merging to main.
+* draft/{username}  On this branch you should make and save all desired changes to the content.  Once you have finished your changes, you can **save** and **merge** your changes on that branch and an admin will review the branch before merging to main.
 
 {% hint style="info" %}
 Note: If you are using branches, GitBook has a bug with images and assets. For this reason, please do not upload any images or assets to GitBook branches. 
@@ -79,9 +79,9 @@ It is not always possible to phrase every change in such a manner, but it is des
 
 During the course of cheqd's lifecycle, it is likely that bugs will arise. Reporting these bugs effectively and resolving them promptly will be very important for the smooth running of the Network.
 
-Bugs SHOULD be discussed or raised in the [Technical Help section of our Forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help).
+Bugs can be discussed or raised in the [Technical Help section of our Forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help).
 
-From a bug raised here, bugs SHOULD be forwarded to [GitHub Issues](https://github.com/cheqd/cheqd-node/issues). This can be done by clicking the button "create issue from discussion".
+If there is common acknowledgement of the bug, next the bug SHOULD be highlighted as an issue in [GitHub Issues](https://github.com/cheqd/cheqd-node/issues).
 
 Please use the search function to make sure that you are not submitting duplicates, and that a similar report or request has not already been resolved or rejected.
 
