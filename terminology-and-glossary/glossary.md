@@ -1,3 +1,9 @@
+---
+description: >-
+  This glossary lays out all of the key terms YOU may come across while using
+  cheqd.
+---
+
 # Glossary of terms
 
 <table>
