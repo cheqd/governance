@@ -26,7 +26,7 @@ Through this Governance Framework, WE want to help YOU as a Network User, Node O
 3. How you can impact Network Governance, either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network rewards participants through transaction fees and rewards;
 5. What Principles YOU SHOULD uphold while using the cheqd Network;
-6. The potential liability and accountability during the course of the Network's lifecycle, as ‘[Low Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)’ tends towards '[High Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)'.
+6. The potential liability and accountability during the course of the Network's lifecycle, as [Low Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy) tends towards [High Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
 
 In return, we kindly ask that YOU, while using the cheqd Network:
 

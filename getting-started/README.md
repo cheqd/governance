@@ -32,7 +32,7 @@ To give you the best experience in understanding how our Network governance work
 Feel free to select the route that suits you best:
 
 1. [I want to learn the basics about cheqd;](https://docs.cheqd.io/governance/getting-started/introduction-to-cheqd) 
-2. [I want to engage with the cheqd community;](https://docs.cheqd.io/governance/contributing)
+2. [I want to engage with the cheqd community;](https://docs.cheqd.io/governance/contributing#community)
 3. [I am a token holder and I want to use my tokens for governance purposes;](https://docs.cheqd.io/governance/contributing/major-network-changes) 
 4. [I want to check out the source code;](https://github.com/cheqd) 
 5. [I am \(or want to be\) a Node Operator and I want to understand my role and responsibilities.](https://docs.cheqd.io/node/)
