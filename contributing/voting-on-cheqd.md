@@ -10,19 +10,19 @@ Voting on cheqd is a core part of the Network and how each individual User can i
 
 ### Participants
 
-Participants are Users that have the right to vote on proposals. In the cheqd Network, participants are **bonded** cheq holders. Bonding means something different for Node Operators and for everyday Users:
+Participants are Users that have the right to vote on proposals. In the cheqd Network, participants are [**bonded**](https://docs.cheqd.io/governance/contributing/learning-the-basics#frequently-asked-questions-for-governance) CHEQ holders. Bonding means something different for Node Operators and for everyday Users:
 
 1. Node Operators can ‘self-bond’ their staking tokens in order to vote on governance matters;
 2. Everyday Users can ‘bond’ their tokens to a Node Operator, this is known as **delegation**. 
 
-Unbonded cheq holders and other Users do not get the right to participate in voting on Proposals. However, they can submit and deposit on Proposals.
+Unbonded CHEQ holders and other Users do not get the right to participate in voting on Proposals. However, they can submit and deposit on Proposals.
 
 Note that some participants can be forbidden to vote on a proposal under a certain Node Operator if:
 
-* Participant has bonded or unbonded cheq to a particular Node Operator after the proposal has entered its voting period.
+* Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its voting period.
 * Participant set up a node and became a Node Operator after the proposal entered its voting period.
 
-This does not prevent the participant voting with cheq bonded to other Node Operator. For example, if a participant bonded some cheq to Node Operator A before a proposal entered voting period and other cheq to Node Operator B after proposal entered voting period, only the vote under Node Operator B will be forbidden.
+This does not prevent the participant voting with CHEQ bonded to other Node Operator. For example, if a participant bonded some CHEQ to Node Operator A before a proposal entered voting period and other CHEQ to Node Operator B after proposal entered voting period, only the vote under Node Operator B will be forbidden.
 
 ### Inheritance
 
