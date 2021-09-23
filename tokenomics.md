@@ -1,8 +1,10 @@
 # Tokenomics
 
-_Tokenomics are typically documented and distributed via a dedicated whitepaper. However, since a large proportion of the tokenomics for cheqd directly relate to governance and our tokenomics will be a constant iteration, it made most sense to incorporate them into the cheqd network’s_ [_Governance Framework_](https://docs.cheqd.io/governance/)_, which will also be continuously updated. We can then continue using_ [_blogs_](https://blog.cheqd.io/) _to explain the initial and updated tokenomics in an easier to digest format._
+## Primer on Tokenomics
 
-_We have further assumed that readers are comfortable with concepts such as gas and block rewards and hence have not defined them here, but more info can be found in our_ [_learning the basics page_](https://docs.cheqd.io/governance/contributing/learning-the-basics)_._ 
+Tokenomics are typically documented and distributed via a dedicated whitepaper. However, since a large proportion of the tokenomics for cheqd directly relate to governance and our tokenomics will be a constant iteration, it made most sense to incorporate them into the cheqd network’s [Governance Framework](https://docs.cheqd.io/governance/), which will also be continuously updated. We can then continue using [blogs](https://blog.cheqd.io/) to explain the initial and updated tokenomics in an easier to digest format.
+
+We have further assumed that readers are comfortable with concepts such as gas and block rewards and hence have not defined them here, but more info can be found in our [learning the basics page](https://docs.cheqd.io/governance/contributing/learning-the-basics). 
 
 ![cheqd Introducing Tokenomics image](https://miro.medium.com/max/1400/1*nx9qzv4Rak-N8C-2QQLJyw.png)
 
@@ -23,7 +25,7 @@ So where does that leave us now? Putting this simply, the tokenomics below are w
 
 ## Now <a id="b9ce"></a>
 
-Our first focus is launching a minimum viable network for authentic data. At a bare minimum, this means the ability to write and read identity ‘primitives’ \(see below\) to the network such that it can support the issuance and receipt of Verifiable Credentials in a standards-based, interoperable fashion.
+Our first focus is launching a minimum viable network for authentic data. At a bare minimum, this means the ability to write and read identity ‘primitives’ \(see below\) to the network such that it can support the issuance and receipt of Verifiable Credentials \(VCs\) in a standards-based, interoperable fashion.
 
 * DIDs: Decentralised identifiers
 * Credential definitions
@@ -165,7 +167,5 @@ If you rather watch a video about our tokenomics, _cheq_ out our webinar below.T
 
 You can also [download the cheqd Tokenomics slides here](https://cheqd.io/hubfs/Documents/cheqd-Tokenomics_deck-Webinar_Sharing.pdf).
 
-## Now and next <a id="931c"></a>
 
-As always, we would love to know your thoughts or feedback on our decisions and direction.
 
