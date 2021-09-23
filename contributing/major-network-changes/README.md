@@ -73,7 +73,7 @@ To make reading and reviewing your Proposal easier for the community, please sel
 
 Or if you would prefer to use another tool to write your Proposal, you can select a template from the list below.
 
-\(Need to update with relevant templates\)
+**\(Need to update with relevant templates\)**
 
 1. **Architecture Decision Record \(ADR\) Proposal**
    1. **ADR 001**

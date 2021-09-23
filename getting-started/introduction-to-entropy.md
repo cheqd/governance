@@ -99,11 +99,11 @@ And we want to clearly lay out how the Network will enable a smooth transition f
 
 We will be publishing these default parameters and our roadmap for this journey in our Governance Framework, appearing on our GitHub shortly, stay tuned!
 
-## **How do we calculate Entropy?** <a id="d1d6"></a>
+## **How do we model Entropy?** <a id="d1d6"></a>
 
 Entropy is a composite function of a number of different factors, consisting of the number of validators, the number of Users with staked tokens, the number of accepted proposals, the diversity of validators and capacity for a Network overhaul by a proportion of the Network validators.
 
-At a high level, without calculating Entropy mathematically, it can be visualised as having an inverse relationship with liability. At the genesis state, the liability on those with control over the Network will be relatively high. This will quickly tend downwards as the Network expands and decision-making is disseminated among a collective.
+At a high level, without modelling Entropy mathematically, it can be visualised as having an inverse relationship with liability. At the genesis state, the liability on those with control over the Network will be relatively high. This will quickly tend downwards as the Network expands and decision-making is disseminated among a collective.
 
 ![](../.gitbook/assets/liability-graph.png)
 
@@ -134,4 +134,8 @@ To date, the concept of Entropy is something which has been spoken about in roun
 Coining the term and the parameters which play into the increase of Entropy will be something that will help decentralised governance architectures achieve legal clarity going forward.
 
 Of course, our definition of Entropy does not have legal standing or significance, but we hope it can be used as a tool or reference point by regulators or at least a sensible classification model.
+
+{% hint style="info" %}
+Note: Final part to be added soon here on how Entropy is calculated
+{% endhint %}
 
