@@ -95,6 +95,14 @@ At present, Node Operators are not punished for failing to vote.
 
 At launch, the Governance address will be the main Node Operator address generated at account creation. This address corresponds to a different PrivKey than the Tendermint PrivKey which is responsible for signing consensus messages. Node Operators thus do not have to sign governance transactions with the sensitive Tendermint PrivKey.
 
+### **Burned deposits**
+
+Deposits are burned when proposals:
+
+1. **Expire** - deposits will be burned if the deposit period **\(2 weeks\)** ends before reaching the minimum deposit **\(8000 CHEQ\)**;
+2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **2 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
+3. **Are vetoed** - deposits for proposals with 33.4% of voting power backing the 'no-with-veto' option are also burned.
+
 ## Software Upgrade
 
 If proposals are of type _**SoftwareUpgradeProposal**_, then nodes need to upgrade their software to the new version that was voted. This process is divided into two steps:
