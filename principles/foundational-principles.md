@@ -1,6 +1,6 @@
 # Foundational Principles
 
-This section is a set of Foundational Principles which are core to the Network. They set a baseline of Principles which all other Principles sit underneath in terms of hierarchy.
+This section is a set of Foundational Principles which are core to the Network. They set a baseline of Principles which the General Principles sit underneath in terms of hierarchy.
 
 The Foundational Principles **SHOULD NOT** need to change throughout the lifecycle of the Network. They are designed to be flexible enough to underpin the Network as it progresses.
 
