@@ -41,12 +41,14 @@ At the point of **Sufficient Decentralisation** and **High Entropy** the Corpora
 
 At this point, the Network as a **DAO** will be a **Member Managed Decentralised Autonomous Organisation \(DAO\)**. The cheqd CLG will have no locus of direct control over the Network. The Corporate Face of the Network will be essentially indeterminable at this stage, given the legal grey area that DAOs currently sit in. This is akin to how the SEC in the United States of America have qualified Networks such as **Ethereum**, as being **Sufficiently Decentralised**. 
 
-No member of the cheqd DAO shall have any fiduciary duty to the organization or any member except that the members shall be subject to the implied contractual covenant of good faith and fair dealing.  
+No member of the cheqd DAO shall have any fiduciary duty to the organization or any member except that the members shall be subject to the implied contractual covenant of good faith and fair dealing.
+
+For more information on the points at which we suggest these accountability changes occur, refer to our [documentation on Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).  
 
 
 ### Notice of Restrictions on Duties and Transfers
 
-The rights of members in a decentralized autonomous organization may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Documentation before participating in the cheqd Network.  
+The rights of members in a Decentralized Autonomous Organization \(DAO\) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Documentation and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.  
 
 
 ## CHEQ token

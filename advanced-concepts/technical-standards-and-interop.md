@@ -51,7 +51,7 @@ But we do believe that cheqd is best placed to host identity primatives now, and
 
 2. **Improved Efficiency**  Supporting decentralised identity at large volumes, especially with a token addition is not feasible for the current decentralised identity public utilities, which cannot handle high transaction volumes after a certain point without a substantial impact on performance.   cheqd, through Cosmos, does not hit these same bottleneck issues. For this reason, regardless of whether the token is integral to a business model or not, the Network is simply a more performant version of what is out there currently.  
 3. **Cosmos champions interop**  As already mentioned, Cosmos has solved the issue of interop for tokens cross-ledger. Even if other ledgers solve the Network-of-Network problem for DIDs, they would still face token interop problems going forward.   cheqd presents itself as a sensible place to root identity primatives because its roadmap provides the most broad potential value.  
-4. **Token Optionality**  Tokens for Verifiable Credential use cases may not be every company's cup of tea. Most SSI vendors already have sound business models and we understand that.   Yet, we do believe that tokens for Verifiable Credentials will begin to catalyse further real world use of SSI. And we want the industry to be able to benefit from this if they want to, without having to build it themselves.  What's more is regardless of whether a token use case is in your current line of thinking, you will be renumerated for running a Node with block rewards and transaction fees. 
+4. **Token Optionality**  Tokens for Verifiable Credential use cases may not be every company's cup of tea. Most SSI vendors already have sound business models and we understand that.   Yet, we do believe that tokens for Verifiable Credentials will begin to catalyse further real world use of SSI. And we want the industry to be able to benefit from this if they want to, without having to build it themselves.  What's more, is regardless of whether a token use case is in your current line of thinking, you will be remunerated for running a Node with block rewards and transaction fees. 
 
 ## Credential type uncertainty 
 
@@ -61,7 +61,7 @@ This gives everyone in the SSI community headaches: we know.
 >
 > Person 2: Indy ZKP-CL is not standards compliant and limits interoperability - SCREW THAT
 >
-> Person 3: JSON-LD & BSS+ sounds cool, solves most of the privacy issues and does cool linked data thingys - yeah can we agree?
+> Person 3: JSON-LD & BSS+ sounds cool, solves most of the privacy issues and does cool linked data thingy's - yeah can we agree?
 >
 > Person 4: \*SCREAMS\* AHHHH JSON is better than JSON-LD. JSON-LD is not secure GRRRRRRRRRRRRRRRR
 >
@@ -73,7 +73,7 @@ Yep this is not yet sorted. And we cannot sort it by ourselves. All we can do is
 
 Currently, JSON-LD & BBS+ signatures seems to be the most sensible route forward for interop, especially in the short term. In the long term, we may see some new innovations which address the inherent problems with JSON-LD, but we're not there yet.
 
-At cheqd, we have roadmapped support for JSON-LD with BBS+ because we see community convergence around this. 
+At cheqd, we have, on our roadmap, support for JSON-LD with BBS+ because we see community convergence around this. 
 
 
 
