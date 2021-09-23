@@ -67,7 +67,7 @@ If you are non-technical and want to make edits in a more visual way, you can do
    4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community.   You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/cheqd-node/v/gov%2Fdraft1/governance/contributing/how-network-governance-works-user).   
 2. [GitBook](https://docs.cheqd.io/cheqd-node/): Here we will host:
    1. Our [cheqd Node documentation](https://docs.cheqd.io/node/) to help YOU onboard to the Network as a Node Operator;
-   2. Our Governance Framework with all formal documentation YOU need to know about cheqd  GitBook will be a more accessible and easy-to-read layout.    You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/how-network-governance-works-user).
+   2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.  GitBook will be a more accessible and easy-to-read layout.    You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/how-network-governance-works-user).
 
 If you want to stay updated with cheqd news, we recommend that you join us on:
 
