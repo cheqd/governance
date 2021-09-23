@@ -20,7 +20,7 @@ Governance is a challenging concept. It relates to setting rules and standards t
 
 At cheqd, we like to think about Governance as constituting 4 parts:
 
-1. Law and rules
+1. Law and guidelines
 2. Principles and social norms
 3. Markets and economy
 4. Architecture
@@ -37,7 +37,7 @@ Importantly, however, laws are rules that you have a choice whether to follow. Y
 
 Principles and social norms are a fun specimen. They play on human behavioural psychology. The crux of governing through principles and social norms is that if you get enough people to do something, or believe something, the community will innately enforce that thing.
 
-For example, it is not illegal to sing the entire musical of Les Miserables to yourself, rather loudly on the London Underground. In fact, it might make the London Underground a much more cheery place, were carriages to normalise singing. However, there is a social stigma against loud singing on the London underground. As a matter of principle and to enforce this principle, you will not be thrown into a jail cell, but you will receive a lot of cutting stares, disgruntled faces, and maybe someone whispering and gesturing for you to keep it down. Or for particularly awful singing, a tut.
+For example, it is not illegal to sing the entire musical of _Les Miserables_ to yourself, rather loudly on the London Underground. In fact, it might make the London Underground a much more cheery place, were carriages to normalise singing. However, there is a social stigma against loud singing on the London underground. As a matter of principle and to enforce this principle, you will not be thrown into a jail cell, but you will receive a lot of cutting stares, disgruntled faces, and maybe someone whispering and gesturing for you to keep it down. Or for particularly awful singing, a tut.
 
 The point is here, that people impose principles that are unwritten, because they follow the general herd mentality of a normalised society, from the perspective of that society.
 
@@ -63,9 +63,15 @@ Governance is a multifaceted concept, encapsulating each of the four parts, disc
 
 All four of these parts weigh into one another, and different weightings can be applied to different Governance Frameworks.
 
-For example, Governance set by governments relies largely on Law & Guidelines, to uphold order and less on Architecture. Whereas, the regulation of a Social Media Network relies much more on Principles & Social Norms and less on Markets & Economy.
+For example, Governance set by governments relies largely on Law & Guidelines, to uphold order and less on Architecture. 
+
+This can be represented via the diagram below, which shows how government uses different quantities of the modalities to govern.
 
 ![Figure showing how the government uses governance to regulate our behaviour](https://lh6.googleusercontent.com/OlyubhlM0_kXdhc0OqFzVKrNOV6dQK8-oFP8WvC-w1mLdns1KN9G43AH6eQOvIiDq5Go57RRcOKqwdbVXJNqCx6bqmwCTouVBJu0A3giKCgo9NGgIMX-eejcZqZ2hR3V5HAAwDYt=s0)
+
+Whereas, the regulation of a Social Media Network relies much more on Principles & Social Norms and less on Markets & Economy.
+
+This is represented in the diagram below.
 
 ![ Figure showing how social media platforms use governance to regulate our behaviour](https://lh5.googleusercontent.com/RDuHs70diydSQNujy1IIISfro2qZjP54Bedn4DYeAn94aS6WCZWwP2AivZ_RoMKMj4Hx2YeXpnKSI3bvsEiSiqXdlMSZUf-_rx9-uFtXkRtrDDxqwZyv5juzKNQVzOZYWjQQFbsm=s0)
 
@@ -77,7 +83,7 @@ In this sense, Governance is something flexible, which can be adapted for differ
 
 At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: What is Decentralised Governance?
 
-### What is Decentralised Governance?
+## What is Decentralised Governance?
 
 Decentralised governance is the concept that no single person, organisation or entity will be able to unilaterally make decisions or changes that affect the Network.
 
@@ -87,19 +93,19 @@ This is made possible because of the architecture of the Network, which enables 
 
 This is how the cheqd Network governance will look to begin:
 
-![Figure, showing how cheqd governance regulates behaviour](https://lh4.googleusercontent.com/5dIFQIJUD_XlbMPLy6r6fG9pOQgRyRYK6eg9OaTv1m9-F805DBvb5i0Eu-Ix7O-9vZNc1eBK6bWZp__YWaiV36es0p66vtbLrSzxKMU_L8gYCwHr1DqKl-GS2vVX-F4C-GmVI4qs=s0)
+![](../.gitbook/assets/cheqd-governance-using-sliders.png)
 
 Over-time the Network may vote to raise or lower these sliders, in accordance with group consensus.
 
-One thing that will stand out looking at this chart is the lack of Law governing the Network.
+One thing that will stand out looking at this chart is the lack of Law  governing the Network.
 
 In this way, the Network acts as its own Legislature, Executive and Judiciary, as decentralised consensus checks and balances each stage in the passing of a proposal.
 
-Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single node operator or voter on the network can be held liable in the eyes of the law.
+Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
 
-A decentralised Network where accountability is spread out as such is known as being sufficiently decentralised.
+A decentralised Network where accountability is spread out as such is known as being **sufficiently decentralised**.
 
-The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, Entropy will continue to increase, until the point of sufficient decentralisation is reached.
+The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy) will continue to increase, until the point of sufficient decentralisation is reached.
 
-This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right.
+This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy). 
 

@@ -13,9 +13,9 @@ At cheqd, we want our Governance Framework to be something that is easy to read,
 
 We are committed to writing our documentation in simple language, using easy examples to explain difficult concepts, and designing a Governance Framework which is open and easy to change.
 
-This is the most important part of any governance framework...
+This is the most important part of any Governance Framework...
 
-**We believe that core to our governance framework, above all, is first, common understanding and common acknowledgement of how a system is run, and secondly, clear, accessible and democratic ways to influence decisions and the direction of change. This can only be achieved through clear communication, transparency and inclusivity**
+**Core to our Governance Framework, above all, is first, common understanding and common acknowledgement of how a system is run, and secondly, clear, accessible and democratic ways to influence decisions and the direction of change. This can only be achieved through clear communication, transparency and inclusivity**
 
 ## **Lets make this easy, accessible and inclusive**
 
@@ -26,7 +26,7 @@ Through this Governance Framework, WE want to help YOU as a Network User, Node O
 3. How you can impact Network Governance, either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network rewards participants through transaction fees and rewards;
 5. What Principles YOU SHOULD uphold while using the cheqd Network;
-6. The potential liability and accountability during the early stages of the Network’s development, during a period we refer to as ‘Low Entropy’.
+6. The potential liability and accountability during the course of the Network's lifecycle, as ‘[Low Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)’ tends towards '[High Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)'.
 
 In return, we kindly ask that YOU, while using the cheqd Network:
 
@@ -34,7 +34,7 @@ In return, we kindly ask that YOU, while using the cheqd Network:
 2. Act with openness and respect to Users of differing opinions, viewpoints, and experiences;
 3. Give and gracefully accept constructive feedback;
 4. Accept responsibility for your mistakes, and are open to apologizing to those affected by our mistakes;
-5. Focus on what is best not just for YOU and your desired outcomes on the Network, but make decisions with the entire community in mind. 
+5. Focus on what is best not just for YOU and your desired outcomes on the Network, but make decisions with the entire cheqd community in mind. 
 
 We also ask that YOU follow the provisions of our [Code of Conduct](https://github.com/cheqd/cheqd-node/blob/main/contributing/code_of_conduct.md) to ensure the best experience for others in the community.
 
