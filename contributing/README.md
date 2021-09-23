@@ -54,9 +54,16 @@ We want learning about cheqd and participating in the community to be easy and a
 
 **What does this mean?**
 
-If you are a technical person and want to make changes directly to our source code, on a text-based or code-based change, you can do this directly on our [GitHub](https://github.com/cheqd/cheqd-node).
+If you are a technical person and want to make changes directly to our source code, on a text-based or code-based change, you can do this directly on our [GitHub](https://github.com/cheqd).
 
-If you are non-technical and want to make edits in a more visual way, you can do this on our [GitBook](https://docs.cheqd.io/cheqd-node/).
+If you are non-technical and want to make edits in a more visual way, you can do this on our [GitBook](https://docs.cheqd.io/governance/).
+
+Quick note: we have a separate GitBook for:
+
+1. [Technical documentation](https://docs.cheqd.io/node/); and
+2. [Governance Framework](https://docs.cheqd.io/governance/)
+
+Which both link to their respective GitHub repositories.
 
 **Let's summarise this simply:**
 
@@ -65,7 +72,7 @@ If you are non-technical and want to make edits in a more visual way, you can do
    2. Documentation to help YOU onboard to the Network as a Node Operator, [here](https://github.com/cheqd/cheqd-node);
    3. All formal documentation YOU need to know about cheqd, across multiple repositories;
    4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community.   You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).   
-2. [GitBook](https://docs.cheqd.io/cheqd-node/): Here we will host:
+2. [GitBook](https://docs.cheqd.io/governance/): Here we will host:
    1. Our [cheqd Node documentation](https://docs.cheqd.io/node/) to help YOU onboard to the Network as a Node Operator;
    2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.  GitBook will be a more accessible and easy-to-read layout.    You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).
 
