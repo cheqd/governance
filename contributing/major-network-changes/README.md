@@ -35,7 +35,7 @@ These will be discussed in turn.
 
 Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain. Off-chain governance is vital for building a healthy and active governance community.
 
-Once feedback has been given in an off-chain forum, the User proposing the Proposal can have more confidence that a Proposal will reach minimum deposit and be approved on-chain.
+Once feedback has been given in an off-chain forum such as [cheqd discussions](https://github.com/cheqd/cheqd-governance/discussions) or [cheqd issues](https://github.com/cheqd/cheqd-node/issues), the User proposing the Proposal can have more confidence that a Proposal will reach minimum deposit and be approved on-chain.
 
 ### Your Idea
 
@@ -49,10 +49,10 @@ Governance proposals potentially impact many stakeholders. Introduce your idea w
 
 If you know people who are very involved with cheqd, send them a private message with a concise overview of what you think will result from your idea or proposed changes.
 
-You could ask a simple question or present an idea in our [Github Discussions](https://github.com/cheqd/cheqd-node/discussions), specifically in:
+You could ask a simple question or present an idea in our [Github Discussions](https://github.com/cheqd/cheqd-governance/discussions), specifically in:
 
-1. [cheqd Q&A forum](https://github.com/cheqd/cheqd-node/discussions/categories/q-a)
-2. [cheqd ideas forum](https://github.com/cheqd/cheqd-node/discussions/categories/ideas)
+1. [cheqd Q&A forum](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a)
+2. [cheqd ideas forum](https://github.com/cheqd/cheqd-governance/discussions/categories/ideas)
 
 You may also want to rationalise your idea, or ask your question to the wider community, in:
 
@@ -63,27 +63,31 @@ Engagement is likely to be critical to the success of a proposal. The degree to 
 
 ### Confident with your idea?
 
-Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
+Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
 
 ### **Drafting a Proposal**
 
 If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
-To make reading and reviewing your Proposal easier for the community, please select a Proposal template from the list below.
+To make reading and reviewing your Proposal easier for the community, please select a Proposal template from our [GitHub Issues Templates](https://github.com/cheqd/cheqd-node/issues).
+
+Or if you would prefer to use another tool to write your Proposal, you can select a template from the list below.
 
 \(Need to update with relevant templates\)
 
 1. **Architecture Decision Record \(ADR\) Proposal**
    1. **ADR 001**
    2. **ADR 002**
-2. \*\*\*\*[**General Governance Proposal**](https://docs.cheqd.io/governance/contributing/major-network-changes/proposal-template)\*\*\*\*
-3. **Community Pool Proposal**
+2. **Text-based Proposal Template**
+3. **Parameter Change Proposal Template**
+4. **Software Upgrade Proposal Template**
+5. **Community Pool Proposal**
 
 The ideal format for a proposal is as a Markdown file \(ie. .md\) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
 
 Engage the community with your draft proposal
 
-1. Post a draft of your proposal as a topic in the relevant category of the [cheqd Github forum](https://github.com/cheqd/cheqd-node/discussions). 
+1. Post a draft of your proposal as a topic in [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues). 
 2. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing \(eg. high-ranked Node Operators; large stakers\).
 3. Target members of the community in a semi-public way before bringing the draft to a full public audience. 
 4. Alert the community to the draft proposal via:
@@ -130,7 +134,7 @@ Once on-chain, most people will rely upon network explorers to interpret this in
 This is the command format for using cheqd’s CLI \(Command-Line Interface\) to submit your proposal on-chain:
 
 ```text
-VDR CLI tx gov submit-proposal \
+cheqd CLI tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
   --type="Text" \
@@ -146,7 +150,7 @@ If &lt;proposal type&gt; is left blank, the type will be a Text proposal. Otherw
 For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
 ```text
-VDR CLI tx gov submit-proposal \
+cheqd CLI tx gov submit-proposal \
 --title=<Parameter change proposal> \
 --description=<parameter change of min deposit> \
 --type="param-change" \
