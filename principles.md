@@ -10,7 +10,7 @@ Regulating through Principles-based Governance, as explained in [Introduction to
 
 If the general consensus of the Network believes a Network Proposal is contrary to a Principle, they SHOULD feel inclined to reject or veto such as Proposal. This SHOULD keep the Network in check and within a set of boundaries to keep it developing in a healthy way. A decision by Network consensus MAY also incur a financial penalty on the User acting contrary to a Principle. In this way, the Network regulates behaviour through [Principles](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#2-principles-and-social-norms) as well as [Economics](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#3-markets-and-economics) using the Network's [Architecture](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#3-markets-and-economics).
 
-This type of Regulation, through norms and Principles is also flexible and can change quickly, as society and the Network develops. This is Unlike Laws and Rules which are far more static.
+This type of Regulation, through norms and Principles is also flexible and can change quickly, as society and the Network develops. This is Unlike [Laws and Guidelines](https://docs.cheqd.io/governance/contributing#community) which are far more static.
 
 Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17_N9Fs3j_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
 
@@ -18,7 +18,7 @@ Updates, amendments or revisions to this Principles list can be made through the
 
 This section is a set of Foundational Principles which are core to the Network. They set a baseline of Principles which all other Principles sit underneath in terms of hierarchy.
 
-The Foundational Principles SHOULD NOT need to change throughout the lifecycle of the Network. They are designed to be flexible enough to underpin the Network as it progresses.
+The Foundational Principles **SHOULD NOT** need to change throughout the lifecycle of the Network. They are designed to be flexible enough to underpin the Network as it progresses.
 
 ## 1. The Principle Principle
 
@@ -28,14 +28,14 @@ Given the genesis structure of the Network, a lot of power to govern the Network
 
 For this reason, the Principle Principle holds that Network Users should follow these Principles.
 
-This Principle SHOULD be upheld in the following way:
+This Principle **SHOULD** be upheld in the following way:
 
-If there is a clear contradiction between a Principle listed in this Governance Framework and a Proposal made to the Network, that Proposal SHOULD be either:
+If there is a clear contradiction between a Principle listed in this Governance Framework and a Proposal made to the Network, that Proposal **SHOULD** be either:
 
 1. Rejected, meaning that it will not reach voting stage, but the creator of the Proposal will be refunded its tokens;
 2. Vetoed, meaning that it will not reach the voting stage and the deposited tokens for the Proposal are burnt.
 
-Naturally, it will be at the discretion of the voter whether to reject or veto the Proposal. The User SHOULD use their reasonable judgement to make this decision, based on the degree of harm the hypothetical Proposal could do to the Network.
+Naturally, it will be at the discretion of the voter whether to reject or veto the Proposal. The User **SHOULD** use their reasonable judgement to make this decision, based on the degree of harm the hypothetical Proposal could do to the Network.
 
 Throughout this Governance Framework, it will be made clear where the veto should be used, to maintain the security and safety of Network Users.
 
@@ -45,9 +45,9 @@ With respect to the Principle Principle, it is also crucial to balance the right
 
 We do not want Users to feel hesitant to make genuine, well-intentioned Proposals, for fear of having their Proposal vetoed. We want Users to feel that their voice can be heard without being shut down and penalised. And we want to instill a culture of inclusivity and open-discussion.
 
-The Balancing Principle adds on to the Principle Principle. If there is a Proposal to amend, add or remove a Principle which is well-reasoned and well-intentioned, such Proposal SHOULD NOT be vetoed.
+The Balancing Principle adds on to the Principle Principle. If there is a Proposal to amend, add or remove a Principle which is well-reasoned and well-intentioned, such Proposal **SHOULD NOT** be vetoed.
 
-Voters SHOULD make a judgement call, based on their own morals and perceptions whether such a Proposal is genuinely well-intentioned; or whether it is created to antagonise, discriminate or cause harm to a set of persons or Users.
+Voters **SHOULD** make a judgement call, based on their own morals and perceptions whether such a Proposal is genuinely well-intentioned; or whether it is created to antagonise, discriminate or cause harm to a set of persons or Users.
 
 Of course, if there is a strong personal sense that a Proposal constitutes the latter, then a veto vote will be the best course of action.
 
@@ -69,73 +69,73 @@ At the genesis of the Network, there will be a set of default parameters and dec
 
 As more node operators join the Network, as more decisions are made, and as the capability to make a decision on the Network is spread across more and more Users, Entropy increases. This is because the initial structure, form and order is gradually dissipated.
 
-This Principle therefore holds that decisions made on the Network should be taken with a view to increase Entropy and to make the system more decentralised.
+This Principle therefore holds that decisions made on the Network **SHOULD** be taken with a view to increase Entropy and to make the system more decentralised.
 
-This Principle SHOULD be self-fulfilling in the sense that any Network Proposals made after genesis will most likely increase Entropy.
+This Principle **SHOULD** be self-fulfilling in the sense that any Network Proposals made after genesis will most likely increase Entropy.
 
-There will likely become a point where Entropy has reached the point of sufficient decentralisation and that its increase may plateau slightly for technological reasons. The Network SHOULD maintain this high Entropy state.
+There will likely become a point where Entropy has reached the point of sufficient decentralisation and that its increase may plateau slightly for technological reasons. The Network **SHOULD** maintain this high Entropy state.
 
 ## General Governance Principles
 
-The cheqd Governance Framework embodies the following General Governance principles. These General Principles should be used as checks and balances against new Proposals on the Network.
+The cheqd Governance Framework embodies the following General Governance principles. These General Principles **SHOULD** be used as checks and balances against new Proposals on the Network.
 
 ### 1. Interoperability
 
-cheqd SHOULD enable digital identity data for an entity to be represented, exchanged, secured, protected, and verified in an interoperable way, across multiple decentralised identity Networks, using open, public, and royalty-free Standards, such as the Standards for Decentralised Identifiers \(DIDs\) and Verifiable Credentials \(VCs\) defined by the World Wide Web Consortium \(W3C\).
+cheqd **SHOULD** enable digital identity data for an entity to be represented, exchanged, secured, protected, and verified in an interoperable way, across multiple decentralised identity Networks, using open, public, and royalty-free Standards, such as the Standards for Decentralised Identifiers \(DIDs\) and Verifiable Credentials \(VCs\) defined by the World Wide Web Consortium \(W3C\).
 
 ### 2. Accessibility
 
-cheqd SHOULD enable applications to build on top of the Network, maximising usability and accessibility, in order to create additional value and utility for other members of the industry.
+cheqd **SHOULD** enable applications to build on top of the Network, maximising usability and accessibility, in order to create additional value and utility for other members of the industry.
 
-cheqd can be defined as a Layer 1 component of the Trust over IP stack, and SHOULD act as a module for other Layers in the stack to plug-into, from a technical and governance perspective.
+cheqd can be defined as a Layer 1 component of the Trust over IP stack, and **SHOULD** act as a module for other Layers in the stack to plug-into, from a technical and governance perspective.
 
 ### 3. Transparency
 
-Cheqd Network and Community SHOULD enable Network Users to easily access and verify information necessary to understand the incentives, rules, policies, and algorithms under which Node Operators and other participants of the Network operate.
+Cheqd Network and Community **SHOULD** enable Network Users to easily access and verify information necessary to understand the incentives, rules, policies, and algorithms under which Node Operators and other participants of the Network operate.
 
 ### 4. Integrity
 
-cheqd Network and Treasury SHOULD uphold the highest levels of integrity in the running of the Network, ensuring decisions and proposals are made in a public domain, without coercion, in the collective best interests of the cheqd Community.
+cheqd Network and Treasury **SHOULD** uphold the highest levels of integrity in the running of the Network, ensuring decisions and proposals are made in a public domain, without coercion, in the collective best interests of the cheqd Community.
 
 ### 5. Control
 
-Network Users SHOULD control their own identifiers and encryption keys, and be able to employ end-to-end encryption for all interactions.
+Network Users **SHOULD** control their own identifiers and encryption keys, and be able to employ end-to-end encryption for all interactions.
 
 ### 6. Security
 
-cheqd Network code and updates SHALL provide appropriate, measurable security of the data, including protection against unauthorized or unlawful processing, accidental loss, destruction, or damage, using significant technical and organizational measures.
+cheqd Network code and updates **SHALL** provide appropriate, measurable security of the data, including protection against unauthorized or unlawful processing, accidental loss, destruction, or damage, using significant technical and organizational measures.
 
 ### 7. Data Protection
 
-cheqd Network Users SHALL NOT enable personal data, as defined in the GDPR, to be written to the Network, in either a plain text proposal, or a software update.
+cheqd Network Users **SHALL NOT** enable personal data, as defined in the GDPR, to be written to the Network, in either a plain text proposal, or a software update.
 
-cheqd Network SHALL ensure any data uploaded to the Network is anonymous and uncorrelateable.
+cheqd Network **SHALL** ensure any data uploaded to the Network is anonymous and uncorrelateable.
 
-A User’s right to be forgotten \(i.e. the right for their personally identifiable information to be erased or put beyond use\) SHALL be promptly honored wherever applicable.
+A User’s right to be forgotten \(i.e. the right for their personally identifiable information to be erased or put beyond use\) **SHALL** be promptly honored wherever applicable.
 
 ### 8. Notification
 
-Network Users SHOULD notify the other Users of the Network as soon as practically possible if there is a security breach, data breach or else if a Regulator has made an inquiry into the Network’s operations.
+Network Users **SHOULD** notify the other Users of the Network as soon as practically possible if there is a security breach, data breach or else if a Regulator has made an inquiry into the Network’s operations.
 
 ### 9. Decentralization
 
-cheqd SHALL not require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the **Principle of Increasing Entropy**, ensuring there is no single point of failure.
+cheqd **SHALL** not require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the [**Principle of Increasing Entropy**](https://docs.cheqd.io/governance/principles#3-the-principle-of-increasing-entropy), ensuring there is no single point of failure.
 
 ### 10. Sustainability
 
-cheqd SHOULD always strive to be environmentally sustainable, given the imminent threat of climate change and the important role that technology can play in mitigating this threat.
+cheqd **SHOULD** always strive to be environmentally sustainable, given the imminent threat of climate change and the important role that technology can play in mitigating this threat.
 
-For example, this COULD be achieved through a Carbon Tax on the Network. A Carbon Tax is a nominally small fee that is charged for the use of the Network, which can be put aside into a Community Pool, and donated for the betterment of the environment.
+For example, this **MAY** be achieved through a Carbon Tax on the Network. A Carbon Tax is a nominally small fee that is charged for the use of the Network, which can be put aside into a Community Pool, and donated for the betterment of the environment.
 
 ### 11. Inclusion
 
-cheqd Users SHALL NOT exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+cheqd Users **SHALL NOT** exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
-cheqd Users SHOULD always seek to use inclusive and neutral language to best reflect the interests of a diverse, multidisciplinary and multicultural Network.
+cheqd Users **SHOULD** always seek to use inclusive and neutral language to best reflect the interests of a diverse, multidisciplinary and multicultural Network.
 
 ### 12. Privacy
 
-The cheqd Network SHALL not allow any use of the Network that results in technical or regulatory privacy infraction, such as surveillance, personal tracking, and abuse.
+The cheqd Network **SHALL** not allow any use of the Network that results in technical or regulatory privacy infraction, such as surveillance, personal tracking, and abuse.
 
-cheqd SHOULD make best efforts not be used as a Layer 1 component for further innovation that compromise Privacy.
+cheqd **SHOULD** make best efforts not be used as a Layer 1 component for further innovation that compromise Privacy.
 
