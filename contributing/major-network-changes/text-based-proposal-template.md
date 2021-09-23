@@ -30,17 +30,17 @@ _Optional_
 
 **Document\(s\) to change:**
 
-{[https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#}](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#})
+{Insert link}
 
 Document\(s\) with suggested revisions:
 
-{Link}
+{Insert link}
 
 **Description**
 
 _A longer &lt;500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
-I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community. The cheqd Proposal Template I am referring to in this Proposal can be found here: [https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit\#](https://docs.google.com/document/d/1zSvevtJV1DXjOu30Y-sjWZmzRZPpkSIhM2HZm24Fwwo/edit#)
+I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community. 
 
 **Consequences**
 
