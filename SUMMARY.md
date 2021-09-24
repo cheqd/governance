@@ -18,6 +18,8 @@
 * [Principles](principles/README.md)
   * [Foundational Principles](principles/foundational-principles.md)
   * [General Principles](principles/general-principles.md)
+* [Tokenomics](tokenomics/README.md)
+  * [Network Parameters](tokenomics/network-parameters.md)
 * [Advanced concepts](advanced-concepts/README.md)
   * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
   * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
@@ -25,6 +27,4 @@
   * [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 * [Terminology & Glossary](terminology-and-glossary/README.md)
   * [Glossary of terms](terminology-and-glossary/glossary.md)
-* [Tokenomics](tokenomics/README.md)
-  * [Network Parameters](tokenomics/network-parameters.md)
 
