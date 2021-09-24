@@ -6,7 +6,9 @@ This document is specifically targeted towards SSI vendors and enthusiasts who w
 
 The way to achieve this is by being open, working alongside the community, and setting aside commercial interests for the betterment of the industry as a whole.  
 
-Test edit for Toby
+
+
+Test Edit
 
 ## The Network of Networks Issue
 
