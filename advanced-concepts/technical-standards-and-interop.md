@@ -6,10 +6,6 @@ This document is specifically targeted towards SSI vendors and enthusiasts who w
 
 The way to achieve this is by being open, working alongside the community, and setting aside commercial interests for the betterment of the industry as a whole.  
 
-
-
-Test Edit
-
 ## The Network of Networks Issue
 
 Part of the issue slowing the development of the SSI community as a whole is the Network-of-Networks issue.
