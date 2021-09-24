@@ -6,9 +6,8 @@ This section will continue to be iterated as the Network develops, but will star
 
 1. \*\*\*\*[**Building on Cosmos:** ](https://docs.cheqd.io/governance/advanced-concepts/building-on-cosmos)  ****Why cheqd decided to build on the Cosmos SDK, and what that means for the development of the Network.   
 2. \*\*\*\*[**Trust over IP alignment:** ](https://docs.cheqd.io/governance/advanced-concepts/trust-over-ip-alignment)  ****How cheqd aligns itself with Trust over IP and intends to build a governance framework that can be implemented by any Layer 1 utility going forward.  
-3. \*\*\*\*[**Network Parameters:**](https://docs.cheqd.io/governance/advanced-concepts/network-parameters)  ****What the technical and governance network parameters for cheqd are.  
-4. \*\*\*\*[**Technical Standards & Interop**](https://docs.cheqd.io/governance/advanced-concepts/technical-standards-and-interop)  How does cheqd align with the latest initiatives in the SSI community? And what are the technical standards that it seeks to implement at launch and going forward? 
-5. \*\*\*\*[**Legal Disclaimer:**](https://docs.cheqd.io/governance/advanced-concepts/legal-disclaimer)  What are the potential accountability and liability risks for using the Network as it progresses. 
+3. \*\*\*\*[**Technical Standards & Interop**](https://docs.cheqd.io/governance/advanced-concepts/technical-standards-and-interop)  How does cheqd align with the latest initiatives in the SSI community? And what are the technical standards that it seeks to implement at launch and going forward? 
+4. \*\*\*\*[**Legal Disclaimer:**](https://docs.cheqd.io/governance/advanced-concepts/legal-disclaimer)  What are the potential accountability and liability risks for using the Network as it progresses. 
 
 Through an understanding of these more advanced concepts, Users and Node Operators begin to gain a full understanding of cheqd and where all of the puzzle pieces fit together in its composition.
 
