@@ -6,20 +6,20 @@ Tokenomics are typically documented and distributed via a dedicated whitepaper. 
 
 We have further assumed that readers are comfortable with concepts such as gas and block rewards and hence have not defined them here, but more info can be found in our [learning the basics page](https://docs.cheqd.io/governance/contributing/learning-the-basics). 
 
-![cheqd Introducing Tokenomics image](https://miro.medium.com/max/1400/1*nx9qzv4Rak-N8C-2QQLJyw.png)
+![cheqd Introducing Tokenomics image](../.gitbook/assets/introducing-tokenomics.png)
 
 ## Context <a id="3ef2"></a>
 
 Before diving into our tokenomics, it is first important to contextualise the project and our roadmap. Our overall aim is to establish payment rails for authentic data, including self-sovereign identity. Being able to share signed, verified and authentic data in a live environment has a myriad of benefits explained in our blog, [“Why SSI needs a Token”](https://blog.cheqd.io/why-self-sovereign-identity-needs-a-token-46e43dada01d)
 
-![End-to-end payments where end clients do not need to worry about tokens / crypto](https://miro.medium.com/max/1680/1*0LEWms_SqwangRty74vvAQ.png)
+![End-to-end payments where end clients do not need to worry about tokens / crypto](../.gitbook/assets/cheqd-end-to-end-payments-flow.png)
 
 An intermediate step will be transactional payments \(i.e. payment for every Verifiable Credential\), but core to our vision is the ability for ecosystems to create and maintain their own commercial models as we explained in the “[Business models of identity](https://blog.cheqd.io/the-business-models-of-identity-bb3336773727)”. Leveraging the analogy we used in the blog, this will establish:
 
 * International trade rules -&gt; Global payment layer: i.e. any entity \(organisation or individual\) can pay any other;
 * Unilateral, bilateral, multilateral trade rules -&gt; Ecosystems specific commercial models, i.e. any ecosystem can configure both governance and commercial models which establishes the incentives and structure it needs.
 
-![cheqd&#x2019;s transactional and ecosystem specific layers, allowing for anyone to interact with anyone, but also each ecosystem to set its own incentives](https://miro.medium.com/max/1680/1*DsF7PJjLM98q7SK05B48Cw.png)
+![cheqd&#x2019;s transactional and ecosystem specific layers, allowing for anyone to interact with anyone, but also each ecosystem to set its own incentives](../.gitbook/assets/cheqd-tokenomic-layers.png)
 
 So where does that leave us now? Putting this simply, the tokenomics below are what we are considering the Minimum Viable Tokenomics \(“**MVT**”\). Whilst these will establish a viable network, they are by no means the end-state and there is much, much more to come.
 
@@ -48,7 +48,7 @@ Over the past months, the team has been analysing the desired behaviour of the n
 
 It should be noted that these are simply the genesis parameters. These parameters can, and almost certainly will be modified via the governance procedures.
 
-![Our tokenomic parameters with corresponding values and codebase variable names for any keen developers / contributors](https://miro.medium.com/max/1680/1*vXCevCCnqWfiaaPQXJjpTQ.png)
+![Our tokenomic parameters with corresponding values and codebase variable names for any keen developers / contributors](../.gitbook/assets/cheqd-tokenomics-parameters.png)
 
 ### General <a id="493f"></a>
 
@@ -118,7 +118,7 @@ The value of these parameters has a knock-on effect on other aspects of the netw
 
 We did a detailed analysis of each token on Cosmos, taking the MinDeposit as a factor of the amount of tokens staked on the respective Network.
 
-![](https://miro.medium.com/max/1680/1*7nzlY7R4_zpF6XDI3P9rVQ.png)
+![How cheqd calculated our min deposit](../.gitbook/assets/cheqd-min-deposit-calculation.png)
 
 We found that the range was very large and calculated that our minimum deposit could sit proportionately as low as 360 \(Cosmos’ lowest value\) or as high as 36,000 \(Osmosis’ highest value\), given our total tokens at 1 billion and a bonded goal of 60%.
 
@@ -159,7 +159,7 @@ As we covered in the context section, these values are the Minimum Viable Tokeno
 
 Our primary focus will be on enabling these commercial models along with stable settlement, achieved through support for stablecoins and potentially central bank digital currencies.
 
-![](https://miro.medium.com/max/1680/1*_Nz33f8rfQq7nyxPGdbR5g.png)
+![cheqd June - December roadmap](../.gitbook/assets/cheqd-roadmap.png)
 
 ## Our tokenomics webinar <a id="d8f7"></a>
 
