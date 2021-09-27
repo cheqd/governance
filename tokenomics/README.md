@@ -46,9 +46,9 @@ The reason for calling these out as a minimum is that they inform the network pa
 
 Over the past months, the team has been analysing the desired behaviour of the network stakeholders as well as the available functionality provided by Cosmos to identify the levers to achieve the right incentives. Whilst there are many parameters, we will focus the analysis on the key parameters which affect the incentives on the network.
 
-It should be noted that these are simply the genesis parameters. These parameters can, and almost certainly will be modified via the governance procedures.
+[Our Network Parameters can be found here.](https://docs.cheqd.io/governance/tokenomics/network-parameters)
 
-![Our tokenomic parameters with corresponding values and codebase variable names for any keen developers / contributors](../.gitbook/assets/cheqd-tokenomics-parameters.png)
+It should be noted that these parameters can, and almost certainly will be modified via the governance procedures.
 
 ### General <a id="493f"></a>
 
