@@ -78,7 +78,7 @@ Instead of companies managing data indirectly, on your behalf, it is now possibl
 
 **This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity \(SSI\).**
 
-![cheqd ](../.gitbook/assets/cheqd-issuer-holder-verifier-flow.png)
+![cheqd value flow ](../.gitbook/assets/cheqd-issuer-holder-verifier-flow.png)
 
 SSI works by attaching a layer of trust to data.
 
