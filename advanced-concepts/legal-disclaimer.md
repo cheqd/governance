@@ -67,44 +67,44 @@ We are of the opinion that the CHEQ Tokens **ARE** **NOT** “digital payment to
 
 This is based on an assessment of the following Regulation and legal commentary in Singapore:
 
-1. The Securities and Futures Act \(Chapter 289\) of Singapore \(“SFA”\) Amended 2018;
-2. Securities and Futures \(Prescribed Entities Order\) 2005;
-3. Securities and Futures \(Reporting of Derivatives Contracts\) Regulations 2013;
-4. Securities and Futures \(Capital Markets Products\) Regulations 2018;
+1. [The Securities and Futures Act \(Chapter 289\) of Singapore \(“SFA”\) Amended 2018;](https://www.mas.gov.sg/regulation/acts/securities-and-futures-act)
+2. [Securities and Futures \(Prescribed Entities Order\) 2005;](https://sso.agc.gov.sg/SL/SFA2001-S608-2005)
+3. [Securities and Futures \(Reporting of Derivatives Contracts\) Regulations 2013;](https://sso.agc.gov.sg/SL/SFA2001-S668-2013)
+4. [Securities and Futures \(Capital Markets Products\) Regulations 2018;](https://sso.agc.gov.sg/SL/SFA2001-S380-2018)
 5. Securities and Futures \(Prescribed Debentures\) Regulations 2018 \(“SFPDR”\);
-6. Securities and Futures \(Prescribed Excluded Derivatives Contracts\) Regulations 2018;
-7. Securities and Futures \(Prescribed Underlying Thing\) Regulations 2020;
-8. Business Trusts Act \(Chapter 31A\) \(“BTA”\);
-9. Payment Services \(PS\) Act 2019;
-10. Payment Services Regulations 2019;
-11. Payment Services \(Amendment\) Bill \(Bill No. 41/2020\);
-12. Consultation paper entitled “Public Consultation on Regulation of Business Trusts” issued by the Monetary Authority of Singapore \(“Authority”\) on 10 December 2003;
-13. Consultation paper entitled “Acceptable Collateral and Contract for Differences” issued by the Authority on 27 September 2005;
+6. [Securities and Futures \(Prescribed Excluded Derivatives Contracts\) Regulations 2018;](https://sso.agc.gov.sg/SL/SFA2001-S628-2018?DocDate=20181001)
+7. [Securities and Futures \(Prescribed Underlying Thing\) Regulations 2020;](https://sso.agc.gov.sg/SL/SFA2001-S381-2020)
+8. [Business Trusts Act \(Chapter 31A\) \(“BTA”\);](https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Business-Trusts/Guidelines-On-Accounts-of-Registered-Business-Trusts-BTA10G01.pdf)
+9. [Payment Services \(PS\) Act 2019;](https://www.mas.gov.sg/regulation/acts/payment-services-act)
+10. [Payment Services Regulations 2019](https://www.mas.gov.sg/regulation/regulations/payment-services-regulations-2019);
+11. [Payment Services \(Amendment\) Bill \(Bill No. 41/2020\);](https://sso.agc.gov.sg/Bills-Supp/41-2020/Published/20201102?DocDate=20201102)
+12. Consultation paper entitled [“Public Consultation on Regulation of Business Trusts”](https://www.mas.gov.sg/publications/consultations/2003/consultation-paper-on-regulation-of-business-trusts) issued by the Monetary Authority of Singapore \(“Authority”\) on 10 December 2003;
+13. Consultation paper entitled [“Acceptable Collateral and Contract for Differences”](https://www.mas.gov.sg/publications/consultations/2005/consultation-paper-on-acceptable-collateral-and-contract-for-differences) issued by the Authority on 27 September 2005;
 14. Singapore Parliamentary Debates on the Commodity Trading \(Amendment\) Bill, Official Report \(17 July 2007\) vol 83 \(The Minister for Trade and Industry, Mr Lim Hng Kiang\) as reproduced on the website of the Ministry of Trade and Industry, [here](https://www.mti.gov.sg/Newsroom/Speeches/2007/05/Second-Reading-Speech-by-Minister-Lim-on-Commodity-Tradung-Amendment) [\(“2007 Parliamentary Report”\)](https://www.mti.gov.sg/Newsroom/Speeches/2007/05/Second-Reading-Speech-by-Minister-Lim-on-Commodity-Tradung-Amendment);
-15. Consultation paper entitled “Proposed Regulation of OTC Derivatives” dated 13 February 2012;
-16. Consultation paper entitled “Transfer of Regulatory Oversight of Commodity Derivatives from IE to MAS” dated 13 February 2012 \(“2012 Consultation Paper”\);
-17. “Reply to Parliamentary Question on Virtual Currencies” issued by the Authority on 21 February 2014;
-18. Media release entitled “MAS to Regulate Virtual Currency Intermediaries for Money Laundering and Terrorist Financing Risks” issued by the Authority on 13 March 2014;
-19. Consultation paper entitled “Consultation Paper on Proposals to Enhance Regulatory Safeguards for Investors in the Capital Markets” issued by the Authority on 21 July 2014 \(“2014 Consultation Paper”\);
-20. “Response to Feedback Received – Consultation on the Transfer of Regulatory Oversight of Commodity Derivatives from IE Singapore to MAS” issued by the Authority on 11 February 2015 \(“2012 Consultation Paper Responses”\);
-21. Consultation paper entitled “Consultation Paper on Proposed Amendments to the Securities and Futures Act” issued by the Authority on 16 February 2015 \(“2015 Consultation Paper”\);
-22. “Response to Feedback Received – Proposals to Enhance Regulatory Safeguards for Investors in the Capital Markets” issued by the Authority on 22 September 2015;
-23. Consultation paper entitled “Proposed Amendments to the Securities and Futures \(Reporting of Derivatives Contracts\) Regulations” issued by the Authority on 18 January 2016;
-24. Media release entitled “MAS clarifies regulatory position on the offer of digital tokens in Singapore” issued by the Authority on 1 August 2017;
-25. Paper entitled “Consultation Paper – Proposed Payment Services Bill” issued by the Authority on 21 November 2017;
-26. Paper entitled “Response to Feedback Received – Proposed Amendments to the Securities and Futures \(Reporting of Derivatives Contracts\) Regulations” dated 28 March 2018;
-27. Frequently Asked Questions on Product Definitions issued by the Authority on 12 June 2018;
-28. Paper entitled “Response to Feedback Received – Proposed Payment Services Bill” \(“2018 Consultation Paper Response”\) issued by the Authority on 19 November 2018;
-29. Paper entitled “Consultation Paper – Proposed Payment Services Regulations” issued by the Authority on 10 April 2019;
-30. Paper entitled “Consultation Paper – Proposed Payment Services Notices on Prevention of Money Laundering and Countering the Financing of Terrorism” issued by the Authority on 6 June 2019;
+15. Consultation paper entitled [“Proposed Regulation of OTC Derivatives”](https://www.mas.gov.sg/publications/consultations/2012/consultation-paper-on-proposed-regulation-of-otc-derivatives) dated 13 February 2012;
+16. Consultation paper entitled [“Transfer of Regulatory Oversight of Commodity Derivatives from IE to MAS”](https://www.mas.gov.sg/publications/consultations/2012/consultation-paper-on-transfer-of-regulatory-oversight-of-commodity-derivatives-from-ie-to-mas) dated 13 February 2012 \(“2012 Consultation Paper”\);
+17. [“Reply to Parliamentary Question on Virtual Currencies”](https://www.mas.gov.sg/news/parliamentary-replies/2014/reply-to-parliamentary-question-on-virtual-currencies) issued by the Authority on 21 February 2014;
+18. Media release entitled [“MAS to Regulate Virtual Currency Intermediaries for Money Laundering and Terrorist Financing Risks”](https://www.mas.gov.sg/news/media-releases/2014/mas-to-regulate-virtual-currency-intermediaries-for-money-laundering-and-terrorist-financing-risks) issued by the Authority on 13 March 2014;
+19. Consultation paper entitled [“Consultation Paper on Proposals to Enhance Regulatory Safeguards for Investors in the Capital Markets” ](https://www.mas.gov.sg/publications/consultations/2014/consultation-paper-on-proposals-to-enhance-regulatory-safeguards-for-investors-in-the-capital-markets)issued by the Authority on 21 July 2014 \(“2014 Consultation Paper”\);
+20. [“Response to Feedback Received – Consultation on the Transfer of Regulatory Oversight of Commodity Derivatives from IE Singapore to MAS” ](https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/Response-to-Consultation-on-Transfer-of-Regulatory-Oversight-of-Commodity-Derivatives-from-IE-to-MAS.pdf)issued by the Authority on 11 February 2015 \(“2012 Consultation Paper Responses”\);
+21. Consultation paper entitled [“Consultation Paper on Proposed Amendments to the Securities and Futures Act”](https://www.mas.gov.sg/publications/consultations/2015/consultation-paper-on-proposed-amendments-to-the-sfa) issued by the Authority on 16 February 2015 \(“2015 Consultation Paper”\);
+22. [“Response to Feedback Received – Proposals to Enhance Regulatory Safeguards for Investors in the Capital Markets” ](https://www.mas.gov.sg/publications/consultations/2014/consultation-paper-on-proposals-to-enhance-regulatory-safeguards-for-investors-in-the-capital-markets)issued by the Authority on 22 September 2015;
+23. Consultation paper entitled [“Proposed Amendments to the Securities and Futures \(Reporting of Derivatives Contracts\) Regulations”](https://www.mas.gov.sg/publications/consultations/2021/consultation-paper-on-proposed-amendments-to-the-securities-and-futures-reporting-of-derivatives-contracts-regulations) issued by the Authority on 18 January 2016;
+24. Media release entitled [“MAS clarifies regulatory position on the offer of digital tokens in Singapore”](https://www.mas.gov.sg/news/media-releases/2017/mas-clarifies-regulatory-position-on-the-offer-of-digital-tokens-in-singapore) issued by the Authority on 1 August 2017;
+25. Paper entitled [“Consultation Paper – Proposed Payment Services Bill”](https://www.osborneclarke.com/wp-content/uploads/2018/01/Comments-on-Proposed-Payment-Services-Bill-OC-Queen-Street-LLC.pdf) issued by the Authority on 21 November 2017;
+26. Paper entitled [“Response to Feedback Received – Proposed Amendments to the Securities and Futures \(Reporting of Derivatives Contracts\) Regulations”](https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2018-Mar-28-Response-to-consultation-on-amendments-to-SFRDCR/Response-to-Feedback-Received-on-Proposed-Amendments-to-the-Securities--Futures-Reporting-of-Derivatives-Contracts-Regulations-28-March-2018.pdf) dated 28 March 2018;
+27. [Frequently Asked Questions on Product Definitions issued by the Authority on 12 June 2018;](https://www.mas.gov.sg/regulation/faqs/faqs-on-product-definitions)
+28. Paper entitled [“Response to Feedback Received – Proposed Payment Services Bill”](https://www.mas.gov.sg/publications/consultations/2017/consultation-paper-on-proposed-payment-services-bill) \(“2018 Consultation Paper Response”\) issued by the Authority on 19 November 2018;
+29. Paper entitled [“Consultation Paper – Proposed Payment Services Regulations”](https://www.mas.gov.sg/publications/consultations/2019/consultation-paper-on-proposed-payment-services-regulations) issued by the Authority on 10 April 2019;
+30. Paper entitled [“Consultation Paper – Proposed Payment Services Notices on Prevention of Money Laundering and Countering the Financing of Terrorism”](https://www.mas.gov.sg/publications/consultations/2019/proposed-payment-services-notices-on-prevention-money-laundering-countering-financing-terrorism) issued by the Authority on 6 June 2019;
 31. Paper entitled “Feedback Received – Proposed Payment Services Notices on Prevention of Money Laundering and Countering the Financing of Terrorism” issued by the Authority on 5 December 2019;
-32. Paper entitled “Response to Feedback Received on the Proposed Payment Services Regulations” issued by the Authority on 5 December 2019;
-33. Paper entitled “Consultation on the Payment Services Act 2019: Proposed Amendments to the Act” issued by the Authority on 23 December 2019;
-34. Paper entitled “Consultation on the Payment Services Act 2019: Scope of E-money and Digital Payment Tokens” issued by the Authority on 23 December 2019 \(“2019 Consultation Paper”\);
-35. Frequently Asked Questions on the Payment Services Act issued by the Authority on 4 October 2019 and last updated on 11 May 2020 \(“2019 FAQ”\);
-36. Paper entitled “A Guide to Digital Token Offerings” \(“MAS Guide”\) first issued by the Authority on 14 November 2017 and last updated on 26 May 2020;
-37. Paper entitled “Response to Feedback Received – Consultation on the Payment Services Act 2019: Proposed Amendments to the Act” issued by the Authority on 4 November 2020;
-38. "Payment Services \(Amendment\) Bill" - Second Reading Speech by Mr Ong Ye Kung, Minister for Transport, on behalf of Mr Tharman Shanmugaratnam, Senior Minister and Minister-in-charge of the Monetary Authority of Singapore on 4 January 2021.
+32. Paper entitled [“Response to Feedback Received on the Proposed Payment Services Regulations”](https://www.mas.gov.sg/-/media/MAS/News-and-Publications/Consultation-Papers/2019PSAMLCFTNoticesConsultation/Response-to-feedback-received-on-the-proposed-Payment-Services-AMLCFT-Notices_.pdf) issued by the Authority on 5 December 2019;
+33. Paper entitled [“Consultation on the Payment Services Act 2019: Proposed Amendments to the Act”](https://www.mas.gov.sg/publications/consultations/2019/consultation-on-the-proposed-amendments-to-the-payment-services-act) issued by the Authority on 23 December 2019;
+34. Paper entitled [“Consultation on the Payment Services Act 2019: Scope of E-money and Digital Payment Tokens”](https://www.mas.gov.sg/publications/consultations/2019/consultation-on-the-payment-services-act-2019---scope-of-e-money-and-digital-payment-tokens) issued by the Authority on 23 December 2019 \(“2019 Consultation Paper”\);
+35. [Frequently Asked Questions on the Payment Services Act issued by the Authority on 4 October 2019 and last updated on 11 May 2020 \(“2019 FAQ”\);](https://www.mas.gov.sg/-/media/MAS/FAQ/Payment-Services-Act-FAQ-4-October-2019.pdf)
+36. Paper entitled “[A Guide to Digital Token Offerings” \(“MAS Guide”\)](https://www.mas.gov.sg/regulation/explainers/a-guide-to-digital-token-offerings) first issued by the Authority on 14 November 2017 and last updated on 26 May 2020;
+37. Paper entitled [“Response to Feedback Received – Consultation on the Payment Services Act 2019: Proposed Amendments to the Act”](https://www.mas.gov.sg/publications/consultations/2019/consultation-on-the-proposed-amendments-to-the-payment-services-act) issued by the Authority on 4 November 2020;
+38. ["Payment Services \(Amendment\) Bill"](https://www.mas.gov.sg/news/speeches/2021/payment-services-amendment-bill) - Second Reading Speech by Mr Ong Ye Kung, Minister for Transport, on behalf of Mr Tharman Shanmugaratnam, Senior Minister and Minister-in-charge of the Monetary Authority of Singapore on 4 January 2021.
 
 ## What does this mean for you?
 
