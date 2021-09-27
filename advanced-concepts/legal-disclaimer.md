@@ -39,7 +39,7 @@ As **Entropy increases** and the Network becomes more decentralised, cheqd CLG w
 
 At the point of **Sufficient Decentralisation** and **High Entropy** the Corporate Face of the Network will be spread between the Node Operators of the Network and token holders, who will jointly make decisions affecting the course of the Network.
 
-At this point, the Network as a **DAO** will be a **Member Managed Decentralised Autonomous Organisation \(DAO\)**. The cheqd CLG will have no locus of direct control over the Network. The Corporate Face of the Network will be essentially indeterminable at this stage, given the legal grey area that DAOs currently sit in. This is akin to how the SEC in the United States of America have qualified Networks such as **Ethereum**, as being **Sufficiently Decentralised**. 
+At this point, the Network as a **DAO** will be a **Member Managed Decentralised Autonomous Organisation \(DAO\)**. The cheqd CLG will have no locus of direct control over the Network. This is conceptually similar to how the SEC in the United States of America have qualified Networks such as **Ethereum**, as being **Sufficiently Decentralised**. 
 
 No member of the cheqd DAO shall have any fiduciary duty to the organization or any member except that the members shall be subject to the implied contractual covenant of good faith and fair dealing.
 
