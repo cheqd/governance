@@ -73,8 +73,6 @@ Currently, JSON-LD & BBS+ signatures seems to be the most sensible route forward
 
 At cheqd, we have, on our roadmap, support for JSON-LD with BBS+ because we see community convergence around this. 
 
-
-
 ## Listening to the Aries sceptics 
 
 We know you don't like Aries. We are listening, and please don't run away, give this a read first, yeah? Cheers. 
