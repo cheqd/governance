@@ -2,9 +2,7 @@
 
 This document is specifically targeted towards SSI vendors and enthusiasts who want to understand what technical standards cheqd supports and intends to support going forward. 
 
-**Before diving into the standards themselves, it is important to highlight that we at cheqd want to learn from the mistakes of the SSI community in the past - and work to unite the community rather than bifurcate it more.** 
-
-The way to achieve this is by being open, working alongside the community, and setting aside commercial interests for the betterment of the industry as a whole.  
+Before diving into the standards themselves, it is important to highlight that we at cheqd want to bring the SSI community together. The way to achieve this is by being open, working alongside the community, and setting aside commercial interests for the progression of the industry as a whole.  
 
 ## The Network of Networks Issue
 
