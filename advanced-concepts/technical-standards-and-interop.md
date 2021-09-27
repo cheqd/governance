@@ -8,7 +8,7 @@ Before diving into the standards themselves, it is important to highlight that w
 
 Part of the issue slowing the development of the SSI community as a whole is the Network-of-Networks issue.
 
-**So what does this mean?**
+**What does this mean?**
 
 It means that a Verifiable Credential signed by a public DID routed on one Public Utility cannot be easily resolved by a wallet that does not natively support that Public Utility.
 
