@@ -73,15 +73,10 @@ To make reading and reviewing your Proposal easier for the community, please sel
 
 Or if you would prefer to use another tool to write your Proposal, you can select a template from the list below.
 
-**\(Need to update with relevant templates\)**
-
-1. **Architecture Decision Record \(ADR\) Proposal**
-   1. **ADR 001**
-   2. **ADR 002**
-2. \*\*\*\*[**Text-based Proposal Template**](https://docs.cheqd.io/governance/contributing/major-network-changes/text-based-proposal-template)\*\*\*\*
-3. \*\*\*\*[**Parameter Change Proposal Template**](https://docs.cheqd.io/governance/contributing/major-network-changes/parameter-change-proposal-template)\*\*\*\*
-4. \*\*\*\*[**Software Upgrade Proposal Template**](https://docs.cheqd.io/governance/contributing/major-network-changes/software-upgrade-proposal-template)\*\*\*\*
-5. \*\*\*\*[**Community Pool Proposal**](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template)\*\*\*\*
+1. [Text-based Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/text-based-proposal-template)
+2. [Parameter Change Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/parameter-change-proposal-template)
+3. [Software Upgrade Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/software-upgrade-proposal-template)
+4. [Community Pool Proposal](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template)
 
 The ideal format for a proposal is as a Markdown file \(ie. .md\) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
 
