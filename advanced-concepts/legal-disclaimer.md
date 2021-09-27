@@ -1,6 +1,6 @@
 # Legal Disclaimer
 
-## Introduction
+## Preface
 
 {% hint style="info" %}
 No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the CHEQ Tokens or any of the Information constituting cheqd Documentation. 
