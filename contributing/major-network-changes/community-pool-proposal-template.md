@@ -1,5 +1,9 @@
 # Community Pool Proposal Template
 
+{% hint style="info" %}
+Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
+{% endhint %}
+
 ## **Community Pool {1} {Example Proposal}**
 
 **Status**

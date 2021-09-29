@@ -1,5 +1,9 @@
 # Software Upgrade Proposal Template
 
+{% hint style="info" %}
+Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
+{% endhint %}
+
 ## **Software Upgrade {1} {Example Proposal}**
 
 **Status**

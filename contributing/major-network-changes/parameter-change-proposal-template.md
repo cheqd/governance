@@ -1,5 +1,9 @@
 # Parameter Change Proposal Template
 
+{% hint style="info" %}
+Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
+{% endhint %}
+
 ## Parameter Change **Proposal {1} {Example Proposal}**
 
 **Status**
