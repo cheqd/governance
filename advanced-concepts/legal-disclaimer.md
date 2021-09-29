@@ -67,6 +67,10 @@ This notice is written in English language and may be translated into other lang
 
 The rights of members in a Decentralized Autonomous Organization \(DAO\) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Documentation and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
 
+{% hint style="info" %}
+This Legal Disclaimer SHOULD continue to be iterated and worked on as the Network develops and progresses.
+{% endhint %}
+
 
 
 ### 
