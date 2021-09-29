@@ -133,16 +133,15 @@ These values have been calculated by us looking at our end-goal, taking the poin
 
 The values that we have chosen are as follows:
 
-| Variable | Entropy Level 1 | Entropy Level 2 | Entropy Level 3  | Entropy Level 4 | Entropy Level 5 |
+| **Variable** | **Entropy Level 1** | **Entropy Level 2** | **Entropy Level 3**  | **Entropy Level 4** | **Entropy Level 5** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Score | 1 | 2 | 3 | 4 | 5 |
-| Number of Node Operators \(Validators\) |  5 | 10 | 25 | 50 | 100 |
-| Number of commits from outside core team | 5 | 10 | 25 | 50 | 100 |
-| Number of distinct Participants with bonded tokens | 100 | 500 | 1000 | 5000 | 10,000 |
-| Number of stakeholders to achieve 51% of Network \(Nakamoto coefficient\) | 2 | 4 | 8 | 15 | 30 |
-| Exchanges \(CEX and DEX\) supported | 1 | 2 | 4 | 6 | 8 |
-| Country distribution of node operators | 5 | 10 | 20 | 40 | 60 |
-| Number of accepted Proposals after genesis  | 5 | 10 | 20 | 40 | 60 |
+| **Number of Node Operators \(Validators\)** |  5 | 10 | 25 | 50 | 100 |
+| **Number of commits from outside core team** | 5 | 10 | 25 | 50 | 100 |
+| **Number of distinct Participants with bonded tokens** | 100 | 500 | 1000 | 5000 | 10,000 |
+| **Number of stakeholders to achieve 51% of Network \(Nakamoto coefficient\)** | 2 | 4 | 8 | 15 | 30 |
+| **Exchanges \(CEX and DEX\) supported** | 1 | 2 | 4 | 6 | 8 |
+| **Country distribution of node operators** | 5 | 10 | 20 | 40 | 60 |
+| **Number of accepted Proposals after genesis**  | 5 | 10 | 20 | 40 | 60 |
 
 To ‘score’ Entropy, you need to add the total sum of the Entropy Level across each metric. 
 
