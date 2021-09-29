@@ -12,20 +12,9 @@ However, it is worth noting that once the Network has departed from Cosmos’ in
 
 For this reason, it is suggested that the Network mirrors Cosmos’ architecture and updates, especially during the initial stages of its lifecycle.
 
-## Looking beyond Indy
 
-For those close to the SSI space, a large proportion of projects around the world are built upon [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy). This was a natural place for us to start, especially since there was an [existing SSI & token implementation](https://sovrin.atlassian.net/jira/software/c/projects/ST/issues/) from [Sovrin](https://sovrin.org/).
 
-However, a few things stopped us from going down this route:
-
-* **Limited transactions per second \(TPS\):** Indy benchmarked in our tests at ~4 TPS for token-related transactions. This is manageable for identity-only implementations since only minimal data is written to the ledger in Indy, with a bulk of the data such as Verifiable Credentials being off-ledger. This is important in the context of payments that are related to identity interactions, as low transaction speeds can result in delays for interactions that are real-time. A useful benchmark here is [Visa is capable of ~24,000 TPS](https://howmuch.net/articles/crypto-transaction-speeds-compared).
-* **Limited decentralisation:** Linked to the TPS, Indy networks are limited to an upper limit of ~25 nodes beyond which the consensus mechanism breaks down. Equally, the fault tolerance of the network degrades below 7 live nodes. As a result, there is a small ‘goldilocks’ window for a viable network configuration.
-
-As a result, Indy is fundamentally limited both in terms of throughput but also scalability.
-
-Beyond these two limitations, the decision brought to mind a conversation between the two of us [two years ago when Hyperledger Aries and Ursa](https://www.evernym.com/blog/hyperledger-aries/) were broken out into separate projects. With standardised wallet technologies and cryptography, wouldn’t it make sense to put the identity capabilities onto another ledger? A more performant, resilient, feature-full one? One that would help us realise our roadmap quicker? And so the hunt began…
-
-## Finding a new home <a id="f5a9"></a>
+## Why we chose Cosmos <a id="f5a9"></a>
 
 ### Defining our criteria <a id="0893"></a>
 
@@ -108,7 +97,7 @@ The majority of the requirements above are easy to understand without additional
 
 ### Narrowing down <a id="5ad7"></a>
 
-After these clear exclusions, the choice largely boiled down to [Polkadot](https://polkadot.network/) versus [Cosmos](https://cosmos.network/) with assessments across the various requirements above. This then primarily came down to available functionality and available implementations \(identity and token\) and infrastructure \(e.g. exchanges, custodians, etc.\). As can be seen in the comparison below, both Polkadot and Cosmos have very healthy developer communities
+After these clear exclusions, the choice largely boiled down to [Polkadot](https://polkadot.network/) versus [Cosmos](https://cosmos.network/) with assessments across the various requirements above. This then primarily came down to available functionality and available implementations \(identity and token\) and infrastructure \(e.g. exchanges, custodians, etc.\). As can be seen in the comparison below, both Polkadot and Cosmos have very healthy developer communities.
 
 ![cheqd&#x200A;&#x2014;&#x200A;Developer&#x2019;s community in Hyperledger Indy, Polkadot, Stellar &amp; Cosmos](../.gitbook/assets/network-developer-community-health.png)
 
@@ -116,7 +105,7 @@ However, when looking at identity and token implementations and infrastructure, 
 
 ### Timeline impacts <a id="f720"></a>
 
-Like any other Network, our speed to market is key. Not only did we need the right protocol for the long-term, but it also couldn’t impact our execution timelines. We are strong believers in releasing early, releasing often and incorporating the feedback of the SSI and crypto communities as well as end-users. As a result, each option was compared against each other not just based on functional and non-functional requirements but also on delivery risk. The figure below outlines this between Cosmos and Indy.
+Like any other Network, our speed to market is key. Not only did we need the right protocol for the long-term, but it also couldn’t impact our execution timelines. We are strong believers in releasing early, releasing often and incorporating the feedback of the SSI and crypto communities as well as end-users. As a result, each option was compared against each other not just based on functional and non-functional requirements but also on delivery risk. The figure below outlines this between Cosmos and Hyperledger Indy.
 
 ![Risk over time depending on the platform](../.gitbook/assets/cheqd-risk-over-time-graph.png)
 

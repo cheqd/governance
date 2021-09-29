@@ -4,38 +4,13 @@
 
 The principle concept of **decentralised governance** is that no single person, entity or organisation can control the direction of change in a public Network. Instead, the direction of change is agreed by the democratic votes of an ever-growing, diverse collective.
 
-Through this notion, accountability for decisions on the Network is diluted. And there comes a point where accountability cannot be attributed to a specific person, nor to the entire collective.
+Through this notion, there comes a point where accountability cannot be attributed to a specific person, nor to the entire collective.
 
-A decentralised Network where accountability is spread out as such is known as being **sufficiently decentralised.** This is because the group of entities making decisions on the Network is too difficult to pursue with legal recourse.
+A decentralised Network where accountability is spread out as such is known as being **sufficiently decentralised.**
 
-This point is desirable to reach, because it enables the Network to function purely as a utility, regulating itself through its own architecture, without having to jump through legal hoops to operate.
+This point is desirable to reach, because it maximises Network security and resilience, creates an environment which is governed by a broad, diverse and multijurisdictional collective, and enables the Network to function purely as a utility, regulating itself through its own [architecture](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#4-architecture).
 
-However, sufficient decentralisation is something that cannot be reached overnight. There is a transition period between the genesis event of any decentralised Network and the point at which sufficient decentralisation may be claimed.
-
-## **Sufficient Decentralisation** <a id="f78b"></a>
-
-The transition from default settings, form, structure, legal accountability and relative centralisation — to sufficient decentralisation, wide-barrel consensus and accountability-dilution is crucial to get right.
-
-This is because the legal standing of what sufficient decentralisation means is currently unclear. And if the Network does not reach sufficient decentralisation, the creators of the Network or majority stakeholders may face compliance issues across multiple jurisdictions.
-
-William Hinman, the Director of Corporate Finance at the Securities and Exchange Commission \(SEC\) explained his notion of sufficient decentralisation at a Finance summit in 2018, stating:
-
-> _“If a network on which the token or coin is to function is **sufficiently decentralized** — where **purchasers would no longer reasonably expect a person or group to carry out essential managerial or entrepreneurial efforts** — the assets may not represent an investment contract. Moreover, when the efforts of the third party are no longer a key factor for determining the enterprise’s success, material information asymmetries recede. **As a network becomes truly decentralized, the ability to identify an issuer or promoter to make the requisite disclosures becomes difficult, and less meaningful**.”_
-
-Hinman also later described Ethereum and Bitcoin as both being sufficiently decentralised because an “unaffiliated, dispersed community of network users”, perform essential tasks on the respective networks.
-
-This is particularly interesting when compared to Ripple, another cryptocurrency, who are currently facing a legal battle with the SEC in the USA.
-
-The SEC has currently labelled Ripple as an unregistered security, contradicting US securities law because it is not sufficiently decentralised. SEC’s rationale is based on the degree of control which Ripple, a limited company, has over the coin they created, XRP.
-
-The lines certainly are not black and white, and an updated legal opinion, “the Ripple Test”, will likely come out later this year.
-
-However, when comparing Ripple to Ethereum and Bitcoin we can isolate a number of differentiating points to qualify sufficient decentralisation.
-
-1. **Locus of control:** Ripple is a private company with a vested interest in the Network, it owns over 50% of the total supply of coins and can choose how it governs this treasury.
-2. **Pulling the strings:** Ripple handpicked a large proportion of the 33 nodes on the ‘Unique Nodes List’ which finalise transactions on XRP. As such, although Ripple itself does not determine the votes of these nodes; it has curated a Network which it wants.
-
-At cheqd we have looked at the situation Ripple is going through with the SEC, and of course, we don’t want to make the same mistakes.
+However, this point is not something that can be reached overnight. There is a transition period between the genesis event of any decentralised Network and the point at which sufficient decentralisation may be claimed.
 
 We want cheqd to achieve sufficient decentralisation, and to dissolve the initial control over the Network that few stakeholders may have. We want decisions to be made by the Network, and not by ourselves.
 
@@ -101,41 +76,158 @@ We will be publishing these default parameters and our roadmap for this journey 
 
 ## **How do we model Entropy?** <a id="d1d6"></a>
 
-Entropy is a composite function of a number of different factors, consisting of the number of validators, the number of Users with staked tokens, the number of accepted proposals, the diversity of validators and capacity for a Network overhaul by a proportion of the Network validators.
+To model Entropy, we wanted to build more visual and accessible than an algorithm or formula; something that could be easily applied to multiple blockchains and utilised by any layperson and diverse audience .
 
-At a high level, without modelling Entropy mathematically, it can be visualised as having an inverse relationship with liability. At the genesis state, the liability on those with control over the Network will be relatively high. This will quickly tend downwards as the Network expands and decision-making is disseminated among a collective.
+**Where we landed was: a Scorecard**
 
-![](../.gitbook/assets/liability-graph.png)
+![cheqd Entropy Scorecard](../.gitbook/assets/entropy-radar-diagram-blank.png)
 
-Given the legal grey area around the point of sufficient decentralisation, we are setting a high threshold of decentralisation which we want to achieve.
+The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 - 5** which we refer to as Entropy Levels, measuring tangible decentralisation from a genesis state \(and Low Entropy\) to beyond the point of sufficient decentralisation \(and High Entropy\). 
 
-On a visual level, this can be shown as follows.
+At each point on the diagram sits a different metric of measurement. It is important to note that we could have selected more, fewer or different metrics to calculate Entropy against. We chose the seven metrics listed below because they provide a very sensible, digestible foundation for a rough calculation of cheqd’s Entropy. These metrics cover each angle of the Network, from **security** to **geography** to **utility** to **governance**. 
 
-![](../.gitbook/assets/liability-graph-2.png)
+We would absolutely welcome suggestions and feedback from the community to further refine this list going forward. Get in touch with us using our [Governance discussion forum here](https://github.com/cheqd/cheqd-governance/discussions). 
 
-Through such delineation, we believe that we are positioning ourselves sensibly for any updated legal opinion on the topic.
+We will walk through our reasoning behind each choice:
 
-## **Future proofing cheqd** <a id="fb1b"></a>
+1. **Validators \(number\)**
 
-As explained above, Entropy is such an important concept in this context because it ties directly into liability and to the legal classification of tokens.
+This is the number of Node Operators on the Network. This is significant because the composition of Node Operators on the Network has a direct relationship with the dilution of voting power. The greater the number of Node Operators, the:
 
-As seen with Ripple, it is possible for Networks to be partially decentralised but still retain a controlling stake or pulling power in the Network.
+1. Greater choice the token holders have in who to bond and delegate tokens to for the purpose of Network Governance. 
+2. Greater the strength of security on the Network, with fewer points of failure.
 
-By introducing Entropy, we are removing the surface area for Regulators to scrutinise cheqd in the same way as Ripple.
+2. **Developers \(commits\)**
 
-Future proofing cheqd as a Network and a utility.
+This is the number of commits made on the source code after launch via cheqd’s open source repositories. Ideally, we would also be able to measure the amount of commits made by developers outside the core team of cheqd. Commits from developers outside cheqd add healthy randomness to the code and the development of the Network.
 
-In turn, we hope that this gives greater confidence to our Node Operators, token holders and community in the strength of the token.
+3. **Participants \(number\)**
 
-## **Greater clarity in a grey area** <a id="ad5d"></a>
+This is the number of bonded token holders, meaning the Network Users who have bound a portion of their tokens to a Node Operator in order to participate in Governance.  
+  
+This is important because the larger the pool of Participants, the more the voting power will become diluted across the Network, since Participants are able to vote unilaterally, regardless of the Node Operator they are bonded to.
 
-To date, the concept of Entropy is something which has been spoken about in roundabout ways across [legal](https://www.sec.gov/news/speech/speech-hinman-061418), [journalistic](https://cointelegraph.com/news/the-word-decentralized-has-lost-all-meaning-enough-is-enough) and [academic mediums](https://arxiv.org/pdf/2101.10699.pdf) in the context of decentralised governance.
+4. **Nakamoto coefficient \(number\)**
 
-Coining the term and the parameters which play into the increase of Entropy will be something that will help decentralised governance architectures achieve legal clarity going forward.
+Taken from previous work done on blockchain decentralisation, this is the minimum number of Entities in the Network that can pool together to reach 51% stake on the Network. The higher the number here, the more the Network is secure against malicious attacks and undesirable breaking changes.
 
-Of course, our definition of Entropy does not have legal standing or significance, but we hope it can be used as a tool or reference point by regulators or at least a sensible classification model.
+5. **Exchanges \(volume\)**
 
-{% hint style="info" %}
-Note: Final part to be added soon here on how Entropy is calculated
-{% endhint %}
+Exchanges are closely correlated with the accessibility of the token. Being able to buy and sell CHEQ on an exchange will open the token up to a larger range of Users. A higher number of exchanges will lead to a healthier split of stake, with hypothetically, lower volume across each exchange.
+
+6. **Nodes \(country\)**
+
+The geographical makeup of the Network is important when discussing decentralisation. This is because geographic diversity lends itself to diversity of thought and perspective. Furthermore, a geographically diverse Network increases the security because even if an entire country was to shut its infrastructure down, a multijurisdictional Network would continue resolutely. 
+
+7. **Proposals \(number\)**
+
+Like developer commits, Network Governance Proposals transition the Network away from its genesis state to a more random and disordered Entity. This again is very important in removing the initial control and order that the cheqd core team has implemented into the genesis state of the Network. 
+
+The Proposal and Voting process on cheqd is based on a liquid democracy. As a result, the more decisions are made through this process, the more control is taken away from a centralised collective and moved to the consensus of a wide-barrelled and diverse group of Participants.
+
+### Calculating Entropy
+
+Having laid out the distinct metrics used to constitute Entropy, it is next important to lay out the values that define each Entropy Level. These values are specific to cheqd and the levels of decentralisation we would like to eventually reach.
+
+These values have been calculated by us looking at our end-goal, taking the point at which we feel we could be maximully or sufficiently decentralised, and scaling backwards.
+
+The values that we have chosen are as follows:
+
+| Variable | Entropy Level 1 | Entropy Level 2 | Entropy Level 3  | Entropy Level 4 | Entropy Level 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Score | 1 | 2 | 3 | 4 | 5 |
+| Number of Node Operators \(Validators\) |  5 | 10 | 25 | 50 | 100 |
+| Number of commits from outside core team | 5 | 10 | 25 | 50 | 100 |
+| Number of distinct Participants with bonded tokens | 100 | 500 | 1000 | 5000 | 10,000 |
+| Number of stakeholders to achieve 51% of Network \(Nakamoto coefficient\) | 2 | 4 | 8 | 15 | 30 |
+| Exchanges \(CEX and DEX\) supported | 1 | 2 | 4 | 6 | 8 |
+| Country distribution of node operators | 5 | 10 | 20 | 40 | 60 |
+| Number of accepted Proposals after genesis  | 5 | 10 | 20 | 40 | 60 |
+
+To ‘score’ Entropy, you need to add the total sum of the Entropy Level across each metric. 
+
+For example, the highest level of decentralisation a Network could reach according to this model would be Entropy Level 5 in all metrics - totalling a score of **35**. Whilst the lowest level a Network could have would be Entropy Level 1 in all metrics - totalling a score of **5**. 
+
+We would also love to see other Networks applying the same scorecard model of Entropy to exhibit their Network’s level of decentralisation, and whilst slight changes may need to be made to accommodate for nuances in different Networks, the core concept can remain the same. 
+
+Over time, we do expect this initial table to be iterated, extended and revised as decentralised ecosystems in general become more mature, more distinct and as opinion from Regulators, such as the Security and Exchange Commission \(SEC\) becomes more clear.  
+
+
+### Entropy Progression
+
+In this section we want to explain where we are, where we want to get to, and why we want to get there.
+
+#### Where we are
+
+Like any other blockchain Network, cheqd will begin its life cycle with a Low Entropy score. This is absolutely normal for the genesis of a decentralised Network, as the core team will have put in the default parameters, meaning there will be a higher locus of control, and change has not yet been made via the governance framework processes. 
+
+We envision that our Entropy score at launch will likely be **lower than 14.**
+
+A low entropy score as such, can be represented by the scorecard below:
+
+![cheqd Low Entropy](../.gitbook/assets/radar-entropy-low-2.png)
+
+This score will quickly begin to shift after launch as decisions on the Network begin to be made by the consensus of the Network, more Partipicants and Node Operators join, and as the Network becomes more geographically diverse.
+
+#### Where we want to get to
+
+We are aiming for high Entropy for various reasons, because it:
+
+1. **Correlates with higher Network security and resiliency across countries;**
+2. **Means broader contributions to the Network from a multidisciplinary and diverse collective;**
+3. **Enables increased integration capabilities with other technologies to improve the ecosystem as a whole;**
+4. **Increases the democratisation of wealth and dilution of rewards across a larger scope of actors;**
+5. **Dilutes the control from a select group of people, to a genuinely decentralised and diverse collective.**
+
+As a benchmark, we want to aim for an **Entropy Score** **greater than 28**; and with **none of the scores below Entropy Level 3.**
+
+This combination is important because it will ensure that there is limited surface area for centralisation or control, as all metrics have progressed beyond a Low Entropy state. 
+
+A High Entropy Network would generate a scorecard illustrated by the example below:
+
+![cheqd High Entropy](../.gitbook/assets/entropy-radar-diagram-high-entropy.png)
+
+At this point of High Entropy, we would hope that we would be considered a Network which is sufficiently decentralised, although of course this is not up for us to decide. Yet, we believe that this progression of Low to High Entropy is an important journey for every decentralised Network to embark on.
+
+#### How do we plan to get there?
+
+To increase Entropy, we have developed a governance framework that champions decentralisation as time progresses.
+
+Achieving high Entropy involves:
+
+1. **Making it easy for Node Operators to onboard in an Open Source way;**
+2. **Having clear and transparent documentation, in multiple languages;**
+3. **Having simple governance processes to evolve the Network baked into the protocol;**
+4. **Incentivising a healthy community, with places to discuss positive and constructive ideas.**
+5. **Enabling all parties to be remunerated for their active contribution and participation.**
+
+And a combination of the above will increase the Network Entropy in a healthy and natural way, bridging the middleground between Low and High Entropy, as seen below:
+
+![cheqd Entropy Overlapped](../.gitbook/assets/radar-entropy-overlap-2.png)
+
+As the initial team, we have a responsibility to, as we like to put it, create the first domino and push it over. Or in other terms, we need to take care in setting a strong technical foundation alongside a culture of transparency, inclusivity and open communication to push Entropy in the right direction. 
+
+### Where does this leave us?
+
+Over the course of this series of blogs, we have introduced and explained the following:
+
+1. Why decentralisation is an important goal for healthy blockchain Networks;
+2. Why Increasing Entropy is crucial to achieving this goal;
+3. How to model Entropy to achieve greater clarity.
+
+And looking back now, what we want the reader to take away from this is to understand the following:
+
+Decentralised Networks and protocols often leave a lot to be desired, especially when it comes to clearly defined lines. 
+
+Through our model of Entropy, we incentivise healthy behaviour, high resiliency, utility and generativity which should be the building blocks for any decentralised Network. 
+
+We also want this to move decentralisation towards greater regulatory clarity, rather than towards greater dissonance.
+
+If we want to make self-sovereign identity, rooted on a decentralised Network a reality, we can only do this through being open, creative and inclusive in the way we work. Helping frame decentralised ecosystems in a way which makes sense for laypersons will bolster the chances of SSI and token payment rails being used in regulated industries worldwide.
+
+The model of Increasing Entropy, as one of [cheqd’s Foundational Principles](https://docs.cheqd.io/governance/principles/foundational-principles), attempts to build greater clarity around the labelling and framing of decentralised ecosystems and DAOs. We hope the community can iterate and build on the work done here and respond with feedback and opinion. This eventually can create an even more robust framework and help make cheqd’s vision of a Web 3.0, the new paradigm for human interaction.
+
+
+
+
 

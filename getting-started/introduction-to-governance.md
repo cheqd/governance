@@ -97,7 +97,7 @@ This is how the cheqd Network governance will look to begin:
 
 Over-time the Network may vote to raise or lower these sliders, in accordance with group consensus.
 
-One thing that will stand out looking at this chart is the lack of Law  governing the Network.
+One thing that will stand out looking at this chart is the lack of Law governing the Network.
 
 In this way, the Network acts as its own Legislature, Executive and Judiciary, as decentralised consensus checks and balances each stage in the passing of a proposal.
 
