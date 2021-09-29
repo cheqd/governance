@@ -18,7 +18,7 @@ Funds from the cheqd Community Pool may be spent via successful governance propo
 
 #### How should funds from the Community Pool be spent?
 
-The prevailing assumption is that funds should be spent in a way that brings value to cheqd. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability. 
+The prevailing assumption is that funds should be spent in a way that brings value to the cheqd Network. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability. 
 
 #### How are funds disbursed after a community-spend proposal is passed?
 

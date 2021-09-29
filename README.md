@@ -15,7 +15,7 @@ We are committed to writing our documentation in simple language, using easy exa
 
 This is the most important part of any Governance Framework...
 
-**Core to our Governance Framework, above all, is first, common understanding and common acknowledgement of how a system is run, and secondly, clear, accessible and democratic ways to influence decisions and the direction of change. This can only be achieved through clear communication, transparency and inclusivity**
+**Core to our Governance Framework, above all, is first, common understanding and common acknowledgement of how a system is run, and secondly, clear, accessible and democratic ways to influence decisions and the direction of change. This can only be achieved through clear communication, transparency and inclusivity.**
 
 ## **Lets make this easy, accessible and inclusive**
 

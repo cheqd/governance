@@ -1,7 +1,5 @@
 # Network Parameters
 
-
-
 | Variable | Value | Type |
 | :--- | :--- | :--- |
 | **totalsupply** | 1,000,000,000 | \#, cheq |
