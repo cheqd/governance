@@ -46,37 +46,7 @@ The reason for calling these out as a minimum is that they inform the network pa
 
 Over the past months, the team has been analysing the desired behaviour of the network stakeholders as well as the available functionality provided by Cosmos to identify the levers to achieve the right incentives. Whilst there are many parameters, we will focus the analysis on the key parameters which affect the incentives on the network.
 
-Our Network parameters are listed below:
-
-| Variable | Value | Type |
-| :--- | :--- | :--- |
-| **totalsupply** | 1,000,000,000 | \#, cheq |
-| **inflation** | 1.00% | % decimal |
-| **annual\_provisions** | 10,000,000 | \#, cheq |
-| **goal\_bonded** | 60% | % decimal |
-| **inflation\_max** | 4.00% | % decimal |
-| **inflation\_min** | 1.00% | % decimal |
-| **inflation\_rate\_change** | 2.00% | % decimal |
-| **blocksperyear** | 6,311,520 | \# |
-| **min\_deposit** | 8,000 | \#, cheq |
-| **max\_deposit\_period** | 1,210,000 | seconds \(= 2 weeks\) |
-| **voting\_period** | 1,210,000 | seconds \(= 2 weeks\) |
-| **quorum** | 33.34% | % decimal |
-| **threshold** | 55.00% | % decimal |
-| **veto** | 33.34% | % decimal |
-| **unbonding\_time** | 1814400 | seconds \(= 3 weeks\) |
-| **signed\_blocks\_window** | 120960 | Blocks |
-| **min\_signed\_per\_window** | 0.5 | Blocks |
-| **slash\_fraction\_double\_sign** | 0.05 |  |
-| **slash\_fraction\_downtime** | 0.01 |  |
-| **downtime\_jail\_duration** | 600 | seconds |
-| **fee** | 0.02 | token |
-| **gas** | Variable | \#, cheq |
-| **gas-prices** | Variable | \#, cheq |
-| **communitytax** | 2.00% | % |
-| **baseproposerreward** | 1.00% | % |
-| **bonusproposerreward** | 4.00% | % |
-| **withdrawaddenabled** | TRUE | bool |
+[Our Network Parameters can be found here.](https://docs.cheqd.io/governance/tokenomics/network-parameters)
 
 It should be noted that these parameters can, and almost certainly will be modified via the governance procedures.
 
@@ -97,13 +67,13 @@ Inflation \(**inflation\_min** & **inflation\_max**\) somewhat solves this probl
 
 Consequently, inflation can be seen as a double-edged sword. It rewards maintaining the network even at low volumes, but dilutes the incentive to drive maximum adoption.
 
-By modelling rewards against transaction volume and using a number of reference points \([CIVIC](https://coinmarketcap.com/currencies/civic/), [EVEREST](https://coinmarketcap.com/currencies/everest/), [LUNA](https://coinmarketcap.com/currencies/terra-luna/) & [UST](https://coinmarketcap.com/currencies/terrausd/) all-time high transaction volumes\) we established that **inflation\_max** should be &lt;4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation\_min** as 1% to maintain sufficient rewards at low volumes.
+By modelling rewards against transaction volume and using a number of reference points \(CIVIC, EVEREST, LUNA & UST all-time high transaction volumes\) we established that **inflation\_max** should be &lt;4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation\_min** as 1% to maintain sufficient rewards at low volumes.
 
 ### Distribution <a id="2c44"></a>
 
 **Communitytax, baseproposerreward & bonusproposerreward**
 
-As with the _general_ parameters above, we analysed existing projects \(e.g. [Fetch.ai](https://coinmarketcap.com/currencies/fetch/), [Terra](https://coinmarketcap.com/currencies/terra-luna/) & [Akash](https://coinmarketcap.com/currencies/akash-network/)\) and modelled various scenarios to understand the impact of the parameters on the network.
+As with the _general_ parameters above, we analysed existing projects \(e.g. Fetch.ai, Terra & Akash\) and modelled various scenarios to understand the impact of the parameters on the network.
 
 Across these projects, the values for **communitytax**, **baseproposerreward** and **bonusproposerreward** appear to be set to their defaults. Our modelling suggests the reason for this is that aside from **communitytax,** rewards across the network are largely dictated by stake regardless of the **baseproposerreward** and **bonusproposerreward** values**.**
 
@@ -193,9 +163,7 @@ Our primary focus will be on enabling these commercial models along with stable 
 
 ## Our tokenomics webinar <a id="d8f7"></a>
 
-If you rather watch a video about our tokenomics, _cheq_ out our webinar below.
-
-[https://www.youtube.com/watch?v=KYs5QjRbDBs](https://www.youtube.com/watch?v=KYs5QjRbDBs)
+If you rather watch a video about our tokenomics, _cheq_ out our webinar below.Tokenomics webinar — recorded on the 17th of September 2021
 
 You can also [download the cheqd Tokenomics slides here](https://cheqd.io/hubfs/Documents/cheqd-Tokenomics_deck-Webinar_Sharing.pdf).
 

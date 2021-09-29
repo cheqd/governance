@@ -57,7 +57,7 @@ NoWithVeto
 Abstain
 ```
 
-_**NoWithVeto**_ counts as _**No**_ but also adds a Veto vote. This is significant because a **33.34%** veto will **burn** the tokens in the _**ModuleAccount**_. This means that the tokens will be destroyed and put beyond use. For this reason, it is important that Participants make reference to cheqd's Principles before using the veto vote.
+_**NoWithVeto**_ counts as _**No**_ but also adds a Veto vote. This s significant because a **33.34%** veto will **burn** the tokens in the _**ModuleAccount**_. This means that the tokens will be destroyed and put beyond use. For this reason, it is important that Participants make reference to cheqd's Principles before using the veto vote.
 
 Abstain option allows voters to signal that they do not intend to vote in favor or against the proposal but accept the result of the vote.
 

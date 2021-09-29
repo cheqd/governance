@@ -12,7 +12,7 @@ description: >-
 
 **Okay, but what does this actually mean?**
 
-Let's start by discussing digital identity, a subset of authentic data.
+Let's start by discussing digital identity.
 
 Digital identity is something that we rarely think about in our day-to-day lives, but it is something that we all have subscribed to.
 
@@ -104,7 +104,7 @@ Rather than having your data locked behind doors and maintained by gatekeepers, 
 
 This does a few things.
 
-1. **It re-centres control of data around an individual** _\(or company, thing: real or virtual\)_**;**
+1. **It re-centres control of data around an individual;**
 2. **It enables far greater trust in digital interactions;**
 3. **It becomes far easier to access new services with bi-directional trust and confidence.**
 
@@ -131,11 +131,11 @@ Arguably, there would be a long term benefit, if Verifiable Credentials became w
 
 To accelerate the adoption of authentic data, there must be a financial incentive and this is what the cheqd Network will provide.
 
-cheqd are blending [Decentralised Finance \(DeFi\)](https://en.wikipedia.org/wiki/Decentralized_finance) and Authentic Data, using a token, called the CHEQ. This token will enable payments to be made directly for verified, authentic data in the form of standardised [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
+cheqd are blending Decentralised Finance and Authentic Data using a token, called the cheq. This token will enable payments to be made directly for verified, authentic data in the form of standardised W3C Verifiable Credentials.
 
-To support this objective, cheqd has built its own blockchain, using the [Cosmos SDK](https://docs.cosmos.network/). This is known as the cheqd “Network”. Through this Network, cheqd’s objective is to maximise the incentives for all members of the self-sovereign identity ecosystem \(holders, verifiers, issuers and Node Operators\) to increase participation in the Network \(transaction volume and distinct membership\).
+To support this objective, cheqd has built its own blockchain, using the Cosmos SDK. This is known as the cheqd “Network”. Through this Network, cheqd’s objective is to maximise the incentives for all members of the self-sovereign identity ecosystem \(holders, verifiers, issuers and Node Operators\) to increase participation in the Network \(transaction volume and distinct membership\).
 
-In simple terms, if the verifier pays a nominal fee for authentic data, then this fee can be distributed to the rest of the ecosystem participants.
+In simple terms, if the verifier pays a nominal fee for authentic data, then this fee can be distributed via the rest of the ecosystem participants.
 
 The key tool used to incentivise this behaviour depends on the stakeholder being considered:
 
