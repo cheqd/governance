@@ -1,11 +1,5 @@
 # Legal Disclaimer
 
-{% hint style="info" %}
-No regulatory authority has examined or approved any information set forth in the Information Material. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination of the Information Material does not imply that applicable laws, regulatory requirements or rules have been complied with.
-
-No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the CHEQ Tokens or any of the Information constituting cheqd Documentation. 
-{% endhint %}
-
 ## General Disclaimer and Conditions
 
 The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, videos or other graphics \(the “Information Material”\) has been prepared for informational purposes only and may be amended, superseded or replaced. 
