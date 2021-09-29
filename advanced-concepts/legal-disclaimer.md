@@ -61,11 +61,11 @@ The Documentation included in this Governance Framework **DOES NOT** constitute 
 
 The CHEQ Tokens **ARE** **NOT** intended to represent a security or similar legal interest.
 
-We are of the opinion that the CHEQ Tokens **ARE NOT**  “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-), solely by virtue of the Token Functions.
+CHEQ Tokens **ARE NOT** intended to represent “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-), solely by virtue of the Token Functions.
 
-We are of the opinion that the CHEQ Tokens **ARE** **NOT** “digital payment tokens” as contemplated under [Section 2\(1\) of the Payment Services Act \(PS Act\)](https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220#pr2-).
+CHEQ Tokens **ARE** **NOT** intended to represent “digital payment tokens” as contemplated under [Section 2\(1\) of the Payment Services Act \(PS Act\)](https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220#pr2-).
 
-This is based on an assessment of the following Regulation and legal commentary in Singapore:
+Reference SHOULD be made to the following:
 
 1. [The Securities and Futures Act \(Chapter 289\) of Singapore \(“SFA”\) Amended 2018;](https://www.mas.gov.sg/regulation/acts/securities-and-futures-act)
 2. [Securities and Futures \(Prescribed Entities Order\) 2005;](https://sso.agc.gov.sg/SL/SFA2001-S608-2005)
@@ -114,7 +114,7 @@ The acquisition of CHEQ Tokens carries with it significant risks and is inherent
 
 ## cheqd Management 
 
-The Node Operator play an important role in the Management of the cheqd Network and running a Validator Node.
+The Node Operators play an important role in the Management of the cheqd Network and running a Validator Node.
 
 Node Operators SHOULD comply with the following:
 
