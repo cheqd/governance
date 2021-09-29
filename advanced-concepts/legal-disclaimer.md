@@ -61,7 +61,7 @@ The Documentation included in this Governance Framework **DOES NOT** constitute 
 
 The CHEQ Tokens **ARE** **NOT** intended to represent a security or similar legal interest.
 
-CHEQ Tokens **ARE NOT** intended to represent “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-), solely by virtue of the Token Functions.
+CHEQ Tokens **ARE NOT** intended to represent “capital markets products” as contemplated under [Part I of the The Securities and Futures Act \(SFA\)](https://sso.agc.gov.sg/Act/SFA2001#P1I-).
 
 CHEQ Tokens **ARE** **NOT** intended to represent “digital payment tokens” as contemplated under [Section 2\(1\) of the Payment Services Act \(PS Act\)](https://sso.agc.gov.sg/Acts-Supp/2-2019/Published/20190220?DocDate=20190220#pr2-).
 
