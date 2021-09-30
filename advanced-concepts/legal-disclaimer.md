@@ -2,7 +2,7 @@
 
 ## General Disclaimer and Conditions
 
-The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, videos or other graphics \(the “Information Material”\) has been prepared for informational purposes only and may be amended, superseded or replaced. 
+The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, website material, webinars, events, videos or other graphics \(the “Information Material”\) has been prepared for informational purposes only and may be amended, superseded or replaced. 
 
 {% hint style="info" %}
 The Information Material is subject to update and does not constitute a prospectus or offer document, invitation or offer to buy any instrument of any sort.
@@ -66,7 +66,7 @@ This notice is written in English language and may be translated into other lang
 
 ### Restrictions on Duties and Transfers
 
-The rights of members in a Decentralized Autonomous Organization \(DAO\) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Documentation and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
+The rights of members in a Decentralized Autonomous Organization \(DAO\) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Information Material and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
 
 
 
