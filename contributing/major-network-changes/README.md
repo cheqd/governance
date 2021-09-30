@@ -181,7 +181,7 @@ Once the proposal's deposit reaches _**MinDeposit**_, it enters the voting perio
 
 In this scenario, the tokens spent on the Deposit which did not reach the _**MinDeposit**_ will be burnt, meaning that they will be removed from the active pool of tokens and put beyond use.
 
-The **minimum deposit** for cheqd will initially be **8,000 cheqs**.
+The **minimum deposit** for cheqd will initially be **8,000 CHEQ**.
 
 The _**MaxDepositPeriod**_ will be **2 weeks**.
 
@@ -191,8 +191,8 @@ When a proposal is finalized, the coins from the deposit are either refunded or 
 
 * If a proposal does not reach _**MinDeposit,**_ the cheq in the governance _**ModuleAccount**_ will be burnt, which means that they will be put beyond use and removed from the ecosystem. 
 * If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will automatically be refunded to their respective depositor \(transferred from the governance _**ModuleAccount**_\).
-* If the proposal is approved, but the minimum quorum \(33.34%\) is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
-* When the proposal is vetoed by 33.34%, deposits will be burned from the governance _**ModuleAccount**_.
+* If the proposal is approved, but the minimum quorum **\(33.34%\)** is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
+* When the proposal is vetoed by **33.34%,** deposits will be burned from the governance _**ModuleAccount**_.
 
 ### Verifying your transaction
 
