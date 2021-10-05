@@ -444,6 +444,16 @@ description: >-
         level.</td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>Governance</b>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Governance is a way of regulating behaviour and ensuring order in a given
+          system. We think of it as a melting pot with Principles, Laws, Economics
+          and System Design as the ingredients.</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>Governance Authority (GA)</b>
       </td>
       <td style="text-align:left">The Entity (typically an Organization) governing and making decisions

@@ -83,6 +83,12 @@ In this sense, Governance is something flexible, which can be adapted for differ
 
 At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: What is Decentralised Governance?
 
+### How we define Governance
+
+{% hint style="info" %}
+**"Governance is a way of regulating behaviour and ensuring order in a given system. We think of it as a melting pot with Principles, Laws, Economics and System Design as the ingredients."**
+{% endhint %}
+
 ## What is Decentralised Governance?
 
 Decentralised governance is the concept that no single person, organisation or entity will be able to unilaterally make decisions or changes that affect the Network.
