@@ -854,9 +854,9 @@ description: >-
     <tr>
       <td style="text-align:left"><b>Sufficient decentralisation</b>
       </td>
-      <td style="text-align:left">The point at which accountability over the cheqd Network is spread amongst
-        enough nodes to render each node legally unaccountable for the decisions
-        made on the Network. This is reached through the increasing of Entropy.</td>
+      <td style="text-align:left">The point at which the cheqd Network is spread amongst enough nodes that
+        no one node is directly accountable for decisions on the Network. This
+        is reached through the increasing of Entropy.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Token</b>

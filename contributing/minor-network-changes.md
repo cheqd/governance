@@ -46,7 +46,7 @@ Once you have made your account using the link above, you will be classified as 
 
 You should follow these instructions to make a change to any cheqd GitBook content.
 
-1. **Make your edits in the text directly or use comments**  Via the link above, you will gain permissions to to read, edit and comment directly to the text.  If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly. 
+1. **Make your edits in the text directly**  Via the link above, you will gain permissions to to read, edit and comment directly to the text. 
 2. **Save but do not merge**  We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft.   Saved drafts will be reviewed by cheqd admins before being merged.   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person. 
 3. **\(Optional\) Branch for large changes**  You are able to create a new branch of the Wiki if you intend to make a lot of changes.  To create a new branch, select 'New' followed by 'New variant'. This will create a branch of the main Wiki at that snapshot in time.  Next you need to **name your new branch**.  You should use the prefix:
 
