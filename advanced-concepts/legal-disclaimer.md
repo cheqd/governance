@@ -12,7 +12,7 @@ If any of the Information Material is updated with a new version after you acces
 
 The Information Material relates primarily to the intended development and use of the cheqd Network by various Participants, Node Operators and Users. Some of the Information Material relates to the acquisition of cryptographic tokens to be used in the cheqd Network \(“CHEQ”\). 
 
-CHEQ will not be made available through a public or private sale. There will be, and has not been, any Initial Coin Offering \(ICO\) or Initial Token Offering involving CHEQ. 
+There will be, and has not been, any Initial Coin Offering \(ICO\) or Initial Token Offering involving CHEQ. 
 
 No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the CHEQ tokens or any of the Information Material. The acquisition of tokens is subject to a potential purchaser’s compliance with the laws and regulations in the jurisdiction they reside in.
 
