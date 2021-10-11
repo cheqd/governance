@@ -29,4 +29,4 @@
 
 ## test
 
-* [Testing](test/testing.md)
+* [Testing](test/readme.md)
