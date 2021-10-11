@@ -21,7 +21,7 @@ This is the most important part of any Governance Framework...
 
 Through this Governance Framework, WE want to help YOU as a Network User, Node Operator or cheqd Community Member understand and familiarise yourselves with the following:
 
-1. What Governance \(and decentralised governance\) is;
+1. What Governance (and decentralised governance) is;
 2. What cheqd’s mission is, and how our Network functions;
 3. How you can impact Network Governance, either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network rewards participants through transaction fees and rewards;
@@ -36,13 +36,12 @@ In return, we kindly ask that YOU, while using the cheqd Network:
 4. Accept responsibility for your mistakes, and are open to apologizing to those affected by our mistakes;
 5. Focus on what is best not just for YOU and your desired outcomes on the Network, but make decisions with the entire cheqd community in mind. 
 
-We also ask that YOU follow the provisions of our [Code of Conduct](https://github.com/cheqd/cheqd-node/blob/main/contributing/code_of_conduct.md) to ensure the best experience for others in the community.
+We also ask that YOU follow the provisions of our [Code of Conduct](https://github.com/cheqd/cheqd-node/blob/main/code_of_conduct.md) to ensure the best experience for others in the community.
 
-If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question on our [Telegram](https://t.me/cheqd) or in our [Q&A discussions forum on GitHub](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a).
+If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question on our [Telegram](https://t.me/cheqd) or in our [Q\&A discussions forum on GitHub](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a).
 
 Let’s make cheqd a success together, and payment rails for authentic data a global standard: improving trust and efficiency in every industry.
 
 **Peace, love and groovy polar bears,**
 
 **The cheqmates**
-
