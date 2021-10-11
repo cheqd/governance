@@ -38,9 +38,9 @@ We have a Wiki for:
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
 2. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
 
-To make a change on either Wiki, you need to use the link below to become an Open Source Contributor on cheqd's GitBook:
+To make a change on either Wiki, you need to use the link below to become an Open Source Editor on cheqd's GitBook:
 
-{% embed url="https://app.gitbook.com/invite/cheqd?invite=-MiVxCDUlLSB22RuQ6dl" %}
+{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
 Once you have made your account using the link above, you will be classified as a [Writer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook.
 

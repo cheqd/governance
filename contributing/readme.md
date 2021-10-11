@@ -1,10 +1,14 @@
-# Contributing
+# ✍ How to Contribute
 
 ## How do I make changes on the Network?
 
 Every User is encouraged to contribute to the cheqd Network. To make this easy, it is important to explain HOW a User can contribute, and what the best practices are for making changes.
 
 For this reason, it is important to distinguish when a change can be made entirely off-ledger, and when a change is needed to be voted on, and made on-ledger. To do this we must differentiate between **minor changes** which are able to take place **entirely off-ledger** and **major network changes** which need to be **formalised on-ledger.**
+
+Use this link to become an editor and get started:
+
+{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
 ### **Minor Network changes**
 
@@ -33,12 +37,6 @@ Major Network changes include, but are not limited to:
 * Partnerships or connections to other infrastructure.
 
 See more, [here](https://docs.cheqd.io/governance/contributing/major-network-changes)
-
-## Decision Tree
-
-To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
-
-![](<../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
 
 ## cheqd's Principles
 
@@ -93,6 +91,6 @@ If you want to stay updated with cheqd news, we recommend that you join us on:
 
 We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
-* [cheqd Code of Conduct](https://docs.cheqd.io/node/contributing/code_of_conduct)
+{% embed url="https://docs.cheqd.io/node/code_of_conduct" %}
 
 This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are.

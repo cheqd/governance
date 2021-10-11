@@ -4,7 +4,7 @@ description: >-
   used but rarely understood.
 ---
 
-# Introduction to Governance
+# 🧑⚖ Introduction to Governance
 
 Governance is not an easy concept to understand. This is because it is something which cannot be easily visualised and lacks a common definition.
 
@@ -67,13 +67,13 @@ For example, Governance set by governments relies largely on Law & Guidelines, t
 
 This can be represented via the diagram below, which shows how government uses different quantities of the modalities to govern.
 
-![Figure showing how governments uses governance modalities](<../.gitbook/assets/cheqd governance sliders government.png>)
+![Figure showing how governments uses governance modalities](<../../.gitbook/assets/cheqd governance sliders government.png>)
 
 Whereas, the regulation of a Social Media Network relies much more on Principles & Social Norms and less on Markets & Economy.
 
 This is represented in the diagram below.
 
-![ Figure showing how social media platforms use governance modalities](<../.gitbook/assets/cheqd governance sliders social media.png>)
+![ Figure showing how social media platforms use governance modalities](<../../.gitbook/assets/cheqd governance sliders social media.png>)
 
 In this sense, Governance is something flexible, which can be adapted for different use cases, based on a combination of factors such as, among other things:
 
@@ -99,7 +99,7 @@ This is made possible because of the architecture of the Network, which enables 
 
 This is how the cheqd Network governance will look to begin:
 
-![Figure showing how cheqd uses governance modalities](<../.gitbook/assets/cheqd governance using sliders.PNG>)
+![Figure showing how cheqd uses governance modalities](<../../.gitbook/assets/cheqd governance using sliders.PNG>)
 
 Over-time the Network may vote to raise or lower these sliders, in accordance with group consensus.
 

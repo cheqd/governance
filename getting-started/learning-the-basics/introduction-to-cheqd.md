@@ -4,7 +4,7 @@ description: >-
   cheqd's objective
 ---
 
-# Introduction to cheqd
+# 🪙 Introduction to cheqd
 
 ## **Objective of cheqd**
 
@@ -78,7 +78,7 @@ Instead of companies managing data indirectly, on your behalf, it is now possibl
 
 **This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity (SSI).**
 
-![cheqd value flow ](<../.gitbook/assets/cheqd Issuer - Holder - Verifier flow.png>)
+![cheqd value flow ](<../../.gitbook/assets/cheqd Issuer - Holder - Verifier flow.png>)
 
 SSI works by attaching a layer of trust to data.
 
