@@ -24,7 +24,7 @@ These are changes that have a materially significant effect on the Network. Such
 
 Major Network changes include, but are not limited to:
 
-* Materially significant Architecture Decisions \(**ADs**\), such as:
+* Materially significant Architecture Decisions (**ADs**), such as:
   * An additional feature to cheqd;
   * Removal of a feature of cheqd;
 * Parameter changes for the Network;
@@ -38,7 +38,7 @@ See more, [here](https://docs.cheqd.io/governance/contributing/major-network-cha
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![](../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![](<../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
 
 ## cheqd's Principles
 
@@ -71,17 +71,24 @@ Which both link to their respective GitHub repositories.
    1. Our open sourced code;
    2. Documentation to help YOU onboard to the Network as a Node Operator, [here](https://github.com/cheqd/cheqd-node);
    3. All formal documentation YOU need to know about cheqd, across multiple repositories;
-   4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community.   You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).   
+   4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community. \
+      \
+      You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes). \
+       
 2. [GitBook](https://docs.cheqd.io/governance/): Here we will host:
    1. Our [cheqd Node documentation](https://docs.cheqd.io/node/) to help YOU onboard to the Network as a Node Operator;
-   2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.  GitBook will be a more accessible and easy-to-read layout.    You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).
+   2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.\
+      \
+      GitBook will be a more accessible and easy-to-read layout.  \
+      \
+      You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).
 
 If you want to stay updated with cheqd news, we recommend that you join us on:
 
 1. [Twitter](https://twitter.com/cheqd_io): Follow us here to keep up to date with the latest cheqd news and to be the first to hear about special announcements;
 2. [Telegram](https://t.me/cheqd): Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
 3. [Community Slack:](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community.  
-4. [Medium:](https://blog.cheqd.io/) Stay up to date with our latest blogs and articles.
+4. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
 5. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 
 We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
@@ -89,4 +96,3 @@ We also kindly ask you to familiarise yourself with our Code of Conduct which se
 * [cheqd Code of Conduct](https://docs.cheqd.io/node/contributing/code_of_conduct)
 
 This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are.
-

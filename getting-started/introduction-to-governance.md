@@ -55,7 +55,7 @@ Like law, architecture is something that sets the boundaries of what people can 
 
 In digital domains, architecture becomes a much more powerful method of governance, as rules, boundaries and punishments can be coded into protocols themselves to deter or incentivise people. These architectural boundaries can be so strong that it can make it near impossible to avoid them. For example if you find a locked door in a video game, unlike in the physical world where it might be possible to break through it, in the digital world there may be no possible method of going through, and the door acts as a permanent and unbreakable barrier.
 
-Architecture becomes increasingly necessary when there are no jurisdictional borders, such as on the internet, where the law can be easily evaded. For this reason, on the internet, it has been suggested by prominent writers such as [Lawrence Lessig](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1183&context=cheer), that code is law.
+Architecture becomes increasingly necessary when there are no jurisdictional borders, such as on the internet, where the law can be easily evaded. For this reason, on the internet, it has been suggested by prominent writers such as [Lawrence Lessig](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1183\&context=cheer), that code is law.
 
 Coming back to the question: what is Governance?
 
@@ -67,13 +67,13 @@ For example, Governance set by governments relies largely on Law & Guidelines, t
 
 This can be represented via the diagram below, which shows how government uses different quantities of the modalities to govern.
 
-![Figure showing how governments uses governance modalities](../.gitbook/assets/cheqd-governance-sliders-government.png)
+![Figure showing how governments uses governance modalities](<../.gitbook/assets/cheqd governance sliders government.png>)
 
 Whereas, the regulation of a Social Media Network relies much more on Principles & Social Norms and less on Markets & Economy.
 
 This is represented in the diagram below.
 
-![ Figure showing how social media platforms use governance modalities](../.gitbook/assets/cheqd-governance-sliders-social-media.png)
+![ Figure showing how social media platforms use governance modalities](<../.gitbook/assets/cheqd governance sliders social media.png>)
 
 In this sense, Governance is something flexible, which can be adapted for different use cases, based on a combination of factors such as, among other things:
 
@@ -99,7 +99,7 @@ This is made possible because of the architecture of the Network, which enables 
 
 This is how the cheqd Network governance will look to begin:
 
-![Figure showing how cheqd uses governance modalities](../.gitbook/assets/cheqd-governance-using-sliders.png)
+![Figure showing how cheqd uses governance modalities](<../.gitbook/assets/cheqd governance using sliders.PNG>)
 
 Over-time the Network may vote to raise or lower these sliders, in accordance with group consensus.
 
@@ -114,4 +114,3 @@ A decentralised Network where accountability is spread out as such is known as b
 The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy) will continue to increase, until the point of sufficient decentralisation is reached.
 
 This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy). 
-

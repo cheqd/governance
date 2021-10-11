@@ -2,11 +2,11 @@
 
 The cheqd Governance Framework embodies the following General Governance principles. These General Principles **SHOULD** be used as checks and balances against new Proposals on the Network.
 
-Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17_N9Fs3j_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
+Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17\_N9Fs3j_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
 
 ### 1. Interoperability
 
-cheqd **SHOULD** enable digital identity data for an entity to be represented, exchanged, secured, protected, and verified in an interoperable way, across multiple decentralised identity Networks, using open, public, and royalty-free Standards, such as the Standards for Decentralised Identifiers \(DIDs\) and Verifiable Credentials \(VCs\) defined by the World Wide Web Consortium \(W3C\).
+cheqd **SHOULD** enable digital identity data for an entity to be represented, exchanged, secured, protected, and verified in an interoperable way, across multiple decentralised identity Networks, using open, public, and royalty-free Standards, such as the Standards for Decentralised Identifiers (DIDs) and Verifiable Credentials (VCs) defined by the World Wide Web Consortium (W3C).
 
 ### 2. Accessibility
 
@@ -32,11 +32,11 @@ cheqd Network code and updates **SHALL** provide appropriate, measurable securit
 
 ### 7. Data Protection
 
-cheqd Network Users **SHALL NOT** enable personal data, as defined in the GDPR, to be written to the Network, in either a plain text proposal, or a software update.
+cheqd Network Users **SHALL NOT **enable personal data, as defined in the GDPR, to be written to the Network, in either a plain text proposal, or a software update.
 
 cheqd Network **SHALL** ensure any data uploaded to the Network is anonymous and uncorrelateable.
 
-A User’s right to be forgotten \(i.e. the right for their personally identifiable information to be erased or put beyond use\) **SHALL** be promptly honored wherever applicable.
+A User’s right to be forgotten (i.e. the right for their personally identifiable information to be erased or put beyond use) **SHALL** be promptly honored wherever applicable.
 
 ### 8. Notification
 
@@ -54,7 +54,7 @@ For example, this **MAY** be achieved through a Carbon Tax on the Network. A Car
 
 ### 11. Inclusion
 
-cheqd Users **SHALL NOT** exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+cheqd Users **SHALL NOT **exclude or discriminate against any other User within its governance scope, on the basis of age, body size, visible or invisible disability, incapacity, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, country of origin, heritage, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 cheqd Users **SHOULD** always seek to use inclusive and neutral language to best reflect the interests of a diverse, multidisciplinary and multicultural Network.
 
@@ -63,4 +63,3 @@ cheqd Users **SHOULD** always seek to use inclusive and neutral language to best
 The cheqd Network **SHALL** not allow any use of the Network that results in technical or regulatory privacy infraction, such as surveillance, personal tracking, and abuse.
 
 cheqd **SHOULD** make best efforts not be used as a Layer 1 component for further innovation that compromise Privacy.
-

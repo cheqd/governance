@@ -10,9 +10,17 @@ description: >-
 
 If you are not familiar with governance, and especially decentralised governance, we suggest that you should begin with our introductory documents:
 
-1. [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance)    ****This document explains how we define governance, and why it is crucial in the management of a decentralised Network.  
-2. [Introduction to cheqd](https://docs.cheqd.io/governance/getting-started/introduction-to-cheqd)    This document explains what cheqd is trying to achieve, and what the intended goal of the Network is.  
-3. [Introduction to Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)    This document introduces the concept of Entropy in decentralised governance. Entropy is pivotal to understanding how liability and accountability changes as the Network expands. 
+1. [Introduction to Governance](https://docs.cheqd.io/governance/getting-started/introduction-to-governance) ** **\
+   ****\
+   ****This document explains how we define governance, and why it is crucial in the management of a decentralised Network. \
+
+2. [Introduction to cheqd](https://docs.cheqd.io/governance/getting-started/introduction-to-cheqd)  \
+   \
+   This document explains what cheqd is trying to achieve, and what the intended goal of the Network is. \
+
+3. [Introduction to Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy)  \
+   \
+   This document introduces the concept of Entropy in decentralised governance. Entropy is pivotal to understanding how liability and accountability changes as the Network expands. 
 
 ### Still a bit confused?
 
@@ -35,5 +43,4 @@ Feel free to select the route that suits you best:
 2. [I want to engage with the cheqd community;](https://docs.cheqd.io/governance/contributing#community)
 3. [I am a token holder and I want to use my tokens for governance purposes;](https://docs.cheqd.io/governance/contributing/major-network-changes) 
 4. [I want to check out the source code;](https://github.com/cheqd) 
-5. [I am \(or want to be\) a Node Operator and I want to understand my role and responsibilities.](https://docs.cheqd.io/node/)
-
+5. [I am (or want to be) a Node Operator and I want to understand my role and responsibilities.](https://docs.cheqd.io/node/)

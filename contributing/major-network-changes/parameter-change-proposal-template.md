@@ -1,22 +1,22 @@
 # Parameter Change Proposal Template
 
 {% hint style="info" %}
-Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
+Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown (.md)
 {% endhint %}
 
-## Parameter Change **Proposal {1} {Example Proposal}**
+## Parameter Change** Proposal {1} {Example Proposal}**
 
 **Status**
 
 {PROPOSED} {Not Implemented}
 
-_Select from below:_ _{DRAFT \| PROPOSED \| ACCEPTED \| REJECTED \| SUPERSEEDED by PROPOSAL-xxx \| ABANDONED} {Implemented \| Not Implemented}_
+_Select from below:_ _{DRAFT | PROPOSED | ACCEPTED | REJECTED | SUPERSEEDED by PROPOSAL-xxx | ABANDONED} {Implemented | Not Implemented}_
 
 **Summary**
 
 This is an example of a Proposal Summary
 
-_A short \(~150 word\) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted._
+_A short (\~150 word) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted._
 
 **Parameter to change:**
 
@@ -32,7 +32,7 @@ New parameter **4000 cheq**
 
 **Description**
 
-_A longer &lt;500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
+_A longer <500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
 I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community. 
 
@@ -51,4 +51,3 @@ Significant change which would potentially lead to more spam proposals on the Ne
 **Neutral**
 
 No neutral effect
-

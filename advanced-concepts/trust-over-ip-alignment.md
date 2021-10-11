@@ -2,7 +2,7 @@
 
 ## Building on Trust over IP
 
-[Trust over IP \(ToIP\)](https://trustoverip.org/) is a Foundation that intends to create an interoperable ecosystem for decentralised identity companies. It does this by segmenting decentralised identity into different stack layers, for different identity components.
+[Trust over IP (ToIP)](https://trustoverip.org) is a Foundation that intends to create an interoperable ecosystem for decentralised identity companies. It does this by segmenting decentralised identity into different stack layers, for different identity components.
 
 The idea is that any ToIP Layer 1 innovation should be able to interoperate with any Layer 2, 3 or 4 innovation.
 
@@ -12,7 +12,7 @@ This is a snapshot of the ToIP stack, which many of the SSI community will be fa
 
 If this is new to you and you want to learn more about it, you can take a look at their [new, cool interactive model here](https://trustoverip.org/wp-content/toip-model/).
 
-![Current ToIP stack](../.gitbook/assets/trust-over-ip-stack.png)
+![Current ToIP stack](<../.gitbook/assets/Trust over ip stack.png>)
 
 cheqd intends to become a ToIP compliant Layer 1, with the first compliant decentralised governance model.
 
@@ -24,11 +24,11 @@ This means that human accountability will actually be diluted across the Network
 
 This can be represented by the following amendment to the stack:
 
-![Modified layer 1 for decentralised governance](../.gitbook/assets/cheqd-layer-1.png)
+![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1.png>)
 
 As an entire stack, this now looks like:
 
-![Modified ToIP stack for decentralised governance](../.gitbook/assets/cheqd-toip-stack.png)
+![Modified ToIP stack for decentralised governance](<../.gitbook/assets/cheqd toip stack.png>)
 
 This better reflects the decentralised nature of cheqd and its Layer 1 Network. We believe that this model is also still compatible with the spirit and intention of the ToIP metamodel, given that it wants to support and facilitate decentralised identity in its multiple forms.
 
@@ -44,10 +44,9 @@ All to create:
 
 * Layer 4: Economies
 
-![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](../.gitbook/assets/cheqd-toip-economy-stack.png)
+![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/cheqd toip economy stack.png>)
 
 _Notes:_
 
 * _Economies within the “Economy“ stack, are simply Ecosystems with commercial structures / relationships whether unilateral, bi-lateral or multi-lateral._
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
-

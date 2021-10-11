@@ -68,7 +68,7 @@ This constant battle to access one’s own accounts and data is frustrating, and
 
 If you are asked to prove who you are to someone online, there is no existing way of doing this. Whilst in the physical world we have verifiable documents such as passports and driving licenses which contain trusted, safety features such as watermarks and common semantics, in the digital world we have nothing of the sort.
 
-If I meet someone on social media, an eCommerce platform or a dating website, I have no simple way to verify that the person is who they claim to be. Why is this the case? Even though I have hundreds of accounts online, and many of them even require a Know Your Customer \(KYC\) ****procedure, I never hold that verified data. Companies hold that verified data... and they monetise it.
+If I meet someone on social media, an eCommerce platform or a dating website, I have no simple way to verify that the person is who they claim to be. Why is this the case? Even though I have hundreds of accounts online, and many of them even require a Know Your Customer (KYC)** **procedure, I never hold that verified data. Companies hold that verified data... and they monetise it.
 
 ### There is a better way of managing data
 
@@ -76,9 +76,9 @@ Over the last few years, there has been a big push for individuals to have great
 
 Instead of companies managing data indirectly, on your behalf, it is now possible to hold your own data securely in a digital wallet.
 
-**This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity \(SSI\).**
+**This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity (SSI).**
 
-![cheqd value flow ](../.gitbook/assets/cheqd-issuer-holder-verifier-flow.png)
+![cheqd value flow ](<../.gitbook/assets/cheqd Issuer - Holder - Verifier flow.png>)
 
 SSI works by attaching a layer of trust to data.
 
@@ -86,17 +86,17 @@ Companies can ‘issue’ data directly which has been cryptographically signed 
 
 This signature can be thought of like a watermark or stamp which proves that the data is authentic.
 
-The individual then holds this signed packet of data \(Verifiable Credential\) within a digital wallet on one of their personal devices.
+The individual then holds this signed packet of data (Verifiable Credential) within a digital wallet on one of their personal devices.
 
 The individual can then reuse this data to prove attestations of their identity to a third party.
 
 All of the cryptographic signatures exist on a public repository, which can be a blockchain or another trusted utility.
 
-This enables third-parties to match the signature on the Verifiable Credential against the publicly listed signature \(Public Decentralised Identifier DID\) thereby creating a trusted interaction without the need for an intermediary.
+This enables third-parties to match the signature on the Verifiable Credential against the publicly listed signature (Public Decentralised Identifier DID) thereby creating a trusted interaction without the need for an intermediary.
 
 With SSI, individuals can build up multiple attestations for identity attributes such as their name, their nationality etc. and build a very strong level of assurance in the claim that ‘I am X’ or 'I have X attributes'.
 
-Digital identities give the ability for people to prove who they are in a digital domain using signed proofs. Or in other words, a set of digital **identifiers** make up and constitute a rounded **digital identity.**
+Digital identities give the ability for people to prove who they are in a digital domain using signed proofs. Or in other words, a set of digital **identifiers **make up and constitute a rounded **digital identity.**
 
 **This flips the dynamics of digital identity on its head.**
 
@@ -104,7 +104,7 @@ Rather than having your data locked behind doors and maintained by gatekeepers, 
 
 This does a few things.
 
-1. **It re-centres control of data around an individual** _\(or company, thing: real or virtual\)_**;**
+1. **It re-centres control of data around an individual **_(or company, thing: real or virtual)_**;**
 2. **It enables far greater trust in digital interactions;**
 3. **It becomes far easier to access new services with bi-directional trust and confidence.**
 
@@ -131,9 +131,9 @@ Arguably, there would be a long term benefit, if Verifiable Credentials became w
 
 To accelerate the adoption of authentic data, there must be a financial incentive and this is what the cheqd Network will provide.
 
-cheqd are blending [Decentralised Finance \(DeFi\)](https://en.wikipedia.org/wiki/Decentralized_finance) and Authentic Data, using a token, called the CHEQ. This token will enable payments to be made directly for verified, authentic data in the form of standardised [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
+cheqd are blending [Decentralised Finance (DeFi)](https://en.wikipedia.org/wiki/Decentralized_finance) and Authentic Data, using a token, called the CHEQ. This token will enable payments to be made directly for verified, authentic data in the form of standardised [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/).
 
-To support this objective, cheqd has built its own blockchain, using the [Cosmos SDK](https://docs.cosmos.network/). This is known as the cheqd “Network”. Through this Network, cheqd’s objective is to maximise the incentives for all members of the self-sovereign identity ecosystem \(holders, verifiers, issuers and Node Operators\) to increase participation in the Network \(transaction volume and distinct membership\).
+To support this objective, cheqd has built its own blockchain, using the [Cosmos SDK](https://docs.cosmos.network). This is known as the cheqd “Network”. Through this Network, cheqd’s objective is to maximise the incentives for all members of the self-sovereign identity ecosystem (holders, verifiers, issuers and Node Operators) to increase participation in the Network (transaction volume and distinct membership).
 
 In simple terms, if the verifier pays a nominal fee for authentic data, then this fee can be distributed to the rest of the ecosystem participants.
 
@@ -152,4 +152,3 @@ The key tool used to incentivise this behaviour depends on the stakeholder being
 For more information on why a token is needed, [our blog post expands on this here](https://blog.cheqd.io/why-self-sovereign-identity-needs-a-token-46e43dada01d).
 
 Or if you're feeling confident with cheqd and its objectives, you can start to dive deeper into our governance model, and explore our new concept, [Entropy here](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy). 
-

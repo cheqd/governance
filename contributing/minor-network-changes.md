@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for Network Governance](../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for Network Governance](<../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
 
 ## How do I make edits to general text or code in cheqd documentation?
 
@@ -46,12 +46,39 @@ Once you have made your account using the link above, you will be classified as 
 
 You should follow these instructions to make a change to any cheqd GitBook content.
 
-1. **Make your edits in the text directly**  Via the link above, you will gain permissions to to read, edit and comment directly to the text. 
-2. **Save but do not merge**  We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft.   Saved drafts will be reviewed by cheqd admins before being merged.   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person. 
-3. **\(Optional\) Branch for large changes**  You are able to create a new branch of the Wiki if you intend to make a lot of changes.  To create a new branch, select 'New' followed by 'New variant'. This will create a branch of the main Wiki at that snapshot in time.  Next you need to **name your new branch**.  You should use the prefix:
+1. **Make your edits in the text directly or use comments**\
+   ****\
+   ****Via the link above, you will gain permissions to to read, edit and comment directly to the text.\
+   \
+   If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.\
 
-* draft/  followed by a unique title indicating your draft number such as 
-* draft/{username}  On this branch you should make and save all desired changes to the content.  Once you have finished your changes, you can **save** and **merge** your changes on that branch and an admin will review the branch before merging to main.
+2. **Save but do not merge**\
+   ****\
+   ****We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft. \
+   \
+   Saved drafts will be reviewed by cheqd admins before being merged. \
+   \
+   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.\
+
+3. **(Optional) Branch for large changes**\
+   \
+   You are able to create a new branch of the Wiki if you intend to make a lot of changes.\
+   \
+   To create a new branch, select 'New' followed by 'New variant'. This will create a branch of the main Wiki at that snapshot in time.\
+   \
+   Next you need to **name your new branch**.\
+   \
+   You should use the prefix:
+
+* draft/\
+  \
+  followed by a unique title indicating your draft number such as\
+
+* draft/{username}\
+  \
+  On this branch you should make and save all desired changes to the content.\
+  \
+  Once you have finished your changes, you can **save** and **merge** your changes on that branch and an admin will review the branch before merging to main.
 
 {% hint style="info" %}
 Note: If you are using branches, GitBook has a bug with images and assets. For this reason, please do not upload any images or assets to GitBook branches. 
@@ -59,18 +86,18 @@ Note: If you are using branches, GitBook has a bug with images and assets. For t
 
 ### GitHub
 
-You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.  
-  
-We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).  
-  
+You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.\
+\
+We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).\
+\
 For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files). 
 
-**Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" \(present tense\).
+**Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 
 Example:
 
-| Not ideal | Better |
-| :--- | :--- |
+| Not ideal                            | Better                                                        |
+| ------------------------------------ | ------------------------------------------------------------- |
 | Fixed NoMethodError in RemovalWorker | Fix nil error when removing statuses caused by race condition |
 
 It is not always possible to phrase every change in such a manner, but it is desired.
@@ -91,5 +118,4 @@ Please use the search function to make sure that you are not submitting duplicat
 
 ## Translations
 
-You can submit translations via GitHub or GitBook branches \(as above\). We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
-
+You can submit translations via GitHub or GitBook branches (as above). We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!

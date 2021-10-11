@@ -6,7 +6,7 @@ These are changes that have a materially significant effect on the Network. Such
 
 Major Network changes include, but are not limited to:
 
-* Materially significant Architecture Decisions \(**ADs**\), such as:
+* Materially significant Architecture Decisions (**ADs**), such as:
   * An additional feature to cheqd;
   * Removal of a feature of cheqd;
 * Parameter changes for the Network;
@@ -18,7 +18,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd governance](../../.gitbook/assets/on-chain-vs-off-chain-decision-tree-1-.jpg)
+![Decision tree for cheqd governance](<../../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
 
 ## Proposals
 
@@ -39,7 +39,7 @@ Once feedback has been given in an off-chain forum such as [cheqd discussions](h
 
 ### Your Idea
 
-Before you make a Network Proposal, you should engage people \(ideally experts\) informally about your idea. You should consider:
+Before you make a Network Proposal, you should engage people (ideally experts) informally about your idea. You should consider:
 
 * Does it make sense?
 * Are there critical flaws?
@@ -51,7 +51,7 @@ If you know people who are very involved with cheqd, send them a private message
 
 You could ask a simple question or present an idea in our [Github Discussions](https://github.com/cheqd/cheqd-governance/discussions), specifically in:
 
-1. [cheqd Q&A forum](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a)
+1. [cheqd Q\&A forum](https://github.com/cheqd/cheqd-governance/discussions/categories/q-a)
 2. [cheqd ideas forum](https://github.com/cheqd/cheqd-governance/discussions/categories/ideas)
 
 You may also want to rationalise your idea, or ask your question to the wider community, in:
@@ -78,12 +78,12 @@ Or if you would prefer to use another tool to write your Proposal, you can selec
 3. [Software Upgrade Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/software-upgrade-proposal-template)
 4. [Community Pool Proposal](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template)
 
-The ideal format for a proposal is as a Markdown file \(ie. .md\) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
+The ideal format for a proposal is as a Markdown file (ie. .md) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
 
 Engage the community with your draft proposal
 
 1. Post a draft of your proposal as a topic in [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues). 
-2. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing \(eg. high-ranked Node Operators; large stakers\).
+2. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
 3. Target members of the community in a semi-public way before bringing the draft to a full public audience. 
 4. Alert the community to the draft proposal via:
    * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd_io)
@@ -94,7 +94,7 @@ Engage the community with your draft proposal
 
 You may want to submit your proposal to the testnet chain before the mainnet for a number of reasons, such as wanting to see what the proposal description will look like, to share what the proposal will look like in advance with stakeholders, and to signal that your proposal is about to go live on the mainnet.
 
-Perhaps most importantly, for parameter change proposals, you can test the parameter changes in advance \(if you have enough support from the voting power on the testnet\).
+Perhaps most importantly, for parameter change proposals, you can test the parameter changes in advance (if you have enough support from the voting power on the testnet).
 
 Submitting your proposal to the testnet increases the likelihood of engagement and the possibility that you will be alerted to a flaw before deploying your proposal to mainnet.
 
@@ -112,23 +112,23 @@ Note: This section is in an early Draft form and will need to be iterated, as th
 
 ### Formatting the JSON file for the governance proposal
 
-Prior to sending the transaction that submits your Proposal on-chain, you must create a JSON file. This file will contain the information that will be stored on-chain as the governance Proposal. Begin by creating a new text \(.txt\) file to enter this information. Use these best practices as a guide for the contents of your proposal. When you're done, save the file as a .json file. See the examples that follow to help format your proposal.
+Prior to sending the transaction that submits your Proposal on-chain, you must create a JSON file. This file will contain the information that will be stored on-chain as the governance Proposal. Begin by creating a new text (.txt) file to enter this information. Use these best practices as a guide for the contents of your proposal. When you're done, save the file as a .json file. See the examples that follow to help format your proposal.
 
 Each Proposal type is unique in how the .json should be formatted:
 
 1. **TextProposal**: All the proposals that do not involve a modification of the source code go under this type. For example, an opinion poll would use a proposal of type _**TextProposal**_.
-2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal. They must do so by following a 2-steps process described in the [Software Upgrade](https://docs.cosmos.network/v0.43/modules/gov/01_concepts.html#software-upgrade) Section on the next page. Software upgrade roadmap may be discussed and agreed on via _**TextProposals**_, but actual software upgrades must be performed via _**SoftwareUpgradeProposals**_.
+2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal. They must do so by following a 2-steps process described in the [Software Upgrade](https://docs.cosmos.network/v0.43/modules/gov/01\_concepts.html#software-upgrade) Section on the next page. Software upgrade roadmap may be discussed and agreed on via _**TextProposals**_, but actual software upgrades must be performed via _**SoftwareUpgradeProposals**_.
 3. **CommunityPoolSpendProposal**: details a proposal for use of community funds, together with how many coins are proposed to be spent, and to which recipient account.
 4. **ParameterChangeProposal**: defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
 5. **CancelSoftwareUpgradeProposal**: is a gov Content type for cancelling a software upgrade.
 
 To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change.
 
-Once on-chain, most people will rely upon network explorers to interpret this information with a Graphical User Interface \(GUI\).
+Once on-chain, most people will rely upon network explorers to interpret this information with a Graphical User Interface (GUI).
 
-This is the command format for using cheqd’s CLI \(Command-Line Interface\) to submit your proposal on-chain:
+This is the command format for using cheqd’s CLI (Command-Line Interface) to submit your proposal on-chain:
 
-```text
+```
 cheqd CLI tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
@@ -140,11 +140,11 @@ cheqd CLI tx gov submit-proposal \
 
 ### Proposal type
 
-If &lt;proposal type&gt; is left blank, the type will be a Text proposal. Otherwise, it can be set to _**param-change**_, _**community-pool-spend**_, _**software-upgdrade**_ or _**cancel-software-upgrade**_. Use _**--help**_ to get more info from the tool.
+If \<proposal type> is left blank, the type will be a Text proposal. Otherwise, it can be set to _**param-change**_, _**community-pool-spend**_, _**software-upgdrade**_ or _**cancel-software-upgrade**_. Use _**--help**_ to get more info from the tool.
 
 For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
-```text
+```
 cheqd CLI tx gov submit-proposal \
 --title=<Parameter change proposal> \
 --description=<parameter change of min deposit> \
@@ -156,16 +156,16 @@ cheqd CLI tx gov submit-proposal \
 
 1. VDR CLI is the command-line interface client that is used to send transactions and query the cheqd testnet; 
 2. tx gov submit-proposal param-change indicates that the transaction is submitting a parameter-change proposal; 
-3. --from "alex" is the account key that pays the transaction fee and deposit amount; 
-4. --gas 500 is the maximum amount of gas you accept may be used to process the transaction:
+3. \--from "alex" is the account key that pays the transaction fee and deposit amount; 
+4. \--gas 500 is the maximum amount of gas you accept may be used to process the transaction:
    * The more content there is in the description of your proposal, the more gas your transaction will consume;
    * If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
    * The transaction will only use the amount of gas needed to process the transaction. 
-5. --fees is a flat-rate incentive for a Node Operator to process your transaction:
+5. \--fees is a flat-rate incentive for a Node Operator to process your transaction:
    * The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
    * Many nodes use a minimum fee to disincentivize transaction spamming; 
-6. --the testnet chain ID is **\[insert chain ID\]** 
-7. --node cheqd-node-1.evernym.network:26657 is using Evernym Networks' node to send the transaction to the cheqd testnet.
+6. \--the testnet chain ID is **\[insert chain ID]** 
+7. \--node cheqd-node-1.evernym.network:26657 is using Evernym Networks' node to send the transaction to the cheqd testnet.
 
 Note: be careful what you use for **--fees**. A mistake here could result in spending hundreds or thousands of cheqs accidentally, which cannot be recovered.
 
@@ -175,7 +175,7 @@ To prevent spam, Proposals must be submitted with a deposit in the coins defined
 
 When a Proposal is submitted, it has to be accompanied by a deposit that must be strictly positive, but can be inferior to _**MinDeposit**_. The submitter doesn't need to pay for the entire deposit on their own. If a Proposal's deposit is inferior to _**MinDeposit**_, other token holders can increase the Proposal's deposit by sending a Deposit transaction.
 
-The deposit is kept in an escrow in the governance _**ModuleAccount**_ until the proposal is finalized \(passed or rejected\).
+The deposit is kept in an escrow in the governance _**ModuleAccount**_ until the proposal is finalized (passed or rejected).
 
 Once the proposal's deposit reaches _**MinDeposit**_, it enters the voting period. If a proposal's deposit does not reach _**MinDeposit**_ before _**MaxDepositPeriod**_, the proposal closes and nobody can deposit on it anymore.
 
@@ -190,8 +190,8 @@ The _**MaxDepositPeriod**_ will be **2 weeks**.
 When a proposal is finalized, the coins from the deposit are either refunded or burned, according to the final tally of the proposal:
 
 * If a proposal does not reach _**MinDeposit,**_ the cheq in the governance _**ModuleAccount**_ will be burnt, which means that they will be put beyond use and removed from the ecosystem. 
-* If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will automatically be refunded to their respective depositor \(transferred from the governance _**ModuleAccount**_\).
-* If the proposal is approved, but the minimum quorum **\(33.34%\)** is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
+* If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will automatically be refunded to their respective depositor (transferred from the governance _**ModuleAccount**_).
+* If the proposal is approved, but the minimum quorum **(33.34%)** is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
 * When the proposal is vetoed by **33.34%,** deposits will be burned from the governance _**ModuleAccount**_.
 
 ### Verifying your transaction
@@ -206,4 +206,3 @@ There are a number of reasons why a transaction may fail. Here are two examples:
 2. Incorrect denomination - You may have specified an amount in 'nanocheq' or 'microcheq' instead of 'cheq', causing the transaction to fail.
 
 If you encounter a problem, try to troubleshoot it first, and then ask for help on the [cheqd Technical Help forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help). We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use.
-
