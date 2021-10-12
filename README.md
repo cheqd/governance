@@ -1,3 +1,7 @@
+---
+description: Let's make governance easy, accessible and inclusive
+---
+
 # cheqd Governance Framework
 
 ## **Before you cheq in...**
