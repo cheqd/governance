@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Minor Network changes
 
 ## **Minor Network changes**

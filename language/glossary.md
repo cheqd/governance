@@ -2,8 +2,6 @@
 description: >-
   This glossary lays out all of the key terms YOU may come across while using
   cheqd.
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
 ---
 
 # 📘 Glossary of terms

@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # 📖 Learning the basics
 
 For general holders of coins or tokens across the industry, governance is often seen as something inaccessible and complex. This is because education about governance is often lackluster. At cheqd, we want to make participating in governance easy.

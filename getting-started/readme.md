@@ -2,8 +2,6 @@
 description: >-
   This Section will introduce key concepts that you will come across in the
   course of participating in the cheqd ecosystem.
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
 ---
 
 # 🟢 Start Here

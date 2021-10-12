@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # cheqd Governance Framework
 
 ## **Before you cheq in...**

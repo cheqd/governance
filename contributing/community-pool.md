@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Community Pool
 
 cheqd will launch with community-spend capabilities, allowing CHEQ stakers to vote to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**

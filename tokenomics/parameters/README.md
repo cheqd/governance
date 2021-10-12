@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Parameters
 
 ## Parameters <a href="2a1d" id="2a1d"></a>

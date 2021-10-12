@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Legal Disclaimer
 
 ## General Disclaimer and Conditions

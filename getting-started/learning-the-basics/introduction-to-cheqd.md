@@ -2,8 +2,6 @@
 description: >-
   Before we can grasp how cheqd's Governance model works, we need to introduce
   cheqd's objective
-cover: ../../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
 ---
 
 # 🪙 Introduction to cheqd

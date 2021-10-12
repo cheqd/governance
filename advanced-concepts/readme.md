@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Overview
 
 This section takes a deeper dive into some of the more technical, legal and architectural details of cheqd and its governance structure.

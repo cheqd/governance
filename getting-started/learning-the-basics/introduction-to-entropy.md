@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # ☄ Introduction to Entropy
 
 ## **Introduction** <a href="76d0" id="76d0"></a>

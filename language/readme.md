@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/cheqd governance framework banner.png
-coverY: 0
----
-
 # Terminology
 
 It is important to use consistent and plain language, to ensure that there is a clear understanding of this Governance Framework.
