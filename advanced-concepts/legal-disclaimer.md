@@ -2,7 +2,7 @@
 
 ## General Disclaimer and Conditions
 
-The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, website material, webinars, events, videos or other graphics \(the “Information Material”\) has been prepared for informational purposes only and may be amended, superseded or replaced. 
+The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, website material, webinars, events, videos or other graphics (the “Information Material”) has been prepared for informational purposes only and may be amended, superseded or replaced. 
 
 {% hint style="info" %}
 The Information Material is subject to update and does not constitute a prospectus or offer document, invitation or offer to buy any instrument of any sort.
@@ -10,9 +10,9 @@ The Information Material is subject to update and does not constitute a prospect
 
 If any of the Information Material is updated with a new version after you accessed or received an older version, YOU are solely responsible for accessing or receiving the most up-to-date version. 
 
-The Information Material relates primarily to the intended development and use of the cheqd Network by various Participants, Node Operators and Users. Some of the Information Material relates to the acquisition of cryptographic tokens to be used in the cheqd Network \(“CHEQ”\). 
+The Information Material relates primarily to the intended development and use of the cheqd Network by various Participants, Node Operators and Users. Some of the Information Material relates to the acquisition of cryptographic tokens to be used in the cheqd Network (“CHEQ”). 
 
-There will be, and has not been, any Initial Coin Offering \(ICO\) or Initial Token Offering involving CHEQ. 
+There will not be, and has not been, any Initial Coin Offering (ICO) or Initial Token Offering involving CHEQ. 
 
 No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the CHEQ tokens or any of the Information Material. The acquisition of tokens is subject to a potential purchaser’s compliance with the laws and regulations in the jurisdiction they reside in.
 
@@ -20,13 +20,13 @@ The Information Material does not constitute either an offer or solicitation of 
 
 No information or opinion presented herein is intended as specific recommendations or to form the basis for any purchase or investment decision. Accordingly, the Information Material does not constitute investment advice or counsel or a solicitation for investment in any token or instrument. Prospective acquirers should consult with their professional advisors and advisors as needed prior to coming to their own conclusion on whether to acquire the CHEQ Tokens in their own jurisdiction.
 
-The acquisition of CHEQ Tokens carries with it significant risks and is inherently speculative in nature. Prospective purchasers should carefully assess and take into account such risks prior to purchasing CHEQ Tokens. cheqd's initial core team and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person \(collectively, “cheqd”\), expressly disclaims any and all responsibility for any direct or consequential loss or damage of any kind whatsoever arising directly or indirectly from: \(a\) reliance on any information contained in the Information Material; \(b\) any error, omission or inaccuracy in any such information; and \(c\) any action resulting therefrom. cheqd does not guarantee the accuracy of the statements made or conclusions reached in the Information Material and does not make, and expressly disclaims, all representations and warranties \(whether express or implied by statute or otherwise\). The Information Material does not constitute advice, nor any recommendations, by cheqd or any of its affiliates and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person, to any recipient of the Information Material.
+The acquisition of CHEQ Tokens carries with it significant risks and is inherently speculative in nature. Prospective purchasers should carefully assess and take into account such risks prior to purchasing CHEQ Tokens. cheqd's initial core team and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person (collectively, “cheqd”), expressly disclaims any and all responsibility for any direct or consequential loss or damage of any kind whatsoever arising directly or indirectly from: (a) reliance on any information contained in the Information Material; (b) any error, omission or inaccuracy in any such information; and (c) any action resulting therefrom. cheqd does not guarantee the accuracy of the statements made or conclusions reached in the Information Material and does not make, and expressly disclaims, all representations and warranties (whether express or implied by statute or otherwise). The Information Material does not constitute advice, nor any recommendations, by cheqd or any of its affiliates and all of their collective past, present or future officers, directors, managers, employees, agents, advisors or consultants, or any other person, to any recipient of the Information Material.
 
 No regulatory authority has examined or approved any information set forth in the Information Material. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination of the Information Material does not imply that applicable laws, regulatory requirements or rules have been complied with.
 
 The distribution or dissemination of the Information Material or any part thereof may be prohibited or restricted by the laws, regulatory requirements and rules of any jurisdiction. Persons to whom a copy of the Information Material has been distributed or disseminated or provided access to, or who otherwise have the Information Material in their possession, shall not circulate to any other persons, reproduce or otherwise distribute the Information Material or any information contained herein for any purpose whatsoever nor permit or cause the same to occur.
 
-References in the Information Material to specific companies are for reference purposes only. The use of any company\(ies\) or product name\(s\) and/or trademark\(s\) does not imply any affiliation with, or endorsement by, any of those parties.
+References in the Information Material to specific companies are for reference purposes only. The use of any company(ies) or product name(s) and/or trademark(s) does not imply any affiliation with, or endorsement by, any of those parties.
 
 ### **Caution regarding forward-looking statements**
 
@@ -66,11 +66,10 @@ This notice is written in English language and may be translated into other lang
 
 ### Restrictions on Duties and Transfers
 
-The rights of members in a Decentralized Autonomous Organization \(DAO\) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Information Material and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
+The rights of members in a Decentralized Autonomous Organization (DAO) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Information Material and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
 
 
 
-### 
+###
 
-## 
-
+##
