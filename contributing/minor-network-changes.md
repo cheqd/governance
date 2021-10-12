@@ -42,9 +42,9 @@ To make a change on either Wiki, you need to use the link below to become an Ope
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
-Once you have made your account using the link above, you will be classified as a [Writer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook.
+Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a  [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
 
-You should follow these instructions to make a change to any cheqd GitBook content.
+You should follow these instructions to make a edit to any cheqd GitBook content.
 
 1. **Make your edits in the text directly or use comments**\
    ****\
@@ -52,37 +52,27 @@ You should follow these instructions to make a change to any cheqd GitBook conte
    \
    If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.\
 
-2. **Save but do not merge**\
-   ****\
-   ****We suggest that you do not instantly merge your edits to the text. You have the ability to save your edits as a draft. \
-   \
-   Saved drafts will be reviewed by cheqd admins before being merged. \
-   \
-   Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.\
+2.  **Save your changes as a draft**
 
-3. **(Optional) Branch for large changes**\
-   \
-   You are able to create a new branch of the Wiki if you intend to make a lot of changes.\
-   \
-   To create a new branch, select 'New' followed by 'New variant'. This will create a branch of the main Wiki at that snapshot in time.\
-   \
-   Next you need to **name your new branch**.\
-   \
-   You should use the prefix:
+    ****
 
-* draft/\
-  \
-  followed by a unique title indicating your draft number such as\
+    You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
 
-* draft/{username}\
-  \
-  On this branch you should make and save all desired changes to the content.\
-  \
-  Once you have finished your changes, you can **save** and **merge** your changes on that branch and an admin will review the branch before merging to main.
+![](<../.gitbook/assets/image (2).png>)
 
-{% hint style="info" %}
-Note: If you are using branches, GitBook has a bug with images and assets. For this reason, please do not upload any images or assets to GitBook branches. 
-{% endhint %}
+You should keep your changes in drafts until you are happy with them.
+
+\
+Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.\
+
+
+3\.   **Submit your changes**\
+\
+Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation. 
+
+There will be a pop-up asking you to explain the changes you made. Make sure to write a clear sentence summarising your main changes to make it easier for the cheqd reviewers to go through your work.
+
+
 
 ### GitHub
 
@@ -118,4 +108,6 @@ Please use the search function to make sure that you are not submitting duplicat
 
 ## Translations
 
-You can submit translations via GitHub or GitBook branches (as above). We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
+We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
+
+We are currently working on a simple process for submitting translations through a GitHub branch. Please bear with us until we figure out a simple way to achieve this!
