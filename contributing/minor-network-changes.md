@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for Network Governance](<../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
+![Decision tree for Network Governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## How do I make edits to general text or code in cheqd documentation?
 

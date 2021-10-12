@@ -18,7 +18,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for cheqd governance](<../../.gitbook/assets/On-chain vs off-chain decision tree (1).jpg>)
+![Decision tree for Network Governance](<../../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## Proposals
 

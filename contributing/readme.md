@@ -20,7 +20,11 @@ These are changes that are insignificant, and do not affect the way the Network 
 * Finding, reporting and suggesting fixes to bugs;
 * Translating the cheqd documentation into various languages.
 
-See more, [here](https://docs.cheqd.io/governance/contributing/minor-network-changes)
+See more below:
+
+{% content-ref url="minor-network-changes.md" %}
+[minor-network-changes.md](minor-network-changes.md)
+{% endcontent-ref %}
 
 ### Major Network changes
 
@@ -36,7 +40,11 @@ Major Network changes include, but are not limited to:
 * Materially significant changes to a cheqd Principle;
 * Partnerships or connections to other infrastructure.
 
-See more, [here](https://docs.cheqd.io/governance/contributing/major-network-changes)
+See more below:
+
+{% content-ref url="major-network-changes/" %}
+[major-network-changes](major-network-changes/)
+{% endcontent-ref %}
 
 ## cheqd's Principles
 
