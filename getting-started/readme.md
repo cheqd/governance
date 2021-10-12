@@ -22,17 +22,23 @@ If you are not familiar with governance, and especially decentralised governance
 [learning-the-basics](learning-the-basics/)
 {% endcontent-ref %}
 
+###
+
 ### Editor
 
 If you want to get your teeth into this documentation, improve it and make everything better, you can use the invite link here:
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
+###
+
 ### Community buzzer
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
 {% embed url="https://docs.cheqd.io/governance/contributing#community" %}
+
+###
 
 ### Protagonist
 
@@ -42,9 +48,11 @@ If you want to use change the way cheqd Network functions, and use CHEQ for gove
 [contributing](../contributing/)
 {% endcontent-ref %}
 
+###
+
 ### Vendor
 
-If you want to run a Node on cheqd, or get yourslef into our technical documentation, we suggest you start here:
+If you want to run a Node on cheqd, or get yourself into our technical documentation, we suggest you start here:
 
 {% embed url="https://docs.cheqd.io/node" %}
 
