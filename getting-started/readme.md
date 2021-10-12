@@ -2,6 +2,8 @@
 description: >-
   This Section will introduce key concepts that you will come across in the
   course of participating in the cheqd ecosystem.
+cover: ../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
 ---
 
 # 🟢 Start Here
@@ -12,8 +14,6 @@ To give you the best experience in understanding how our Network governance work
 
 Feel free to select the route that suits you best:
 
-
-
 ### Beginner
 
 If you are not familiar with governance, and especially decentralised governance, we suggest that you should begin with our introductory documents:
@@ -21,8 +21,6 @@ If you are not familiar with governance, and especially decentralised governance
 {% content-ref url="learning-the-basics/" %}
 [learning-the-basics](learning-the-basics/)
 {% endcontent-ref %}
-
-
 
 ### Editor
 

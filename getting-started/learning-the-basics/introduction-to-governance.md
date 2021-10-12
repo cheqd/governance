@@ -2,6 +2,8 @@
 description: >-
   This document will introduce the reader to Governance, a term which is widely
   used but rarely understood.
+cover: ../../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
 ---
 
 # 🧑⚖ Introduction to Governance

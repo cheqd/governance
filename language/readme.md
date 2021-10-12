@@ -1,4 +1,9 @@
-# Terminology & Glossary
+---
+cover: ../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
+---
+
+# Terminology
 
 It is important to use consistent and plain language, to ensure that there is a clear understanding of this Governance Framework.
 
@@ -25,7 +30,6 @@ cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://docs.ch
 
 Reference MAY also be made to:
 
-* [Sovrin Glossary](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit)
+* [Sovrin Glossary](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe\_0glHst2fZ8/edit)
 * [eSSIF Lab Glossary](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-glossary) 
 * [DAO Model Law Glossary](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf)
-

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
+---
+
 # Voting on cheqd
 
 ## Learning the basics
@@ -50,7 +55,7 @@ The option set of a proposal refers to the set of choices a participant can choo
 
 The initial option set includes the following options:
 
-```text
+```
 Yes
 No
 NoWithVeto
@@ -83,9 +88,9 @@ Going forward, more complex quorum mechanisms, such as [Adaptive Quorum Biasing]
 
 ### Threshold
 
-Threshold is defined as the minimum proportion of Yes votes \(excluding Abstain votes\) for the proposal to be accepted.
+Threshold is defined as the minimum proportion of Yes votes (excluding Abstain votes) for the proposal to be accepted.
 
-Initially, the threshold is set at **55%** with a possibility to veto if more than **33.34% of votes** \(excluding Abstain votes\) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes \(excluding Abstain votes\) at the end of the voting period is superior to **55%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** \(excluding Abstain votes\).
+Initially, the threshold is set at **55%** with a possibility to veto if more than **33.34% of votes** (excluding Abstain votes) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes (excluding Abstain votes) at the end of the voting period is superior to **55%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** (excluding Abstain votes).
 
 ### Node Operator's punishment for non-voting
 
@@ -99,7 +104,7 @@ At launch, the Governance address will be the main Node Operator address generat
 
 Deposits are burned when proposals:
 
-1. **Expire** - deposits will be burned if the deposit period **\(2 weeks\)** ends before reaching the minimum deposit **\(8000 CHEQ\)**;
+1. **Expire** - deposits will be burned if the deposit period **(2 weeks)** ends before reaching the minimum deposit **(8000 CHEQ)**;
 2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **2 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
 3. **Are vetoed** - deposits for proposals with 33.4% of voting power backing the 'no-with-veto' option are also burned.
 
@@ -109,7 +114,7 @@ To learn more about when you should exercise the **veto** vote, refer to our [Se
 
 If proposals are of type _**SoftwareUpgradeProposal**_, then nodes need to upgrade their software to the new version that was voted. This process is divided into two steps:
 
-```text
+```
 Signal
 Switch
 ```
@@ -122,5 +127,4 @@ Note: There is only one signal slot per precommit. If several _**SoftwareUpgrade
 
 ### Switch
 
-Once a block contains more than 2/3rd precommits where a common _**SoftwareUpgradeProposal**_ is signaled, all the nodes \(including Node Operator nodes, non-validating full nodes and light-nodes\) are expected to switch to the new version of the software.
-
+Once a block contains more than 2/3rd precommits where a common _**SoftwareUpgradeProposal**_ is signaled, all the nodes (including Node Operator nodes, non-validating full nodes and light-nodes) are expected to switch to the new version of the software.

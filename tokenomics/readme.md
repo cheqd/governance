@@ -1,10 +1,13 @@
+---
+cover: ../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
+---
+
 # Primer on Tokenomics
 
 Tokenomics are typically documented and distributed via a dedicated whitepaper. However, since a large proportion of the tokenomics for cheqd directly relate to governance and our tokenomics will be a constant iteration, it made most sense to incorporate them into the cheqd network’s [Governance Framework](https://docs.cheqd.io/governance/), which will also be continuously updated. We can then continue using [blogs](https://blog.cheqd.io) to explain the initial and updated tokenomics in an easier to digest format.
 
 We have further assumed that readers are comfortable with concepts such as gas and block rewards and hence have not defined them here, but more info can be found in our [learning the basics page](https://docs.cheqd.io/governance/contributing/learning-the-basics). 
-
-![cheqd Introducing Tokenomics image](<../.gitbook/assets/Introducing tokenomics.png>)
 
 ## Context <a href="3ef2" id="3ef2"></a>
 

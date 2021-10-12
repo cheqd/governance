@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
+---
+
 # Major Network changes
 
 ## Major Network changes

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/cheqd governance framework banner.png
+coverY: 0
+---
+
 # ✍ How to Contribute
 
 ## How do I make changes on the Network?
