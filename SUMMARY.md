@@ -6,7 +6,7 @@
 
 * [🟢 Start Here](getting-started/readme.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
-  * [🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
+  * [🧑⚖ 🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🪙 Introduction to cheqd](getting-started/learning-the-basics/introduction-to-cheqd.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
 

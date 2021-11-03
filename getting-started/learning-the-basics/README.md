@@ -34,7 +34,7 @@ For general holders of coins or tokens across the industry, governance is often 
 
    1. **Transaction fees**  \
       \
-      **Read and writes to the cheqd Network incur what is known as a **transaction fee,** which is a calculated based on **gas. Gas may be higher when there are high transaction volumes on the Network, and vice versa. Node Operators may also set their own gas prices, above which they are considered in the pool of who creates that transaction block. However, we will not get into the nuances of gas here.  \
+      **Writes to the cheqd Network incur what is known as a **transaction fee,** which is a calculated based on **gas. Gas may be higher when there are high transaction volumes on the Network, and vice versa. Node Operators may also set their own gas prices, above which they are considered in the pool of who creates that transaction block. However, we will not get into the nuances of gas here.  \
 
    2.  **Block rewards**\
        ****\
@@ -56,4 +56,4 @@ For general holders of coins or tokens across the industry, governance is often 
    \
    Yes, is possible to instantly redelegate to a new Node Operator or **unbond** your tokens. You cannot 'hop' between Node Operators quickly however. You must complete your redelegation to a Node Operator before moving again. If you want to completely withdraw and **unbond** your tokens, you need to be mindful that this process takes **3 weeks** for the tokens to become available for use again. \
    \
-   This 3 week unbonding period is an example of a parameter which can be adjusted by the Governance Framework process. 
+   This 3 week unbonding period is an example of a parameter which can be adjusted by the Governance Framework process.&#x20;
