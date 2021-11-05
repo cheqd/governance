@@ -45,3 +45,4 @@
 
 * [Terminology](language/readme.md)
 * [📘 Glossary of terms](language/glossary.md)
+* [License](language/license.md.md)
