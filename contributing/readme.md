@@ -50,7 +50,7 @@ See more below:
 
 Whenever a **major network change** takes place on the Network, reference MUST be made to [cheqd's Foundational Principles](https://docs.cheqd.io/governance/principles#foundational-principles). The Principles should act as a checks and balance against **major network changes.**
 
-This means, that **major network changes** should never oppose a Principle, unless it is [acting to update or change a Principle](https://docs.cheqd.io/governance/principles#foundational-principles). 
+This means, that **major network changes** should never oppose a Principle, unless it is [acting to update or change a Principle](https://docs.cheqd.io/governance/principles#foundational-principles).&#x20;
 
 ## Community
 
@@ -80,7 +80,7 @@ Which both link to their respective GitHub repositories.
    4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community. \
       \
       You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes). \
-       
+      &#x20;
 2. [GitBook](https://docs.cheqd.io/governance/): Here we will host:
    1. Our [cheqd Node documentation](https://docs.cheqd.io/node/) to help YOU onboard to the Network as a Node Operator;
    2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.\
@@ -91,9 +91,9 @@ Which both link to their respective GitHub repositories.
 
 If you want to stay updated with cheqd news, we recommend that you join us on:
 
-1. [Twitter](https://twitter.com/cheqd_io): Follow us here to keep up to date with the latest cheqd news and to be the first to hear about special announcements;
+1. [Twitter](https://twitter.com/cheqd\_io): Follow us here to keep up to date with the latest cheqd news and to be the first to hear about special announcements;
 2. [Telegram](https://t.me/cheqd): Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
-3. [Community Slack:](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community.  
+3. [Community Slack:](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community. &#x20;
 4. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
 5. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 

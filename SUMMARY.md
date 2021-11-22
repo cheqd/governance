@@ -9,6 +9,7 @@
   * [🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🪙 Introduction to cheqd](getting-started/learning-the-basics/introduction-to-cheqd.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
+  * [❓ Key terms and FAQs](getting-started/learning-the-basics/key-terms-and-faqs.md)
 
 ## Contributing
 
