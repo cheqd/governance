@@ -44,7 +44,7 @@
 
 ***
 
-* [License](license.md.md)
+* [License](license.md)
 
 ## Language
 
