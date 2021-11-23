@@ -42,8 +42,11 @@
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
 * [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 
+***
+
+* [License](license.md.md)
+
 ## Language
 
 * [Terminology](language/readme.md)
 * [📘 Glossary of terms](language/glossary.md)
-* [License](language/license.md.md)
