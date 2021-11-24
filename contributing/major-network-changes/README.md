@@ -57,13 +57,13 @@ You could ask a simple question or present an idea in our [Github Discussions](h
 You may also want to rationalise your idea, or ask your question to the wider community, in:
 
 1. [cheqd Telegram](https://t.me/cheqd), or
-2. [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
+2. [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
 Engagement is likely to be critical to the success of a proposal. The degree to which you engage with the cheqd community should be relative to the potential impact that your proposal may have on the Network.
 
 ### Confident with your idea?
 
-Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
+Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation\_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
 
 ### **Drafting a Proposal**
 
@@ -82,13 +82,13 @@ The ideal format for a proposal is as a Markdown file (ie. .md) in a Github repo
 
 Engage the community with your draft proposal
 
-1. Post a draft of your proposal as a topic in [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues). 
+1. Post a draft of your proposal as a topic in [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues).&#x20;
 2. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
-3. Target members of the community in a semi-public way before bringing the draft to a full public audience. 
+3. Target members of the community in a semi-public way before bringing the draft to a full public audience.&#x20;
 4. Alert the community to the draft proposal via:
-   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd_io)
+   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
    * [cheqd Telegram](https://t.me/cheqd)
-   * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
+   * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
 #### Submit your proposal to the testnet
 
@@ -129,13 +129,13 @@ Once on-chain, most people will rely upon network explorers to interpret this in
 This is the command format for using cheqd’s CLI (Command-Line Interface) to submit your proposal on-chain:
 
 ```
-cheqd CLI tx gov submit-proposal \
+cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
-  --type="Text" \
+  --type="TextProposal" \
   --deposit="8000cheq" \
   --from=<name> \
-  --chain-id=<chain_id>
+  --chain-id=<cheqd-mainnet-1>
 ```
 
 ### Proposal type
@@ -145,29 +145,37 @@ If \<proposal type> is left blank, the type will be a Text proposal. Otherwise, 
 For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
 ```
-cheqd CLI tx gov submit-proposal \
+cheqd-noded tx gov submit-proposal \
 --title=<Parameter change proposal> \
 --description=<parameter change of min deposit> \
 --type="param-change" \
 --deposit="8000cheq" \
 --from=<alex> \
---chain-id=<testnetnode 45.77.218.219:26657>
+--chain-id=<cheqd-mainnet-1>
+--gas="auto"
+--gas-adjustment"1.2"
+--gas-prices="25ncheq"
+--node http://sentry1.eu.cheqd.net:26657
 ```
 
-1. VDR CLI is the command-line interface client that is used to send transactions and query the cheqd testnet; 
-2. tx gov submit-proposal param-change indicates that the transaction is submitting a parameter-change proposal; 
-3. \--from "alex" is the account key that pays the transaction fee and deposit amount; 
-4. \--gas 500 is the maximum amount of gas you accept may be used to process the transaction:
+1. cheqd noded is the Command-Line Interface (CLI) client that is used to send transactions and query the cheqd testnet or mainnet;&#x20;
+2. tx gov submit-proposal and type='param-change' indicates that the transaction is submitting a parameter-change proposal;&#x20;
+3. \--from "alex" is the account key that pays the transaction fee and deposit amount;&#x20;
+4. \--gas the maximum amount of gas you accept may be used to process the transaction:
    * The more content there is in the description of your proposal, the more gas your transaction will consume;
    * If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
-   * The transaction will only use the amount of gas needed to process the transaction. 
-5. \--fees is a flat-rate incentive for a Node Operator to process your transaction:
+   * The transaction will only use the amount of gas needed to process the transaction.&#x20;
+5. \--gas prices is a flat-rate incentive for a Node Operator to process your transaction:
    * The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
-   * Many nodes use a minimum fee to disincentivize transaction spamming; 
-6. \--the testnet chain ID is **\[insert chain ID]** 
-7. \--node cheqd-node-1.evernym.network:26657 is using Evernym Networks' node to send the transaction to the cheqd testnet.
+   * Many nodes use a minimum fee to disincentivize transaction spamming;
+   * This can also be set to "auto"&#x20;
+6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2"
+7. \--the mainnet chain ID is **cheqd-mainnet-1**&#x20;
+8. \--node http://sentry1.eu.cheqd.net:26657 is the name&#x20;
 
-Note: be careful what you use for **--fees**. A mistake here could result in spending hundreds or thousands of cheqs accidentally, which cannot be recovered.
+
+
+Note: be careful what you use for **--gas-prices**. A mistake here could result in spending hundreds or thousands of CHEQ accidentally, rather than ncheq, which cannot be recovered.
 
 ### Deposit
 
@@ -189,7 +197,7 @@ The _**MaxDepositPeriod**_ will be **2 weeks**.
 
 When a proposal is finalized, the coins from the deposit are either refunded or burned, according to the final tally of the proposal:
 
-* If a proposal does not reach _**MinDeposit,**_ the cheq in the governance _**ModuleAccount**_ will be burnt, which means that they will be put beyond use and removed from the ecosystem. 
+* If a proposal does not reach _**MinDeposit,**_ the cheq in the governance _**ModuleAccount**_ will be burnt, which means that they will be put beyond use and removed from the ecosystem.&#x20;
 * If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will automatically be refunded to their respective depositor (transferred from the governance _**ModuleAccount**_).
 * If the proposal is approved, but the minimum quorum **(33.34%)** is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
 * When the proposal is vetoed by **33.34%,** deposits will be burned from the governance _**ModuleAccount**_.
@@ -202,7 +210,7 @@ After posting your transaction, your command line interface will provide you wit
 
 There are a number of reasons why a transaction may fail. Here are two examples:
 
-1. Running out of gas - The more data there is in a transaction, the more gas it will need to be processed. If you don't specify enough gas, the transaction will fail.
-2. Incorrect denomination - You may have specified an amount in 'nanocheq' or 'microcheq' instead of 'cheq', causing the transaction to fail.
+1. Running out of gas - The more data there is in a transaction, the more gas it will need to be processed. If you don't specify enough gas, the transaction will fail and your gas will be consumed by the network.
+2. Incorrect denomination - You may have specified an amount in 'nanocheq' or 'microcheq' instead of 'ncheq', causing the transaction to fail.
 
 If you encounter a problem, try to troubleshoot it first, and then ask for help on the [cheqd Technical Help forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help). We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use.

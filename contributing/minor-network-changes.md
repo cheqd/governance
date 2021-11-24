@@ -58,7 +58,7 @@ You should follow these instructions to make a edit to any cheqd GitBook content
 
     You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 You should keep your changes in drafts until you are happy with them.
 
@@ -68,7 +68,7 @@ Following this as best practice, avoids the Wiki being misused or flooded with c
 
 3\.   **Submit your changes**\
 \
-Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation. 
+Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation.&#x20;
 
 There will be a pop-up asking you to explain the changes you made. Make sure to write a clear sentence summarising your main changes to make it easier for the cheqd reviewers to go through your work.
 
@@ -80,7 +80,7 @@ You may also use GitHub to make changes and amendments to both the source code a
 \
 We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).\
 \
-For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files). 
+For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).&#x20;
 
 **Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 

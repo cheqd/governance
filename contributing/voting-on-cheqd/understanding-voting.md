@@ -1,48 +1,52 @@
-# Voting on cheqd
+# Understanding voting
 
-## Learning the basics
+Voting on cheqd is a core part of the Network and how each individual User can influence the direction of change. cheqd voting is based on a [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) model, whereby Users can vote unilaterally or delegate their votes to a Node Operator of their choice.
 
-Before you dive into this section, we suggest that you familiarise yourself with the basic concepts surrounding Governance which can be found [**here**](https://docs.cheqd.io/governance/contributing/learning-the-basics).
+### Users
 
-## How do I Vote?
-
-Voting on cheqd is a core part of the Network and how each individual User can influence the direction of change. cheqd voting is based on a [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy) model, whereby Users can vote unilaterally or delegate their votes to a Node Operator of their choice.
+Users are people, organisations or other entities that hold tokens.
 
 ### Participants
 
-Participants are Users that have the right to vote on proposals. In the cheqd Network, participants are [**bonded**](https://docs.cheqd.io/governance/contributing/learning-the-basics#frequently-asked-questions-for-governance) CHEQ holders. Bonding means something different for Node Operators and for everyday Users:
+Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the active pool.
 
-1. Node Operators can ‘self-bond’ their staking tokens in order to vote on governance matters;
-2. Everyday Users can ‘bond’ their tokens to a Node Operator, this is known as **delegation**. 
+1. Node Operators can '**stake'** their tokens in order to vote on governance matters. This initial stake, when added to the active pool, is also known as **bonded**;
+2. Everyday Users can **‘delegate’** their tokens to a Node Operator, which then add to the amount **bonded** on that node.&#x20;
 
+{% hint style="info" %}
 Unbonded CHEQ holders and other Users do not get the right to participate in voting on Proposals. However, they can submit and deposit on Proposals.
+{% endhint %}
 
-Note that some participants can be forbidden to vote on a proposal under a certain Node Operator if:
+Some participants can be forbidden to vote on a proposal under a certain Node Operator if:
 
-* Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its voting period.
-* Participant set up a node and became a Node Operator after the proposal entered its voting period.
+* Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its **voting period**.
+* Participant set up a node and became a Node Operator after the proposal entered its **voting period**.
 
 This does not prevent the participant voting with CHEQ bonded to other Node Operator. For example, if a participant bonded some CHEQ to Node Operator A before a proposal entered voting period and other CHEQ to Node Operator B after proposal entered voting period, only the vote under Node Operator B will be forbidden.
 
 ### Inheritance
 
-If a Participant does not vote, it will inherit the Node Operator's vote which it is bonded to.
+If a Participant does not vote, the Node Operator will vote on behalf of the Participant, using the tokens it has been **delegated**.
 
-If the Participant votes before its bonded Node Operator, it’s vote will take precedence; the Node Operator will not inherit the Participant's vote.
+If the Participant votes before its delegated Node Operator, it’s vote will take precedence; the Node Operator will not inherit the Participant's vote.
 
-If the Participant votes after its Node Operator, it will override its Node Operator vote with its own. If the Proposal is urgent, it is possible that the vote will close before Proposal has a chance to react and override their Node Operator's vote.
+If the Participant votes after its Node Operator, it will override its Node Operator vote with its own. If the Proposal is urgent, it is possible that the vote will close before Participant has a chance to react and override their Node Operator's vote.
 
 ### Voting period
 
 Once a proposal reaches _**MinDeposit**_, it immediately enters Voting period. We define Voting period as the interval between the moment the vote opens and the moment the vote closes. Voting period should always be shorter than the Unbonding period to prevent double voting.
 
-The initial value of the cheqd Voting period is **2 weeks**.
+The initial value of the cheqd Voting period is **1 week**.
 
 ### Unbonding period
 
-Unbonding period is defined as the time to withdraw your bonded tokens from a Node Operator to gain full access to these tokens in liquid form.
+Unbonding period is defined as the time to withdraw delegated tokens from a Node Operator to gain full access to these tokens in liquid form.
 
-The initial value of the cheqd Unbonding period is **3 weeks**.
+The initial value of the cheqd Unbonding period is **2 weeks**.
+
+### Redelegation
+
+It is always possible to change the Node Operator you are delegated to, with a minimal time delay. You are also able to delegate to multiple Node Operators at the same time.&#x20;
 
 ### Option set
 
@@ -85,7 +89,7 @@ Going forward, more complex quorum mechanisms, such as [Adaptive Quorum Biasing]
 
 Threshold is defined as the minimum proportion of Yes votes (excluding Abstain votes) for the proposal to be accepted.
 
-Initially, the threshold is set at **55%** with a possibility to veto if more than **33.34% of votes** (excluding Abstain votes) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes (excluding Abstain votes) at the end of the voting period is superior to **55%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** (excluding Abstain votes).
+Initially, the threshold is set at **50%** with a possibility to veto if more than **33.34% of votes** (excluding Abstain votes) are _**NoWithVeto**_ votes. This means that proposals are accepted if the proportion of Yes votes (excluding Abstain votes) at the end of the voting period is superior to **50%** and if the proportion of _**NoWithVeto**_ votes is inferior to **33.34%** (excluding Abstain votes).
 
 ### Node Operator's punishment for non-voting
 
@@ -101,9 +105,9 @@ Deposits are burned when proposals:
 
 1. **Expire** - deposits will be burned if the deposit period **(2 weeks)** ends before reaching the minimum deposit **(8000 CHEQ)**;
 2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **2 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
-3. **Are vetoed** - deposits for proposals with 33.4% of voting power backing the 'no-with-veto' option are also burned.
+3. **Are vetoed** - deposits for proposals with **33.4%** of voting power backing the 'no-with-veto' option are also burned.
 
-To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle). 
+To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle).&#x20;
 
 ## Software Upgrade
 

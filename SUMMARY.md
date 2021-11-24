@@ -20,7 +20,9 @@
   * [Parameter Change Proposal Template](contributing/major-network-changes/parameter-change-proposal-template.md)
   * [Software Upgrade Proposal Template](contributing/major-network-changes/software-upgrade-proposal-template.md)
   * [Community Pool Proposal Template](contributing/major-network-changes/community-pool-proposal-template.md)
-* [Voting on cheqd](contributing/voting-on-cheqd.md)
+* [Voting on cheqd](contributing/voting-on-cheqd/README.md)
+  * [Understanding voting](contributing/voting-on-cheqd/understanding-voting.md)
+  * [How do I stake, delegate and vote practically?](contributing/voting-on-cheqd/how-do-i-stake-delegate-and-vote-practically.md)
 * [Community Pool](contributing/community-pool.md)
 
 ## Principles
