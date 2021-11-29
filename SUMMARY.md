@@ -37,6 +37,7 @@
 * [Parameters explained](tokenomics/parameters/README.md)
   * [#⃣ Network Parameters](tokenomics/parameters/network-parameters.md)
 * [Distribution explained](tokenomics/distribution-explained.md)
+* [Slashing explained](tokenomics/slashing-explained.md)
 
 ## Advanced concepts
 
