@@ -1,6 +1,4 @@
-# Parameters
-
-## Parameters <a href="2a1d" id="2a1d"></a>
+# Parameters explained
 
 Over the past months, the team has been analysing the desired behaviour of the network stakeholders as well as the available functionality provided by Cosmos to identify the levers to achieve the right incentives. Whilst there are many parameters, we will focus the analysis on the key parameters which affect the incentives on the network.
 
