@@ -103,8 +103,8 @@ At launch, the Governance address will be the main Node Operator address generat
 
 Deposits are burned when proposals:
 
-1. **Expire** - deposits will be burned if the deposit period **(2 weeks)** ends before reaching the minimum deposit **(8000 CHEQ)**;
-2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **2 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
+1. **Expire** - deposits will be burned if the deposit period **(1 week)** ends before reaching the minimum deposit **(8000 CHEQ)**;
+2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **1 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
 3. **Are vetoed** - deposits for proposals with **33.4%** of voting power backing the 'no-with-veto' option are also burned.
 
 To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle).&#x20;

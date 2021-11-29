@@ -8,7 +8,7 @@ cheqd will launch with community-spend capabilities, allowing CHEQ stakers to vo
 
 You may directly query any cheqd full node for the balance of the Community Pool:
 
-`cheqd q distribution community-pool --chain-id cheqd-1 --node cheqd-node-1.figment.network:26657`
+`cheqd-noded distribution community-pool --chain-id cheqd-mainnet-1 --node cheqd-node-1.figment.network:26657`
 
 Alternatively, the Cosmos explorers such as [Big Dipper](https://osmosis.bigdipper.live) or [Mint Scan](https://www.mintscan.io/cosmos/).
 
@@ -18,7 +18,7 @@ Funds from the cheqd Community Pool may be spent via successful governance propo
 
 #### How should funds from the Community Pool be spent?
 
-The prevailing assumption is that funds should be spent in a way that brings value to the cheqd Network. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability. 
+The prevailing assumption is that funds should be spent in a way that brings value to the cheqd Network. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability.&#x20;
 
 #### How are funds disbursed after a community-spend proposal is passed?
 
@@ -46,7 +46,7 @@ There are five (5) components:
 
 **Off-ledger template**
 
-You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus within [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues). 
+You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus within [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues).&#x20;
 
 #### On-ledger example
 
@@ -79,7 +79,7 @@ The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the propos
 
 #### Real example in Cosmos Hub community
 
-This is the governance proposal that [Gavin Birch](https://twitter.com/Ether_Gavin) ([Figment Networks](https://figment.network)) used to create [Prop23, the first successful Cosmos Hub community-spend proposal](https://hubble.figment.network/cosmos/chains/cosmoshub-3/governance/proposals/23).
+This is the governance proposal that [Gavin Birch](https://twitter.com/Ether\_Gavin) ([Figment Networks](https://figment.network)) used to create [Prop23, the first successful Cosmos Hub community-spend proposal](https://hubble.figment.network/cosmos/chains/cosmoshub-3/governance/proposals/23).
 
 You can query the proposal details with the gaiacli command-line interface using this command: `gaiacli q gov proposal 23 --chain-id cosmoshub-3 --node cosmos-node-1.figment.network:26657`
 
