@@ -35,7 +35,8 @@
 
 * [Primer on Tokenomics](tokenomics/readme.md)
 * [Parameters](tokenomics/parameters/README.md)
-  * [Network Parameters](tokenomics/parameters/network-parameters.md)
+  * [#⃣ Network Parameters](tokenomics/parameters/network-parameters.md)
+* [Distribution](tokenomics/distribution.md)
 
 ## Advanced concepts
 

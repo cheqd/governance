@@ -4,37 +4,11 @@
 
 Over the past months, the team has been analysing the desired behaviour of the network stakeholders as well as the available functionality provided by Cosmos to identify the levers to achieve the right incentives. Whilst there are many parameters, we will focus the analysis on the key parameters which affect the incentives on the network.
 
-Our Network parameters are listed below:
+Our Network parameters are listed here:
 
-| Variable                          | Value         | Type                |
-| --------------------------------- | ------------- | ------------------- |
-| **totalsupply**                   | 1,000,000,000 | #, CHEQ             |
-| **inflation**                     | 1.00%         | % decimal           |
-| **annual\_provisions**            | 10,000,000    | #, CHEQ             |
-| **goal\_bonded**                  | 60%           | % decimal           |
-| **inflation\_max**                | 4.00%         | % decimal           |
-| **inflation\_min**                | 1.00%         | % decimal           |
-| **inflation\_rate\_change**       | 4.50%         | % decimal           |
-| **blocksperyear**                 | 3,155,760     | #, blocks           |
-| **min\_deposit**                  | 8,000         | #, CHEQ             |
-| **max\_deposit\_period**          | 604,800       | seconds (= 1 week)  |
-| **voting\_period**                | 604,800       | seconds (= 1 week)  |
-| **quorum**                        | 33.34%        | % decimal           |
-| **threshold**                     | 55.00%        | % decimal           |
-| **veto**                          | 33.34%        | % decimal           |
-| **unbonding\_time**               | 1,210,000     | seconds (= 2 weeks) |
-| **max\_validators**               | 125           | #                   |
-| **signed\_blocks\_window**        | 25920         | #                   |
-| **min\_signed\_per\_window**      | 0.5           | #                   |
-| **slash\_fraction\_double\_sign** | 5%            | % slash             |
-| **slash\_fraction\_downtime**     | 1%            | % slash             |
-| **downtime\_jail\_duration**      | 600           | seconds             |
-| **gas**                           | variable      | #, CHEQ             |
-| **gas-prices**                    | variable      | #, CHEQ             |
-| **communitytax**                  | 2.00%         | % decimal           |
-| **baseproposerreward**            | 1.00%         | % decimal           |
-| **bonusproposerreward**           | 4.00%         | % decimal           |
-| **withdrawaddenabled**            | TRUE          |                     |
+{% content-ref url="network-parameters.md" %}
+[network-parameters.md](network-parameters.md)
+{% endcontent-ref %}
 
 It should be noted that these parameters can, and almost certainly will be modified via the governance procedures.
 
@@ -116,7 +90,7 @@ We settled on a value of **8,000 as MinDeposit. **This was not only a sensible m
 
 **Max\_deposit\_period **and **voting period**
 
-For the **MinDeposit time period (max\_deposit\_period) **and** voting period (voting\_period) **we settled on the default value of **2 weeks**. This is because this figure seems unproblematic and functional for healthy Cosmos communities.
+For the **MinDeposit time period (max\_deposit\_period) **and** voting period (voting\_period) **we settled on the value of **1 week**. This is because this figure seems unproblematic and functional for healthy Cosmos communities. 2 weeks, which was the parameter on our testnet, was too long to wait in order to push through new updates.
 
 **Quorum and threshold**
 
@@ -146,8 +120,6 @@ As we’ve mentioned briefly above, these values are very much the start and we 
 As we covered in the context section, these values are the Minimum Viable Tokenomics to establish the network. As the base values are updated by the community, the team will begin delivering more complex tokenomic functionality including a variety of commercial models such as transactional payments, subscriptions or volume-based discounting.
 
 Our primary focus will be on enabling these commercial models along with stable settlement, achieved through support for stablecoins and potentially central bank digital currencies.
-
-![cheqd June - December roadmap](<../../.gitbook/assets/cheqd roadmap.png>)
 
 ## Our tokenomics webinar <a href="d8f7" id="d8f7"></a>
 

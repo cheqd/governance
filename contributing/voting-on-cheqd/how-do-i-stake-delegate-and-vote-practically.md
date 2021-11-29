@@ -4,7 +4,7 @@ Governance on cheqd is carried out through our [Governance Dashboard](https://ch
 
 [https://cheqd.omniflix.co/](https://cheqd.omniflix.co)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 This initial dashboard enables Users to:
 
@@ -26,7 +26,7 @@ If you click the button "**Connect" **in the top right hand corner you will get 
 
 This will begin the process of "**Auto-discovery"**:
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Click **"Approve" **and this will attempt to connect your Keplr Wallet to the Governance Dashboard. You will see it connected on the dashboard in the top right, and your cheqd address linked.&#x20;
 
