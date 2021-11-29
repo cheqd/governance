@@ -6,35 +6,35 @@ Over the past months, the team has been analysing the desired behaviour of the n
 
 Our Network parameters are listed below:
 
-| Variable                       | Value         | Type                |
-| ------------------------------ | ------------- | ------------------- |
-| **totalsupply**                | 1,000,000,000 | #, cheq             |
-| **inflation**                  | 1.00%         | % decimal           |
-| **annual_provisions**          | 10,000,000    | #, cheq             |
-| **goal_bonded**                | 60%           | % decimal           |
-| **inflation_max**              | 4.00%         | % decimal           |
-| **inflation_min**              | 1.00%         | % decimal           |
-| **inflation_rate_change**      | 2.00%         | % decimal           |
-| **blocksperyear**              | 6,311,520     | #                   |
-| **min_deposit**                | 8,000         | #, cheq             |
-| **max_deposit_period**         | 1,210,000     | seconds (= 2 weeks) |
-| **voting_period**              | 1,210,000     | seconds (= 2 weeks) |
-| **quorum**                     | 33.34%        | % decimal           |
-| **threshold**                  | 55.00%        | % decimal           |
-| **veto**                       | 33.34%        | % decimal           |
-| **unbonding_time**             | 1814400       | seconds (= 3 weeks) |
-| **signed_blocks_window**       | 120960        | Blocks              |
-| **min_signed_per_window**      | 0.5           | Blocks              |
-| **slash_fraction_double_sign** | 0.05          |                     |
-| **slash_fraction_downtime**    | 0.01          |                     |
-| **downtime_jail_duration**     | 600           | seconds             |
-| **fee**                        | 0.02          | token               |
-| **gas**                        | Variable      | #, cheq             |
-| **gas-prices**                 | Variable      | #, cheq             |
-| **communitytax**               | 2.00%         | %                   |
-| **baseproposerreward**         | 1.00%         | %                   |
-| **bonusproposerreward**        | 4.00%         | %                   |
-| **withdrawaddenabled**         | TRUE          | bool                |
+| Variable                          | Value         | Type                |
+| --------------------------------- | ------------- | ------------------- |
+| **totalsupply**                   | 1,000,000,000 | #, CHEQ             |
+| **inflation**                     | 1.00%         | % decimal           |
+| **annual\_provisions**            | 10,000,000    | #, CHEQ             |
+| **goal\_bonded**                  | 60%           | % decimal           |
+| **inflation\_max**                | 4.00%         | % decimal           |
+| **inflation\_min**                | 1.00%         | % decimal           |
+| **inflation\_rate\_change**       | 4.50%         | % decimal           |
+| **blocksperyear**                 | 3,155,760     | #, blocks           |
+| **min\_deposit**                  | 8,000         | #, CHEQ             |
+| **max\_deposit\_period**          | 604,800       | seconds (= 1 week)  |
+| **voting\_period**                | 604,800       | seconds (= 1 week)  |
+| **quorum**                        | 33.34%        | % decimal           |
+| **threshold**                     | 55.00%        | % decimal           |
+| **veto**                          | 33.34%        | % decimal           |
+| **unbonding\_time**               | 1,210,000     | seconds (= 2 weeks) |
+| **max\_validators**               | 125           | #                   |
+| **signed\_blocks\_window**        | 25920         | #                   |
+| **min\_signed\_per\_window**      | 0.5           | #                   |
+| **slash\_fraction\_double\_sign** | 5%            | % slash             |
+| **slash\_fraction\_downtime**     | 1%            | % slash             |
+| **downtime\_jail\_duration**      | 600           | seconds             |
+| **gas**                           | variable      | #, CHEQ             |
+| **gas-prices**                    | variable      | #, CHEQ             |
+| **communitytax**                  | 2.00%         | % decimal           |
+| **baseproposerreward**            | 1.00%         | % decimal           |
+| **bonusproposerreward**           | 4.00%         | % decimal           |
+| **withdrawaddenabled**            | TRUE          |                     |
 
 It should be noted that these parameters can, and almost certainly will be modified via the governance procedures.
 
@@ -42,20 +42,20 @@ It should be noted that these parameters can, and almost certainly will be modif
 
 The main function of the general parameters is to set supply, inflation and targets for bonded targets.
 
-**Initial supply and goal_bonded**
+**Initial supply and goal\_bonded**
 
 * The** Initial supply **of tokens, i.e. to be minted at the Token Generation Event, is set to **1b (1 x 10^9)** which we deemed adequate for the initial size of the network. Please see inflation for how this is likely to increase.
-* The** **goal for the percentage of bonded tokens (**goal_bonded**) is currently set to **60%**. This was benchmarked against a number of projects and we feel this strikes the balance between securing the network and paying for identity transactions.
+* The** **goal for the percentage of bonded tokens (**goal\_bonded**) is currently set to **60%**. This was benchmarked against a number of projects and we feel this strikes the balance between securing the network and paying for identity transactions.
 
 The inflationary parameters were much more impactful to network incentives based on our analysis. Implementing zero inflation would eliminate block rewards and therefore incentivise the push for maximum adoption of the network utility since rewards would entirely depend on transaction fees. Rewards would scale with transaction volume but consequently rewards would be low at low transaction volumes and also unpredictable. As a benchmark, Sovrin’s self-sovereign identity [network has variable volumes month-by-month for various transaction types](https://sovrin.org/ssi-metrics-dashboards/), and thus rewards for node operators / validators that only relied on transaction fees would make it difficult for node operators to predict fees collected from the network.
 
-**Inflation: inflation_min and inflation_max**
+**Inflation: inflation\_min and inflation\_max**
 
-Inflation (**inflation_min** & **inflation_max**) somewhat solves this problem by introducing block rewards which are independent of transaction and hence gas fees. Assuming there is little to no downward pressure on price at low inflation, block rewards provide a largely predictable reward over sufficient time, ensuring support and securing of the network is rewarded. However, inflation dilutes the incentive for network use, i.e. scaling rewards according to transaction volume.
+Inflation (**inflation\_min** & **inflation\_max**) somewhat solves this problem by introducing block rewards which are independent of transaction and hence gas fees. Assuming there is little to no downward pressure on price at low inflation, block rewards provide a largely predictable reward over sufficient time, ensuring support and securing of the network is rewarded. However, inflation dilutes the incentive for network use, i.e. scaling rewards according to transaction volume.
 
 Consequently, inflation can be seen as a double-edged sword. It rewards maintaining the network even at low volumes, but dilutes the incentive to drive maximum adoption.
 
-By modelling rewards against transaction volume and using a number of reference points ([CIVIC](https://coinmarketcap.com/currencies/civic/), [EVEREST](https://coinmarketcap.com/currencies/everest/), [LUNA](https://coinmarketcap.com/currencies/terra-luna/) & [UST](https://coinmarketcap.com/currencies/terrausd/) all-time high transaction volumes) we established that **inflation_max **should be <4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation_min** as 1% to maintain sufficient rewards at low volumes.
+By modelling rewards against transaction volume and using a number of reference points ([CIVIC](https://coinmarketcap.com/currencies/civic/), [EVEREST](https://coinmarketcap.com/currencies/everest/), [LUNA](https://coinmarketcap.com/currencies/terra-luna/) & [UST](https://coinmarketcap.com/currencies/terrausd/) all-time high transaction volumes) we established that **inflation\_max **should be <4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation\_min** as 1% to maintain sufficient rewards at low volumes.
 
 ### Distribution <a href="2c44" id="2c44"></a>
 
@@ -73,7 +73,7 @@ However, as the network progresses and becomes increasingly decentralised, it ma
 
 Tokenomics is a subset of overall network governance. It is a way of incentivising or decentivising different actions on the network through economic forces, which in turn, regulates user behaviour.
 
-For tokenomics to have an effect on the progression of the network, there must also be ways that a User can interact with its governance. In cheqd’s Network, we use a system of collective voting, based on [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy). This voting architecture has a symbiotic relationship with the tokenomics to regulate the network.
+For tokenomics to have an effect on the progression of the network, there must also be ways that a User can interact with its governance. In cheqd’s Network, we use a system of collective voting, based on [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy). This voting architecture has a symbiotic relationship with the tokenomics to regulate the network.
 
 Let’s explain this simply. I want to make a materially significant change on the Network, let’s say a Parameter Change, adjusting the default parameters explained in this post. The steps necessary to reach an accepted Proposal are as follows:
 
@@ -114,9 +114,9 @@ Another common theme we noticed was that projects tended to begin with a higher 
 
 We settled on a value of **8,000 as MinDeposit. **This was not only a sensible middleground given our calculations, but gives us the option to Propose to scale down the value as the network progresses and becomes more decentralised.
 
-**Max_deposit_period **and **voting period**
+**Max\_deposit\_period **and **voting period**
 
-For the **MinDeposit time period (max_deposit_period) **and** voting period (voting_period) **we settled on the default value of **2 weeks**. This is because this figure seems unproblematic and functional for healthy Cosmos communities.
+For the **MinDeposit time period (max\_deposit\_period) **and** voting period (voting\_period) **we settled on the default value of **2 weeks**. This is because this figure seems unproblematic and functional for healthy Cosmos communities.
 
 **Quorum and threshold**
 
@@ -155,5 +155,5 @@ If you rather watch a video about our tokenomics, _cheq_ out our webinar below.
 
 [https://www.youtube.com/watch?v=KYs5QjRbDBs](https://www.youtube.com/watch?v=KYs5QjRbDBs)
 
-You can also [download the cheqd Tokenomics slides here](https://cheqd.io/hubfs/Documents/cheqd-Tokenomics_deck-Webinar_Sharing.pdf).
+You can also [download the cheqd Tokenomics slides here](https://cheqd.io/hubfs/Documents/cheqd-Tokenomics\_deck-Webinar\_Sharing.pdf).
 
