@@ -22,13 +22,13 @@ Make sure you are logged into [Keplr](https://www.keplr.app) on the same browser
 
 For more on setting up Keplr, read our [blog here](https://blog.cheqd.io/were-launching-the-cheq-token-very-soon-here-s-how-you-can-get-ready-8fc6a7833fbb)
 
-If you click the button "**Connect" **in the top right hand corner you will get a pop up, like the image below.&#x20;
+If you click the button "**Connect"** in the top right hand corner you will get a pop up, like the image below.&#x20;
 
 This will begin the process of "**Auto-discovery"**:
 
 ![](<../../.gitbook/assets/image (3) (1).png>)
 
-Click **"Approve" **and this will attempt to connect your Keplr Wallet to the Governance Dashboard. You will see it connected on the dashboard in the top right, and your cheqd address linked.&#x20;
+Click **"Approve"** and this will attempt to connect your Keplr Wallet to the Governance Dashboard. You will see it connected on the dashboard in the top right, and your cheqd address linked.&#x20;
 
 If you select cheqd on the dropdown menu in keplr, you should be able to access your CHEQ in your keplr wallet!
 
@@ -56,11 +56,11 @@ You will be able to see a list of all the Validators, their voting power and the
 [key-terms-and-faqs.md](../../getting-started/learning-the-basics/key-terms-and-faqs.md)
 {% endcontent-ref %}
 
-Press the button **"Delegate" **on your desired Validating Node Operator.&#x20;
+Press the button **"Delegate"** on your desired Validating Node Operator.&#x20;
 
 &#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 Enter the amount of tokens you want to delegate.
 
@@ -68,7 +68,7 @@ And voila! You have now delegated to a Node Operator and staked your tokens.&#x2
 
 ### How do I vote on Governance Proposals?
 
-To view the active Governance Proposals, click the tab **"Proposals" **in the top right menu.&#x20;
+To view the active Governance Proposals, click the tab **"Proposals"** in the top right menu.&#x20;
 
 ![](../../.gitbook/assets/image.png)
 

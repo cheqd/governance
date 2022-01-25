@@ -10,14 +10,14 @@ Our Network parameters are listed here:
 
 It should be noted that these parameters can, and almost certainly will be modified via the governance procedures.
 
-### General <a href="493f" id="493f"></a>
+### General <a href="#493f" id="493f"></a>
 
 The main function of the general parameters is to set supply, inflation and targets for bonded targets.
 
 **Initial supply and goal\_bonded**
 
-* The** Initial supply **of tokens, i.e. to be minted at the Token Generation Event, is set to **1b (1 x 10^9)** which we deemed adequate for the initial size of the network. Please see inflation for how this is likely to increase.
-* The** **goal for the percentage of bonded tokens (**goal\_bonded**) is currently set to **60%**. This was benchmarked against a number of projects and we feel this strikes the balance between securing the network and paying for identity transactions.
+* The **Initial supply** of tokens, i.e. to be minted at the Token Generation Event, is set to **1b (1 x 10^9)** which we deemed adequate for the initial size of the network. Please see inflation for how this is likely to increase.
+* The **** goal for the percentage of bonded tokens (**goal\_bonded**) is currently set to **60%**. This was benchmarked against a number of projects and we feel this strikes the balance between securing the network and paying for identity transactions.
 
 The inflationary parameters were much more impactful to network incentives based on our analysis. Implementing zero inflation would eliminate block rewards and therefore incentivise the push for maximum adoption of the network utility since rewards would entirely depend on transaction fees. Rewards would scale with transaction volume but consequently rewards would be low at low transaction volumes and also unpredictable. As a benchmark, Sovrin’s self-sovereign identity [network has variable volumes month-by-month for various transaction types](https://sovrin.org/ssi-metrics-dashboards/), and thus rewards for node operators / validators that only relied on transaction fees would make it difficult for node operators to predict fees collected from the network.
 
@@ -27,21 +27,21 @@ Inflation (**inflation\_min** & **inflation\_max**) somewhat solves this problem
 
 Consequently, inflation can be seen as a double-edged sword. It rewards maintaining the network even at low volumes, but dilutes the incentive to drive maximum adoption.
 
-By modelling rewards against transaction volume and using a number of reference points ([CIVIC](https://coinmarketcap.com/currencies/civic/), [EVEREST](https://coinmarketcap.com/currencies/everest/), [LUNA](https://coinmarketcap.com/currencies/terra-luna/) & [UST](https://coinmarketcap.com/currencies/terrausd/) all-time high transaction volumes) we established that **inflation\_max **should be <4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation\_min** as 1% to maintain sufficient rewards at low volumes.
+By modelling rewards against transaction volume and using a number of reference points ([CIVIC](https://coinmarketcap.com/currencies/civic/), [EVEREST](https://coinmarketcap.com/currencies/everest/), [LUNA](https://coinmarketcap.com/currencies/terra-luna/) & [UST](https://coinmarketcap.com/currencies/terrausd/) all-time high transaction volumes) we established that **inflation\_max** should be <4% to achieve any meaningful incentives through transaction volumes. We similarly used all-time low transaction volumes to identify **inflation\_min** as 1% to maintain sufficient rewards at low volumes.
 
-### Distribution <a href="2c44" id="2c44"></a>
+### Distribution <a href="#2c44" id="2c44"></a>
 
 **Communitytax, baseproposerreward & bonusproposerreward**
 
 As with the _general_ parameters above, we analysed existing projects (e.g. [Fetch.ai](https://coinmarketcap.com/currencies/fetch/), [Terra](https://coinmarketcap.com/currencies/terra-luna/) & [Akash](https://coinmarketcap.com/currencies/akash-network/)) and modelled various scenarios to understand the impact of the parameters on the network.
 
-Across these projects, the values for **communitytax**, **baseproposerreward** and **bonusproposerreward** appear to be set to their defaults. Our modelling suggests the reason for this is that aside from **communitytax, **rewards across the network are largely dictated by stake regardless of the **baseproposerreward **and** bonusproposerreward **values**.**
+Across these projects, the values for **communitytax**, **baseproposerreward** and **bonusproposerreward** appear to be set to their defaults. Our modelling suggests the reason for this is that aside from **communitytax,** rewards across the network are largely dictated by stake regardless of the **baseproposerreward** and **bonusproposerreward** values**.**
 
 As a result, we similarly didn’t see a reason to change the default values.
 
 However, as the network progresses and becomes increasingly decentralised, it may become beneficial to reduce these values. For example, looking at Osmosis, another token on Cosmos, the community[ recently lowered these values to 0](https://www.mintscan.io/osmosis/proposals/31). The logic behind this decision was to reduce the Node Operators with the largest stake on the network from getting richer, and to incentivise a wider breadth of stake distribution.
 
-### Governance <a href="ca98" id="ca98"></a>
+### Governance <a href="#ca98" id="ca98"></a>
 
 Tokenomics is a subset of overall network governance. It is a way of incentivising or decentivising different actions on the network through economic forces, which in turn, regulates user behaviour.
 
@@ -84,11 +84,11 @@ We found that the range was very large and calculated that our minimum deposit c
 
 Another common theme we noticed was that projects tended to begin with a higher MinDeposit and then lower this value through a Proposal as the Network matured (Cosmos and Osmosis). This is something that we thought would be valuable to replicate as well, in line with the [Principle of Entropy](https://blog.cheqd.io/entropy-in-decentralised-governance-part-one-b6dc2dab0085).
 
-We settled on a value of **8,000 as MinDeposit. **This was not only a sensible middleground given our calculations, but gives us the option to Propose to scale down the value as the network progresses and becomes more decentralised.
+We settled on a value of **8,000 as MinDeposit.** This was not only a sensible middleground given our calculations, but gives us the option to Propose to scale down the value as the network progresses and becomes more decentralised.
 
-**Max\_deposit\_period **and **voting period**
+**Max\_deposit\_period** and **voting period**
 
-For the **MinDeposit time period (max\_deposit\_period) **and** voting period (voting\_period) **we settled on the value of **1 week**. This is because this figure seems unproblematic and functional for healthy Cosmos communities. 2 weeks, which was the parameter on our testnet, was too long to wait in order to push through new updates.
+For the **MinDeposit time period (max\_deposit\_period)** and **voting period (voting\_period)** we settled on the value of **1 week**. This is because this figure seems unproblematic and functional for healthy Cosmos communities. 2 weeks, which was the parameter on our testnet, was too long to wait in order to push through new updates.
 
 **Quorum and threshold**
 
@@ -107,19 +107,19 @@ Veto is possibly the most extreme example of where governance and tokenomics ove
 
 We believe that the **33.34%** default setting for veto is both high and low enough. Veto votes should be used sparingly, only when Users think that a Proposal is contradicting a core cheqd Principle (to be released in our Governance Framework).
 
-## Changes <a href="3a2c" id="3a2c"></a>
+## Changes <a href="#3a2c" id="3a2c"></a>
 
-### A starting point <a href="1bd0" id="1bd0"></a>
+### A starting point <a href="#1bd0" id="1bd0"></a>
 
 As we’ve mentioned briefly above, these values are very much the start and we fully expect these to be updated by the community through the processes set out in the governance framework. Our hope though is that these values set a strong foundation for a successful, self-governing ecosystem.
 
-### Improvements <a href="a3ad" id="a3ad"></a>
+### Improvements <a href="#a3ad" id="a3ad"></a>
 
 As we covered in the context section, these values are the Minimum Viable Tokenomics to establish the network. As the base values are updated by the community, the team will begin delivering more complex tokenomic functionality including a variety of commercial models such as transactional payments, subscriptions or volume-based discounting.
 
 Our primary focus will be on enabling these commercial models along with stable settlement, achieved through support for stablecoins and potentially central bank digital currencies.
 
-## Our tokenomics webinar <a href="d8f7" id="d8f7"></a>
+## Our tokenomics webinar <a href="#d8f7" id="d8f7"></a>
 
 If you rather watch a video about our tokenomics, _cheq_ out our webinar below.
 

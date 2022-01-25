@@ -1,21 +1,21 @@
-# Distribution
+# Distribution explained
 
 _Tokenomics are typically documented and distributed via a dedicated whitepaper. However, since a large proportion of the tokenomics for cheqd directly relate to governance and our tokenomics will be a constant iteration, we incorporated them into the cheqd network’s Governance Framework, which will also be continuously updated. We can then continue using blogs to explain the initial and updated tokenomics in an easier to digest format._
 
-## Summary <a href="bbae" id="bbae"></a>
+## Summary <a href="#bbae" id="bbae"></a>
 
 Firstly, let’s start with a brief summary for those with little time to spare. The main groups are broken into:
 
-* **Community and grants: **Token rewards for our incredible community, especially those who have been with us since the start and who are key to the adoption of self-sovereign identity (SSI). This also includes grants for the SSI community so they can immediately use and vote on the network.
-* **Foundation: **The treasury will be used to support cheqd’s mission as well as vote on the direction of the protocol.
-* **Contributors: **The core team and those who have supported us in executing, including our exceptional advisors.
+* **Community and grants:** Token rewards for our incredible community, especially those who have been with us since the start and who are key to the adoption of self-sovereign identity (SSI). This also includes grants for the SSI community so they can immediately use and vote on the network.
+* **Foundation:** The treasury will be used to support cheqd’s mission as well as vote on the direction of the protocol.
+* **Contributors:** The core team and those who have supported us in executing, including our exceptional advisors.
 * **Shareholders:** Our investors, as [mentioned in our announcement here](https://twitter.com/fraser\_again/status/1440971937333792770?s=20), who supported us when our mission was simply to establish the payment rails and commercial models for self-sovereign identity without us knowing where this would take us. Again, a huge thank you!
 
 ![](<../.gitbook/assets/image (1).png>)
 
 ![](<../.gitbook/assets/image (3).png>)
 
-### Notes <a href="a5c3" id="a5c3"></a>
+### Notes <a href="#a5c3" id="a5c3"></a>
 
 {% hint style="info" %}
 _Vesting: Based on our analysis, it is possible to both stake unvested tokens and receive staking rewards for those unvested tokens, helping secure the network._
@@ -25,7 +25,7 @@ _Vesting: Based on our analysis, it is possible to both stake unvested tokens an
 _Circulating supply at Token Generation Event: Our distributions and calculations put the maximum circulating supply at 5.42% including treasury provided liquidity._
 {% endhint %}
 
-## Community and grants <a href="13cb" id="13cb"></a>
+## Community and grants <a href="#13cb" id="13cb"></a>
 
 The token and identity communities are both absolutely critical for us and the adoption of SSI and trusted data. We have the opportunity to not just achieve success for cheqd but the paradigm as a whole — data control back to individuals.
 
@@ -33,7 +33,7 @@ The token and identity communities are both absolutely critical for us and the a
 
 ![](<../.gitbook/assets/image (2).png>)
 
-### Community <a href="43e7" id="43e7"></a>
+### Community <a href="#43e7" id="43e7"></a>
 
 cheqd is committed to launching the network in a regulatory compliant fashion, so any offerings will target to fit within the laws set out within each geography. The current paradigm of identity is a problem globally, and we can only work at that scale if we are not excluded from certain countries or geographies.
 
@@ -41,7 +41,7 @@ That being said, we fully intend to [reward our community](https://www.cheqd.io/
 
 We would remind everyone to join our [Telegram](https://t.me/cheqd/) and [Twitter](https://twitter.com/cheqd\_io) to keep an eye out for our news and surprises.
 
-### SSI & validator grants <a href="e52b" id="e52b"></a>
+### SSI & validator grants <a href="#e52b" id="e52b"></a>
 
 To make adoption as easy as possible for the SSI community, we provide token grants to the companies developing in this space. These grants will smooth the transition to using a token-based network and provide them with stakes, which can generate token rewards, helping to offset the cost of using the network.
 
@@ -49,7 +49,7 @@ We are already seeing the impact of these grants on the SSI community’s abilit
 
 It will also provide us with a window to establish the necessary partnerships with custodians, exchanges and OTC desks such that their end clients do not need to worry about handling tokens at all.
 
-## Foundation <a href="cfff" id="cfff"></a>
+## Foundation <a href="#cfff" id="cfff"></a>
 
 ![](https://miro.medium.com/max/1120/0\*4zjgIya3PxzKJd5H)
 
@@ -59,17 +59,17 @@ Beyond the initial distribution, we expect proportionate staking rewards to flow
 
 Our priority here is ensuring we have sufficient treasury to support the project’s development and its team for an extended period.
 
-## Circulating supply <a href="9c41" id="9c41"></a>
+## Circulating supply <a href="#9c41" id="9c41"></a>
 
 As you have spotted, we have a variety of vesting periods over the groups, which naturally impact the circulating supply of tokens. In addition to vesting, block rewards will also increase that circulating supply. Naturally, it’s up to each token holder how much comes into circulation but the graph below outlines the maximum circulating supply at each stage.
 
 ![](https://miro.medium.com/max/1120/0\*7sB24LNK2DW94LqI)
 
-## Now and next <a href="750a" id="750a"></a>
+## Now and next <a href="#750a" id="750a"></a>
 
 As always, we would love to know your thoughts or feedback on our decisions and direction as comments on the article or via any of our other channels, take your pick! Have we missed something? If so, let us know!
 
-## Disclaimers <a href="125d" id="125d"></a>
+## Disclaimers <a href="#125d" id="125d"></a>
 
 _The values and statements made above are indicative only and should not be misconstrued as an offer or guarantee. As we have stated we are always open to feedback and hence these numbers and distributions are subject to change based on that feedback._
 
@@ -79,11 +79,11 @@ _This distribution document sets out the aims and intentions of the core cheqd t
 
 _**cheqd Governance**_
 
-_Integral to cheqd is the concept of decentralised Governance, explained in full detail in our _[_Governance Framework_](http://docs.cheqd.io/governance)_. This is important because the content of the cheqd tokenomics and this distribution document are subject to change if the governance mechanism opts to make _[_Major Network Changes_](https://docs.cheqd.io/governance/contributing/major-network-changes)_. Such governance decisions are outside of the direct control of the core team. As such, changes may affect (among other things) the token ($CHEQ) price, the specifics of token distribution and the network parameters._
+_Integral to cheqd is the concept of decentralised Governance, explained in full detail in our_ [_Governance Framework_](http://docs.cheqd.io/governance)_. This is important because the content of the cheqd tokenomics and this distribution document are subject to change if the governance mechanism opts to make_ [_Major Network Changes_](https://docs.cheqd.io/governance/contributing/major-network-changes)_. Such governance decisions are outside of the direct control of the core team. As such, changes may affect (among other things) the token ($CHEQ) price, the specifics of token distribution and the network parameters._
 
 _**Legal Uncertainty as a Risk Factor**_
 
-_There is underlying legal uncertainty in the nature of blockchain projects due to how quickly the industry is evolving and how legal regulations and frameworks need to adapt to keep up. For this reason, it is reasonably foreseeable that there will be further guidance and regulations on digital assets, cryptocurrency, Decentralised Autonomous Organisations (DAOs) and digital identity going forward. cheqd’s core team has made the best efforts to build cheqd in a _[_generative_](https://dash.harvard.edu/bitstream/handle/1/9385626/zittrain\_generativeinternet.pdf?sequence=1)_ way to develop alongside updates in the law. This notwithstanding, there is still a surface area of risk, where future or existing legal regulations could have a negative effect on the proper functioning of the project and on the value of $CHEQ._
+_There is underlying legal uncertainty in the nature of blockchain projects due to how quickly the industry is evolving and how legal regulations and frameworks need to adapt to keep up. For this reason, it is reasonably foreseeable that there will be further guidance and regulations on digital assets, cryptocurrency, Decentralised Autonomous Organisations (DAOs) and digital identity going forward. cheqd’s core team has made the best efforts to build cheqd in a_ [_generative_](https://dash.harvard.edu/bitstream/handle/1/9385626/zittrain\_generativeinternet.pdf?sequence=1) _way to develop alongside updates in the law. This notwithstanding, there is still a surface area of risk, where future or existing legal regulations could have a negative effect on the proper functioning of the project and on the value of $CHEQ._
 
 _No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the $CHEQ tokens or any of cheqd’s documentation, including blog posts, website material, webinars, events, videos or other graphics (the “Information Material”). The acquisition of tokens is subject to a potential acquirer’s compliance with the laws and regulations in the jurisdiction they reside in._
 
@@ -93,7 +93,7 @@ _The acquisition of $CHEQ tokens carries with it significant risks. Prospective 
 
 _**The Use Case as a Risk Factor**_
 
-_The $CHEQ token is worthless in itself and gains potential value only through the protocol, its use and through continual use of _[_Verifiable Credentials_](https://www.w3.org/TR/vc-data-model/)_ utilising cheqd payment functionality. Therefore, the success of the coin depends on multiple factors, including but not limited to, the health of the overall cryptocurrency market, the resilience of the cheqd protocol, and the success of Self-Sovereign Identity vendors in implementing real-world use cases._
+_The $CHEQ token is worthless in itself and gains potential value only through the protocol, its use and through continual use of_ [_Verifiable Credentials_](https://www.w3.org/TR/vc-data-model/) _utilising cheqd payment functionality. Therefore, the success of the coin depends on multiple factors, including but not limited to, the health of the overall cryptocurrency market, the resilience of the cheqd protocol, and the success of Self-Sovereign Identity vendors in implementing real-world use cases._
 
 _$CHEQ must also be held within a wallet that can, ideally, consume Verifiable Credentials as well as $CHEQ tokens. This relies on the work of third parties to facilitate a functioning and healthy ecosystem._
 

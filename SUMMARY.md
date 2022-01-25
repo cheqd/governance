@@ -43,6 +43,7 @@
 
 * [Overview](advanced-concepts/readme.md)
 * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
+* [Strategy for Decentralisation](advanced-concepts/strategy-for-decentralisation.md)
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
 * [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 

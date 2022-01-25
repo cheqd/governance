@@ -4,7 +4,7 @@ This section is a set of Foundational Principles which are core to the Network. 
 
 The Foundational Principles **SHOULD NOT** need to change throughout the lifecycle of the Network. They are designed to be flexible enough to underpin the Network as it progresses.
 
-Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17\_N9Fs3j_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
+Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17\_N9Fs3j\_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
 
 ## 1. The Principle Principle
 
@@ -31,7 +31,7 @@ With respect to the Principle Principle, it is also crucial to balance the right
 
 We do not want Users to feel hesitant to make genuine, well-intentioned Proposals, for fear of having their Proposal vetoed. We want Users to feel that their voice can be heard without being shut down and penalised. And we want to instill a culture of inclusivity and open-discussion.
 
-The Balancing Principle adds on to the Principle Principle. If there is a Proposal to amend, add or remove a Principle which is well-reasoned and well-intentioned, such Proposal **SHOULD NOT **be vetoed.
+The Balancing Principle adds on to the Principle Principle. If there is a Proposal to amend, add or remove a Principle which is well-reasoned and well-intentioned, such Proposal **SHOULD NOT** be vetoed.
 
 Voters **SHOULD** make a judgement call, based on their own morals and perceptions whether such a Proposal is genuinely well-intentioned; or whether it is created to antagonise, discriminate or cause harm to a set of persons or Users.
 

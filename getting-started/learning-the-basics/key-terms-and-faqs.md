@@ -16,7 +16,7 @@ The terms Validator and Node Operator are somewhat synonymous. Validator is the 
 
 ### What does a **Validator** actually do?
 
-The [Cosmos Hub](https://hub.cosmos.network/main/gaia-tutorials/what-is-gaia.html) is based on [Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html), which relies on a set of validators to secure the network. By ‘secure the network’ this refers to the way in which validators “_participate in consensus by broadcasting votes which contain _[_cryptographic signatures signed by their private key_](https://hub.cosmos.network/main/validators/validator-faq.html)”.
+The [Cosmos Hub](https://hub.cosmos.network/main/gaia-tutorials/what-is-gaia.html) is based on [Tendermint](https://tendermint.com/docs/introduction/what-is-tendermint.html), which relies on a set of validators to secure the network. By ‘secure the network’ this refers to the way in which validators “_participate in consensus by broadcasting votes which contain_ [_cryptographic signatures signed by their private key_](https://hub.cosmos.network/main/validators/validator-faq.html)”.
 
 A cryptographic signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A private key is like a password — a string of letters and numbers — that allows you to access and manage your crypto funds (your mnemonic is a version of this). So, the above is saying validators can broadcast that they agree with transactions in a block, using their password to sign their agreement in a mathematical way which ensures security and privacy.&#x20;
 
@@ -48,15 +48,15 @@ For context, we suggest the set gas-price should fall within this range: Low: 25
 
 ### What is **delegation**?
 
-Token holders, ‘**users’, **can **delegate **their tokens to Node Operators in order to earn rewards and participate in governance. Once a user has delegated tokens to a Node Operator and has tokens added to the active pool, they are known as **Participants.**
+Token holders, ‘**users’,** can **delegate** their tokens to Node Operators in order to earn rewards and participate in governance. Once a user has delegated tokens to a Node Operator and has tokens added to the active pool, they are known as **Participants.**
 
 Users can delegate to multiple Node Operators at the same time to essentially diversify their bonded token portfolio.&#x20;
 
-### What does **bonded **mean?
+### What does **bonded** mean?
 
 Bonded tokens are those present in the active pool.&#x20;
 
-**Bonded **tokens = **staked **tokens by Node Operator + **delegated **tokens by user.
+**Bonded** tokens = **staked** tokens by Node Operator + **delegated** tokens by user.
 
 
 
@@ -76,13 +76,13 @@ You also need to set a parameter called Commission Rate Max Change. This paramet
 
 &#x20;
 
-### **Governance **and **voting**
+### **Governance** and **voting**
 
-Users with **bonded **tokens, **Participants**, are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.&#x20;
+Users with **bonded** tokens, **Participants**, are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.&#x20;
 
 The specifics of how a participant can vote on Proposals, or create Proposals, is detailed further in the rest of our [Governance Framework](../../contributing/major-network-changes/).&#x20;
 
-If the User does not want to vote on a Governance Proposal or misses it for any particular reason, the Node Operator will **inherit **the **delegated **tokens and can use them to vote with.&#x20;
+If the User does not want to vote on a Governance Proposal or misses it for any particular reason, the Node Operator will **inherit** the **delegated** tokens and can use them to vote with.&#x20;
 
 **Node Operator voting power** = **initial stake** + **inherited delegated tokens** (if participants do not vote)
 
@@ -96,10 +96,10 @@ If you are particularly interested or passionate about a specific governance pro
 
 ### Can **Participants** earn tokens?&#x20;
 
-In short, yes. **Participants **may be eligible for a percentage of the rewards that Node Operators earn during the course of running a node. Node Operators may offer a certain **commission **for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator. \
+In short, yes. **Participants** may be eligible for a percentage of the rewards that Node Operators earn during the course of running a node. Node Operators may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator. \
 
 
-### How do I choose which **Node Operator** to **delegate **to?&#x20;
+### How do I choose which **Node Operator** to **delegate** to?&#x20;
 
 Choosing your Node Operator or multiple Node Operators is an important decision. There a few things you can take into consideration:
 
@@ -107,7 +107,7 @@ Choosing your Node Operator or multiple Node Operators is an important decision.
 
 
 
-    The incentive for delegating tokens to a Node Operator, is that you, as a participant, can earn rewards based on the stake of the Node Operator. Each Node Operator will have a **commission rate. **This is the percentage of tokens that the Node Operator will take as **commission **for running the infrastructure - the remaining percentage is distributed to the **participants**.
+    The incentive for delegating tokens to a Node Operator, is that you, as a participant, can earn rewards based on the stake of the Node Operator. Each Node Operator will have a **commission rate.** This is the percentage of tokens that the Node Operator will take as **commission** for running the infrastructure - the remaining percentage is distributed to the **participants**.
 
     &#x20;&#x20;
 2.  **Reputation**
@@ -125,7 +125,7 @@ Choosing your Node Operator or multiple Node Operators is an important decision.
 
     Think of it like this, if someone says to you “_what’s at stake_?” they are essentially asking: “_what am I risking in return for the potential rewards?_”
 
-    Node Operators might exhibit bad behaviour on the Network and, as a result, have their stake slashed. Slashing means taking **stake **away from the Node Operator and adding it to the Community Pool.\
+    Node Operators might exhibit bad behaviour on the Network and, as a result, have their stake slashed. Slashing means taking **stake** away from the Node Operator and adding it to the Community Pool.\
     \
     Bad behaviour in this context usually means that the Node Operator has not signed a sufficient number of blocks as ‘pre commits’ over a certain period of time. This could be due to inactivity or potential malicious intent.&#x20;
 
@@ -135,6 +135,6 @@ Choosing your Node Operator or multiple Node Operators is an important decision.
 
 ### What if I change my mind about a Node Operator? Is it possible to **redelegate** or **unbond** from a Node Operator?&#x20;
 
-Yes, it is possible to instantly **redelegate **to a new Node Operator; however, you cannot 'hop' between Node Operators quickly. You must complete your redelegation to a Node Operator before moving again. If you want to completely withdraw and **unbond** your tokens, you need to be mindful that this process takes **2 weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter which can be adjusted by the Governance Framework process.
+Yes, it is possible to instantly **redelegate** to a new Node Operator; however, you cannot 'hop' between Node Operators quickly. You must complete your redelegation to a Node Operator before moving again. If you want to completely withdraw and **unbond** your tokens, you need to be mindful that this process takes **2 weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter which can be adjusted by the Governance Framework process.
 
 &#x20;

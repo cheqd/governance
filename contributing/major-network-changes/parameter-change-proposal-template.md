@@ -4,7 +4,7 @@
 Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown (.md)
 {% endhint %}
 
-## Parameter Change** Proposal {1} {Example Proposal}**
+## Parameter Change **Proposal {1} {Example Proposal}**
 
 **Status**
 
@@ -34,7 +34,7 @@ New parameter **4000 cheq**
 
 _A longer <500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
-I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community. 
+I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community.&#x20;
 
 **Consequences**
 
