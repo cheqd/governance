@@ -1,6 +1,6 @@
 # ☄ Introduction to Entropy
 
-## **Introduction** <a href="76d0" id="76d0"></a>
+## **Introduction** <a href="#76d0" id="76d0"></a>
 
 The principle concept of **decentralised governance** is that no single person, entity or organisation can control the direction of change in a public Network. Instead, the direction of change is agreed by the democratic votes of an ever-growing, diverse collective.
 
@@ -12,7 +12,7 @@ We want cheqd to achieve sufficient decentralisation, and to dissolve the initia
 
 This is why we have created the concept of **Entropy** to transparently and effectively achieve sufficient decentralisation, through **decentralised governance.**
 
-## **Entropy** <a href="fd67" id="fd67"></a>
+## **Entropy** <a href="#fd67" id="fd67"></a>
 
 Entropy is broadly defined as the degree of disorder or uncertainty in a system or process of degradation or a trend to disorder, according to the [Mirriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/entropy). In Physics, and specifically, the Second Law of Thermodynamics, its function is best explained through a metaphor succinctly delivered by [Brian Cox](https://www.bbc.co.uk/programmes/p00fflcs).
 
@@ -44,7 +44,7 @@ This same pattern and natural law can be seen in the development of decentralise
 
 **The increasing of Entropy is one of cheqd’s foundational Principles, and we believe we can use it as a tool to achieve sufficient decentralisation efficiently and with transparency.**
 
-## **The genesis event** <a href="966f" id="966f"></a>
+## **The genesis event** <a href="#966f" id="966f"></a>
 
 Like a perfectly formed sandcastle with Low Entropy, any decentralised ecosystem must begin with a structure, set of rules, parameters and default settings which govern the scope, boundaries and objectives of the Network — usually set by a small group of individuals.
 
@@ -62,15 +62,13 @@ Others believe that Nakamoto wanted to play God and recreate the story of the wo
 
 The point of this elaboration, however, is to highlight that for every Network that eventually reaches a point of sufficient decentralisation and High Entropy, there is a Big Bang event, and a period of tinkering and adjustment, as Low Entropy begins to increase.
 
-And this is where we start at **cheqd**.
+And this is where we started at **cheqd**.
 
-cheqd are defining a set of baseline conditions and rules for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities.
+At its mainnet launch, cheqd defined a set of baseline conditions and [parameters](../../tokenomics/parameters/network-parameters.md) for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities and [SDK](https://v1.cosmos.network/sdk).
 
-And we want to clearly lay out how the Network will enable a smooth transition from a Low Entropy genesis event to a High Entropy, sufficiently decentralised structure.
+Going forward, we want to clearly lay out how the Network will enable a smooth transition from a Low Entropy genesis event to a High Entropy, sufficiently decentralised structure.
 
-We will be publishing these default parameters and our roadmap for this journey in our Governance Framework, appearing on our GitHub shortly, stay tuned!
-
-## **How do we model Entropy?** <a href="d1d6" id="d1d6"></a>
+## **How do we model Entropy?** <a href="#d1d6" id="d1d6"></a>
 
 To model Entropy, we wanted to build more visual and accessible than an algorithm or formula; something that could be easily applied to multiple blockchains and utilised by any layperson and diverse audience .
 
@@ -78,11 +76,11 @@ To model Entropy, we wanted to build more visual and accessible than an algorith
 
 ![cheqd Entropy Scorecard](<../../.gitbook/assets/Entropy radar diagram blank.png>)
 
-The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 - 5** which we refer to as Entropy Levels, measuring tangible decentralisation from a genesis state (and Low Entropy) to beyond the point of sufficient decentralisation (and High Entropy). 
+The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 - 5** which we refer to as Entropy Levels, measuring tangible decentralisation from a genesis state (and Low Entropy) to beyond the point of sufficient decentralisation (and High Entropy).&#x20;
 
-At each point on the diagram sits a different metric of measurement. It is important to note that we could have selected more, fewer or different metrics to calculate Entropy against. We chose the seven metrics listed below because they provide a very sensible, digestible foundation for a rough calculation of cheqd’s Entropy. These metrics cover each angle of the Network, from **security** to **geography** to **utility** to **governance**. 
+At each point on the diagram sits a different metric of measurement. It is important to note that we could have selected more, fewer or different metrics to calculate Entropy against. We chose the seven metrics listed below because they provide a very sensible, digestible foundation for a rough calculation of cheqd’s Entropy. These metrics cover each angle of the Network, from **security** to **geography** to **utility** to **governance**.&#x20;
 
-We would absolutely welcome suggestions and feedback from the community to further refine this list going forward. Get in touch with us using our [Governance discussion forum here](https://github.com/cheqd/cheqd-governance/discussions). 
+We would absolutely welcome suggestions and feedback from the community to further refine this list going forward. Get in touch with us using our [Governance discussion forum here](https://github.com/cheqd/cheqd-governance/discussions).&#x20;
 
 We will walk through our reasoning behind each choice:
 
@@ -90,20 +88,20 @@ We will walk through our reasoning behind each choice:
 
 This is the number of Node Operators on the Network. This is significant because the composition of Node Operators on the Network has a direct relationship with the dilution of voting power. The greater the number of Node Operators, the:
 
-1. Greater choice the token holders have in who to bond and delegate tokens to for the purpose of Network Governance. 
+1. Greater choice the token holders have in who to bond and delegate tokens to for the purpose of Network Governance.&#x20;
 2. Greater the strength of security on the Network, with fewer points of failure.
 
 2\. **Developers (commits)**
 
 This is the number of commits made on the source code after launch via cheqd’s open source repositories. Ideally, we would also be able to measure the amount of commits made by developers outside the core team of cheqd. Commits from developers outside cheqd add healthy randomness to the code and the development of the Network.
 
-3.** Participants (number)**
+3\. **Participants (number)**
 
 This is the number of bonded token holders, meaning the Network Users who have bound a portion of their tokens to a Node Operator in order to participate in Governance.\
 \
 This is important because the larger the pool of Participants, the more the voting power will become diluted across the Network, since Participants are able to vote unilaterally, regardless of the Node Operator they are bonded to.
 
-4.** Nakamoto coefficient (number)**
+4\. **Nakamoto coefficient (number)**
 
 Taken from previous work done on blockchain decentralisation, this is the minimum number of Entities in the Network that can pool together to reach 51% stake on the Network. The higher the number here, the more the Network is secure against malicious attacks and undesirable breaking changes.
 
@@ -113,11 +111,11 @@ Exchanges are closely correlated with the accessibility of the token. Being able
 
 6\. **Nodes (country)**
 
-The geographical makeup of the Network is important when discussing decentralisation. This is because geographic diversity lends itself to diversity of thought and perspective. Furthermore, a geographically diverse Network increases the security because even if an entire country was to shut its infrastructure down, a multijurisdictional Network would continue resolutely. 
+The geographical makeup of the Network is important when discussing decentralisation. This is because geographic diversity lends itself to diversity of thought and perspective. Furthermore, a geographically diverse Network increases the security because even if an entire country was to shut its infrastructure down, a multijurisdictional Network would continue resolutely.&#x20;
 
 7\. **Proposals (number)**
 
-Like developer commits, Network Governance Proposals transition the Network away from its genesis state to a more random and disordered Entity. This again is very important in removing the initial control and order that the cheqd core team has implemented into the genesis state of the Network. 
+Like developer commits, Network Governance Proposals transition the Network away from its genesis state to a more random and disordered Entity. This again is very important in removing the initial control and order that the cheqd core team has implemented into the genesis state of the Network.&#x20;
 
 The Proposal and Voting process on cheqd is based on a liquid democracy. As a result, the more decisions are made through this process, the more control is taken away from a centralised collective and moved to the consensus of a wide-barrelled and diverse group of Participants.
 
@@ -137,13 +135,13 @@ The values that we have chosen are as follows:
 | **Number of stakeholders to achieve 51% of Network (Nakamoto coefficient)** | 2                   | 4                   | 8                    | 15                  | 30                  |
 | **Exchanges (CEX and DEX) supported**                                       | 1                   | 2                   | 4                    | 6                   | 8                   |
 | **Country distribution of node operators**                                  | 5                   | 10                  | 20                   | 40                  | 60                  |
-| **Number of accepted Proposals after genesis **                             | 5                   | 10                  | 20                   | 40                  | 60                  |
+| **Number of accepted Proposals after genesis**                              | 5                   | 10                  | 20                   | 40                  | 60                  |
 
-To ‘score’ Entropy, you need to add the total sum of the Entropy Level across each metric. 
+To ‘score’ Entropy, you need to add the total sum of the Entropy Level across each metric.&#x20;
 
-For example, the highest level of decentralisation a Network could reach according to this model would be Entropy Level 5 in all metrics - totalling a score of **35**. Whilst the lowest level a Network could have would be Entropy Level 1 in all metrics - totalling a score of **5**. 
+For example, the highest level of decentralisation a Network could reach according to this model would be Entropy Level 5 in all metrics - totalling a score of **35**. Whilst the lowest level a Network could have would be Entropy Level 1 in all metrics - totalling a score of **5**.&#x20;
 
-We would also love to see other Networks applying the same scorecard model of Entropy to exhibit their Network’s level of decentralisation, and whilst slight changes may need to be made to accommodate for nuances in different Networks, the core concept can remain the same. 
+We would also love to see other Networks applying the same scorecard model of Entropy to exhibit their Network’s level of decentralisation, and whilst slight changes may need to be made to accommodate for nuances in different Networks, the core concept can remain the same.&#x20;
 
 Over time, we do expect this initial table to be iterated, extended and revised as decentralised ecosystems in general become more mature, more distinct and as opinion from Regulators, such as the Security and Exchange Commission (SEC) becomes more clear.\
 
@@ -152,17 +150,17 @@ Over time, we do expect this initial table to be iterated, extended and revised 
 
 In this section we want to explain where we are, where we want to get to, and why we want to get there.
 
-#### Where we are
+#### Where we started
 
-Like any other blockchain Network, cheqd will begin its life cycle with a Low Entropy score. This is absolutely normal for the genesis of a decentralised Network, as the core team will have put in the default parameters, meaning there will be a higher locus of control, and change has not yet been made via the governance framework processes. 
+Like any other blockchain Network, cheqd began its life cycle with a Low Entropy score. This is absolutely normal for the genesis of a decentralised Network, as the core team will have put in the default parameters, meaning there will be a higher locus of control, and change has not yet been made via the governance framework processes.&#x20;
 
-We envision that our Entropy score at launch will likely be **lower than 14.**
+At launch our Entropy score was **lower than 14.**
 
 A low entropy score as such, can be represented by the scorecard below:
 
 ![cheqd Low Entropy](<../../.gitbook/assets/Radar entropy low 2.png>)
 
-This score will quickly begin to shift after launch as decisions on the Network begin to be made by the consensus of the Network, more Partipicants and Node Operators join, and as the Network becomes more geographically diverse.
+This score quickly began to shift after launch as more participants joined from different geographies and stake began to spread more evenly. We will soon be launching a Governance Dashboard which shows where the network is on this scale. &#x20;
 
 #### Where we want to get to
 
@@ -176,7 +174,7 @@ We are aiming for high Entropy for various reasons, because it:
 
 As a benchmark, we want to aim for an **Entropy Score** **greater than 28**; and with **none of the scores below Entropy Level 3.**
 
-This combination is important because it will ensure that there is limited surface area for centralisation or control, as all metrics have progressed beyond a Low Entropy state. 
+This combination is important because it will ensure that there is limited surface area for centralisation or control, as all metrics have progressed beyond a Low Entropy state.&#x20;
 
 A High Entropy Network would generate a scorecard illustrated by the example below:
 
@@ -200,7 +198,7 @@ And a combination of the above will increase the Network Entropy in a healthy an
 
 ![cheqd Entropy Overlapped](<../../.gitbook/assets/radar entropy overlap 2.png>)
 
-As the initial team, we have a responsibility to, as we like to put it, create the first domino and push it over. Or in other terms, we need to take care in setting a strong technical foundation alongside a culture of transparency, inclusivity and open communication to push Entropy in the right direction. 
+As the initial team, we have a responsibility to, as we like to put it, create the first domino and push it over. Or in other terms, we need to take care in setting a strong technical foundation alongside a culture of transparency, inclusivity and open communication to push Entropy in the right direction.&#x20;
 
 ### Where does this leave us?
 
@@ -212,9 +210,9 @@ Over the course of this series of blogs, we have introduced and explained the fo
 
 And looking back now, what we want the reader to take away from this is to understand the following:
 
-Decentralised Networks and protocols often leave a lot to be desired, especially when it comes to clearly defined lines. 
+Decentralised Networks and protocols often leave a lot to be desired, especially when it comes to clearly defined lines.&#x20;
 
-Through our model of Entropy, we incentivise healthy behaviour, high resiliency, utility and generativity which should be the building blocks for any decentralised Network. 
+Through our model of Entropy, we incentivise healthy behaviour, high resiliency, utility and generativity which should be the building blocks for any decentralised Network.&#x20;
 
 We also want this to move decentralisation towards greater regulatory clarity, rather than towards greater dissonance.
 
