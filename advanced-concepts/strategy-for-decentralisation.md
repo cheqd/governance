@@ -20,6 +20,12 @@ On the page [Introduction to Entropy](../getting-started/learning-the-basics/int
 
 Last updated 25/01/2022
 
+At present, cheqd has successfully launched its [mainnet](https://explorer.cheqd.io/blocks) and is continually growing and expanding its identity partnerships, DeFi partnerships, general reach and decentralisation.&#x20;
+
+![](<../.gitbook/assets/cheqd Partnership Infographic (1).jpg>)
+
+This includes:
+
 * 50 Network Node Operators
 * 10+ countries validating
 * 7 = Minimum number of Node Operators to reach threshold (Nakamoto Coefficient)&#x20;
