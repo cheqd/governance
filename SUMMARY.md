@@ -35,7 +35,7 @@
 
 * [Primer on Tokenomics](tokenomics/readme.md)
 * [Parameters explained](tokenomics/parameters/README.md)
-  * [#⃣ Network Parameters](tokenomics/parameters/network-parameters.md)
+  * [# Network Parameters](tokenomics/parameters/network-parameters.md)
 * [Distribution explained](tokenomics/distribution-explained.md)
 * [Slashing explained](tokenomics/slashing-explained.md)
 
@@ -47,11 +47,12 @@
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
 * [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 
-***
-
-* [License](license.md)
-
-## Language
+## Terminology
 
 * [Terminology](language/readme.md)
 * [📘 Glossary of terms](language/glossary.md)
+
+## Legal
+
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [License](LICENSE.md)
