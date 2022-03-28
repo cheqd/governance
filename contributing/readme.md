@@ -93,9 +93,10 @@ If you want to stay updated with cheqd news, we recommend that you join us on:
 
 1. [Twitter](https://twitter.com/cheqd\_io): Follow us here to keep up to date with the latest cheqd news and to be the first to hear about special announcements;
 2. [Telegram](https://t.me/cheqd): Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
-3. [Community Slack:](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community.
-4. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
-5. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
+3. [Discord:](https://discord.gg/RxHxFcvQ) Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
+4. [Community Slack:](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community.
+5. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
+6. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 
 We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
