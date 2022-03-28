@@ -1,31 +1,30 @@
 # 🔢 Network Parameters
 
-| Variable                          | Value         | Type                |
-| --------------------------------- | ------------- | ------------------- |
-| **totalsupply**                   | 1,000,000,000 | #, cheq             |
-| **inflation**                     | 1.00%         | % decimal           |
-| **annual\_provisions**            | 10,000,000    | #, cheq             |
-| **goal\_bonded**                  | 60%           | % decimal           |
-| **inflation\_max**                | 4.00%         | % decimal           |
-| **inflation\_min**                | 1.00%         | % decimal           |
-| **inflation\_rate\_change**       | 2.00%         | % decimal           |
-| **blocksperyear**                 | 6,311,520     | #                   |
-| **min\_deposit**                  | 8,000         | #, cheq             |
-| **max\_deposit\_period**          | 1,210,000     | seconds (= 2 weeks) |
-| **voting\_period**                | 1,210,000     | seconds (= 2 weeks) |
-| **quorum**                        | 33.34%        | % decimal           |
-| **threshold**                     | 55.00%        | % decimal           |
-| **veto**                          | 33.34%        | % decimal           |
-| **unbonding\_time**               | 1814400       | seconds (= 3 weeks) |
-| **signed\_blocks\_window**        | 120960        | Blocks              |
-| **min\_signed\_per\_window**      | 0.5           | Blocks              |
-| **slash\_fraction\_double\_sign** | 0.05          |                     |
-| **slash\_fraction\_downtime**     | 0.01          |                     |
-| **downtime\_jail\_duration**      | 600           | seconds             |
-| **fee**                           | 0.02          | token               |
-| **gas**                           | Variable      | #, cheq             |
-| **gas-prices**                    | Variable      | #, cheq             |
-| **communitytax**                  | 2.00%         | %                   |
-| **baseproposerreward**            | 1.00%         | %                   |
-| **bonusproposerreward**           | 4.00%         | %                   |
-| **withdrawaddenabled**            | TRUE          | bool                |
+| Variable                                      | Value         | Type                |
+| --------------------------------------------- | ------------- | ------------------- |
+| **Initial supply of $CHEQ**                   | 1,000,000,000 | #, cheq             |
+| **Initial inflation rate**                    | 1.00%         | % decimal           |
+| **Goal for bonded tokens**                    | 60%           | % decimal           |
+| **Maximum inflation**                         | 4.00%         | % decimal           |
+| **Minimum inflation**                         | 1.00%         | % decimal           |
+| **Maximum rate of inflation change per year** | 1.50%         | % decimal           |
+| **Blocks per year**                           | 6,311,520     | #                   |
+| **Minimum deposit for governance proposal**   | 8,000         | #, cheq             |
+| **Time for deposit to reach minimum deposit** | 604,800       | seconds (= 1 week)  |
+| **Voting period**                             | 604,800       | seconds (= 1 week)  |
+| **Quorum**                                    | 33.34%        | % decimal           |
+| **Threshold**                                 | 55.00%        | % decimal           |
+| **Veto**                                      | 33.34%        | % decimal           |
+| **Unbonding Period**                          | 1,209,600     | seconds (= 2 weeks) |
+| **Signed blocks per window**                  | 120,960       | Blocks              |
+| **Minimum signed blocks per window**          | 0.5           | Blocks              |
+| **Slash infraction for a double sign**        | 5.00%         | % decimal           |
+| **Slash infraction for down time**            | 1.00%         | % decimal           |
+| **Downtime jail duration**                    | 600           | seconds             |
+| **Fee**                                       | 0.02          | token               |
+| **Gas**                                       | Variable      | #, cheq             |
+| **Gas-prices**                                | Variable      | #, cheq             |
+| **Community tax**                             | 2.00%         | %                   |
+| **Base Proposer Reward**                      | 1.00%         | %                   |
+| **Bonus Proposer Reward**                     | 4.00%         | %                   |
+| **Withdraw add enabled**                      | TRUE          | bool                |
