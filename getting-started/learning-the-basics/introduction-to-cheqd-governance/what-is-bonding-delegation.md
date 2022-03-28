@@ -13,3 +13,7 @@ There are multiple reasons why Users may want to delegate their tokens:
 {% content-ref url="../../../how-governance-works/why-should-i-delegate-and-stake-my-tokens.md" %}
 [why-should-i-delegate-and-stake-my-tokens.md](../../../how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
 {% endcontent-ref %}
+
+The hard-coded goal for bonded tokens on the cheqd Network is **60%**.&#x20;
+
+Below **60%** bonded tokens, the rate of inflation on the cheqd Network will increase, tending to **4%** **(inflation max)**. Above **60%** bonded tokens, the rate of inflation will decrease, tending towards **1% (inflation min)**.

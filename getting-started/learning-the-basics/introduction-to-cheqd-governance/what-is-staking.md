@@ -1,9 +1,10 @@
 # What is staking?
 
-In order to bond tokens and add them to the active pool, users need to **delegate** their tokens to Node Operators. Tokens which are delegated to Node Operators are bonded and added to the active pool.&#x20;
+As previously mentioned, in order to [bond](what-is-bonding-delegation.md) tokens and add them to the [active pool](what-is-the-active-pool.md), users need to [**delegate**](what-is-bonding-delegation.md) **** their tokens to [Node Operators](../../../how-governance-works/validators-and-node-operators.md).
 
-This is known more simply, as **staking**.
+This is known, more simply, as **staking**.
 
-**Stake** is the amount of tokens a **Node Operator** puts aside and dedicates to a network’s active pool, in order to contribute to governance and earn rewards. **Staking** is the verb used to describe this contribution. As cheqd is a Delegated Proof of Stake (PoS) Network, rewards can be earnt in direct correlation with the amount of stake a Node Operator contributes.
+**Stake** is the amount of tokens a **Node Operator** puts aside and dedicates to a network’s [active pool](what-is-the-active-pool.md), in order to contribute to governance and earn rewards.&#x20;
 
-The goal for bonded tokens on the Network is **60%**. Below **60%** bonded tokens, the rate of inflation will increase, tending to **4%** **(inflation max)**. Above **60%** bonded tokens, the rate of inflation will decrease, tending towards **1% (inflation min)**.
+
+
