@@ -23,7 +23,7 @@ These values may change over time through proposals that are voted on the networ
 
 #### Tombstone Caps <a href="#tombstone-caps" id="tombstone-caps"></a>
 
-In order to mitigate the impact of initially likely categories of non-malicious protocol faults, cheqd Network implements for each validator a _**tombstone**_** cap**, which only allows a validator to be slashed once for a double sign fault.&#x20;
+In order to mitigate the impact of initially likely categories of non-malicious protocol faults, cheqd Network implements for each validator a _**tombstone**_\*\* cap\*\*, which only allows a validator to be slashed once for a double sign fault.
 
 For example, if you misconfigure your HSM and double-sign a bunch of old blocks, you'll only be punished for the first double-sign (and then immediately tombstombed). This will still be quite expensive and desirable to avoid, but tombstone caps somewhat blunt the economic impact of unintentional misconfiguration.
 
@@ -43,7 +43,7 @@ Information about validator's liveness activity can be tracked through our block
 
 ### Delegator considerations
 
-When delegating tokens to a validator in order to earn staking rewards, there is an obvious benefit in terms of the passive income that a delegator can receive. However, it is also very important for delegators to understand the potential risks of slashing.&#x20;
+When delegating tokens to a validator in order to earn staking rewards, there is an obvious benefit in terms of the passive income that a delegator can receive. However, it is also very important for delegators to understand the potential risks of slashing.
 
 Any tokens directly staked by the validator as well as delegated tokens are counted in what gets slashed for bad behaviour. This means that if a validator exhibits a double-sign infraction or downtime, you may be slashed **5%** (for double-sign infraction) or **1%** for (validator experiencing enough downtime to be put in validator jail).
 

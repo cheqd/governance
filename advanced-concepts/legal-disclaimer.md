@@ -2,17 +2,17 @@
 
 ## General Disclaimer and Conditions
 
-The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, website material, webinars, events, videos or other graphics (the “Information Material”) has been prepared for informational purposes only and may be amended, superseded or replaced. 
+The information appearing in this Governance Framework and surrounding cheqd documentation, including blog posts, website material, webinars, events, videos or other graphics (the “Information Material”) has been prepared for informational purposes only and may be amended, superseded or replaced.
 
 {% hint style="info" %}
 The Information Material is subject to update and does not constitute a prospectus or offer document, invitation or offer to buy any instrument of any sort.
 {% endhint %}
 
-If any of the Information Material is updated with a new version after you accessed or received an older version, YOU are solely responsible for accessing or receiving the most up-to-date version. 
+If any of the Information Material is updated with a new version after you accessed or received an older version, YOU are solely responsible for accessing or receiving the most up-to-date version.
 
-The Information Material relates primarily to the intended development and use of the cheqd Network by various Participants, Node Operators and Users. Some of the Information Material relates to the acquisition of cryptographic tokens to be used in the cheqd Network (“CHEQ”). 
+The Information Material relates primarily to the intended development and use of the cheqd Network by various Participants, Node Operators and Users. Some of the Information Material relates to the acquisition of cryptographic tokens to be used in the cheqd Network (“CHEQ”).
 
-There will not be, and has not been, any Initial Coin Offering (ICO) or Initial Token Offering involving CHEQ. 
+There will not be, and has not been, any Initial Coin Offering (ICO) or Initial Token Offering involving CHEQ.
 
 No regulatory authority in Singapore, including the Monetary Authority of Singapore, has reviewed or approved the CHEQ tokens or any of the Information Material. The acquisition of tokens is subject to a potential acquirer's compliance with the laws and regulations in the jurisdiction they reside in.
 
@@ -32,13 +32,13 @@ References in the Information Material to specific companies are for reference p
 
 Certain statements in the Information Material may constitute “forward-looking information” under various securities laws. In some cases, these forward-looking statements can be identified by words or phrases such as “may,” “will,” “expect,” “anticipate,” “aim,” “estimate,” “intend,” “plan,” “seek,” “believe,” “potential,” “continue,” “is/are likely to” or the negative of such terms, or other similar expressions intended to identify forward-looking statements. Forward looking statements are provided to allow acquirers of the CHEQ Tokens the opportunity to understand cheqd's initial beliefs and opinions in respect of the potential future, including forward-looking statements related to the proposed operating model for cheqd, which should not be construed as a forecast, projection or prediction of future results of cheqd operations.
 
-This is also because cheqd will be taken forward through a decentralised governance process, whereby the consensus of the Network will make decisions on the direction of the Network. 
+This is also because cheqd will be taken forward through a decentralised governance process, whereby the consensus of the Network will make decisions on the direction of the Network.
 
-The forward-looking statements are not guarantees of future performance, and undue reliance should not be placed on them. Forward-looking statements are based on certain assumptions and analysis based on current estimates, assumptions, conditions and expected future developments and other factors cheqd initially believes are appropriate. 
+The forward-looking statements are not guarantees of future performance, and undue reliance should not be placed on them. Forward-looking statements are based on certain assumptions and analysis based on current estimates, assumptions, conditions and expected future developments and other factors cheqd initially believes are appropriate.
 
-The cheqd Network will be taken forward and developed through a decentralised governance process, whereby the consensus of the Network will make decisions on the direction of the Network. 
+The cheqd Network will be taken forward and developed through a decentralised governance process, whereby the consensus of the Network will make decisions on the direction of the Network.
 
-As such, these forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual future success of cheqd, the CHEQ token or its performance to be materially different from any future results, performance or achievements expected, expressed or implied by such forward-looking statements. 
+As such, these forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual future success of cheqd, the CHEQ token or its performance to be materially different from any future results, performance or achievements expected, expressed or implied by such forward-looking statements.
 
 These factors include, but are not limited to, risks associated with:
 
@@ -67,8 +67,6 @@ This notice is written in English language and may be translated into other lang
 ### Restrictions on Duties and Transfers
 
 The rights of members in a Decentralized Autonomous Organization (DAO) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Information Material and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
-
-
 
 ###
 
