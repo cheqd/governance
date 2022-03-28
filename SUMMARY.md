@@ -11,16 +11,15 @@
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
     * [What is staking?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-staking.md)
-    * [Governance and voting](getting-started/learning-the-basics/introduction-to-cheqd-governance/governance-and-voting.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
 
 ## How Governance Works
 
 * [Validators and Node Operators](how-governance-works/validators-and-node-operators.md)
 * [Why should I delegate and stake my tokens?](how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
-* [Redelegating and Unbonding](how-governance-works/redelegating-and-unbonding.md)
 * [Network Parameters](tokenomics/parameters/network-parameters.md)
 * [Slashing explained](tokenomics/slashing-explained.md)
+* [Redelegating and Unbonding](how-governance-works/redelegating-and-unbonding.md)
 
 ## Contributing
 
