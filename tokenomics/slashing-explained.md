@@ -1,5 +1,19 @@
 # Slashing explained
 
+### Delegator considerations
+
+When delegating tokens to a validator in order to earn staking rewards, there is an obvious benefit in terms of the passive income that a delegator can receive. However, it is also very important for delegators to understand the potential risks of slashing.
+
+Any tokens directly staked by the validator as well as delegated tokens are counted in what gets slashed for bad behaviour. This means that if a validator exhibits a double-sign infraction or downtime, you may be slashed **5%** (for double-sign infraction) or **1%** for (validator experiencing enough downtime to be put in validator jail).
+
+For this reason, if you are delegated to a Validator and you notice them experiencing downtime, which can be seen on the [block explorer](https://cheqd.didx.co.za/validators), it is suggested that you should **redelegate** your tokens to another Validator which is stable.
+
+It is very important to note the difference between **redelegation** and **unbonding.** If you **redelegate** to another Validator within the 7.2 hour window before they are put in validator jail, you will likely escape any potential slashing. If you try and **unbond** your tokens from the Validator, since there is an unbonding period of **2 weeks,** you will still remain bound to the Validator in the short term and will experience a slash on your delegated tokens.
+
+Understanding the difference between these two nuanced concepts is therefore important for any token holder that wants to bond, stake and delegate their tokens on the network.
+
+### How slashing works
+
 The slashing module enables cheqd to disincentivize any attributable action by a protocol-recognized actor with value at stake by penalizing them ("**slashing**").
 
 Penalties may include, but are not limited to:
@@ -41,14 +55,4 @@ Information about validator's liveness activity can be tracked through our block
 
 {% embed url="https://cheqd.didx.co.za/validators" %}
 
-### Delegator considerations
-
-When delegating tokens to a validator in order to earn staking rewards, there is an obvious benefit in terms of the passive income that a delegator can receive. However, it is also very important for delegators to understand the potential risks of slashing.
-
-Any tokens directly staked by the validator as well as delegated tokens are counted in what gets slashed for bad behaviour. This means that if a validator exhibits a double-sign infraction or downtime, you may be slashed **5%** (for double-sign infraction) or **1%** for (validator experiencing enough downtime to be put in validator jail).
-
-For this reason, if you are delegated to a Validator and you notice them experiencing downtime, which can be seen on the [block explorer](https://cheqd.didx.co.za/validators), it is suggested that you should **redelegate** your tokens to another Validator which is stable.
-
-It is very important to note the difference between **redelegation** and **unbonding.** If you **redelegate** to another Validator within the 7.2 hour window before they are put in validator jail, you will likely escape any potential slashing. If you try and **unbond** your tokens from the Validator, since there is an unbonding period of **2 weeks,** you will still remain bound to the Validator in the short term and will experience a slash on your delegated tokens.
-
-Understanding the difference between these two nuanced concepts is therefore important for any token holder that wants to bond, stake and delegate their tokens on the network.
+###
