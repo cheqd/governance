@@ -81,19 +81,19 @@ Or if you would prefer to use another tool to write your Proposal, you can selec
 3. [Software Upgrade Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/software-upgrade-proposal-template)
 4. [Community Pool Proposal](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template)
 
-The ideal format for a proposal is as a Markdown file (ie. .md) in a Github repo. Markdown is a simple and accessible format for writing plain text files that is easy to learn. See the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/) for details on writing markdown files.
-
 Engage the community with your draft proposal
 
-1. Post a draft of your proposal as a topic in [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues).
-2. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
-3. Target members of the community in a semi-public way before bringing the draft to a full public audience.
-4. Alert the community to the draft proposal via:
+1. Post a draft of your proposal as a thread in [cheqd Proposal Discussion forum](https://commonwealth.im/cheqd/discussions/2%20-%20Proposal%20Discussion)
+2. Post a link to the proposal in the [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
+3. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
+4. Target members of the community in a semi-public way before bringing the draft to a full public audience.
+5. Alert the community to the draft proposal via:
    * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
    * [cheqd Telegram](https://t.me/cheqd)
+   * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
    * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
-#### Submit your proposal to the testnet
+#### Submit your proposal to cheqd Testnet
 
 You may want to submit your proposal to the testnet chain before the mainnet for a number of reasons, such as wanting to see what the proposal description will look like, to share what the proposal will look like in advance with stakeholders, and to signal that your proposal is about to go live on the mainnet.
 
