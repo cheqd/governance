@@ -6,10 +6,18 @@
 
 * [🟢 Start Here](getting-started/readme.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
-  * [🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
-  * [🪙 Introduction to cheqd](getting-started/learning-the-basics/introduction-to-cheqd.md)
+  * [🧑⚖ 🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
+  * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
-  * [❓ Key terms and FAQs](getting-started/learning-the-basics/key-terms-and-faqs.md)
+
+## How Governance Works
+
+* [Validators and Node Operators](how-governance-works/validators-and-node-operators.md)
+* [Why should I delegate and stake my tokens?](how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
+* [Redelegating and Unbonding](how-governance-works/redelegating-and-unbonding.md)
+* [Network Parameters](how-governance-works/network-parameters.md)
+* [Staking](how-governance-works/staking.md)
+* [Slashing explained](how-governance-works/slashing-explained.md)
 
 ## Contributing
 
@@ -31,21 +39,12 @@
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
-## Tokenomics
-
-* [Primer on Tokenomics](tokenomics/readme.md)
-* [Parameters explained](tokenomics/parameters/README.md)
-  * [# Network Parameters](tokenomics/parameters/network-parameters.md)
-* [Distribution explained](tokenomics/distribution-explained.md)
-* [Slashing explained](tokenomics/slashing-explained.md)
-
 ## Advanced concepts
 
 * [Overview](advanced-concepts/readme.md)
 * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
 * [Strategy for Decentralisation](advanced-concepts/strategy-for-decentralisation.md)
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
-* [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
 
 ## Terminology
 
@@ -54,5 +53,6 @@
 
 ## Legal
 
-* [Code of Conduct](CODE_OF_CONDUCT.md)
-* [License](LICENSE.md)
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [License](legal/license.md)
+* [Legal Disclaimer](legal/legal-disclaimer.md)
