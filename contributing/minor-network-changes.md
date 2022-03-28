@@ -16,6 +16,18 @@ To help YOU understand how to make changes on the cheqd Network, the decision tr
 
 ![Decision tree for Network Governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
+## Voting off-chain
+
+One of the core components of cheqd governance is having both on-chain and off-chain voting mechanisms.&#x20;
+
+Off-chain voting should be used for Minor Network Changes as well as for more general community polling.
+
+cheqd uses the Governance platform Commonwealth to enable off-chain votes on specific forum discussion topics.
+
+{% embed url="https://commonwealth.im/cheqd" %}
+
+We will point the community to off-chain votes using our Telegram and Discord to keep all of the community in the loop.
+
 ## How do I make edits to general text or code in cheqd documentation?
 
 You are able to make revisions and amendments to the Wiki and source code without making a formal Proposal.

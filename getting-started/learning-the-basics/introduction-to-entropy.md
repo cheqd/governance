@@ -64,7 +64,7 @@ The point of this elaboration, however, is to highlight that for every Network t
 
 And this is where we started at **cheqd**.
 
-At its mainnet launch, cheqd defined a set of baseline conditions and [parameters](network-parameters.md) for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities and [SDK](https://v1.cosmos.network/sdk).
+At its mainnet launch, cheqd defined a set of baseline conditions and [parameters](../../tokenomics/parameters/network-parameters.md) for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities and [SDK](https://v1.cosmos.network/sdk).
 
 Going forward, we want to clearly lay out how the Network will enable a smooth transition from a Low Entropy genesis event to a High Entropy, sufficiently decentralised structure.
 

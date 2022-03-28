@@ -11,7 +11,7 @@ Users are people, organisations or other entities that hold tokens.
 Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the active pool.
 
 1. Node Operators can '**stake'** their tokens in order to vote on governance matters. This initial stake, when added to the active pool, is also known as **bonded**;
-2. Everyday Users can **‘delegate’** their tokens to a Node Operator, which then add to the amount **bonded** on that node.&#x20;
+2. Everyday Users can **‘delegate’** their tokens to a Node Operator, which then add to the amount **bonded** on that node.
 
 {% hint style="info" %}
 Unbonded CHEQ holders and other Users do not get the right to participate in voting on Proposals. However, they can submit and deposit on Proposals.
@@ -46,7 +46,7 @@ The initial value of the cheqd Unbonding period is **2 weeks**.
 
 ### Redelegation
 
-It is always possible to change the Node Operator you are delegated to, with a minimal time delay. You are also able to delegate to multiple Node Operators at the same time.&#x20;
+It is always possible to change the Node Operator you are delegated to, with a minimal time delay. You are also able to delegate to multiple Node Operators at the same time.
 
 ### Option set
 
@@ -107,7 +107,7 @@ Deposits are burned when proposals:
 2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **1 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
 3. **Are vetoed** - deposits for proposals with **33.4%** of voting power backing the 'no-with-veto' option are also burned.
 
-To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle).&#x20;
+To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle).
 
 ## Software Upgrade
 

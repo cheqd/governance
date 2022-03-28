@@ -11,13 +11,13 @@
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
     * [What is staking?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-staking.md)
-    * [Validators and Node Operators](getting-started/learning-the-basics/introduction-to-cheqd-governance/validators-and-node-operators.md)
-    * [Understanding voting](getting-started/learning-the-basics/introduction-to-cheqd-governance/understanding-voting.md)
-    * [Why should I delegate and stake my tokens?](getting-started/learning-the-basics/introduction-to-cheqd-governance/why-should-i-delegate-and-stake-my-tokens.md)
-    * [Redelegating and Unbonding](getting-started/learning-the-basics/introduction-to-cheqd-governance/redelegating-and-unbonding.md)
-    * [Slashing explained](getting-started/learning-the-basics/introduction-to-cheqd-governance/slashing-explained.md)
+    * [Validators and Node Operators](how-governance-works/validators-and-node-operators.md)
+    * [Understanding voting](contributing/voting-on-cheqd/understanding-voting.md)
+    * [Why should I delegate and stake my tokens?](how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
+    * [Redelegating and Unbonding](how-governance-works/redelegating-and-unbonding.md)
+    * [Slashing explained](tokenomics/slashing-explained.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
-  * [🔢 Network Parameters](getting-started/learning-the-basics/network-parameters.md)
+  * [🔢 Network Parameters](tokenomics/parameters/network-parameters.md)
 
 ## Contributing
 
@@ -28,7 +28,7 @@
   * [Parameter Change Proposal Template](contributing/major-network-changes/parameter-change-proposal-template.md)
   * [Software Upgrade Proposal Template](contributing/major-network-changes/software-upgrade-proposal-template.md)
   * [Community Pool Proposal Template](contributing/major-network-changes/community-pool-proposal-template.md)
-* [How do I stake and delegate practically?](contributing/how-do-i-stake-delegate-and-vote-practically.md)
+* [How do I stake and delegate practically?](contributing/voting-on-cheqd/how-do-i-stake-delegate-and-vote-practically.md)
 * [How do I vote practically?](contributing/how-do-i-vote-practically.md)
 * [Community Pool](contributing/community-pool.md)
 
