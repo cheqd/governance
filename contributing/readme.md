@@ -66,8 +66,9 @@ If you are non-technical and want to make edits in a more visual way, you can do
 
 Quick note: we have a separate GitBook for:
 
-1. [Technical documentation](https://docs.cheqd.io/node/); and
-2. [Governance Framework](https://docs.cheqd.io/governance/)
+1. [Learning and education](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/);
+2. [Technical documentation](https://docs.cheqd.io/node/); and
+3. [Governance Framework](https://docs.cheqd.io/governance/)
 
 Which both link to their respective GitHub repositories.
 
