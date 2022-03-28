@@ -8,12 +8,12 @@ At cheqd, we want to make participating in governance easy.
 [introduction-to-governance.md](introduction-to-governance.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction-to-entropy.md" %}
-[introduction-to-entropy.md](introduction-to-entropy.md)
+{% content-ref url="introduction-to-cheqd-governance/" %}
+[introduction-to-cheqd-governance](introduction-to-cheqd-governance/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="introduction-to-entropy.md" %}
+[introduction-to-entropy.md](introduction-to-entropy.md)
 {% endcontent-ref %}
 
 We also have a more general learning and education page, for those who want an introduction to cheqd and how $CHEQ works.&#x20;
