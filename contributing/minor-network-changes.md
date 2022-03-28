@@ -42,19 +42,17 @@ To make a change on either Wiki, you need to use the link below to become an Ope
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
-Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a  [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
+Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
 
 You should follow these instructions to make a edit to any cheqd GitBook content.
 
 1. **Make your edits in the text directly or use comments**\
-   ****\
-   ****Via the link above, you will gain permissions to to read, edit and comment directly to the text.\
+   Via the link above, you will gain permissions to to read, edit and comment directly to the text.\
    \
-   If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.\
-
+   If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.\\
 2.  **Save your changes as a draft**
 
-    ****
+    ***
 
     You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
 
@@ -63,16 +61,13 @@ You should follow these instructions to make a edit to any cheqd GitBook content
 You should keep your changes in drafts until you are happy with them.
 
 \
-Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.\
+Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.
 
-
-3\.   **Submit your changes**\
+3\. **Submit your changes**\
 \
-Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation.&#x20;
+Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation.
 
 There will be a pop-up asking you to explain the changes you made. Make sure to write a clear sentence summarising your main changes to make it easier for the cheqd reviewers to go through your work.
-
-
 
 ### GitHub
 
@@ -80,7 +75,7 @@ You may also use GitHub to make changes and amendments to both the source code a
 \
 We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).\
 \
-For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).&#x20;
+For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
 **Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).
 

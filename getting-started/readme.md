@@ -42,8 +42,8 @@ If you want to get jump into our community, across a variety of platforms, you c
 
 If you want to use change the way cheqd Network functions, and use CHEQ for governance purposes, you can read how on-ledger governance works:
 
-{% content-ref url="../contributing/" %}
-[contributing](../contributing/)
+{% content-ref url="../contributing/major-network-changes/" %}
+[major-network-changes](../contributing/major-network-changes/)
 {% endcontent-ref %}
 
 ###

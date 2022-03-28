@@ -1,4 +1,4 @@
-# Network Parameters
+# 🔢 Network Parameters
 
 | Variable                          | Value         | Type                |
 | --------------------------------- | ------------- | ------------------- |

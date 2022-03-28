@@ -28,4 +28,4 @@ Slashing can therefore certainly affect your delegated and bonded tokens, so it 
 
 Yes, it is possible to instantly **redelegate** to a new Node Operator. You must complete your redelegation to a Node Operator before moving again.&#x20;
 
-If you want to completely withdraw and **unbond** your tokens from the [active pool](../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md), you need to be mindful that this process takes **2 weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter which can be adjusted by the Governance Framework process.
+If you want to completely withdraw and **unbond** your tokens from the [active pool](what-is-the-active-pool.md), you need to be mindful that this process takes **2 weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter which can be adjusted by the Governance Framework process.
