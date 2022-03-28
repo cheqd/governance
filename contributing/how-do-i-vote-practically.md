@@ -21,3 +21,8 @@ Select your vote and hit **"Confirm"**
 You can also vote using our Governance forum, Commonwealth.
 
 {% embed url="https://commonwealth.im/cheqd" %}
+
+You can login to Commonwealth using your Keplr wallet and vote on the Proposals tab.
+
+![](<../.gitbook/assets/image (7).png>)
+

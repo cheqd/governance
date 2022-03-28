@@ -56,7 +56,7 @@ You will be able to see a list of all the Validators, their voting power and the
 
 Press the button **"Delegate"** on your desired Validating Node Operator.
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 Enter the amount of tokens you want to delegate.
 
