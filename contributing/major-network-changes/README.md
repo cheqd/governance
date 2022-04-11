@@ -112,7 +112,7 @@ Prior to sending the transaction that submits your Proposal on-chain, you must c
 Each Proposal type is unique in how the .json should be formatted:
 
 1. **TextProposal**: All the proposals that do not involve a modification of the source code go under this type. For example, an opinion poll would use a proposal of type _**TextProposal**_.
-2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal. They must do so by following a 2-steps process described in the [Software Upgrade](https://docs.cosmos.network/v0.43/modules/gov/01\_concepts.html#software-upgrade) Section on the next page. Software upgrade roadmap may be discussed and agreed on via _**TextProposals**_, but actual software upgrades must be performed via _**SoftwareUpgradeProposals**_.
+2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal.&#x20;
 3. **CommunityPoolSpendProposal**: details a proposal for use of community funds, together with how many coins are proposed to be spent, and to which recipient account.
 4. **ParameterChangeProposal**: defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
 5. **CancelSoftwareUpgradeProposal**: is a gov Content type for cancelling a software upgrade.
@@ -206,4 +206,4 @@ There are a number of reasons why a transaction may fail. Here are two examples:
 1. Running out of gas - The more data there is in a transaction, the more gas it will need to be processed. If you don't specify enough gas, the transaction will fail and your gas will be consumed by the network.
 2. Incorrect denomination - You may have specified an amount in 'nanocheq' or 'microcheq' instead of 'ncheq', causing the transaction to fail.
 
-If you encounter a problem, try to troubleshoot it first, and then ask for help on the [cheqd Technical Help forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help). We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use.
+If you encounter a problem, try to troubleshoot it first, and then ask for help. We also encourage you to propose edits to this document as the Network progresses so that it can improve for future use.
