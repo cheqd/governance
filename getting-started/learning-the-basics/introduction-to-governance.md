@@ -4,7 +4,7 @@ description: >-
   used but rarely understood.
 ---
 
-# 🧑⚖ Introduction to Governance
+# 🧑⚖ 🧑⚖ Introduction to Governance
 
 Governance is not an easy concept to understand. This is because it is something which cannot be easily visualised and lacks a common definition.
 
@@ -63,7 +63,7 @@ Governance is a multifaceted concept, encapsulating each of the four parts, disc
 
 All four of these parts weigh into one another, and different weightings can be applied to different Governance Frameworks.
 
-For example, Governance set by governments relies largely on Law & Guidelines, to uphold order and less on Architecture. 
+For example, Governance set by governments relies largely on Law & Guidelines, to uphold order and less on Architecture.
 
 This can be represented via the diagram below, which shows how government uses different quantities of the modalities to govern.
 
@@ -73,7 +73,7 @@ Whereas, the regulation of a Social Media Network relies much more on Principles
 
 This is represented in the diagram below.
 
-![ Figure showing how social media platforms use governance modalities](<../../.gitbook/assets/cheqd governance sliders social media.png>)
+![Figure showing how social media platforms use governance modalities](<../../.gitbook/assets/cheqd governance sliders social media.png>)
 
 In this sense, Governance is something flexible, which can be adapted for different use cases, based on a combination of factors such as, among other things:
 
@@ -109,8 +109,8 @@ In this way, the Network acts as its own Legislature, Executive and Judiciary, a
 
 Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
 
-A decentralised Network where accountability is spread out as such is known as being [sufficiently decentralised](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy#f78b).
+A decentralised Network where accountability is spread out as such is known as being [sufficiently decentralised](introduction-to-entropy.md#76d0).
 
-The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy) will continue to increase, until the point of sufficient decentralisation is reached.
+The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](introduction-to-entropy.md#fd67) will continue to increase, until the point of sufficient decentralisation is reached.
 
-This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy). 
+This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](introduction-to-entropy.md).
