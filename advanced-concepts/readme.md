@@ -9,7 +9,7 @@ This section will continue to be iterated as the Network develops, but will star
 2.  [Strategy for Decentralisation:](strategy-for-decentralisation.md)
 
     How cheqd intends to decentralise control over time and increase network entropy
-3. ****[**Trust over IP alignment:**](trust-over-ip-alignment.md)\
+3. ****[Trust over IP alignment:](trust-over-ip-alignment.md)\
    How cheqd aligns itself with Trust over IP and intends to build a governance framework that can be implemented by any Layer 1 utility going forward.&#x20;
 
 Through an understanding of these more advanced concepts, Users and Node Operators begin to gain a full understanding of cheqd and where all of the puzzle pieces fit together in its composition.
