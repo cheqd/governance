@@ -18,7 +18,7 @@ Funds from the cheqd Community Pool may be spent via successful governance propo
 
 #### How should funds from the Community Pool be spent?
 
-The prevailing assumption is that funds should be spent in a way that brings value to the cheqd Network. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability.&#x20;
+The prevailing assumption is that funds should be spent in a way that brings value to the cheqd Network. Or alternatively, something which benefits the wider world, such as spending the Pool on Carbon offset and sustainability.
 
 #### How are funds disbursed after a community-spend proposal is passed?
 
@@ -46,7 +46,9 @@ There are five (5) components:
 
 **Off-ledger template**
 
-You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus within [cheqd GitHub issues](https://github.com/cheqd/cheqd-node/issues).&#x20;
+You should use our [template for Community Pool Proposals](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template) to discuss the Proposal with the cheqd community and reach informal consensus within cheqd's forum:
+
+{% embed url="https://commonwealth.im/cheqd" %}
 
 #### On-ledger example
 
@@ -74,7 +76,6 @@ The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the propos
     }
   ]
 }
-
 ```
 
 #### Real example in Cosmos Hub community
