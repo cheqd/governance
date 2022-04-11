@@ -107,9 +107,11 @@ It is not always possible to phrase every change in such a manner, but it is des
 
 During the course of cheqd's lifecycle, it is likely that bugs will arise. Reporting these bugs effectively and resolving them promptly will be very important for the smooth running of the Network.
 
-Bugs can be discussed or raised in the [Technical Help section of our Forum](https://github.com/cheqd/cheqd-node/discussions/categories/technical-help).
+Bugs can be discussed or raised in our [Telegram](https://t.me/cheqd) or [Discord](https://discord.gg/s4nuefbY).&#x20;
 
-If there is common acknowledgement of the bug, next the bug SHOULD be highlighted as an issue in [GitHub Issues](https://github.com/cheqd/cheqd-node/issues).
+If there is common acknowledgement of the bug, next the bug SHOULD be highlighted as an issue in our forum, at:
+
+{% embed url="https://commonwealth.im/cheqd" %}
 
 Please use the search function to make sure that you are not submitting duplicates, and that a similar report or request has not already been resolved or rejected.
 
