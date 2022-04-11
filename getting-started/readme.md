@@ -34,7 +34,9 @@ If you want to get your teeth into this documentation, improve it and make every
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
-{% embed url="https://docs.cheqd.io/governance/contributing#community" %}
+{% content-ref url="../contributing/" %}
+[contributing](../contributing/)
+{% endcontent-ref %}
 
 ###
 
@@ -56,7 +58,13 @@ If you want to run a Node on cheqd, or get yourself into our technical documenta
 
 ## Still a bit confused?
 
-We’ve got some super simple videos on our [cheqd YouTube channel](https://www.youtube.com/channel/UCBUGvvH6t3BAYo5u41hJPzw) explaining SSI and the objectives of cheqd.
+cheq out our learning page, designed to help you learn the basics:
+
+{% content-ref url="https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/" %}
+[cheqd: Learning](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/)
+{% endcontent-ref %}
+
+We’ve also got some super simple videos on our [cheqd YouTube channel](https://www.youtube.com/channel/UCBUGvvH6t3BAYo5u41hJPzw) explaining SSI and the objectives of cheqd.
 
 1. [What is Self-Sovereign Identity?](https://www.youtube.com/watch?v=z9f36Sh4CFM)
 2. [How decentralised identity is used in real life](https://www.youtube.com/watch?v=sX38IhG7OpA)
