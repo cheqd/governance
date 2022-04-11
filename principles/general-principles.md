@@ -2,7 +2,7 @@
 
 The cheqd Governance Framework embodies the following General Governance principles. These General Principles **SHOULD** be used as checks and balances against new Proposals on the Network.
 
-Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](https://docs.google.com/document/d/17\_N9Fs3j\_YOQdVZ3g3OZjOP8zbn5ZUpIHYQFdLC3uMs/edit#)
+Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](../contributing/major-network-changes/)
 
 ### 1. Interoperability
 
@@ -44,7 +44,7 @@ Network Users **SHOULD** notify the other Users of the Network as soon as practi
 
 ### 9. Decentralization
 
-cheqd **SHALL** not require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the [**Principle of Increasing Entropy**](https://docs.cheqd.io/governance/principles#3-the-principle-of-increasing-entropy), ensuring there is no single point of failure.
+cheqd **SHALL** not require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the [**Principle of Increasing Entropy**](foundational-principles.md#3.-the-principle-of-increasing-entropy), ensuring there is no single point of failure.
 
 ### 10. Sustainability
 
