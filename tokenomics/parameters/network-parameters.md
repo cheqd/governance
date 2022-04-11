@@ -13,7 +13,7 @@
 | **Time for deposit to reach minimum deposit** | 604,800       | seconds (= 1 week)  |
 | **Voting period**                             | 604,800       | seconds (= 1 week)  |
 | **Quorum**                                    | 33.34%        | % decimal           |
-| **Threshold**                                 | 55.00%        | % decimal           |
+| **Threshold**                                 | 50.00%        | % decimal           |
 | **Veto**                                      | 33.34%        | % decimal           |
 | **Unbonding Period**                          | 1,209,600     | seconds (= 2 weeks) |
 | **Signed blocks per window**                  | 120,960       | Blocks              |
