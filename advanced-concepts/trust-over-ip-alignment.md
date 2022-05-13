@@ -62,9 +62,10 @@ __![](<../.gitbook/assets/2 economic stack for toip.png>)__
 
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
 
-__
+Internet 
+![3 economic stack for toip](https://user-images.githubusercontent.com/79993234/168204431-cf4c396d-8705-42e5-a590-9961fb141772.png)
 
-__
+
 
 __
 
