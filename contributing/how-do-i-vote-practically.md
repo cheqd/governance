@@ -12,7 +12,7 @@ To view the active Governance Proposals, click the tab **"Proposals"** in the to
 
 You will be able to see all active Governance Proposals. If you click on the specific Proposal, you will be able to easily vote on it.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Select your vote and hit **"Confirm"**
 

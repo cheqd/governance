@@ -24,7 +24,7 @@ This means that human accountability will actually be diluted across the Network
 
 This can be represented by the following amendment to the stack:
 
-![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1 (1).png>)
+![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1.png>)
 
 As an entire stack, this now looks like:
 
@@ -44,19 +44,17 @@ All to create:
 
 * Layer 4: Economies
 
-![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/cheqd toip economy stack (1).png>)
+![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/2 economic stack for toip (2).png>)
 
 _Notes:_
 
 * _Economies within the “Economy“ stack, are simply Ecosystems with commercial structures / relationships whether unilateral, bi-lateral or multi-lateral._
-
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
 
-Internet 
-![3 economic stack for toip](https://user-images.githubusercontent.com/79993234/168204431-cf4c396d-8705-42e5-a590-9961fb141772.png)
+Internet ![3 economic stack for toip](https://user-images.githubusercontent.com/79993234/168204431-cf4c396d-8705-42e5-a590-9961fb141772.png)
 
+protocol&#x20;
 
+![](<../.gitbook/assets/4 economic stack for toip.png>)
 
-__
-
-__
+\_\_
