@@ -41,6 +41,9 @@ On top of catering for decentralised governance, an “Economy” or “payment�
 * Layer 3: Payment orchestration plug-ins to implement commercial constructs, such as subscription, transactional or flat fee models for ecosystems
 
 All to create:
+![cosmos and cheqd](https://user-images.githubusercontent.com/79993234/168205927-071a6479-e81c-409d-8b5d-4d1392e852b2.png)
+grrrr
+
 
 * Layer 4: Economies
 
