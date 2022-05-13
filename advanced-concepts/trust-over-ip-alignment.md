@@ -44,7 +44,7 @@ All to create:
 
 * Layer 4: Economies
 
-![](<../.gitbook/assets/economic stack toip (1).png>)
+![ToIP Economic stack](<../.gitbook/assets/economic stack toip (1).png>)
 
 _Notes:_
 
