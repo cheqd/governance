@@ -53,6 +53,10 @@ _Notes:_
 
 Final test![](<../.gitbook/assets/cheqd learning.png>)
 
+Final test 2
+![cheqd governance framework](https://user-images.githubusercontent.com/79993234/168207089-57043b3b-5fc7-4e81-ae3c-7e868186f286.PNG)
+
+
 
 
 \_\_
