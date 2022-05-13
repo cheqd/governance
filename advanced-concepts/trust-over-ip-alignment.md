@@ -24,7 +24,7 @@ This means that human accountability will actually be diluted across the Network
 
 This can be represented by the following amendment to the stack:
 
-![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1 (1).png>)
+![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1.png>)
 
 As an entire stack, this now looks like:
 
@@ -44,7 +44,7 @@ All to create:
 
 * Layer 4: Economies
 
-![](<../.gitbook/assets/economic stack toip.png>)
+![](<../.gitbook/assets/economic stack toip (1).png>)
 
 _Notes:_
 
