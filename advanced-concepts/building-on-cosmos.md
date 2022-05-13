@@ -36,7 +36,7 @@ However, when looking at identity and token implementations and infrastructure, 
 
 Like any other Network, our speed to market is key. Not only did we need the right protocol for the long-term, but it also couldn’t impact our execution timelines. We are strong believers in releasing early, releasing often and incorporating the feedback of the SSI and crypto communities as well as end-users. As a result, each option was compared against each other not just based on functional and non-functional requirements but also on delivery risk. The figure below outlines this between Cosmos and Hyperledger Indy.
 
-![Risk over time depending on the platform](<../.gitbook/assets/cheqd risk over time graph.png>)
+![Risk over time depending on the platform](<../.gitbook/assets/cheqd risk over time graph (1).png>)
 
 As can be seen above, there is a much higher risk with Indy in the initial stages, all due to a lack of a supporting blockchain product ecosystem to support an Indy token. Since there are no existing Indy token projects on exchanges or with custodians, they would need to build out entirely new support with no expectation of reusing existing integrations they have with other blockchains. Given how in-demand exchanges and custodians are, we felt this would impact the reach and availability of functionality we plan to build for enterprise and individual users. There is a slightly higher risk on Cosmos in the medium term as we need to convince existing projects built on Hyperledger Indy to migrate but in the long term allow us to build richer functionality over time.
 
@@ -50,7 +50,7 @@ Rather than jumping in with both feet, we took a more tactical approach by execu
 
 To come full circle, we return to the currently deployed SSI projects. Although there are many existing networks in various stages of adoption, we firmly believe they will be turbocharged by adopting a new network that facilitates value transfer / payment for trusted data. To make this migration from Indy (and others) easy, we are partnering with open source projects that have modularised client-side SDKs with support for multiple DID methods / SSI networks. Our goal is to have client SDKs available (initially for iOS and Android) that are drop-in replacements for existing Hyperledger Indy client SDKs, as we expect Indycreds to be in circulation for a while. In addition, the same SDK would also support the new Cosmos-based DID method and Verifiable Credentials we plan on building as open source.Ultimately we don’t just want migration to be easy, but outright adoption of the technology by any app developer to be as simple as possible while acknowledging the current leading position Indycreds occupy in the field of SSI.
 
-![Making migration as easy as possible through pluggable SDKs](<../.gitbook/assets/indycreds vs cheqd credentials.png>)
+![Making migration as easy as possible through pluggable SDKs](<../.gitbook/assets/indycreds vs cheqd credentials (1).png>)
 
 ## Looking back and stargazing <a href="#018b" id="018b"></a>
 

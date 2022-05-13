@@ -43,7 +43,7 @@ We want the Network to keep itself in-check.
 
 What does this look like?
 
-![Figure showing how governance decisions should be made](<../.gitbook/assets/cheqd principles tree diagram.jpg>)
+![Figure showing how governance decisions should be made](<../.gitbook/assets/cheqd principles tree diagram (1).jpg>)
 
 ## 3. The Principle of Increasing Entropy
 
