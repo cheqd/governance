@@ -52,3 +52,5 @@ _Notes:_
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
 
 First GitHub edit after sync
+
+Second GitBook edit after sync

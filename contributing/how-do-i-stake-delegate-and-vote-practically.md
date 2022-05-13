@@ -6,7 +6,7 @@ Governance on cheqd is carried out through our [Governance Dashboard](https://ch
 
 
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 This initial dashboard enables Users to:
 
@@ -28,7 +28,7 @@ If you click the button "**Connect"** in the top right hand corner you will get 
 
 This will begin the process of "**Auto-discovery"**:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Click **"Approve"** and this will attempt to connect your Keplr Wallet to the Governance Dashboard. You will see it connected on the dashboard in the top right, and your cheqd address linked.
 
@@ -50,13 +50,13 @@ The memo is a message that will appear for everyone on the blockchain, so please
 
 On the dashboard you can either click **"Stake Tokens"** or click the tab in the right hand corner called **"Stake".**
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 You will be able to see a list of all the Validators, their voting power and their associated commission rate.
 
 Press the button **"Delegate"** on your desired Validating Node Operator.
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 Enter the amount of tokens you want to delegate.
 
