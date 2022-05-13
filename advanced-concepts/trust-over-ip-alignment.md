@@ -46,19 +46,9 @@ All to create:
 
 ![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/cheqd toip economy stack (1).png>)
 
-_Trust_
-
-__![](<../.gitbook/assets/economic stack toip.png>)__
-
-__
-
 _Notes:_
 
 * _Economies within the “Economy“ stack, are simply Ecosystems with commercial structures / relationships whether unilateral, bi-lateral or multi-lateral._
-
-_over_
-
-__![](<../.gitbook/assets/2 economic stack for toip.png>)__
 
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
 
