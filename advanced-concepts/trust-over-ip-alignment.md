@@ -24,7 +24,7 @@ This means that human accountability will actually be diluted across the Network
 
 This can be represented by the following amendment to the stack:
 
-![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1.png>)
+![Modified layer 1 for decentralised governance](<../.gitbook/assets/cheqd layer 1 (1).png>)
 
 As an entire stack, this now looks like:
 
@@ -40,18 +40,21 @@ On top of catering for decentralised governance, an “Economy” or “payment�
 * Layer 2: Payment protocols to provide the mechanism of exchange
 * Layer 3: Payment orchestration plug-ins to implement commercial constructs, such as subscription, transactional or flat fee models for ecosystems
 
-All to create:
-![cosmos and cheqd](https://user-images.githubusercontent.com/79993234/168205927-071a6479-e81c-409d-8b5d-4d1392e852b2.png)
-grrrr
-
+All to create: ![cosmos and cheqd](https://user-images.githubusercontent.com/79993234/168205927-071a6479-e81c-409d-8b5d-4d1392e852b2.png) grrrr
 
 * Layer 4: Economies
 
-![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/2 economic stack for toip (2) (4).png>)
+![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/2 economic stack for toip (2) (4) (1).png>)
 
 _Notes:_
 
 * _Economies within the “Economy“ stack, are simply Ecosystems with commercial structures / relationships whether unilateral, bi-lateral or multi-lateral._
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
+
+_blep_
+
+__![](<../.gitbook/assets/cheqd and cosmos.png>)__
+
+__
 
 \_\_
