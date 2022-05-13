@@ -53,9 +53,12 @@ _Notes:_
 
 Duplication 2
 
-
 ![cheqd ecosystem](https://user-images.githubusercontent.com/79993234/168206702-d8675579-fa61-4838-9720-25f0514023ef.jpg)
 
 
+
+and duplication 3
+
+![](<../.gitbook/assets/cheqd ecosystem.jpg>)
 
 \_\_
