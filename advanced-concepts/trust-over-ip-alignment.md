@@ -44,7 +44,7 @@ All to create:
 
 * Layer 4: Economies
 
-![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](<../.gitbook/assets/2 economic stack for toip (2) (4) (1).png>)
+![Modified Trust Over IP stack showing an economics layer in addition to governance and technology](broken-reference)
 
 _Notes:_
 
