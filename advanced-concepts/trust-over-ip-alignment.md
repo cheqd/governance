@@ -53,8 +53,4 @@ _Notes:_
 
 Internet ![3 economic stack for toip](https://user-images.githubusercontent.com/79993234/168204431-cf4c396d-8705-42e5-a590-9961fb141772.png)
 
-protocol&#x20;
-
-![](<../.gitbook/assets/4 economic stack for toip.png>)
-
 \_\_
