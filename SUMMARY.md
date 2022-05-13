@@ -4,54 +4,54 @@
 
 ## Getting started
 
-* [🟢 Start Here](getting-started/readme.md)
+* [🟢 Start Here](getting-started/getting-started.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
   * [🧑⚖ 🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance/README.md)
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
     * [What is staking?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-staking.md)
-    * [Validators and Node Operators](how-governance-works/validators-and-node-operators.md)
-    * [Understanding voting](contributing/voting-on-cheqd/understanding-voting.md)
-    * [Why should I delegate and stake my tokens?](how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
-    * [Redelegating and Unbonding](how-governance-works/redelegating-and-unbonding.md)
-    * [Slashing explained](tokenomics/slashing-explained.md)
+    * [Validators and Node Operators](getting-started/learning-the-basics/introduction-to-cheqd-governance/validators-and-node-operators.md)
+    * [Understanding voting](getting-started/learning-the-basics/introduction-to-cheqd-governance/understanding-voting.md)
+    * [Why should I delegate and stake my tokens?](getting-started/learning-the-basics/introduction-to-cheqd-governance/why-should-i-delegate-and-stake-my-tokens.md)
+    * [Redelegating and Unbonding](getting-started/learning-the-basics/introduction-to-cheqd-governance/redelegating-and-unbonding.md)
+    * [Slashing explained](getting-started/learning-the-basics/introduction-to-cheqd-governance/slashing-explained.md)
   * [☄ Introduction to Entropy](getting-started/learning-the-basics/introduction-to-entropy.md)
-  * [🔢 Network Parameters](tokenomics/parameters/network-parameters.md)
+  * [🔢 Network Parameters](getting-started/learning-the-basics/network-parameters.md)
 
 ## Contributing
 
-* [✍ How to Contribute](contributing/readme.md)
+* [✍ How to Contribute](contributing/contributing.md)
 * [Minor Network changes](contributing/minor-network-changes.md)
 * [Major Network changes](contributing/major-network-changes/README.md)
   * [Text-based Proposal Template](contributing/major-network-changes/text-based-proposal-template.md)
   * [Parameter Change Proposal Template](contributing/major-network-changes/parameter-change-proposal-template.md)
   * [Software Upgrade Proposal Template](contributing/major-network-changes/software-upgrade-proposal-template.md)
   * [Community Pool Proposal Template](contributing/major-network-changes/community-pool-proposal-template.md)
-* [How do I stake and delegate practically?](contributing/voting-on-cheqd/how-do-i-stake-delegate-and-vote-practically.md)
+* [How do I stake and delegate practically?](contributing/how-do-i-stake-delegate-and-vote-practically.md)
 * [How do I vote practically?](contributing/how-do-i-vote-practically.md)
 * [Community Pool](contributing/community-pool.md)
 
 ## Principles
 
-* [Principles-based Governance](principles/readme.md)
+* [Principles-based Governance](principles/principles.md)
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
 ## Advanced concepts
 
-* [Overview](advanced-concepts/readme.md)
+* [Overview](advanced-concepts/advanced-concepts.md)
 * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
 * [Strategy for Decentralisation](advanced-concepts/strategy-for-decentralisation.md)
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
 
 ## Terminology
 
-* [Terminology](language/readme.md)
-* [📘 Glossary of terms](language/glossary.md)
+* [Terminology](terminology/language.md)
+* [📘 Glossary of terms](terminology/glossary.md)
 
 ## Legal
 
-* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Code of Conduct](legal/code\_of\_conduct.md)
 * [License](legal/license.md)
-* [Legal Disclaimer](advanced-concepts/legal-disclaimer.md)
+* [Legal Disclaimer](legal/legal-disclaimer.md)

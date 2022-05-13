@@ -16,8 +16,8 @@ At cheqd, we want to make participating in governance easy.
 [introduction-to-entropy.md](introduction-to-entropy.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../tokenomics/parameters/network-parameters.md" %}
-[network-parameters.md](../../tokenomics/parameters/network-parameters.md)
+{% content-ref url="network-parameters.md" %}
+[network-parameters.md](network-parameters.md)
 {% endcontent-ref %}
 
 We also have a more general learning and education page, for those who want an introduction to cheqd and how $CHEQ works.&#x20;

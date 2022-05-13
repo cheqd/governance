@@ -18,22 +18,22 @@ To fully understand how this works, we will walk through some basic concepts:
 [what-is-staking.md](what-is-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../how-governance-works/validators-and-node-operators.md" %}
-[validators-and-node-operators.md](../../../how-governance-works/validators-and-node-operators.md)
+{% content-ref url="validators-and-node-operators.md" %}
+[validators-and-node-operators.md](validators-and-node-operators.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../contributing/voting-on-cheqd/understanding-voting.md" %}
-[understanding-voting.md](../../../contributing/voting-on-cheqd/understanding-voting.md)
+{% content-ref url="understanding-voting.md" %}
+[understanding-voting.md](understanding-voting.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../how-governance-works/why-should-i-delegate-and-stake-my-tokens.md" %}
-[why-should-i-delegate-and-stake-my-tokens.md](../../../how-governance-works/why-should-i-delegate-and-stake-my-tokens.md)
+{% content-ref url="why-should-i-delegate-and-stake-my-tokens.md" %}
+[why-should-i-delegate-and-stake-my-tokens.md](why-should-i-delegate-and-stake-my-tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../how-governance-works/redelegating-and-unbonding.md" %}
-[redelegating-and-unbonding.md](../../../how-governance-works/redelegating-and-unbonding.md)
+{% content-ref url="redelegating-and-unbonding.md" %}
+[redelegating-and-unbonding.md](redelegating-and-unbonding.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../tokenomics/slashing-explained.md" %}
-[slashing-explained.md](../../../tokenomics/slashing-explained.md)
+{% content-ref url="slashing-explained.md" %}
+[slashing-explained.md](slashing-explained.md)
 {% endcontent-ref %}

@@ -68,7 +68,7 @@ You should follow these instructions to make a edit to any cheqd GitBook content
 
     You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 You should keep your changes in drafts until you are happy with them.
 

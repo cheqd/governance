@@ -18,7 +18,7 @@ Entropy is broadly defined as the degree of disorder or uncertainty in a system 
 
 Let’s think of a sandcastle sitting in a desert.
 
-![Sandcastle stock image: https://jooinn.com/sand-castle.html](<../../.gitbook/assets/entropy sandcastle.png>)
+![Sandcastle stock image: https://jooinn.com/sand-castle.html](<../../.gitbook/assets/entropy sandcastle (1).png>)
 
 The sandcastle in the desert has both order and structure, and there are very few ways to arrange the sand grains to achieve the same structure.
 
@@ -64,7 +64,7 @@ The point of this elaboration, however, is to highlight that for every Network t
 
 And this is where we started at **cheqd**.
 
-At its mainnet launch, cheqd defined a set of baseline conditions and [parameters](../../tokenomics/parameters/network-parameters.md) for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities and [SDK](https://v1.cosmos.network/sdk).
+At its mainnet launch, cheqd defined a set of baseline conditions and [parameters](network-parameters.md) for the cheqd Network, using Cosmos’ inbuilt decentralised governance capabilities and [SDK](https://v1.cosmos.network/sdk).
 
 Going forward, we want to clearly lay out how the Network will enable a smooth transition from a Low Entropy genesis event to a High Entropy, sufficiently decentralised structure.
 
