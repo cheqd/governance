@@ -51,8 +51,4 @@ _Notes:_
 * _Economies within the “Economy“ stack, are simply Ecosystems with commercial structures / relationships whether unilateral, bi-lateral or multi-lateral._
 * _Whilst the ToIP stack has a Governance Authority authoring Governance Frameworks, within Economies, the Governance Authority may be a range of structures from a single entity, through consortia to Decentralized Autonomous Organizations._
 
-__
-
-_Duplicate_![](<../.gitbook/assets/4 economic stack for toip.png>)__
-
 \_\_
