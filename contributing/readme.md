@@ -6,10 +6,6 @@ Every User is encouraged to contribute to the cheqd Network. To make this easy, 
 
 For this reason, it is important to distinguish when a change can be made entirely off-ledger, and when a change is needed to be voted on, and made on-ledger. To do this we must differentiate between **minor changes** which are able to take place **entirely off-ledger** and **major network changes** which need to be **formalised on-ledger.**
 
-Use this link to become an editor and get started:
-
-{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
-
 ### **Minor Network changes**
 
 These are changes that are insignificant, and do not affect the way the Network runs overall. Minor Network changes include, but are not limited to:

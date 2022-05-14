@@ -4,9 +4,9 @@
 
 ## Getting started
 
-* [🟢 Start Here](getting-started/getting-started.md)
+* [🟢 Start Here](getting-started/readme.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
-  * [🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
+  * [🧑 Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance/README.md)
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
@@ -21,7 +21,7 @@
 
 ## Contributing
 
-* [✍ How to Contribute](contributing/contributing.md)
+* [✍ How to Contribute](contributing/readme.md)
 * [Minor Network changes](contributing/minor-network-changes.md)
 * [Major Network changes](contributing/major-network-changes/README.md)
   * [Text-based Proposal Template](contributing/major-network-changes/text-based-proposal-template.md)
@@ -34,13 +34,13 @@
 
 ## Principles
 
-* [Principles-based Governance](principles/principles.md)
+* [Principles-based Governance](principles/readme.md)
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
 ## Advanced concepts
 
-* [Overview](advanced-concepts/advanced-concepts.md)
+* [Overview](advanced-concepts/readme.md)
 * [Building on Cosmos](advanced-concepts/building-on-cosmos.md)
 * [Strategy for Decentralisation](advanced-concepts/strategy-for-decentralisation.md)
 * [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
@@ -52,6 +52,6 @@
 
 ## Legal
 
-* [Code of Conduct](legal/code\_of\_conduct.md)
-* [License](legal/license.md)
-* [Legal Disclaimer](legal/legal-disclaimer.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [License](LICENSE.md)
+* [Legal Disclaimer](legal-disclaimer.md)
