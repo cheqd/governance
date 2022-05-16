@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![](<../.gitbook/assets/On-chain vs off-chain decision tree (4).jpg>)
+![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree (3).jpg>)
 
 ## Voting off-chain
 
@@ -70,7 +70,7 @@ You should follow these instructions to make a edit to any cheqd GitBook content
 
     You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![How to compare GitBook changes](<../.gitbook/assets/How to compare GitBook changes.png>)
 
 You should keep your changes in drafts until you are happy with them.
 

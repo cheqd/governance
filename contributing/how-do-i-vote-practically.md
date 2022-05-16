@@ -8,11 +8,11 @@ Governance on cheqd is carried out through our [Governance Dashboard](https://ch
 
 To view the active Governance Proposals, click the tab **"Proposals"** in the top right menu.
 
-![](../.gitbook/assets/image.png)
+![Image showing cheqd Governance proposals](<../.gitbook/assets/cheqd governance proposals.png>)
 
 You will be able to see all active Governance Proposals. If you click on the specific Proposal, you will be able to easily vote on it.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![Image showing how to vote on OmniFlix](<../.gitbook/assets/how to vote on omniflix.png>)
 
 Select your vote and hit **"Confirm"**
 
@@ -22,7 +22,7 @@ You can also vote using our Governance forum, Commonwealth.
 
 You can login to Commonwealth using your Keplr wallet and vote on the Proposals tab.
 
-![](<../.gitbook/assets/image (14).png>)
+![Image showing how to vote on Commonwealth](<../.gitbook/assets/How to vote on Commonwealth.png>)
 
 The weight of your vote is tied to how many $CHEQ tokens you hold. You can learn more about how Voting works here:
 
