@@ -18,7 +18,7 @@ Entropy is broadly defined as the degree of disorder or uncertainty in a system 
 
 Let’s think of a sandcastle sitting in a desert.
 
-![Sandcastle stock image: https://jooinn.com/sand-castle.html](<../../.gitbook/assets/entropy sandcastle.png>)
+![Sandcastle showing Entropy: stock image: https://jooinn.com/sand-castle.html](<../../.gitbook/assets/Sandcastle showing Entropy.png>)
 
 The sandcastle in the desert has both order and structure, and there are very few ways to arrange the sand grains to achieve the same structure.
 
@@ -74,7 +74,7 @@ To model Entropy, we wanted to build more visual and accessible than an algorith
 
 **Where we landed was: a Scorecard**
 
-![cheqd Entropy Scorecard](<../../.gitbook/assets/Entropy radar diagram blank.png>)
+![Entropy Scorecard: Blank](<../../.gitbook/assets/Entropy Scorecard.png>)
 
 The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 - 5** which we refer to as Entropy Levels, measuring tangible decentralisation from a genesis state (and Low Entropy) to beyond the point of sufficient decentralisation (and High Entropy).
 
@@ -157,7 +157,7 @@ At launch our Entropy score was **lower than 14.**
 
 A low entropy score as such, can be represented by the scorecard below:
 
-![cheqd Low Entropy](<../../.gitbook/assets/Radar entropy low 2.png>)
+![Entropy Scorecard: Low](<../../.gitbook/assets/Entropy Low.png>)
 
 This score quickly began to shift after launch as more participants joined from different geographies and stake began to spread more evenly. We will soon be launching a Governance Dashboard which shows where the network is on this scale.
 
@@ -177,7 +177,7 @@ This combination is important because it will ensure that there is limited surfa
 
 A High Entropy Network would generate a scorecard illustrated by the example below:
 
-![cheqd High Entropy](<../../.gitbook/assets/Entropy radar diagram - high entropy.png>)
+![Entropy Scorecard: High ](<../../.gitbook/assets/Entropy High.png>)
 
 At this point of High Entropy, we would hope that we would be considered a Network which is sufficiently decentralised, although of course this is not up for us to decide. Yet, we believe that this progression of Low to High Entropy is an important journey for every decentralised Network to embark on.
 
@@ -195,7 +195,7 @@ Achieving high Entropy involves:
 
 And a combination of the above will increase the Network Entropy in a healthy and natural way, bridging the middleground between Low and High Entropy, as seen below:
 
-![cheqd Entropy Overlapped](<../../.gitbook/assets/radar entropy overlap 2.png>)
+![Entropy Scorecard: Comparison](<../../.gitbook/assets/Entropy Comparison.png>)
 
 As the initial team, we have a responsibility to, as we like to put it, create the first domino and push it over. Or in other terms, we need to take care in setting a strong technical foundation alongside a culture of transparency, inclusivity and open communication to push Entropy in the right direction.
 
