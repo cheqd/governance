@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree (3).jpg>)
+![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## Voting off-chain
 
