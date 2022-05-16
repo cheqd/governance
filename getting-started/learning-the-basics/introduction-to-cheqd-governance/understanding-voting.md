@@ -107,7 +107,7 @@ Deposits are burned when proposals:
 2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **1 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
 3. **Are vetoed** - deposits for proposals with **33.4%** of voting power backing the 'no-with-veto' option are also burned.
 
-To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](https://docs.cheqd.io/governance/principles#2-the-balancing-principle).
+To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](../../../principles/foundational-principles.md#2.-the-balancing-principle).
 
 ## Software Upgrade
 

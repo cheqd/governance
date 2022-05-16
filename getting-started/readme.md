@@ -26,7 +26,7 @@ If you are not familiar with governance, and especially decentralised governance
 
 If you want to get your teeth into this documentation, improve it and make everything better, you can use the invite link here:
 
-{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
+{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
 
 ###
 
@@ -34,8 +34,8 @@ If you want to get your teeth into this documentation, improve it and make every
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../contributing/" %}
+[contributing](../contributing/)
 {% endcontent-ref %}
 
 ###
@@ -61,7 +61,7 @@ If you want to run a Node on cheqd, or get yourself into our technical documenta
 cheq out our learning page, designed to help you learn the basics:
 
 {% content-ref url="https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/" %}
-[Learn about cheqd](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/)
+[cheqd: Learning](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/)
 {% endcontent-ref %}
 
 We’ve also got some super simple videos on our [cheqd YouTube channel](https://www.youtube.com/channel/UCBUGvvH6t3BAYo5u41hJPzw) explaining SSI and the objectives of cheqd.
@@ -71,8 +71,8 @@ We’ve also got some super simple videos on our [cheqd YouTube channel](https:/
 3. [Why SSI is a better way](https://www.youtube.com/watch?v=qObhY0SGsFY)
 4. [How cheqd’s model works and why we chose Cosmos](https://www.youtube.com/watch?v=KAxNUfJ75LI)
 
-And we also have a [Glossary](../terminology/glossary.md) to help you understand all this technical mumbo jumbo!
+And we also have a [Glossary](https://docs.cheqd.io/governance/terminology-and-glossary/glossary) to help you understand all this technical mumbo jumbo!
 
-{% content-ref url="../terminology/glossary.md" %}
-[glossary.md](../terminology/glossary.md)
+{% content-ref url="../language/glossary.md" %}
+[glossary.md](../language/glossary.md)
 {% endcontent-ref %}
