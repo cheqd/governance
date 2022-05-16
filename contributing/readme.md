@@ -44,58 +44,41 @@ See more below:
 
 ## cheqd's Principles
 
-Whenever a **major network change** takes place on the Network, reference MUST be made to [cheqd's Foundational Principles](https://docs.cheqd.io/governance/principles#foundational-principles). The Principles should act as a checks and balance against **major network changes.**
+Whenever a **major network change** takes place on the Network, reference MUST be made to [cheqd's Foundational Principles](../principles/foundational-principles.md). The Principles should act as a checks and balance against **major network changes.**
 
-This means, that **major network changes** should never oppose a Principle, unless it is [acting to update or change a Principle](https://docs.cheqd.io/governance/principles#foundational-principles).
+This means, that **major network changes** should never oppose a Principle, unless it is [acting to update or change a Principle](../principles/foundational-principles.md#1.-the-principle-principle).
 
 ## Community
 
 You do not have to own any CHEQ to participate in our community discussion. You are free to learn about cheqd and participate in our community discussions across multiple platforms and forums.
 
-We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [Wiki](https://docs.cheqd.io/governance/) and our [source code](https://github.com/cheqd/cheqd-node) are natively interconnected.
+We want learning about cheqd and participating in the community to be easy and accessible. For this reason, we have decided to make sure our [Governance](https://docs.cheqd.io/governance), [Learning](https://learn.cheqd.io/) and [Product](https://product.cheqd.io/) wikis and our [source code](https://github.com/cheqd) are natively interconnected.
 
 **What does this mean?**
 
 If you are a technical person and want to make changes directly to our source code, on a text-based or code-based change, you can do this directly on our [GitHub](https://github.com/cheqd).
 
-If you are non-technical and want to make edits in a more visual way, you can do this on our [GitBook](https://docs.cheqd.io/governance/).
+If you are non-technical and want to make edits in a more visual way, you can do this here on GitBook by [becoming an editor](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/vFD59OFvvoxQacSSpE1X/).
 
 Quick note: we have a separate GitBook for:
 
 1. [Learning and education](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/);
-2. [Technical documentation](https://docs.cheqd.io/node/); and
-3. [Governance Framework](https://docs.cheqd.io/governance/)
+2. [Technical documentation](https://docs.cheqd.io/node/);
+3. [cheqd Product](https://product.cheqd.io/); and
+4. [Governance Framework](https://docs.cheqd.io/governance/).
 
 Which both link to their respective GitHub repositories.
-
-**Let's summarise this simply:**
-
-1. [GitHub](https://github.com/cheqd): Here we will host:
-   1. Our open sourced code;
-   2. Documentation to help YOU onboard to the Network as a Node Operator, [here](https://github.com/cheqd/cheqd-node);
-   3. All formal documentation YOU need to know about cheqd, across multiple repositories;
-   4. [A forum for discussion relevant to specific topics, issues and proposals.](https://github.com/cheqd/cheqd-governance/discussions) This is a space for you to make suggestions and proposals on how you want to improve cheqd, as well as participate in discussion with the community.\
-      \
-      You can edit our Github through branches and pull requests, explained further in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).\
-
-2. [GitBook](https://docs.cheqd.io/governance/): Here we will host:
-   1. Our [cheqd Node documentation](https://docs.cheqd.io/node/) to help YOU onboard to the Network as a Node Operator;
-   2. Our [Governance Framework](https://docs.cheqd.io/governance) with all formal documentation YOU need to know about cheqd.\
-      \
-      GitBook will be a more accessible and easy-to-read layout.\
-      \
-      You can edit our GitBook through the process explained in our [Minor Network Changes document](https://docs.cheqd.io/governance/contributing/minor-network-changes).
 
 If you want to stay updated with cheqd news, we recommend that you join us on:
 
 1. [Twitter](https://twitter.com/cheqd\_io): Follow us here to keep up to date with the latest cheqd news and to be the first to hear about special announcements;
 2. [Telegram](https://t.me/cheqd): Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
-3. [Discord:](https://discord.gg/RxHxFcvQ) Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
+3. [Discord](https://discord.gg/AxwbG9pCMM): Join our community here to participate in general conversation about cheqd with our core community following and be the first to hear about special announcements.
 4. [Community Slack:](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA) Our community slack is where our Node Operators will be onboarded. This a great place to interact with technical members of the community.
 5. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
 6. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 
-We also kindly ask you to familiarise yourself with our Code of Conduct which sets our clearly defined expectations and behaviour that we want to uphold in the community.
+We also kindly ask you to familiarise yourself with our [Code of Conduct](../CODE\_OF\_CONDUCT.md) which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
 {% embed url="https://docs.cheqd.io/node/code_of_conduct" %}
 
