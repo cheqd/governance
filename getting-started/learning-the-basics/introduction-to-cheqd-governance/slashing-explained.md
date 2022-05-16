@@ -6,7 +6,7 @@ When delegating tokens to a validator in order to earn staking rewards, there is
 
 Any tokens directly staked by the validator as well as delegated tokens are counted in what gets slashed for bad behaviour. This means that if a validator exhibits a double-sign infraction or downtime, you may be slashed **5%** (for double-sign infraction) or **1%** for (validator experiencing enough downtime to be put in validator jail).
 
-For this reason, if you are delegated to a Validator and you notice them experiencing downtime, which can be seen on the [block explorer](https://explorer.cheqd.io/), it is suggested that you should **redelegate** your tokens to another Validator which is stable.
+For this reason, if you are delegated to a Validator and you notice them experiencing downtime, which can be seen on the [block explorer](https://cheqd.didx.co.za/validators), it is suggested that you should **redelegate** your tokens to another Validator which is stable.
 
 It is very important to note the difference between **redelegation** and **unbonding.** If you **redelegate** to another Validator within the 7.2 hour window before they are put in validator jail, you will likely escape any potential slashing. If you try and **unbond** your tokens from the Validator, since there is an unbonding period of **2 weeks,** you will still remain bound to the Validator in the short term and will experience a slash on your delegated tokens.
 
@@ -37,7 +37,7 @@ These values may change over time through proposals that are voted on the networ
 
 #### Tombstone Caps <a href="#tombstone-caps" id="tombstone-caps"></a>
 
-In order to mitigate the impact of initially likely categories of non-malicious protocol faults, cheqd Network implements for each validator a _**tombstone**_ cap, which only allows a validator to be slashed once for a double sign fault.
+In order to mitigate the impact of initially likely categories of non-malicious protocol faults, cheqd Network implements for each validator a _**tombstone**_\*\* cap\*\*, which only allows a validator to be slashed once for a double sign fault.
 
 For example, if you misconfigure your HSM and double-sign a bunch of old blocks, you'll only be punished for the first double-sign (and then immediately tombstombed). This will still be quite expensive and desirable to avoid, but tombstone caps somewhat blunt the economic impact of unintentional misconfiguration.
 
@@ -53,6 +53,6 @@ Validators are penalized for failing to be included in the `LastCommitInfo` if t
 
 Information about validator's liveness activity can be tracked through our block explorer:
 
-{% embed url="https://explorer.cheqd.io/" %}
+{% embed url="https://cheqd.didx.co.za/validators" %}
 
 ###

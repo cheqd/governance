@@ -4,7 +4,7 @@
 
 The principle concept of **decentralised governance** is that no single person, entity or organisation can control the direction of change in a public Network. Instead, the direction of change is agreed by the democratic votes of an ever-growing, diverse collective.
 
-This point is desirable to reach, because it maximises Network security and resilience, creates an environment which is governed by a broad, diverse and multijurisdictional collective, and enables the Network to function purely as a utility, regulating itself through its own [architecture](https://docs.cheqd.io/governance/getting-started/introduction-to-governance#4-architecture).
+This point is desirable to reach, because it maximises Network security and resilience, creates an environment which is governed by a broad, diverse and multijurisdictional collective, and enables the Network to function purely as a utility, regulating itself through its own [architecture](introduction-to-governance.md#4.-architecture).
 
 However, this point is not something that can be reached overnight. There is a transition period between the genesis event of any decentralised Network and the point at which sufficient decentralisation may be claimed.
 
@@ -80,7 +80,7 @@ The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 
 
 At each point on the diagram sits a different metric of measurement. It is important to note that we could have selected more, fewer or different metrics to calculate Entropy against. We chose the seven metrics listed below because they provide a very sensible, digestible foundation for a rough calculation of cheqd’s Entropy. These metrics cover each angle of the Network, from **security** to **geography** to **utility** to **governance**.
 
-We would absolutely welcome suggestions and feedback from the community to further refine this list going forward. Get in touch with us using our [Governance discussion forum here](https://github.com/cheqd/cheqd-governance/discussions).
+We would absolutely welcome suggestions and feedback from the community to further refine this list going forward. You can start a thread using our [Discussion Forum on Commonwealth](https://commonwealth.im/cheqd).
 
 We will walk through our reasoning behind each choice:
 
@@ -201,7 +201,7 @@ As the initial team, we have a responsibility to, as we like to put it, create t
 
 ### Where does this leave us?
 
-Over the course of this series of blogs, we have introduced and explained the following:
+We have introduced and explained the following:
 
 1. Why decentralisation is an important goal for healthy blockchain Networks;
 2. Why Increasing Entropy is crucial to achieving this goal;
@@ -217,4 +217,4 @@ We also want this to move decentralisation towards greater regulatory clarity, r
 
 If we want to make self-sovereign identity, rooted on a decentralised Network a reality, we can only do this through being open, creative and inclusive in the way we work. Helping frame decentralised ecosystems in a way which makes sense for laypersons will bolster the chances of SSI and token payment rails being used in regulated industries worldwide.
 
-The model of Increasing Entropy, as one of [cheqd’s Foundational Principles](https://docs.cheqd.io/governance/principles/foundational-principles), attempts to build greater clarity around the labelling and framing of decentralised ecosystems and DAOs. We hope the community can iterate and build on the work done here and respond with feedback and opinion. This eventually can create an even more robust framework and help make cheqd’s vision of a Web 3.0, the new paradigm for human interaction.
+The model of Increasing Entropy, as one of [cheqd’s Foundational Principles](../../principles/foundational-principles.md#3.-the-principle-of-increasing-entropy), attempts to build greater clarity around the labelling and framing of decentralised ecosystems and DAOs. We hope the community can iterate and build on the work done here and respond with feedback and opinion. This eventually can create an even more robust framework and help make cheqd’s vision of a Web 3.0, the new paradigm for human interaction.

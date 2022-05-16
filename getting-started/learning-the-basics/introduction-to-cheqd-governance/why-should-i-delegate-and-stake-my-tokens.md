@@ -1,22 +1,22 @@
 # Why should I delegate and stake my tokens?
 
-****[**Participants**](what-is-bonding-delegation.md#what-is-a-participant) may be eligible for a percentage of the rewards that [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) earn during the course of running a node. [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
+**Participants** may be eligible for a percentage of the rewards that Node Operators earn during the course of running a node. Node Operators may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
 
 Therefore, you may want to delegate and stake your tokens for two reasons:
 
 1. To participate in Network Governance;
-2. To earn rewards proportionate to your stake in the Network.
+2. To earn rewards proportionate to your stake in the Network.&#x20;
 
 ### Network Governance
 
-Users with **bonded** tokens, [**Participants**](what-is-bonding-delegation.md#what-is-a-participant), are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
+Users with **bonded** tokens, **Participants**, are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
 
-This is where the Delegated Proof of Stake system comes into play.
+This is where the Delegated Proof of Stake system comes into play.&#x20;
 
 1. If the User does not want to vote on a Governance Proposal or misses it for any particular reason, the Node Operator will **inherit** the **delegated** tokens and can use them to vote with.
-2. If you are particularly interested or passionate about a specific governance proposal, or do not agree with your bonded Node Operator, it is absolutely possible to vote unilaterally. However, you must still have **delegated** tokens, **bonded** with a Node Operator to do so.
+2. If you are particularly interested or passionate about a specific governance proposal, or do not agree with your bonded Node Operator, it is absolutely possible to vote unilaterally. However, you must still have **delegated** tokens, **bonded** with a Node Operator to do so.&#x20;
 
-To do this, follow the instructions in the section [How do I vote practically?](../../../contributing/how-do-i-vote-practically.md)
+To do this, follow the instructions in the section[ Voting on cheqd](https://docs.cheqd.io/governance/contributing/voting-on-cheqd).
 
 In a nutshell:
 
