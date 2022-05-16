@@ -38,10 +38,6 @@
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
-## Advanced concepts
-
-* [Trust over IP alignment](advanced-concepts/trust-over-ip-alignment.md)
-
 ## Terminology
 
 * [Terminology](terminology/language.md)

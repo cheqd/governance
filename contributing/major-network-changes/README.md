@@ -116,7 +116,7 @@ You are able to connect the [cheqd Commonwealth forum](https://commonwealth.im/c
 
 Once you have connected your Keplr wallet, you can create an On-Chain proposal directly through the interface.
 
-![How to create a new on-chain Proposal on Commonwealth](<../../.gitbook/assets/How to create on chain proposal Commonwealth.jpg>)
+![How to create a new on-chain Proposal on Commonwealth](<../../.gitbook/assets/new on chain proposal.jpg>)
 
 You will need a minimum amount of 8000 $CHEQ in order to make a Governance Proposal using Commonwealth. This is important to reduce spam Proposals on the Network.
 
