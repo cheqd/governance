@@ -4,7 +4,7 @@
 
 In blockchain ecosystems, the **Node Operator** runs what is called a **node**. A node can be thought of like a power pylon in the physical world, which helps to distribute electricity around a wide network of users.
 
-![https://www.nationalgrid.com/stories/energy-explained/everything-you-ever-wanted-know-about-electricity-pylons](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![Image showing power pylons, comparing them to blockchain nodes](<../../../.gitbook/assets/Node Operators as Power Pylons.png>)
 
 Without these pylons, electricity would be largely centralised in one location; the pylons help to distribute power to entire wide-scale populations. And if one pylon fails, the grid is set up to circumvent this pylon and re-route the electricity a different route.
 
@@ -33,4 +33,3 @@ Please note, that once you set a maximum commission rate, **you are not able to 
 {% endhint %}
 
 You also need to set a parameter called Commission Rate Max Change. This parameter sets the limit of which a commission rate can be changed within a single day. This helps protect those users who have delegated to Node Operators from delegating to a Node Operator with a low commission and it changing overnight. This parameter is also public, so a lower figure here is likely better if your goal as a Validator is to attract more users to delegate to you. We hope that you do your own research and make an informed decision on these parameters.
-
