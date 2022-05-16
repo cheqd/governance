@@ -1,20 +1,23 @@
 # How do I stake and delegate practically?
 
+Before diving into some of the concepts such as staking and delegation, you may want to read through what these mean in our Learning site here:
+
+{% embed url="https://learn.cheqd.io/overview/intro-to-defi-aspects-of-cheqd" %}
+
 Governance on cheqd is carried out through our [Governance Dashboard](https://cheqd.omniflix.co). This can always be found at the link:
 
 {% embed url="https://cheqd.omniflix.co" %}
 
-
-
 ![](<../.gitbook/assets/image (2) (1).png>)
 
-This initial dashboard enables Users to:
+This dashboard enables Users to:
 
-1. Connect to their Keplr wallet
+1. Connect to their [Keplr wallet](https://learn.cheqd.io/getting-set-up-on-cheqd/cheqd-supported-wallets/keplr-wallet)
 2. View their available token balance
 3. View the amount of tokens staked
 4. View available rewards
 5. View unstaked tokens
+6. Make governance votes
 
 This dashboard gives a holistic view of the tokens that Users hold at any point and where they are being used.
 
@@ -22,7 +25,7 @@ This dashboard gives a holistic view of the tokens that Users hold at any point 
 
 Make sure you are logged into [Keplr](https://www.keplr.app) on the same browser you are using the Governance Dashboard on.
 
-For more on setting up Keplr, read our [blog here](https://blog.cheqd.io/were-launching-the-cheq-token-very-soon-here-s-how-you-can-get-ready-8fc6a7833fbb)
+For more on setting up Keplr, [read the section on our Learn site here](https://learn.cheqd.io/getting-set-up-on-cheqd/cheqd-supported-wallets/keplr-wallet).
 
 If you click the button "**Connect"** in the top right hand corner you will get a pop up, like the image below.
 
@@ -32,7 +35,7 @@ This will begin the process of "**Auto-discovery"**:
 
 Click **"Approve"** and this will attempt to connect your Keplr Wallet to the Governance Dashboard. You will see it connected on the dashboard in the top right, and your cheqd address linked.
 
-If you select cheqd on the dropdown menu in keplr, you should be able to access your CHEQ in your keplr wallet!
+If you select cheqd on the dropdown menu in Keplr, you should be able to access your CHEQ in your Keplr wallet!
 
 ![](<../.gitbook/assets/cheq keplr.png>)
 
