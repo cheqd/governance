@@ -18,11 +18,11 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for Network Governance](<../../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
+![](<../../.gitbook/assets/On-chain vs off-chain decision tree (2).jpg>)
 
 ## Proposals
 
-One of the most important questions in this Governance Framework is explaining how any token holder can make a proposal or voice their opinion on the Network.
+One of the most important questions in this Governance Framework is explaining how any [User](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-user) or [Participant](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) can make a proposal or voice their opinion on the Network.
 
 There are two ways of doing this:
 
@@ -33,7 +33,9 @@ These will be discussed in turn.
 
 ## Informal off-chain proposal
 
-Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain. Off-chain governance is vital for building a healthy and active governance community.
+Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain.&#x20;
+
+Off-chain governance is vital for building a healthy and active governance community.
 
 cheqd's off-chain forum is on Commonwealth:
 
@@ -59,8 +61,9 @@ You could ask a simple question or present an idea on our Commonwealth, for exam
 
 You may also want to rationalise your idea, or ask your question to the wider community, in:
 
-1. [cheqd Telegram](https://t.me/cheqd), or
-2. [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
+1. [cheqd Telegram](https://t.me/cheqd)
+2. [cheqd Discord](https://discord.gg/AxwbG9pCMM)
+3. [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
 Engagement is likely to be critical to the success of a proposal. The degree to which you engage with the cheqd community should be relative to the potential impact that your proposal may have on the Network.
 
@@ -72,14 +75,14 @@ Great! However, we still recommend that you introduce your idea with members of 
 
 If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
-To make reading and reviewing your Proposal easier for the community, please select a Proposal template from our [GitHub Issues Templates](https://github.com/cheqd/cheqd-node/issues).
+To make reading and reviewing your Proposal easier for the community, we have created a set of templates which any Proposal should follow here, [GitHub Issues Templates](https://github.com/cheqd/cheqd-node/issues).
 
 Or if you would prefer to use another tool to write your Proposal, you can select a template from the list below.
 
-1. [Text-based Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/text-based-proposal-template)
-2. [Parameter Change Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/parameter-change-proposal-template)
-3. [Software Upgrade Proposal Template](https://docs.cheqd.io/governance/contributing/major-network-changes/software-upgrade-proposal-template)
-4. [Community Pool Proposal](https://docs.cheqd.io/governance/contributing/major-network-changes/community-pool-proposal-template)
+1. [Text-based Proposal Template](text-based-proposal-template.md)
+2. [Parameter Change Proposal Template](parameter-change-proposal-template.md)
+3. [Software Upgrade Proposal Template](software-upgrade-proposal-template.md)
+4. [Community Pool Proposal](community-pool-proposal-template.md)
 
 Engage the community with your draft proposal
 
@@ -103,16 +106,32 @@ Submitting your proposal to the testnet increases the likelihood of engagement a
 
 ## Formal on-chain proposal
 
-Once you have sensibly tested your proposal and bounced your ideas around the community, you are ready to submit a Proposal on-chain.
+Once you have sensibly tested your Proposal and bounced your ideas around the community, you are ready to submit a Proposal on-chain.
 
-### Formatting the JSON file for the governance proposal
+There are two ways to submit a Proposal on chain, a technical and a non-technical way.&#x20;
+
+### On-chain Governance using Commonwealth
+
+You are able to connect the [cheqd Commonwealth forum](https://commonwealth.im/cheqd) to your [Keplr wallet](https://learn.cheqd.io/getting-set-up-on-cheqd/cheqd-supported-wallets/keplr-wallet).&#x20;
+
+Once you have connected your Keplr wallet, you can create an On-Chain proposal directly through the interface.
+
+![](<../../.gitbook/assets/new on chain proposal.jpg>)
+
+You will need a minimum amount of 8000 $CHEQ in order to make a Governance Proposal using Commonwealth. This is important to reduce spam Proposals on the Network.
+
+Currently, on Commonwealth, there is only a Text-Based Proposal and a Community-Spend Proposal option. Parameter Changes and Software Upgrade proposals must be made through the Command Line Interface, below.
+
+### JSON file for Command Line Interface Proposal
+
+If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/docs/cheqd-cli), you must follow the instructions below.
 
 Prior to sending the transaction that submits your Proposal on-chain, you must create a JSON file. This file will contain the information that will be stored on-chain as the governance Proposal. Begin by creating a new text (.txt) file to enter this information. Use these best practices as a guide for the contents of your proposal. When you're done, save the file as a .json file. See the examples that follow to help format your proposal.
 
 Each Proposal type is unique in how the .json should be formatted:
 
 1. **TextProposal**: All the proposals that do not involve a modification of the source code go under this type. For example, an opinion poll would use a proposal of type _**TextProposal**_.
-2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal.&#x20;
+2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal.
 3. **CommunityPoolSpendProposal**: details a proposal for use of community funds, together with how many coins are proposed to be spent, and to which recipient account.
 4. **ParameterChangeProposal**: defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
 5. **CancelSoftwareUpgradeProposal**: is a gov Content type for cancelling a software upgrade.
@@ -153,7 +172,7 @@ cheqd-noded tx gov submit-proposal \
 --node http://sentry1.eu.cheqd.net:26657
 ```
 
-1. cheqd noded is the Command-Line Interface (CLI) client that is used to send transactions and query the cheqd testnet or mainnet;
+1. cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
 2. tx gov submit-proposal and type='param-change' indicates that the transaction is submitting a parameter-change proposal;
 3. \--from "alex" is the account key that pays the transaction fee and deposit amount;
 4. \--gas the maximum amount of gas you accept may be used to process the transaction:
@@ -168,7 +187,9 @@ cheqd-noded tx gov submit-proposal \
 7. \--the mainnet chain ID is **cheqd-mainnet-1**
 8. \--node http://sentry1.eu.cheqd.net:26657 is the name
 
+{% hint style="info" %}
 Note: be careful what you use for **--gas-prices**. A mistake here could result in spending hundreds or thousands of CHEQ accidentally, rather than ncheq, which cannot be recovered.
+{% endhint %}
 
 ### Deposit
 
@@ -191,13 +212,15 @@ The _**MaxDepositPeriod**_ will be **1 week**.
 When a proposal is finalized, the coins from the deposit are either refunded or burned, according to the final tally of the proposal:
 
 * If a proposal does not reach _**MinDeposit,**_ the CHEQ in the governance _**ModuleAccount**_ will be burnt, which means that they will be put beyond use and removed from the ecosystem.
-* If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will automatically be refunded to their respective depositor (transferred from the governance _**ModuleAccount**_).
+* If the proposal reaches _**MinDeposit**_ and is approved or rejected but not vetoed, deposits will **automatically be refunded to their respective depositor** (transferred from the governance _**ModuleAccount**_).
 * If the proposal is approved, but the minimum quorum **(33.34%)** is not reached for the vote, deposits will be burned from the governance _**ModuleAccount.**_
 * When the proposal is vetoed by **33.34%,** deposits will be burned from the governance _**ModuleAccount**_.
 
 ### Verifying your transaction
 
-After posting your transaction, your command line interface will provide you with the transaction's hash, which you can either query using _**gaiad**_ or by searching the hash using [Hubble](https://hubble.figment.network/cosmos/chains/cosmoshub-3/transactions/B8E2662DE82413F03919712B18F7B23AF00B50DAEB499DAD8C436514640EFC79). The hash should look something like this: **B8E2662DE82413F03919712B18F7B23AF00B50DAEB499DAD8C436514640EFC79**
+After posting your transaction, your command line interface will provide you with the transaction's hash, which you can query using the cheqd Block Explorer below:
+
+{% embed url="https://explorer.cheqd.io/" %}
 
 ### Troubleshooting a failed transaction
 
