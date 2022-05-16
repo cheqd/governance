@@ -1,6 +1,6 @@
 # 📖 Learning the basics
 
-For general holders of coins or tokens across the industry, governance is often seen as something inaccessible and complex. This is because education about governance is often lackluster.&#x20;
+For general holders of coins or tokens across the industry, governance is often seen as something inaccessible and complex. This is because education about governance is often lackluster.
 
 At cheqd, we want to make participating in governance easy.
 
@@ -20,6 +20,6 @@ At cheqd, we want to make participating in governance easy.
 [network-parameters.md](network-parameters.md)
 {% endcontent-ref %}
 
-We also have a more general learning and education page, for those who want an introduction to cheqd and how $CHEQ works.&#x20;
+We also have a more general learning and education page, for those who want an introduction to cheqd and how $CHEQ works.
 
 {% embed url="https://learn.cheqd.io" %}

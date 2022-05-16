@@ -40,7 +40,7 @@ Document(s) with suggested revisions:
 
 _A longer <500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
-I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community.&#x20;
+I want to change the cheqd Proposal Template because it misses a section on X. This amendment would make the process of making Proposals smoother for the entire community.
 
 **Consequences**
 

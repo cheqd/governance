@@ -1,7 +1,5 @@
 # Major Network changes
 
-## Major Network changes
-
 These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
 Major Network changes include, but are not limited to:
@@ -18,7 +16,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Tree diagram showing when to use on-chain and off-chain governance](<../../.gitbook/assets/On-chain vs off-chain decision tree (3).jpg>)
+![Tree diagram showing when to use on-chain and off-chain governance](<../../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## Proposals
 
@@ -31,9 +29,9 @@ There are two ways of doing this:
 
 These will be discussed in turn.
 
-## Informal off-chain proposal
+### Informal off-chain proposal
 
-Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain.&#x20;
+Rather than making a proposal directly to the Network, proposals SHOULD first be made off-chain.
 
 Off-chain governance is vital for building a healthy and active governance community.
 
@@ -43,7 +41,7 @@ cheqd's off-chain forum is on Commonwealth:
 
 You SHOULD gain feedback on you proposal on Commonwealth before posting any proposal to the cheqd mainnet. Off-chain proposals give the User proposing the Proposal can have more confidence that a Proposal will reach minimum deposit and be approved on-chain.
 
-### Your Idea
+#### Your Idea
 
 Before you make a Network Proposal, you should engage people (ideally experts) informally about your idea. You should consider:
 
@@ -67,11 +65,11 @@ You may also want to rationalise your idea, or ask your question to the wider co
 
 Engagement is likely to be critical to the success of a proposal. The degree to which you engage with the cheqd community should be relative to the potential impact that your proposal may have on the Network.
 
-### Confident with your idea?
+#### Confident with your idea?
 
 Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation\_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
 
-### **Drafting a Proposal**
+### Drafting a Proposal
 
 If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
@@ -91,7 +89,7 @@ Engage the community with your draft proposal
 3. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
 4. Target members of the community in a semi-public way before bringing the draft to a full public audience.
 5. Alert the community to the draft proposal via:
-   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
+   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd_io)
    * [cheqd Telegram](https://t.me/cheqd)
    * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
    * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
@@ -108,11 +106,11 @@ Submitting your proposal to the testnet increases the likelihood of engagement a
 
 Once you have sensibly tested your Proposal and bounced your ideas around the community, you are ready to submit a Proposal on-chain.
 
-There are two ways to submit a Proposal on chain, a technical and a non-technical way.&#x20;
+There are two ways to submit a Proposal on chain, a technical and a non-technical way.
 
 ### On-chain Governance using Commonwealth
 
-You are able to connect the [cheqd Commonwealth forum](https://commonwealth.im/cheqd) to your [Keplr wallet](https://learn.cheqd.io/getting-set-up-on-cheqd/cheqd-supported-wallets/keplr-wallet).&#x20;
+You are able to connect the [cheqd Commonwealth forum](https://commonwealth.im/cheqd) to your [Keplr wallet](https://learn.cheqd.io/getting-set-up-on-cheqd/cheqd-supported-wallets/keplr-wallet).
 
 Once you have connected your Keplr wallet, you can create an On-Chain proposal directly through the interface.
 

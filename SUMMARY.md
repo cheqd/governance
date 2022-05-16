@@ -4,9 +4,9 @@
 
 ## Getting started
 
-* [🟢 Start Here](getting-started/readme.md)
+* [🟢 Start Here](getting-started/README.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
-  * [🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
+  * [🧑 Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance/README.md)
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
@@ -21,7 +21,7 @@
 
 ## Contributing
 
-* [✍ How to Contribute](contributing/how-to-contribute.md)
+* [✍ How to Contribute](contributing/README.md)
 * [Minor Network changes](contributing/minor-network-changes.md)
 * [Major Network changes](contributing/major-network-changes/README.md)
   * [Text-based Proposal Template](contributing/major-network-changes/text-based-proposal-template.md)
@@ -34,17 +34,17 @@
 
 ## Principles
 
-* [Principles-based Governance](principles/principles-based-governance.md)
+* [Principles-based Governance](principles/README.md)
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
 ## Terminology
 
-* [Terminology](terminology/language.md)
+* [Terminology](terminology/README.md)
 * [📘 Glossary of terms](terminology/glossary.md)
 
 ## Legal
 
-* [Code of Conduct](CODE\_OF\_CONDUCT.md)
-* [License](legal/license.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [License](legal/LICENSE.md)
 * [Legal Disclaimer](legal-disclaimer.md)

@@ -34,7 +34,7 @@ New parameter **4000 cheq**
 
 _A longer <500 description of the changes you want to make, making direct references to where you want to make changes from, using links._
 
-I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community.&#x20;
+I want to change the minDeposit because of X. This amendment would make the process of making Proposals smoother for the entire community.
 
 **Consequences**
 

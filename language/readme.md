@@ -21,7 +21,7 @@ Generally, this Governance Framework will use non-prescriptive language, and wil
 
 The Governance Framework MAY also make use of the terms, conventions and patterns in the [ToIP Metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel+Specification). It is desirable to become a ToIP compliant Network.
 
-cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://docs.cheqd.io/governance/terminology-and-glossary/glossary), a Controlled Document of the Governance Framework.
+cheqd-specific Terms SHALL be defined in the [Glossary of terms](https://gov.cheqd.io/terminology-and-glossary/glossary), a Controlled Document of the Governance Framework.
 
 Reference MAY also be made to:
 

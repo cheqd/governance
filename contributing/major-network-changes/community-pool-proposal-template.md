@@ -4,35 +4,33 @@
 Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown \(.md\)
 {% endhint %}
 
-## **Community Pool {1} {Example Proposal}**
+## Community Pool {1} {Example Proposal}
 
-**Status**
+### Status
 
 {PROPOSED} {Not Implemented}
 
 _Select from below:_ _{DRAFT \| PROPOSED \| ACCEPTED \| REJECTED \| SUPERSEEDED by PROPOSAL-xxx \| ABANDONED} {Implemented \| Not Implemented}_
 
-**Summary**
+### Summary
 
-This is an example of a Proposal Summary
+A short \(~150 word\) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted.
 
-_A short \(~150 word\) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted._
+### Description
 
-**Description**
-
-_A longer &lt;500 description of what you want the community pool to be spent on, making direct references to where you want to make changes from, using links._
+A longer 500 description of what you want the community pool to be spent on, making direct references to where you want to make changes from, using links.
 
 I want to donate the community pool to X initiative because they support X. A link to the initiative can be found here:
 
-_\[insert link\]_
+[insert link]
 
-**Recipient**
+### Recipient
 
 Describe who the recipient of the pool is.
 
 _\[insert cheqd Network address\]_
 
-**Amount**
+### Amount
 
 _\[insert amount of cheq tokens from the community pool to allocate to this address\]_
 
@@ -46,9 +44,8 @@ _\[Insert positive consequences here\]_
 
 **Negative**
 
-_\[insert negative consequences here\]_
+\[insert negative consequences here\]
 
 **Neutral**
 
-_\[insert neutral consequences here\]_
-
+\[insert neutral consequences here\]

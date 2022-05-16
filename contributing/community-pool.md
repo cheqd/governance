@@ -32,9 +32,9 @@ Drafting and submitting a proposal is a process that takes time, attention, and 
 
 If you are considering drafting a proposal, you should review the general background on drafting and submitting a proposal:
 
-1. [How to contribute to cheqd;](https://docs.cheqd.io/governance/contributing)
-2. [How to draft a major network proposal and engage the community](https://docs.cheqd.io/governance/contributing/major-network-changes)
-3. [How voting on cheqd works](https://docs.cheqd.io/governance/contributing/voting-on-cheqd)
+1. [How to contribute to cheqd;](https://gov.cheqd.io/contributing)
+2. [How to draft a major network proposal and engage the community](https://gov.cheqd.io/contributing/major-network-changes)
+3. [How voting on cheqd works](https://gov.cheqd.io/contributing/voting-on-cheqd)
 
 ## Formatting a Community Pool Spend Proposal
 
