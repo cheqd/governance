@@ -26,4 +26,6 @@ You can login to Commonwealth using your Keplr wallet and vote on the Proposals 
 
 The weight of your vote is tied to how many $CHEQ tokens you hold. You can learn more about how Voting works here:
 
-{% embed url="https://learn.cheqd.io/overview/intro-to-defi-aspects-of-cheqd/what-is-governance-and-voting" %}
+{% hint style="success" %}
+Check out our [**What is "governance" and voting**](https://learn.cheqd.io/overview/intro-to-defi-aspects-of-cheqd/what-is-governance-and-voting) guide
+{% endhint %}
