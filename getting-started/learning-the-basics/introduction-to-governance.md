@@ -4,7 +4,7 @@ description: >-
   used but rarely understood.
 ---
 
-# 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ 🧑⚖ Introduction to Governance
+# 🧑⚖ Introduction to Governance
 
 Governance is not an easy concept to understand. This is because it is something which cannot be easily visualised and lacks a common definition.
 
@@ -107,9 +107,9 @@ One thing that will stand out looking at this chart is the lack of Law governing
 
 In this way, the Network acts as its own Legislature, Executive and Judiciary, as decentralised consensus checks and balances each stage in the passing of a proposal.
 
-Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](https://docs.cheqd.io/governance/getting-started/introduction-to-entropy).
+Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](introduction-to-entropy.md).
 
-A decentralised Network where accountability is spread out as such is known as being [sufficiently decentralised](introduction-to-entropy.md#76d0).
+A decentralised Network where accountability is spread out as such is known as being [sufficiently decentralised](introduction-to-entropy.md#entropy-progression).
 
 The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](introduction-to-entropy.md#fd67) will continue to increase, until the point of sufficient decentralisation is reached.
 

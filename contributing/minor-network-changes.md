@@ -14,11 +14,11 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Decision tree for Network Governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
+![](<../.gitbook/assets/On-chain vs off-chain decision tree (2).jpg>)
 
 ## Voting off-chain
 
-One of the core components of cheqd governance is having both on-chain and off-chain voting mechanisms.&#x20;
+One of the core components of cheqd governance is having both on-chain and off-chain voting mechanisms.
 
 Off-chain voting should be used for Minor Network Changes as well as for more general community polling.
 
@@ -48,11 +48,13 @@ We suggest that YOU use our GitBook if you are unfamiliar with GitHub or if you 
 We have a Wiki for:
 
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
-2. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
+2. [Learning about cheqd](https://learn.cheqd.io/)
+3. [cheqd Product](https://product.cheqd.io/)
+4. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
 
 To make a change on either Wiki, you need to use the link below to become an Open Source Editor on cheqd's GitBook:
 
-{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/t69fUvhwkQVP4MeOEE1e" %}
+{% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
 
 Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
 
@@ -107,7 +109,7 @@ It is not always possible to phrase every change in such a manner, but it is des
 
 During the course of cheqd's lifecycle, it is likely that bugs will arise. Reporting these bugs effectively and resolving them promptly will be very important for the smooth running of the Network.
 
-Bugs can be discussed or raised in our [Telegram](https://t.me/cheqd) or [Discord](https://discord.gg/s4nuefbY).&#x20;
+Bugs can be discussed or raised in our [Telegram](https://t.me/cheqd) or [Discord](https://discord.gg/s4nuefbY).
 
 If there is common acknowledgement of the bug, next the bug SHOULD be highlighted as an issue in our forum, at:
 
@@ -117,6 +119,6 @@ Please use the search function to make sure that you are not submitting duplicat
 
 ## Translations
 
-We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society!
+We would greatly appreciate this work from our community to ensure that cheqd reaches a diverse, multijurisdictional and multilingual spread of society.
 
-We are currently working on a simple process for submitting translations through a GitHub branch. Please bear with us until we figure out a simple way to achieve this!
+We are currently working on a simple process for submitting translations through a GitHub branch. Please bear with us until we figure out a simple way to achieve this.

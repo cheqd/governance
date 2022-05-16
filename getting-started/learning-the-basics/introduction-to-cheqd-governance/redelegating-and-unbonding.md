@@ -2,7 +2,7 @@
 
 ### How do I choose which **Node Operator** to **delegate** to?
 
-Choosing your Node Operator or multiple Node Operators is an important decision. There a few things you can take into consideration:
+Choosing your [Node Operator](validators-and-node-operators.md#what-is-a-validator-or-node-operator) or multiple Node Operators is an important decision. There a few things you can take into consideration:
 
 1.  **Commission rate**
 
@@ -26,6 +26,6 @@ Slashing can therefore certainly affect your delegated and bonded tokens, so it 
 
 ### What if I change my mind about a Node Operator? Is it possible to **redelegate** or **unbond** from a Node Operator?
 
-Yes, it is possible to instantly **redelegate** to a new Node Operator. You must complete your redelegation to a Node Operator before moving again.&#x20;
+Yes, it is possible to instantly **redelegate** to a new Node Operator. You must complete your redelegation to a Node Operator before moving again.
 
 If you want to completely withdraw and **unbond** your tokens from the [active pool](what-is-the-active-pool.md), you need to be mindful that this process takes **2 weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter which can be adjusted by the Governance Framework process.
