@@ -27,9 +27,9 @@ Through this Governance Framework, WE want to help YOU as a Network User, Node O
 
 1. What [Governance (and decentralised governance) is](getting-started/learning-the-basics/introduction-to-governance.md#what-is-governance);
 2. What [cheqd’s mission](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/) is, and how our Network functions;
-3. How you can [impact Network Governance](broken-reference), either in off-chain forums, or through on-chain Proposals;
+3. How you can [impact Network Governance](contributing/contributing.md), either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network [rewards participants](getting-started/learning-the-basics/introduction-to-cheqd-governance/why-should-i-delegate-and-stake-my-tokens.md) through transaction fees and rewards;
-5. What [Principles](broken-reference) YOU SHOULD uphold while using the cheqd Network;
+5. What [Principles](principles/principles.md) YOU SHOULD uphold while using the cheqd Network;
 6. How cheqd has built its Network to become more decentralised over time, as [Low Entropy](getting-started/learning-the-basics/introduction-to-entropy.md#entropy-progression) tends towards [High Entropy](getting-started/learning-the-basics/introduction-to-entropy.md#entropy-progression).
 
 In return, we kindly ask that YOU, while using the cheqd Network:
@@ -40,9 +40,9 @@ In return, we kindly ask that YOU, while using the cheqd Network:
 4. Accept responsibility for your mistakes, and are open to apologizing to those affected by our mistakes;
 5. Focus on what is best not just for YOU and your desired outcomes on the Network, but make decisions with the entire cheqd community in mind.
 
-We also ask that YOU follow the provisions of our [Code of Conduct](CODE\_OF\_CONDUCT.md) to ensure the best experience for others in the community.
+We also ask that YOU follow the provisions of our [Code of Conduct](legal/code\_of\_conduct.md) to ensure the best experience for others in the community.
 
-If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question on our [Telegram](https://t.me/cheqd), [Discord](https://discord.gg/AxwbG9pCMM) or in our cheqd forum, at:
+If you have any questions regarding the way cheqd's Governance is structured, please reach out to one of our Community leaders in the [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA), ask a question on our [Telegram](https://t.me/cheqd), [Discord](https://discord.gg/s4nuefbY) or in our cheqd forum, at:
 
 {% embed url="https://commonwealth.im/cheqd" %}
 
