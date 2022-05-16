@@ -1,8 +1,8 @@
 # 🏁 Introduction to cheqd Governance
 
-cheqd's Governance model is based on a concept called Delegated Proof of Stake (DPoS).&#x20;
+cheqd's Governance model is based on a concept called Delegated Proof of Stake (DPoS).
 
-Simply put, this means that the amount of stake ($CHEQ) that a holder of $CHEQ, a **"User"**,  or a Node Operator holds, is directly proportionate to their voting power.&#x20;
+Simply put, this means that the amount of stake ($CHEQ) that a holder of $CHEQ, a **"User"**,  or a Node Operator holds, is directly proportionate to their voting power.
 
 To fully understand how this works, we will walk through some basic concepts:
 

@@ -14,7 +14,7 @@ These are changes that are insignificant, and do not affect the way the Network 
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree (3).jpg>)
+![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## Voting off-chain
 
@@ -36,7 +36,7 @@ cheqd is an Open Source project which means that anyone is free to propose or ma
 
 Changes can be made through two routes:
 
-1. [GitBook](https://docs.cheqd.io/governance/)
+1. [GitBook](https://gov.cheqd.io/)
 2. [GitHub](https://github.com/cheqd)
 
 ### GitBook
@@ -50,7 +50,7 @@ We have a Wiki for:
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
 2. [Learning about cheqd](https://learn.cheqd.io/)
 3. [cheqd Product](https://product.cheqd.io/)
-4. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
+4. [cheqd Governance Framework](https://gov.cheqd.io/)
 
 To make a change on either Wiki, you need to use the link below to become an Open Source Editor on cheqd's GitBook:
 
