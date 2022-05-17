@@ -58,7 +58,7 @@ If you want to run a Node on cheqd, or get yourself into our technical documenta
 
 ## Still a bit confused?
 
-cheq out our learning page, designed to help you learn the basics:
+check out our learning page, designed to help you learn the basics:
 
 {% content-ref url="https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/" %}
 [Learn about cheqd](https://app.gitbook.com/o/-MiQSPMufVJdYEwQHd2c/s/5j0qcgqqFLaVpv4dlkgf/)
