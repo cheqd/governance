@@ -4,9 +4,9 @@
 
 ## Getting started
 
-* [🟢 Start Here](getting-started/README.md)
+* [🟢 Start Here](getting-started/getting-started.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
-  * [🧑 Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
+  * [🧑⚖ Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance/README.md)
     * [What is the active pool?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md)
@@ -45,6 +45,6 @@
 
 ## Legal
 
-* [Code of Conduct](CODE_OF_CONDUCT.md)
-* [License](LICENSE.md)
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [License](legal/license.md)
 * [Legal Disclaimer](legal-disclaimer.md)
