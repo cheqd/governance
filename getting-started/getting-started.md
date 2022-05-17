@@ -34,8 +34,8 @@ If you want to get your teeth into this documentation, improve it and make every
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../contributing/" %}
+[contributing](../contributing/)
 {% endcontent-ref %}
 
 ###
