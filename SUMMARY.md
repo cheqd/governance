@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [🟢 Start Here](getting-started/getting-started.md)
+* [🟢 Start Here](getting-started/README.md)
 * [📖 Learning the basics](getting-started/learning-the-basics/README.md)
   * [🧑 Introduction to Governance](getting-started/learning-the-basics/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/learning-the-basics/introduction-to-cheqd-governance/README.md)
