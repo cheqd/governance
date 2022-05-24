@@ -1,5 +1,7 @@
 # Understanding voting
 
+## Understanding voting
+
 Voting on cheqd is a core part of the Network and how each individual User can influence the direction of change. cheqd voting is based on a [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) model, whereby Users can vote unilaterally or delegate their votes to a Node Operator of their choice.
 
 ### Users

@@ -1,6 +1,6 @@
 # Redelegating and Unbonding
 
-### How do I choose which **Node Operator** to **delegate** to?
+## How do I choose which **Node Operator** to **delegate** to?
 
 Choosing your [Node Operator](validators-and-node-operators.md#what-is-a-validator-or-node-operator) or multiple Node Operators is an important decision. There a few things you can take into consideration:
 

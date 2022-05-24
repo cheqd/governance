@@ -1,6 +1,6 @@
 # Slashing explained
 
-### Delegator considerations
+## Delegator considerations
 
 When delegating tokens to a validator in order to earn staking rewards, there is an obvious benefit in terms of the passive income that a delegator can receive. However, it is also very important for delegators to understand the potential risks of slashing.
 
