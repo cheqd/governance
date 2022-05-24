@@ -1,5 +1,7 @@
 # Major Network changes
 
+## Major Network Changes
+
 These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
 Major Network changes include, but are not limited to:
@@ -89,7 +91,7 @@ Engage the community with your draft proposal
 3. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
 4. Target members of the community in a semi-public way before bringing the draft to a full public audience.
 5. Alert the community to the draft proposal via:
-   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd_io)
+   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
    * [cheqd Telegram](https://t.me/cheqd)
    * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
    * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)

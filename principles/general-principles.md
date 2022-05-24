@@ -1,5 +1,7 @@
 # General Principles
 
+## General Principles
+
 The cheqd Governance Framework embodies the following General Governance principles. These General Principles **SHOULD** be used as checks and balances against new Proposals on the Network.
 
 Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](../contributing/major-network-changes/)

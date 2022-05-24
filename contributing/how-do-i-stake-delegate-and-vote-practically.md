@@ -1,5 +1,7 @@
 # How do I stake and delegate practically?
 
+## Introduction to staking and delegation
+
 Before diving into some of the concepts such as staking and delegation, you may want to read through what these mean in our Learning site here:
 
 {% embed url="https://learn.cheqd.io/overview/intro-to-defi-aspects-of-cheqd" %}

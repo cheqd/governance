@@ -1,5 +1,7 @@
 # How do I vote practically?
 
+## cheqd Governance Dashboard
+
 Governance on cheqd is carried out through our [Governance Dashboard](https://cheqd.omniflix.co). This can always be found at the link:
 
 {% embed url="https://cheqd.omniflix.co" %}
