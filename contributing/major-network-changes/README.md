@@ -75,14 +75,12 @@ Great! However, we still recommend that you introduce your idea with members of 
 
 If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
-To make reading and reviewing your Proposal easier for the community, we have created a set of templates which any Proposal should follow here, [GitHub Issues Templates](https://github.com/cheqd/cheqd-node/issues).
+To make reading and reviewing your Proposal easier for the community, we have created a set of templates which can be copied into Commonwealth to standardise the format of proposing a change:
 
-Or if you would prefer to use another tool to write your Proposal, you can select a template from the list below.
-
-1. [Text-based Proposal Template](text-based-proposal-template.md)
-2. [Parameter Change Proposal Template](parameter-change-proposal-template.md)
-3. [Software Upgrade Proposal Template](software-upgrade-proposal-template.md)
-4. [Community Pool Proposal](community-pool-proposal-template.md)
+1. [Text-based Proposal Template](text-based-proposal/text-based-proposal-template.md)
+2. [Parameter Change Proposal Template](parameter-change-proposal/parameter-change-proposal-template.md)
+3. [Software Upgrade Proposal Template](software-upgrade-proposal/software-upgrade-proposal-template.md)
+4. [Community Pool Proposal](community-pool-proposal/community-pool-proposal-template.md)
 
 Engage the community with your draft proposal
 
@@ -110,11 +108,11 @@ Once you have connected your Keplr wallet, you can create an On-Chain proposal d
 
 ![How to create a new on-chain Proposal on Commonwealth](<../../.gitbook/assets/How to create on chain proposal Commonwealth.jpg>)
 
-You will need a minimum amount of 8000 $CHEQ in order to make a Governance Proposal using Commonwealth. This is important to reduce spam Proposals on the Network.
+You will need a minimum amount of **8000 $CHEQ** in order to make a Governance Proposal using Commonwealth. This is important to reduce spam Proposals on the Network.
 
 Currently, on Commonwealth, there is only a Text-Based Proposal and a Community-Spend Proposal option. Parameter Changes and Software Upgrade proposals must be made through the Command Line Interface, below.
 
-### JSON file for Command Line Interface Proposal
+### On-chain voting using cheqd CLI
 
 If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/docs/cheqd-cli), you must follow the instructions below.
 
@@ -122,64 +120,57 @@ Prior to sending the transaction that submits your Proposal on-chain, you must c
 
 Each Proposal type is unique in how the .json should be formatted:
 
-1. **TextProposal**: All the proposals that do not involve a modification of the source code go under this type. For example, an opinion poll would use a proposal of type _**TextProposal**_.
-2. **SoftwareUpgradeProposal**: If accepted, Node Operators are expected to update their software in accordance with the proposal.
-3. **CommunityPoolSpendProposal**: details a proposal for use of community funds, together with how many coins are proposed to be spent, and to which recipient account.
-4. **ParameterChangeProposal**: defines a proposal to change one or more parameters. If accepted, the requested parameter change is updated automatically by the proposal handler upon conclusion of the voting period.
-5. **CancelSoftwareUpgradeProposal**: is a gov Content type for cancelling a software upgrade.
+{% content-ref url="text-based-proposal/text-based-proposal-json-format.md" %}
+[text-based-proposal-json-format.md](text-based-proposal/text-based-proposal-json-format.md)
+{% endcontent-ref %}
+
+{% content-ref url="software-upgrade-proposal/software-update-json-format.md" %}
+[software-update-json-format.md](software-upgrade-proposal/software-update-json-format.md)
+{% endcontent-ref %}
+
+{% content-ref url="parameter-change-proposal/parameter-change-json-format.md" %}
+[parameter-change-json-format.md](parameter-change-proposal/parameter-change-json-format.md)
+{% endcontent-ref %}
+
+{% content-ref url="community-pool-proposal/community-pool-json-format.md" %}
+[community-pool-json-format.md](community-pool-proposal/community-pool-json-format.md)
+{% endcontent-ref %}
 
 To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change.
 
-Once on-chain, most people will rely upon network explorers to interpret this information with a Graphical User Interface (GUI).
+Once on-chain, most people will rely upon Block Explorers to interpret this information with a Graphical User Interface (GUI).
 
-This is the command format for using cheqd’s CLI (Command-Line Interface) to submit your proposal on-chain:
 
-```json
-cheqd-noded tx gov submit-proposal \
+
+### Submitting Proposal on cheqd CLI
+
+```
+cheqd noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
-  --type="TextProposal" \
+  --type="Text" \
   --deposit="8000000000000ncheq" \
   --from=<name> \
   --chain-id=<cheqd-mainnet-1>
+  --gas="auto"
+  --gas-adjustment"1.2"
+  --gas-prices="25ncheq"
 ```
 
-### Proposal type
+cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
 
-If \<proposal type> is left blank, the type will be a Text proposal. Otherwise, it can be set to _**param-change**_, _**community-pool-spend**_, _**software-upgdrade**_ or _**cancel-software-upgrade**_. Use _**--help**_ to get more info from the tool.
-
-For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
-
-```json
-cheqd-noded tx gov submit-proposal \
---title=<Parameter change proposal> \
---description=<parameter change of min deposit> \
---type="param-change" \
---deposit="8000000000000ncheq" \
---from=<alex> \
---chain-id=<cheqd-mainnet-1>
---gas="auto"
---gas-adjustment"1.2"
---gas-prices="25ncheq"
-```
-
-1. cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
-2. tx gov submit-proposal and type='param-change' indicates that the transaction is submitting a parameter-change proposal;
-3. \--from "alex" is the account key that pays the transaction fee and deposit amount;
-4. \--gas the maximum amount of gas you accept may be used to process the transaction:
-   * The more content there is in the description of your proposal, the more gas your transaction will consume;
-   * If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
-   * The transaction will only use the amount of gas needed to process the transaction.
+1. tx gov submit-proposal and type='Text' indicates that the transaction is submitting a text proposal;
+2. \--from " " is the account key that pays the transaction fee and deposit amount;
+3. \--gas the maximum amount of gas you accept may be used to process the transaction:
+   1. The more content there is in the description of your proposal, the more gas your transaction will consume;
+   2. If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
+4. The transaction will only use the amount of gas needed to process the transaction.
 5. \--gas prices is a flat-rate incentive for a Node Operator to process your transaction:
-   * The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
-   * Many nodes use a minimum fee to disincentivize transaction spamming;
-   * This can also be set to "auto"
-6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2"
+   1. The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
+   2. Many nodes use a minimum fee to disincentivize transaction spamming;
+   3. This can also be set to "auto"
+6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2" or "1.3"
 7. \--the mainnet chain ID is **cheqd-mainnet-1**
-
-{% hint style="info" %}
-Note: be careful what you use for **--gas-prices**. A mistake here could result in spending hundreds or thousands of CHEQ accidentally, rather than ncheq, which cannot be recovered.
-{% endhint %}
 
 ### Deposit
 
@@ -196,6 +187,12 @@ In this scenario, the tokens spent on the Deposit which did not reach the _**Min
 The **minimum deposit** for cheqd will initially be **8,000 CHEQ**.
 
 The _**MaxDepositPeriod**_ will be **1 week**.
+
+
+
+### Formatting Proposal using cheqd CLI
+
+
 
 ### Deposit refund and burn
 
