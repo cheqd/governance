@@ -142,7 +142,7 @@ Once on-chain, most people will rely upon network explorers to interpret this in
 
 This is the command format for using cheqd’s CLI (Command-Line Interface) to submit your proposal on-chain:
 
-```json
+```
 cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
@@ -158,7 +158,7 @@ If \<proposal type> is left blank, the type will be a Text proposal. Otherwise, 
 
 For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
-```json
+```
 cheqd-noded tx gov submit-proposal \
 --title=<Parameter change proposal> \
 --description=<parameter change of min deposit> \
