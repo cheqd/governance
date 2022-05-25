@@ -34,8 +34,8 @@ If you want to get your teeth into this documentation, improve it and make every
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
-{% content-ref url="../contributing/" %}
-[contributing](../contributing/)
+{% content-ref url="../contributing/contributing.md" %}
+[contributing.md](../contributing/contributing.md)
 {% endcontent-ref %}
 
 ###

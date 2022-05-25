@@ -21,7 +21,7 @@
 
 ## Contributing
 
-* [✍ How to Contribute](contributing/README.md)
+* [✍ How to Contribute](contributing/contributing.md)
 * [Minor Network changes](contributing/minor-network-changes.md)
 * [Major Network changes](contributing/major-network-changes/README.md)
   * [Text-based Proposal Template](contributing/major-network-changes/text-based-proposal-template.md)
@@ -34,17 +34,17 @@
 
 ## Principles
 
-* [Principles-based Governance](principles/README.md)
+* [Principles-based Governance](principles/principles.md)
 * [Foundational Principles](principles/foundational-principles.md)
 * [General Principles](principles/general-principles.md)
 
 ## Terminology
 
-* [Terminology](terminology/README.md)
+* [Terminology](terminology/terminology.md)
 * [📘 Glossary of terms](terminology/glossary.md)
 
 ## Legal
 
-* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Code of Conduct](legal/code\_of\_conduct.md)
 * [License](legal/license.md)
-* [Legal Disclaimer](legal-disclaimer.md)
+* [Legal Disclaimer](legal/legal-disclaimer.md)

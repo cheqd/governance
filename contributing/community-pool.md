@@ -4,7 +4,7 @@ cheqd will launch with community-spend capabilities, allowing CHEQ stakers to [P
 
 ## Learn About the Community Pool
 
-#### What is the balance of the Community Pool?
+### What is the balance of the Community Pool?
 
 You can always see the balance of the cheqd Community Pools on one of our Block Explorers. Our main block explorer is here:
 
