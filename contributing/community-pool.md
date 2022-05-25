@@ -34,7 +34,7 @@ If you are considering drafting a proposal, you should review the general backgr
 
 1. [How to contribute to cheqd;](https://gov.cheqd.io/contributing)
 2. [How to draft a major network proposal and engage the community](https://gov.cheqd.io/contributing/major-network-changes)
-3. [How voting on cheqd works](https://gov.cheqd.io/contributing/voting-on-cheqd)
+3. [How voting on cheqd works](../getting-started/learning-the-basics/introduction-to-cheqd-governance/understanding-voting.md)
 
 ## Formatting a Community Pool Spend Proposal
 
