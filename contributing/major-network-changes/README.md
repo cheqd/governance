@@ -96,14 +96,6 @@ Engage the community with your draft proposal
    * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
    * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
-#### Submit your proposal to cheqd Testnet
-
-You may want to submit your proposal to the testnet chain before the mainnet for a number of reasons, such as wanting to see what the proposal description will look like, to share what the proposal will look like in advance with stakeholders, and to signal that your proposal is about to go live on the mainnet.
-
-Perhaps most importantly, for parameter change proposals, you can test the parameter changes in advance (if you have enough support from the voting power on the testnet).
-
-Submitting your proposal to the testnet increases the likelihood of engagement and the possibility that you will be alerted to a flaw before deploying your proposal to mainnet.
-
 ## Formal on-chain proposal
 
 Once you have sensibly tested your Proposal and bounced your ideas around the community, you are ready to submit a Proposal on-chain.
@@ -142,7 +134,7 @@ Once on-chain, most people will rely upon network explorers to interpret this in
 
 This is the command format for using cheqd’s CLI (Command-Line Interface) to submit your proposal on-chain:
 
-```
+```json
 cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
@@ -158,7 +150,7 @@ If \<proposal type> is left blank, the type will be a Text proposal. Otherwise, 
 
 For instance, this is the complete command that I could use to submit a testnet parameter-change proposal right now:
 
-```
+```json
 cheqd-noded tx gov submit-proposal \
 --title=<Parameter change proposal> \
 --description=<parameter change of min deposit> \
@@ -169,7 +161,6 @@ cheqd-noded tx gov submit-proposal \
 --gas="auto"
 --gas-adjustment"1.2"
 --gas-prices="25ncheq"
---node http://sentry1.eu.cheqd.net:26657
 ```
 
 1. cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
@@ -185,7 +176,6 @@ cheqd-noded tx gov submit-proposal \
    * This can also be set to "auto"
 6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2"
 7. \--the mainnet chain ID is **cheqd-mainnet-1**
-8. \--node http://sentry1.eu.cheqd.net:26657 is the name
 
 {% hint style="info" %}
 Note: be careful what you use for **--gas-prices**. A mistake here could result in spending hundreds or thousands of CHEQ accidentally, rather than ncheq, which cannot be recovered.
