@@ -77,10 +77,10 @@ If you've considered feedback from broad perspectives and think that what you're
 
 To make reading and reviewing your Proposal easier for the community, we have created a set of templates which can be copied into Commonwealth to standardise the format of proposing a change:
 
-1. [Text-based Proposal Template](text-based-proposal/text-based-proposal-template.md)
-2. [Parameter Change Proposal Template](parameter-change-proposal/parameter-change-proposal-template.md)
-3. [Software Upgrade Proposal Template](software-upgrade-proposal/software-upgrade-proposal-template.md)
-4. [Community Pool Proposal](community-pool-proposal/community-pool-proposal-template.md)
+1. [Text-based Proposal Template](text-based-proposal-template.md)
+2. [Parameter Change Proposal Template](parameter-change-proposal-template.md)
+3. [Software Upgrade Proposal Template](software-upgrade-proposal-template.md)
+4. [Community Pool Proposal](community-pool-proposal-template.md)
 
 Engage the community with your draft proposal
 
@@ -187,12 +187,6 @@ In this scenario, the tokens spent on the Deposit which did not reach the _**Min
 The **minimum deposit** for cheqd will initially be **8,000 CHEQ**.
 
 The _**MaxDepositPeriod**_ will be **1 week**.
-
-
-
-### Formatting Proposal using cheqd CLI
-
-
 
 ### Deposit refund and burn
 
