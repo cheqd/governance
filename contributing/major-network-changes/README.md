@@ -145,7 +145,7 @@ Once on-chain, most people will rely upon Block Explorers to interpret this info
 ### Submitting Proposal on cheqd CLI
 
 ```
-cheqd noded tx gov submit-proposal \
+cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
   --type="Text" \
