@@ -11,7 +11,7 @@
 | **Blocks per year**                           | 6,311,520     | #                   |
 | **Minimum deposit for governance proposal**   | 8,000         | #, cheq             |
 | **Time for deposit to reach minimum deposit** | 604,800       | seconds (= 1 week)  |
-| **Voting period**                             | 604,800       | seconds (= 1 week)  |
+| **Voting period**                             | 432,000       | seconds (= 5 days)  |
 | **Quorum**                                    | 33.34%        | % decimal           |
 | **Threshold**                                 | 50.00%        | % decimal           |
 | **Veto**                                      | 33.34%        | % decimal           |
