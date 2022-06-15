@@ -4,13 +4,27 @@
 
 Voting on cheqd is a core part of the Network and how each individual User can influence the direction of change. cheqd voting is based on a [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) model, whereby Users can vote unilaterally or delegate their votes to a Node Operator of their choice.
 
+If you already fully understand voting, you can go to our pages on staking, delegating and voting practically:
+
+{% content-ref url="../../../contributing/how-do-i-stake-delegate-and-vote-practically.md" %}
+[how-do-i-stake-delegate-and-vote-practically.md](../../../contributing/how-do-i-stake-delegate-and-vote-practically.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../contributing/how-do-i-vote-practically.md" %}
+[how-do-i-vote-practically.md](../../../contributing/how-do-i-vote-practically.md)
+{% endcontent-ref %}
+
+Or you can jump straight into our Governance dashboard here:
+
+{% embed url="https://cheqd.omniflix.co/" %}
+
 ### Users
 
 Users are people, organisations or other entities that hold tokens.
 
 ### Participants
 
-Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the active pool.
+Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the [active pool](what-is-the-active-pool.md).
 
 1. Node Operators can '**stake'** their tokens in order to vote on governance matters. This initial stake, when added to the active pool, is also known as **bonded**;
 2. Everyday Users can **‘delegate’** their tokens to a Node Operator, which then add to the amount **bonded** on that node.
@@ -24,7 +38,7 @@ Some participants can be forbidden to vote on a proposal under a certain Node Op
 * Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its **voting period**.
 * Participant set up a node and became a Node Operator after the proposal entered its **voting period**.
 
-This does not prevent the participant voting with CHEQ bonded to other Node Operator. For example, if a participant bonded some CHEQ to Node Operator A before a proposal entered voting period and other CHEQ to Node Operator B after proposal entered voting period, only the vote under Node Operator B will be forbidden.
+This does not prevent the participant voting with CHEQ bonded to another Node Operator. For example, if a participant bonded some CHEQ to Node Operator _'A'_ **before** a proposal entered voting period and other CHEQ to Node Operator _'B'_ **after** proposal entered voting period, only the vote under Node Operator _'B'_ will be forbidden.
 
 ### Inheritance
 
@@ -38,7 +52,9 @@ If the Participant votes after its Node Operator, it will override its Node Oper
 
 Once a proposal reaches _**MinDeposit**_, it immediately enters Voting period. We define Voting period as the interval between the moment the vote opens and the moment the vote closes. Voting period should always be shorter than the Unbonding period to prevent double voting.
 
-The initial value of the cheqd Voting period is **1 week**.
+The initial value of the cheqd Voting period was **1 week**.
+
+This has since been reduced to **5 days** to accelerate the process of releasing updates. &#x20;
 
 ### Unbonding period
 
@@ -48,7 +64,9 @@ The initial value of the cheqd Unbonding period is **2 weeks**.
 
 ### Redelegation
 
-It is always possible to change the Node Operator you are delegated to, with a minimal time delay. You are also able to delegate to multiple Node Operators at the same time.
+It is **always possible** to change (redelegate) the Node Operator you are delegated to, with a minimal time delay, using the redelegation option.&#x20;
+
+You are also able to delegate to multiple Node Operators at the same time.
 
 ### Option set
 
@@ -106,7 +124,7 @@ At launch, the Governance address will be the main Node Operator address generat
 Deposits are burned when proposals:
 
 1. **Expire** - deposits will be burned if the deposit period **(1 week)** ends before reaching the minimum deposit **(8000 CHEQ)**;
-2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **1 week** voting period, i.e. **33,34%** of all staked CHEQ must vote;
+2. **Fail** **to reach quorum** - deposits will be burned for proposals that do not reach quorum within the **5 day** voting period, i.e. **33,34%** of all staked CHEQ must vote;
 3. **Are vetoed** - deposits for proposals with **33.4%** of voting power backing the 'no-with-veto' option are also burned.
 
 To learn more about when you should exercise the **veto** vote, refer to our [Second Foundational Principle, the Balancing Principle](../../../principles/foundational-principles.md#2.-the-balancing-principle).
@@ -124,7 +142,9 @@ Switch
 
 After a _**SoftwareUpgradeProposal**_ is accepted, Node Operators are expected to download and install the new version of the software while continuing to run the previous version. Once a Node Operator has downloaded and installed the upgrade, it will start signaling to the network that it is ready to switch by including the proposal's proposalID in its precommits.
 
+{% hint style="info" %}
 Note: There is only one signal slot per precommit. If several _**SoftwareUpgradeProposals**_ are accepted in a short timeframe, a pipeline will form and they will be implemented one after the other in the order that they were accepted.
+{% endhint %}
 
 ### Switch
 

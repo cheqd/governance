@@ -2,7 +2,7 @@
 
 ## Why should I delegate and stake my tokens?
 
-****[**Participants**](what-is-bonding-delegation.md#what-is-a-participant) may be eligible for a percentage of the rewards that [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) earn during the course of running a node. [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
+****[Participants](what-is-bonding-delegation.md#what-is-a-participant) may be eligible for a percentage of the rewards that [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) earn during the course of running a node. [Node Operators](validators-and-node-operators.md#what-is-a-validator-or-node-operator) may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
 
 Therefore, you may want to delegate and stake your tokens for two reasons:
 
@@ -11,7 +11,7 @@ Therefore, you may want to delegate and stake your tokens for two reasons:
 
 ### Network Governance
 
-Users with **bonded** tokens, [**Participants**](what-is-bonding-delegation.md#what-is-a-participant), are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
+Users with **bonded** tokens, [Participants](what-is-bonding-delegation.md#what-is-a-participant), are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
 
 This is where the Delegated Proof of Stake system comes into play.
 
@@ -39,7 +39,5 @@ cheqd naturally has inflation, which means that it creates more blocks over time
 The more that DIDs are written to the Network (and in the future) Verifiable Credentials are verified by third parties, there will be transaction fees distributed to the network, which will be split between the Node Operators and those delegated to the Node Operators.
 
 Gas prices also come into play here too, the lower your gas price, the more likely that your node will be considered in the active set for rewards.
-
-You can read more about gas fees and prices here.
 
 For context, we suggest the set gas-price should fall within this range: Low: 25ncheq Medium: 50ncheq High: 100ncheq

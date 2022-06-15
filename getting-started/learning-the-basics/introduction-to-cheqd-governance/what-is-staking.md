@@ -13,3 +13,13 @@ Read more about slashing here:
 {% content-ref url="slashing-explained.md" %}
 [slashing-explained.md](slashing-explained.md)
 {% endcontent-ref %}
+
+If you want to stake and delegate practically, you can read more here:
+
+{% content-ref url="../../../contributing/how-do-i-stake-delegate-and-vote-practically.md" %}
+[how-do-i-stake-delegate-and-vote-practically.md](../../../contributing/how-do-i-stake-delegate-and-vote-practically.md)
+{% endcontent-ref %}
+
+or jump straight into our Governance Dashboard here:
+
+{% embed url="https://cheqd.omniflix.co" %}
