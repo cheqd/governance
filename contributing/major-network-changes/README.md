@@ -149,7 +149,7 @@ cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
   --type="Text" \
-  --deposit="8000000000000ncheq" \
+  --deposit="8000000000000" \
   --from=<name> \
   --chain-id=<cheqd-mainnet-1>
   --gas="auto"
