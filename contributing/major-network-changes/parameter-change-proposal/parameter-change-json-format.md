@@ -13,6 +13,6 @@
       "value": {"votingperiod":"432000"} // this is the NEW parameter value 
     }
   ],
-  "deposit": "8000000000000ncheq"
+  "deposit": "8000000000000" //ncheq
 }
 ```

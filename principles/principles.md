@@ -2,7 +2,7 @@
 
 ## Primer on Principles-based Governance
 
-The Principles listed in this Framework are designed to provide a functional reference point, and act as checks and balances, for cheqd community members and Network Users voting on the Network.
+The Principles listed in this Framework are designed to provide a functional reference point, and act as checks and balances for cheqd community members and Network Users voting on the Network.
 
 These Principles are specifically designed to govern [Major Network Changes](../contributing/major-network-changes/) and ‘on-chain’ governance activities. They should serve as the foundation and baseline for the Network to build upon as it iterates and becomes increasingly decentralised.
 

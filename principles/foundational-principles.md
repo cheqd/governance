@@ -18,8 +18,8 @@ This Principle **SHOULD** be upheld in the following way:
 
 If there is a clear contradiction between a Principle listed in this Governance Framework and a Proposal made to the Network, that Proposal **SHOULD** be either:
 
-1. Rejected, meaning that it will not reach voting stage, but the creator of the Proposal will be refunded its tokens;
-2. Vetoed, meaning that it will not reach the voting stage and the deposited tokens for the Proposal are burnt.
+1. **Rejected**, meaning that it will not reach voting stage, but the creator of the Proposal will be refunded its tokens;
+2. **Vetoed**, meaning that it will not reach the voting stage and the deposited tokens for the Proposal are burnt.
 
 Naturally, it will be at the discretion of the voter whether to reject or veto the Proposal. The User **SHOULD** use their reasonable judgement to make this decision, based on the degree of harm the hypothetical Proposal could do to the Network.
 

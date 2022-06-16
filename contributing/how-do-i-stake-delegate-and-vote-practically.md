@@ -63,6 +63,6 @@ Press the button **"Delegate"** on your desired Validating Node Operator.
 
 ![Image showing Delegation capability](<../.gitbook/assets/Image showing token delegation.png>)
 
-Enter the amount of tokens you want to delegate.
+Enter the amount of tokens you want to delegate and choose your gas fee when the popup appears on Keplr.
 
 And voila! You have now delegated to a Node Operator and staked your tokens.

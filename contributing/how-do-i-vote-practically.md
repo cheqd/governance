@@ -2,7 +2,7 @@
 
 ## cheqd Governance Dashboard
 
-Governance on cheqd is carried out through our [Governance Dashboard](https://cheqd.omniflix.co). This can always be found at the link:
+Governance on cheqd is carried out through our [Governance Dashboard](https://cheqd.omniflix.co) or [Governance Forum](https://commonwealth.im/cheqd). These can always be found at the link:
 
 {% embed url="https://cheqd.omniflix.co" %}
 
@@ -26,7 +26,7 @@ You can login to Commonwealth using your Keplr wallet and vote on the Proposals 
 
 ![Image showing how to vote on Commonwealth](<../.gitbook/assets/How to vote on Commonwealth.png>)
 
-The weight of your vote is tied to how many $CHEQ tokens you hold. You can learn more about how Voting works here:
+The weight of your vote is tied to how many $CHEQ tokens you hold. You can learn more about [how Voting works here](../getting-started/learning-the-basics/introduction-to-cheqd-governance/understanding-voting.md):
 
 {% hint style="success" %}
 Check out our [**What is "governance" and voting**](https://learn.cheqd.io/overview/intro-to-defi-aspects-of-cheqd/what-is-governance-and-voting) guide
