@@ -67,7 +67,3 @@ This notice is written in English language and may be translated into other lang
 ### Restrictions on Duties and Transfers
 
 The rights of members in a Decentralized Autonomous Organization (DAO) may differ materially from the rights of members in other limited liability companies. Members should familiarise themselves with this Information Material and [wider documentation regarding the legal classification of DAOs](https://www.lextechinstitute.ch/wp-content/uploads/2021/06/DAO-Model-Law.pdf) before participating in the cheqd Network.
-
-###
-
-##
