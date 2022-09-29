@@ -46,6 +46,4 @@ If you have any questions regarding the way cheqd's Governance is structured, pl
 
 {% embed url="https://commonwealth.im/cheqd" %}
 
-Let’s make cheqd a success together, and payment rails for trusted digital data a global standard: improving trust and efficiency in every industry.
-
-**Peace, love and groovy polar bears, The cheqmates**
+Let’s make cheqd a success together, and payment rails for trusted digital data a global standard: improving trust and efficiency in every industry. *- Peace, love and groovy polar bears, The cheqmates*
