@@ -1,8 +1,12 @@
 # Community Pool
 
-cheqd will launch with community-spend capabilities, allowing CHEQ stakers to [Participants](../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
+cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
 
 ## Learn About the Community Pool
+
+The community pool value is accumulated over time.
+
+2% of all staking rewards generated (via block rewards & transaction fees) are continually transferred to and accrue within the Community Pool.
 
 ### What is the balance of the Community Pool?
 
@@ -43,7 +47,7 @@ There are five (5) components:
 1. **Title** - the distinguishing name of the proposal, typically the way the that explorers list proposals
 2. **Description** - the body of the proposal that further describes what is being proposed and details surrounding the proposal
 3. **Recipient** - the cheqd address that will receive funding from the Community Pool
-4. **Amount** - the amount of funding that the recipient will receive in nanoCHEQ (nCHEQ)
+4. **Amount** - the amount of funding that the recipient will receive in nanoCHEQ ("nCHEQ")
 5. **Deposit** - the amount that will be contributed to the deposit (in nanoCHEQ ("nCHEQ") from the account submitting the proposal
 
 ### **Off-ledger template**
