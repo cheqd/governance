@@ -6,12 +6,12 @@ Voting on cheqd is a core part of the Network and how each individual User can i
 
 If you already fully understand voting, you can go to our pages on staking, delegating and voting practically:
 
-{% content-ref url="../../../contributing/staking-and-delegating.md" %}
-[staking-and-delegating.md](../../../contributing/staking-and-delegating.md)
+{% content-ref url="../contributing/staking-and-delegating.md" %}
+[staking-and-delegating.md](../contributing/staking-and-delegating.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../contributing/voting.md" %}
-[voting.md](../../../contributing/voting.md)
+{% content-ref url="../contributing//voting.md" %}
+[voting.md](../contributing//voting.md)
 {% endcontent-ref %}
 
 Or you can jump straight into our Governance dashboard here:
@@ -58,7 +58,7 @@ Once a proposal reaches _**MinDeposit**_, it immediately enters Voting period. W
 
 The initial value of the cheqd Voting period was **1 week**.
 
-This has since been reduced to **5 days** to accelerate the process of releasing updates. 
+This has since been reduced to **5 days** to accelerate the process of releasing updates.
 
 ### Unbonding period
 

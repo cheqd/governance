@@ -4,7 +4,7 @@
 
 In blockchain ecosystems, the **Node Operator** runs what is called a **node**. A node can be thought of like a power pylon in the physical world, which helps to distribute electricity around a wide network of users.
 
-![Image showing power pylons, comparing them to blockchain nodes](../../../.gitbook/assets/Power%20Lines.jpg)
+![Image showing power pylons, comparing them to blockchain nodes](../.gitbook/assets/Power%20Lines.jpg)
 
 Without these pylons, electricity would be largely centralised in one location; the pylons help to distribute power to entire wide-scale populations. And if one pylon fails, the grid is set up to circumvent this pylon and re-route the electricity a different route.
 
