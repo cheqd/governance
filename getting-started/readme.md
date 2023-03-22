@@ -16,8 +16,8 @@ Feel free to select the route that suits you best:
 
 If you are not familiar with governance, and especially decentralised governance, we suggest that you should begin with our introductory documents:
 
-{% content-ref url="learning-the-basics/" %}
-[learning-the-basics](learning-the-basics/)
+{% content-ref url="deep-dive/" %}
+[deep-dive](deep-dive/)
 {% endcontent-ref %}
 
 ### Editor
