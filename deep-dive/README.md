@@ -4,8 +4,8 @@ For general holders of coins or tokens across the industry, governance is often 
 
 At cheqd, we want to make participating in governance easy.
 
-{% content-ref url="introduction-to-governance.md" %}
-[introduction-to-governance.md](introduction-to-governance.md)
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
 {% endcontent-ref %}
 
 {% content-ref url="introduction-to-cheqd-governance/" %}

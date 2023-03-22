@@ -4,7 +4,7 @@
 
 The principle concept of **decentralised governance** is that no single person, entity or organisation can control the direction of change in a public Network. Instead, the direction of change is agreed by the democratic votes of an ever-growing, diverse collective.
 
-This point is desirable to reach, because it maximises Network security and resilience, creates an environment which is governed by a broad, diverse and multijurisdictional collective, and enables the Network to function purely as a utility, regulating itself through its own [architecture](introduction-to-governance.md#4.-architecture).
+This point is desirable to reach, because it maximises Network security and resilience, creates an environment which is governed by a broad, diverse and multijurisdictional collective, and enables the Network to function purely as a utility, regulating itself through its own [architecture](governance.md#4.-architecture).
 
 However, this point is not something that can be reached overnight. There is a transition period between the genesis event of any decentralised Network and the point at which sufficient decentralisation may be claimed.
 

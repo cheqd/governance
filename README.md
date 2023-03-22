@@ -25,7 +25,7 @@ This is the most important part of any Governance Framework...
 
 Through this Governance Framework, WE want to help YOU as a Network User, Node Operator or cheqd Community Member understand and familiarise yourselves with the following:
 
-1. What [Governance (and decentralised governance) is](deep-dive/introduction-to-governance.md);
+1. What [Governance (and decentralised governance) is](deep-dive/governance.md);
 2. What [cheqd’s mission](https://learn.cheqd.io) is, and how our Network functions;
 3. How you can [impact Network Governance](basic-concepts/voting.md), either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network [rewards participants](basic-concepts/why-stake.md) through transaction fees and rewards;

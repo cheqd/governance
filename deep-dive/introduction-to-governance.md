@@ -20,10 +20,10 @@ Governance is a challenging concept. It relates to setting rules and standards t
 
 At cheqd, we like to think about Governance as constituting 4 parts:
 
-1. [Law and guidelines](introduction-to-governance.md#1.-law-and-guidelines)
-2. [Principles and social norms](introduction-to-governance.md#2.-principles-and-social-norms)
-3. [Markets and economics](introduction-to-governance.md#3.-markets-and-economics)
-4. [Architecture](introduction-to-governance.md#4.-architecture)
+1. [Law and guidelines](governance.md#1.-law-and-guidelines)
+2. [Principles and social norms](governance.md#2.-principles-and-social-norms)
+3. [Markets and economics](governance.md#3.-markets-and-economics)
+4. [Architecture](governance.md#4.-architecture)
 
 Now, let’s break these down simply.
 
@@ -83,7 +83,7 @@ In this sense, Governance is something flexible, which can be adapted for differ
 2. Whether the system is in the physical or digital world;
 3. Whether there is a currency.
 
-At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: [What is Decentralised Governance](introduction-to-governance.md#what-is-decentralised-governance)?
+At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: [What is Decentralised Governance](governance.md#what-is-decentralised-governance)?
 
 ## How we define Governance
 

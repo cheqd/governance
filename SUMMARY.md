@@ -6,7 +6,7 @@
 
 * [🟢 Start Here](getting-started/README.md)
 * [📖 Learning the basics](deep-dive/README.md)
-  * [🧑⚖ Introduction to Governance](deep-dive/introduction-to-governance.md)
+  * [🧑⚖ Introduction to Governance](deep-dive/governance.md)
   * [🏁 Introduction to cheqd Governance](basic-concepts/README.md)
     * [What is the active pool?](basic-concepts/active-pool.md)
     * [What is bonding / delegation?](basic-concepts/delegation-and-bonding.md)
