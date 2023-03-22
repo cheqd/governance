@@ -1,6 +1,6 @@
 # Major Network changes
 
-## Major Network Changes
+## Context
 
 These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
@@ -140,11 +140,9 @@ To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ w
 
 Once on-chain, most people will rely upon Block Explorers to interpret this information with a Graphical User Interface (GUI).
 
-
-
 ### Submitting Proposal on cheqd CLI
 
-```
+```bash
 cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
@@ -159,18 +157,18 @@ cheqd-noded tx gov submit-proposal \
 
 cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
 
-1. tx gov submit-proposal and type='Text' indicates that the transaction is submitting a text proposal;
-2. \--from " " is the account key that pays the transaction fee and deposit amount;
-3. \--gas the maximum amount of gas you accept may be used to process the transaction:
+1. `tx gov submit-proposal` and `--type="Text"` indicates that the transaction is submitting a text proposal;
+2. `--from` is the account key that pays the transaction fee and deposit amount;
+3. `--gas` the maximum amount of gas you accept may be used to process the transaction:
    1. The more content there is in the description of your proposal, the more gas your transaction will consume;
    2. If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
 4. The transaction will only use the amount of gas needed to process the transaction.
-5. \--gas prices is a flat-rate incentive for a Node Operator to process your transaction:
+5. `--gas-prices` is a flat-rate incentive for a Node Operator to process your transaction:
    1. The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
    2. Many nodes use a minimum fee to disincentivize transaction spamming;
    3. This can also be set to "auto"
-6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2" or "1.3"
-7. \--the mainnet chain ID is **cheqd-mainnet-1**
+6. `--gas-adjustment` is the range of gas prices that will still enable the transaction to go through. We recommend "1.2" or "1.3"
+7. `--chain-id` is relevant chain ID, e.g., **cheqd-mainnet-1**
 
 ### Deposit
 
