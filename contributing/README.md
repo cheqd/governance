@@ -78,8 +78,8 @@ If you want to stay updated with cheqd news, we recommend that you join us on:
 5. [Medium:](https://blog.cheqd.io) Stay up to date with our latest blogs and articles.
 6. [LinkedIn:](https://www.linkedin.com/company/cheqd-identity/) Follow us on LinkedIn and keep up to date.
 
-We also kindly ask you to familiarise yourself with our [Code of Conduct](../CODE\_OF\_CONDUCT.md) which sets our clearly defined expectations and behaviour that we want to uphold in the community.
+We also kindly ask you to familiarise yourself with our [Code of Conduct](../CODE_OF_CONDUCT.md) which sets our clearly defined expectations and behaviour that we want to uphold in the community.
 
-{% embed url="https://docs.cheqd.io/node/code_of_conduct" %}
+{% embed url="../CODE_OF_CONDUCT.md" %}
 
 This ensures that the cheqd community remains a safe and welcoming place, for any person regardless of who they are.

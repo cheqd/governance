@@ -75,7 +75,7 @@ Whereas, the regulation of a Social Media Network relies much more on Principles
 
 This is represented in the diagram below.
 
-![Figure showing how social media platforms use governance modalities](<../../.gitbook/assets/How do social media platforms regulate.png>)
+![Figure showing how social media platforms use governance modalities](<../.gitbook/assets/How do social media platforms regulate.png>)
 
 In this sense, Governance is something flexible, which can be adapted for different use cases, based on a combination of factors such as, among other things:
 
