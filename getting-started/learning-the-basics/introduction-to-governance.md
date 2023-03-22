@@ -4,7 +4,7 @@ description: >-
   used but rarely understood.
 ---
 
-# 🧑⚖ Introduction to Governance
+# 🧑 Introduction to Governance
 
 Governance is not an easy concept to understand. This is because it is something which cannot be easily visualised and lacks a common definition.
 
@@ -27,13 +27,15 @@ At cheqd, we like to think about Governance as constituting 4 parts:
 
 Now, let’s break these down simply.
 
-### **1. Law and guidelines**
+## Types of governance
+
+### 1. Law and guidelines
 
 The law is something we are all familiar with. It’s a set of rules imposed on us, usually by a government or sovereign entity in a particular, defined jurisdiction. Non-compliance with law often results in a punishment of some sort.
 
 Importantly, however, laws are rules that you have a choice whether to follow. You can choose to break the law if you want to, if for example you feel a law is morally unjust, however there will be consequences for your actions. Laws act to deter people from breaking them. In this sense, they are guidelines that are enforced by punishment.
 
-### **2. Principles and social norms**
+### 2. Principles and social norms
 
 Principles and social norms are a fun specimen. They play on human behavioural psychology. The crux of governing through principles and social norms is that if you get enough people to do something, or believe something, the community will innately enforce that thing.
 
@@ -57,7 +59,7 @@ In digital domains, architecture becomes a much more powerful method of governan
 
 Architecture becomes increasingly necessary when there are no jurisdictional borders, such as on the internet, where the law can be easily evaded. For this reason, on the internet, it has been suggested by prominent writers such as [Lawrence Lessig](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=1183\&context=cheer), that code is law.
 
-#### Coming back to the question: what is Governance?
+## Coming back to the question: what is Governance?
 
 Governance is a multifaceted concept, encapsulating each of the four parts, discussed above. It is a way of regulating behaviour and ensuring order in a given system.
 
@@ -83,13 +85,13 @@ In this sense, Governance is something flexible, which can be adapted for differ
 
 At cheqd, we use these four constituent parts of Governance to explain how we regulate our Network to ensure a level of order, without restrictive rules on the Network, explained below in the section: [What is Decentralised Governance](introduction-to-governance.md#what-is-decentralised-governance)?
 
-### How we define Governance
+## How we define Governance
 
 {% hint style="info" %}
 **"Governance is a way of regulating behaviour and ensuring order in a given system. We think of it as a melting pot with Principles, Laws, Economics and System Design as the ingredients."**
 {% endhint %}
 
-## What is Decentralised Governance?
+### What is Decentralised Governance?
 
 {% hint style="info" %}
 **"Decentralised governance is the concept that no single person, organisation or entity will be able to unilaterally make decisions or changes that affect the Network. Instead, the direction of change is decided by the democratic votes of an ever-growing, diverse collective."**
