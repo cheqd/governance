@@ -10,8 +10,8 @@ To fully understand how this works, we will walk through some basic concepts:
 [what-is-the-active-pool.md](what-is-the-active-pool.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-bonding-delegation.md" %}
-[what-is-bonding-delegation.md](what-is-bonding-delegation.md)
+{% content-ref url="delegation-and-bonding.md" %}
+[delegation-and-bonding.md](delegation-and-bonding.md)
 {% endcontent-ref %}
 
 {% content-ref url="what-is-staking.md" %}

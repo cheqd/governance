@@ -1,6 +1,6 @@
 # What is staking?
 
-As previously mentioned, in order to [bond](what-is-bonding-delegation.md) tokens and add them to the [active pool](what-is-the-active-pool.md), users need to [**delegate**](what-is-bonding-delegation.md) their tokens to [Node Operators](validators.md).
+As previously mentioned, in order to [bond](delegation-and-bonding.md) tokens and add them to the [active pool](what-is-the-active-pool.md), users need to [**delegate**](delegation-and-bonding.md) their tokens to [Node Operators](validators.md).
 
 This is known, more simply, as **staking**.
 

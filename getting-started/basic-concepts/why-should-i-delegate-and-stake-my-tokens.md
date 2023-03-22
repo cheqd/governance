@@ -2,7 +2,7 @@
 
 ## Why should I delegate and stake my tokens?
 
-****[Participants](what-is-bonding-delegation.md#what-is-a-participant) may be eligible for a percentage of the rewards that [Node Operators](validators.md#what-is-a-validator-or-node-operator) earn during the course of running a node. [Node Operators](validators.md#what-is-a-validator-or-node-operator) may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
+****[Participants](delegation-and-bonding.md#what-is-a-participant) may be eligible for a percentage of the rewards that [Node Operators](validators.md#what-is-a-validator-or-node-operator) earn during the course of running a node. [Node Operators](validators.md#what-is-a-validator-or-node-operator) may offer a certain **commission** for delegating to them. Participants earn rewards on the delegated tokens which are bonded to the Validator.
 
 Therefore, you may want to delegate and stake your tokens for two reasons:
 
@@ -11,7 +11,7 @@ Therefore, you may want to delegate and stake your tokens for two reasons:
 
 ### Network Governance
 
-Users with **bonded** tokens, [Participants](what-is-bonding-delegation.md#what-is-a-participant), are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
+Users with **bonded** tokens, [Participants](delegation-and-bonding.md#what-is-a-participant), are able to vote on **Governance Proposals**. The weight of a vote is directly tied to the amount of bonded tokens delegated to Node Operators.
 
 This is where the Delegated Proof of Stake system comes into play.
 

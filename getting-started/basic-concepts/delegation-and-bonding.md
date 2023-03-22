@@ -1,8 +1,8 @@
 # What is bonding / delegation?
 
-## What is bonding / delegation?
-
 Bonded tokens are those present in the [active pool](what-is-the-active-pool.md). These are tokens that can be counted for the purpose of voting.
+
+## Stakeholders
 
 ### What is a User?
 

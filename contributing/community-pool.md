@@ -1,6 +1,6 @@
 # Community Pool
 
-cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](../getting-started/basic-concepts/what-is-bonding-delegation.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
+cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](../getting-started/basic-concepts/delegation-and-bonding.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
 
 ## Learn About the Community Pool
 
