@@ -22,7 +22,7 @@ To help YOU understand how to make changes on the cheqd Network, the decision tr
 
 ## Proposals
 
-One of the most important questions in this Governance Framework is explaining how any [User](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-user) or [Participant](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) can make a proposal or voice their opinion on the Network.
+One of the most important questions in this Governance Framework is explaining how any [User](../../getting-started/basic-concepts/what-is-bonding-delegation.md#what-is-a-user) or [Participant](../../getting-started/basic-concepts/what-is-bonding-delegation.md#what-is-a-participant) can make a proposal or voice their opinion on the Network.
 
 There are two ways of doing this:
 
