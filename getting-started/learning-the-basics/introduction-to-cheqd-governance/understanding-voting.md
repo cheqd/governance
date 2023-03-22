@@ -1,6 +1,6 @@
 # Understanding voting
 
-## Understanding voting
+## Background
 
 Voting on cheqd is a core part of the Network and how each individual User can influence the direction of change. cheqd voting is based on a [liquid democracy](https://en.wikipedia.org/wiki/Liquid\_democracy) model, whereby Users can vote unilaterally or delegate their votes to a Node Operator of their choice.
 
@@ -17,6 +17,8 @@ If you already fully understand voting, you can go to our pages on staking, dele
 Or you can jump straight into our Governance dashboard here:
 
 {% embed url="https://cheqd.omniflix.co/" %}
+
+## Stakeholders
 
 ### Users
 
@@ -35,10 +37,12 @@ Unbonded CHEQ holders and other Users do not get the right to participate in vot
 
 Some participants can be forbidden to vote on a proposal under a certain Node Operator if:
 
-* Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its **voting period**.
-* Participant set up a node and became a Node Operator after the proposal entered its **voting period**.
+- Participant has bonded or unbonded CHEQ to a particular Node Operator after the proposal has entered its **voting period**.
+- Participant set up a node and became a Node Operator after the proposal entered its **voting period**.
 
 This does not prevent the participant voting with CHEQ bonded to another Node Operator. For example, if a participant bonded some CHEQ to Node Operator _'A'_ **before** a proposal entered voting period and other CHEQ to Node Operator _'B'_ **after** proposal entered voting period, only the vote under Node Operator _'B'_ will be forbidden.
+
+## Important factors
 
 ### Inheritance
 
@@ -74,16 +78,14 @@ The option set of a proposal refers to the set of choices a participant can choo
 
 The initial option set includes the following options:
 
-```
-Yes
-No
-NoWithVeto
-Abstain
-```
+- Yes
+- No
+- NoWithVeto
+- Abstain
 
-_**NoWithVeto**_ counts as _**No**_ but also adds a Veto vote. This is significant because a **33.34%** veto will **burn** the tokens in the _**ModuleAccount**_. This means that the tokens will be destroyed and put beyond use. For this reason, it is important that Participants make reference to cheqd's Principles before using the veto vote.
+**NoWithVeto** counts as **No** but also adds a **Veto** vote. This is significant because a **33.34%** veto will **burn** the tokens in the **ModuleAccount**. This means that the tokens will be destroyed and put beyond use. For this reason, it is important that Participants make reference to cheqd's Principles before using the veto vote.
 
-Abstain option allows voters to signal that they do not intend to vote in favor or against the proposal but accept the result of the vote.
+**Abstain** option allows voters to signal that they do not intend to vote in favor or against the proposal but accept the result of the vote.
 
 ### Weighted Votes
 
@@ -119,7 +121,7 @@ At present, Node Operators are not punished for failing to vote.
 
 At launch, the Governance address will be the main Node Operator address generated at account creation. This address corresponds to a different PrivKey than the Tendermint PrivKey which is responsible for signing consensus messages. Node Operators thus do not have to sign governance transactions with the sensitive Tendermint PrivKey.
 
-### **Burned deposits**
+### Burned deposits
 
 Deposits are burned when proposals:
 
@@ -133,10 +135,8 @@ To learn more about when you should exercise the **veto** vote, refer to our [Se
 
 If proposals are of type _**SoftwareUpgradeProposal**_, then nodes need to upgrade their software to the new version that was voted. This process is divided into two steps:
 
-```
-Signal
-Switch
-```
+- Signal
+- Switch
 
 ### Signal
 
