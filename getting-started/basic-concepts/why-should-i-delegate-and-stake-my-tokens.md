@@ -28,7 +28,7 @@ In a nutshell:
 
 ### Network Rewards
 
-Users and Node Operators may also be interested in earning rewards for adding their tokens to the [active pool](what-is-the-active-pool.md). These rewards come in the form of:
+Users and Node Operators may also be interested in earning rewards for adding their tokens to the [active pool](active-pool.md). These rewards come in the form of:
 
 #### 1. Block rewards
 

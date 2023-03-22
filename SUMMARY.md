@@ -8,7 +8,7 @@
 * [📖 Learning the basics](getting-started/deep-dive/README.md)
   * [🧑⚖ Introduction to Governance](getting-started/deep-dive/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](getting-started/basic-concepts/README.md)
-    * [What is the active pool?](getting-started/basic-concepts/what-is-the-active-pool.md)
+    * [What is the active pool?](getting-started/basic-concepts/active-pool.md)
     * [What is bonding / delegation?](getting-started/basic-concepts/delegation-and-bonding.md)
     * [What is staking?](getting-started/basic-concepts/staking.md)
     * [Validators and Node Operators](getting-started/basic-concepts/validators.md)

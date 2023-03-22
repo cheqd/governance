@@ -26,7 +26,7 @@ Users are people, organisations or other entities that hold tokens.
 
 ### Participants
 
-Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the [active pool](what-is-the-active-pool.md).
+Participants are Users that have the right to vote on proposals. In the cheqd Network, Participants have tokens that are bonded and in the [active pool](active-pool.md).
 
 1. Node Operators can '**stake'** their tokens in order to vote on governance matters. This initial stake, when added to the active pool, is also known as **bonded**;
 2. Everyday Users can **‘delegate’** their tokens to a Node Operator, which then add to the amount **bonded** on that node.

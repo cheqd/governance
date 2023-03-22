@@ -6,8 +6,8 @@ Simply put, this means that the amount of stake ($CHEQ) that a holder of $CHEQ, 
 
 To fully understand how this works, we will walk through some basic concepts:
 
-{% content-ref url="what-is-the-active-pool.md" %}
-[what-is-the-active-pool.md](what-is-the-active-pool.md)
+{% content-ref url="active-pool.md" %}
+[active-pool.md](active-pool.md)
 {% endcontent-ref %}
 
 {% content-ref url="delegation-and-bonding.md" %}
