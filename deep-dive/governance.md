@@ -69,7 +69,7 @@ For example, Governance set by governments relies largely on Law & Guidelines, t
 
 This can be represented via the diagram below, which shows how government uses different quantities of the modalities to govern.
 
-![Figure showing how governments uses governance modalities](<../../.gitbook/assets/How do governments regulate.png>)
+![Figure showing how governments uses governance modalities](<../.gitbook/assets/How do governments regulate.png>)
 
 Whereas, the regulation of a Social Media Network relies much more on Principles & Social Norms and less on Markets & Economy.
 
@@ -101,7 +101,7 @@ This is made possible because of the architecture of the Network, which enables 
 
 This is how the cheqd Network governance will look to begin:
 
-![Figure showing how cheqd uses governance modalities](<../../.gitbook/assets/How will cheqd regulate.png>)
+![Figure showing how cheqd uses governance modalities](<../.gitbook/assets/How will cheqd regulate.png>)
 
 Over-time the Network may vote to raise or lower these sliders, in accordance with group consensus.
 

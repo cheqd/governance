@@ -16,7 +16,7 @@ This is where the Delegated Proof of Stake system comes into play.
 1. If the User does not want to vote on a Governance Proposal or misses it for any particular reason, the Node Operator will **inherit** the **delegated** tokens and can use them to vote with.
 2. If you are particularly interested or passionate about a specific governance proposal, or do not agree with your bonded Node Operator, it is absolutely possible to vote unilaterally. However, you must still have **delegated** tokens, **bonded** with a Node Operator to do so.
 
-To do this, follow the instructions in the section [How do I vote practically?](../../../contributing/voting.md)
+To do this, follow the instructions in the section [How do I vote practically?](../contributing/voting.md)
 
 In a nutshell:
 

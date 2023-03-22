@@ -8,10 +8,6 @@ At cheqd, we want to make participating in governance easy.
 [governance.md](governance.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction-to-cheqd-governance/" %}
-[introduction-to-cheqd-governance](introduction-to-cheqd-governance/)
-{% endcontent-ref %}
-
 {% content-ref url="entropy.md" %}
 [entropy.md](entropy.md)
 {% endcontent-ref %}
