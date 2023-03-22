@@ -48,11 +48,11 @@
 
 ## Terminology
 
-* [Terminology](terminology/terminology.md)
-* [📘 Glossary of terms](terminology/glossary.md)
+* [📘 Glossary of terms](terminology/README.md)
+* [Terminology used in the Governance Framework](terminology/terminology.md)
 
 ## Legal
 
-* [Code of Conduct](legal/code\_of\_conduct.md)
-* [License](legal/license.md)
-* [Legal Disclaimer](legal/legal-disclaimer.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
+* [License](LICENSE.md)
+* [Legal Disclaimer](llegal-disclaimer.md)

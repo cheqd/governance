@@ -56,7 +56,7 @@ To make a change on either Wiki, you need to use the link below to become an Ope
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
 
-Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
+Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/invite-members-to-your-organization/roles) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/invite-members-to-your-organization/roles). Reviewers are able to merge submitted changes.
 
 You should follow these instructions to make a edit to any cheqd GitBook content.
 

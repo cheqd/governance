@@ -1,4 +1,4 @@
-# Terminology
+# Terminology used in the Governance Framework
 
 It is important to use consistent and plain language, to ensure that there is a clear understanding of this Governance Framework.
 
