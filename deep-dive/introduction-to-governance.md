@@ -109,10 +109,10 @@ One thing that will stand out looking at this chart is the lack of Law governing
 
 In this way, the decentralised Network acts as its own Legislature, Executive and Judiciary, as decentralised consensus checks and balances each stage in the passing of a proposal.
 
-Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](introduction-to-entropy.md).
+Through this notion, accountability for decisions on the Network cannot be attributed to a specific person; and importantly, this means that no single Node Operator or voter on the network can be held directly accountable in the eyes of the law, in line with [Entropy](entropy.md).
 
-A decentralised Network where accountability is spread out as such is often referred to as being [sufficiently decentralised](introduction-to-entropy.md#entropy-progression).
+A decentralised Network where accountability is spread out as such is often referred to as being [sufficiently decentralised](entropy.md#entropy-progression).
 
-The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](introduction-to-entropy.md#fd67) will continue to increase, until the point of sufficient decentralisation is reached.
+The objective of this Governance Framework is to provide a set of default settings, Principles and Policies for the Network to follow. Through compliance with this Governance Framework, [Entropy](entropy.md#fd67) will continue to increase, until the point of sufficient decentralisation is reached.
 
-This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](introduction-to-entropy.md).
+This transition from default settings, form, structure and legal accountability and relative centralisation - to sufficient decentralisation, wide-barrel consensus and accountability dilution is crucial to get right. This will be further elaborated on in the [Introduction to Entropy](entropy.md).

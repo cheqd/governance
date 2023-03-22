@@ -12,8 +12,8 @@ At cheqd, we want to make participating in governance easy.
 [introduction-to-cheqd-governance](introduction-to-cheqd-governance/)
 {% endcontent-ref %}
 
-{% content-ref url="introduction-to-entropy.md" %}
-[introduction-to-entropy.md](introduction-to-entropy.md)
+{% content-ref url="entropy.md" %}
+[entropy.md](entropy.md)
 {% endcontent-ref %}
 
 {% content-ref url="network-parameters.md" %}

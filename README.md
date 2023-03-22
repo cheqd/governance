@@ -30,7 +30,7 @@ Through this Governance Framework, WE want to help YOU as a Network User, Node O
 3. How you can [impact Network Governance](basic-concepts/voting.md), either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network [rewards participants](basic-concepts/why-stake.md) through transaction fees and rewards;
 5. What [Principles](principles/principles.md) YOU SHOULD uphold while using the cheqd Network;
-6. How cheqd has built its Network to become more decentralised over time, as [Low Entropy](deep-dive/introduction-to-entropy.md#entropy-progression) tends towards [High Entropy](deep-dive/introduction-to-entropy.md#entropy-progression).
+6. How cheqd has built its Network to become more decentralised over time, as [Low Entropy](deep-dive/entropy.md#entropy-progression) tends towards [High Entropy](deep-dive/entropy.md#entropy-progression).
 
 In return, we kindly ask that YOU, while using the cheqd Network:
 

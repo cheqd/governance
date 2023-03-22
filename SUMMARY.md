@@ -16,7 +16,7 @@
     * [Why should I delegate and stake my tokens?](basic-concepts/why-stake.md)
     * [Redelegating and Unbonding](basic-concepts/redelegating-and-unbonding.md)
     * [Slashing explained](basic-concepts/slashing.md)
-  * [☄ Introduction to Entropy](deep-dive/introduction-to-entropy.md)
+  * [☄ Introduction to Entropy](deep-dive/entropy.md)
   * [🔢 Network Parameters](deep-dive/network-parameters.md)
 
 ## Contributing

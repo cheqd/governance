@@ -47,7 +47,7 @@ What does this look like?
 
 ## 3. The Principle of Increasing Entropy
 
-Entropy is a new concept in this context and is explained here in our [**Introduction to Entropy**](../deep-dive/introduction-to-entropy.md).
+Entropy is a new concept in this context and is explained here in our [**Introduction to Entropy**](../deep-dive/entropy.md).
 
 Entropy is the transition from a centralised Network, where very few people make decisions that change the course and direction of the Network, to a fully decentralised Network, where a large, diverse collective reach consensus on the course and direction of the Network.
 
