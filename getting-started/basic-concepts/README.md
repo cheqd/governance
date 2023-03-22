@@ -34,6 +34,6 @@ To fully understand how this works, we will walk through some basic concepts:
 [redelegating-and-unbonding.md](redelegating-and-unbonding.md)
 {% endcontent-ref %}
 
-{% content-ref url="slashing-explained.md" %}
-[slashing-explained.md](slashing-explained.md)
+{% content-ref url="slashing.md" %}
+[slashing.md](slashing.md)
 {% endcontent-ref %}

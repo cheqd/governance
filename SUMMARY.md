@@ -15,7 +15,7 @@
     * [Understanding voting](getting-started/basic-concepts/understanding-voting.md)
     * [Why should I delegate and stake my tokens?](getting-started/basic-concepts/why-should-i-delegate-and-stake-my-tokens.md)
     * [Redelegating and Unbonding](getting-started/basic-concepts/redelegating-and-unbonding.md)
-    * [Slashing explained](getting-started/basic-concepts/slashing-explained.md)
+    * [Slashing explained](getting-started/basic-concepts/slashing.md)
   * [☄ Introduction to Entropy](getting-started/deep-dive/introduction-to-entropy.md)
   * [🔢 Network Parameters](getting-started/deep-dive/network-parameters.md)
 

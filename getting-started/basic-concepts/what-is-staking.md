@@ -10,8 +10,8 @@ It is called staking because it is not totally risk free. There is a possibility
 
 Read more about slashing here:
 
-{% content-ref url="slashing-explained.md" %}
-[slashing-explained.md](slashing-explained.md)
+{% content-ref url="slashing.md" %}
+[slashing.md](slashing.md)
 {% endcontent-ref %}
 
 If you want to stake and delegate practically, you can read more here:
