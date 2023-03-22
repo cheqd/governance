@@ -16,8 +16,8 @@ Read more about slashing here:
 
 If you want to stake and delegate practically, you can read more here:
 
-{% content-ref url="../../../contributing/staking-and-voting.md" %}
-[staking-and-voting.md](../../../contributing/staking-and-voting.md)
+{% content-ref url="../../../contributing/staking-and-delegating.md" %}
+[staking-and-delegating.md](../../../contributing/staking-and-delegating.md)
 {% endcontent-ref %}
 
 or jump straight into our Governance Dashboard here:
