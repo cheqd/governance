@@ -14,8 +14,8 @@ To fully understand how this works, we will walk through some basic concepts:
 [delegation-and-bonding.md](delegation-and-bonding.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-staking.md" %}
-[what-is-staking.md](what-is-staking.md)
+{% content-ref url="staking.md" %}
+[staking.md](staking.md)
 {% endcontent-ref %}
 
 {% content-ref url="validators.md" %}

@@ -10,7 +10,7 @@
   * [🏁 Introduction to cheqd Governance](getting-started/basic-concepts/README.md)
     * [What is the active pool?](getting-started/basic-concepts/what-is-the-active-pool.md)
     * [What is bonding / delegation?](getting-started/basic-concepts/delegation-and-bonding.md)
-    * [What is staking?](getting-started/basic-concepts/what-is-staking.md)
+    * [What is staking?](getting-started/basic-concepts/staking.md)
     * [Validators and Node Operators](getting-started/basic-concepts/validators.md)
     * [Understanding voting](getting-started/basic-concepts/voting.md)
     * [Why should I delegate and stake my tokens?](getting-started/basic-concepts/why-should-i-delegate-and-stake-my-tokens.md)
