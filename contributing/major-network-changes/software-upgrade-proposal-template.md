@@ -16,9 +16,7 @@ _A short (\~150 word) description of the Proposal you want to make. Provide a si
 
 ### Software to change
 
-_Please link to the relevant GitHub pull request_
-
-[https://github.com/cheqd/cheqd-node/pulls](https://github.com/cheqd/cheqd-node/pulls)
+_Please link to the [relevant GitHub pull request](https://github.com/cheqd/cheqd-node/pulls)_
 
 ### Description
 
