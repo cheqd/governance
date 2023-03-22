@@ -16,11 +16,9 @@ Feel free to select the route that suits you best:
 
 If you are not familiar with governance, and especially decentralised governance, we suggest that you should begin with our introductory documents:
 
-{% content-ref url="learning-the-basics/" %}
-[learning-the-basics](learning-the-basics/)
+{% content-ref url="../deep-dive/README.md" %}
+[README.md](../deep-dive/README.md)
 {% endcontent-ref %}
-
-###
 
 ### Editor
 
@@ -28,17 +26,13 @@ If you want to get your teeth into this documentation, improve it and make every
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
 
-###
-
 ### Community buzzer
 
 If you want to get jump into our community, across a variety of platforms, you can use the link here:
 
-{% content-ref url="../contributing/contributing.md" %}
-[contributing.md](../contributing/contributing.md)
+{% content-ref url="../contributing/README.md" %}
+[README.md](../contributing/README.md)
 {% endcontent-ref %}
-
-###
 
 ### Protagonist
 
@@ -47,8 +41,6 @@ If you want to use change the way cheqd Network functions, and use CHEQ for gove
 {% content-ref url="../contributing/major-network-changes/" %}
 [major-network-changes](../contributing/major-network-changes/)
 {% endcontent-ref %}
-
-###
 
 ### Vendor
 
@@ -71,8 +63,8 @@ We’ve also got some super simple videos on our [cheqd YouTube channel](https:/
 3. [Why SSI is a better way](https://www.youtube.com/watch?v=qObhY0SGsFY)
 4. [How cheqd’s model works and why we chose Cosmos](https://www.youtube.com/watch?v=KAxNUfJ75LI)
 
-And we also have a [Glossary](../terminology/glossary.md) to help you understand all this technical mumbo jumbo!
+And we also have a [Glossary](../terminology/README.md) to help you understand all this technical mumbo jumbo!
 
-{% content-ref url="../terminology/glossary.md" %}
-[glossary.md](../terminology/glossary.md)
+{% content-ref url="../terminology/README.md" %}
+[README.md](../terminology/README.md)
 {% endcontent-ref %}

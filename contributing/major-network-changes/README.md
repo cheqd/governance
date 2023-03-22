@@ -1,6 +1,6 @@
 # Major Network changes
 
-## Major Network Changes
+## Context
 
 These are changes that have a materially significant effect on the Network. Such changes SHOULD be made via a Proposal, following the steps in the decision tree diagram below.
 
@@ -22,7 +22,7 @@ To help YOU understand how to make changes on the cheqd Network, the decision tr
 
 ## Proposals
 
-One of the most important questions in this Governance Framework is explaining how any [User](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-user) or [Participant](../../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) can make a proposal or voice their opinion on the Network.
+One of the most important questions in this Governance Framework is explaining how any [User](../../basic-concepts/delegation-and-bonding.md#what-is-a-user) or [Participant](../../basic-concepts/delegation-and-bonding.md#what-is-a-participant) can make a proposal or voice their opinion on the Network.
 
 There are two ways of doing this:
 
@@ -114,37 +114,35 @@ Currently, on Commonwealth, there is only a Text-Based Proposal and a Community-
 
 ### On-chain voting using cheqd CLI
 
-If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/docs/cheqd-cli), you must follow the instructions below.
+If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/getting-started/cheqd-cli), you must follow the instructions below.
 
 Prior to sending the transaction that submits your Proposal on-chain, you must create a JSON file. This file will contain the information that will be stored on-chain as the governance Proposal. Begin by creating a new text (.txt) file to enter this information. Use these best practices as a guide for the contents of your proposal. When you're done, save the file as a .json file. See the examples that follow to help format your proposal.
 
 Each Proposal type is unique in how the .json should be formatted:
 
-{% content-ref url="text-based-proposal/text-based-proposal-json-format.md" %}
-[text-based-proposal-json-format.md](text-based-proposal/text-based-proposal-json-format.md)
+{% content-ref url="text-based-proposal-template.md" %}
+[text-based-proposal-template.md](text-based-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="software-upgrade-proposal/software-update-json-format.md" %}
-[software-update-json-format.md](software-upgrade-proposal/software-update-json-format.md)
+{% content-ref url="software-upgrade-proposal-template.md" %}
+[software-upgrade-proposal-template.md](software-upgrade-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="parameter-change-proposal/parameter-change-json-format.md" %}
-[parameter-change-json-format.md](parameter-change-proposal/parameter-change-json-format.md)
+{% content-ref url="parameter-change-proposal-template.md" %}
+[parameter-change-proposal-template.md](parameter-change-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="community-pool-proposal/community-pool-json-format.md" %}
-[community-pool-json-format.md](community-pool-proposal/community-pool-json-format.md)
+{% content-ref url="community-pool-proposal-template.md" %}
+[community-pool-proposal-template.md](community-pool-proposal-template.md)
 {% endcontent-ref %}
 
 To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change.
 
 Once on-chain, most people will rely upon Block Explorers to interpret this information with a Graphical User Interface (GUI).
 
-
-
 ### Submitting Proposal on cheqd CLI
 
-```
+```bash
 cheqd-noded tx gov submit-proposal \
   --title=<title> \
   --description=<description> \
@@ -157,20 +155,20 @@ cheqd-noded tx gov submit-proposal \
   --gas-prices="25ncheq"
 ```
 
-cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
+cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/getting-started/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
 
-1. tx gov submit-proposal and type='Text' indicates that the transaction is submitting a text proposal;
-2. \--from " " is the account key that pays the transaction fee and deposit amount;
-3. \--gas the maximum amount of gas you accept may be used to process the transaction:
+1. `tx gov submit-proposal` and `--type="Text"` indicates that the transaction is submitting a text proposal;
+2. `--from` is the account key that pays the transaction fee and deposit amount;
+3. `--gas` the maximum amount of gas you accept may be used to process the transaction:
    1. The more content there is in the description of your proposal, the more gas your transaction will consume;
    2. If this number isn't high enough and there isn't enough gas to process your transaction, the transaction will fail;
 4. The transaction will only use the amount of gas needed to process the transaction.
-5. \--gas prices is a flat-rate incentive for a Node Operator to process your transaction:
+5. `--gas-prices` is a flat-rate incentive for a Node Operator to process your transaction:
    1. The cheqd Network accepts zero fees, but many nodes will not transmit your transaction to the network without a minimum fee;
    2. Many nodes use a minimum fee to disincentivize transaction spamming;
    3. This can also be set to "auto"
-6. \--gas-adjustment is the range of gas prices that will still enable the transaction to go through. We recommend "1.2" or "1.3"
-7. \--the mainnet chain ID is **cheqd-mainnet-1**
+6. `--gas-adjustment` is the range of gas prices that will still enable the transaction to go through. We recommend "1.2" or "1.3"
+7. `--chain-id` is relevant chain ID, e.g., **cheqd-mainnet-1**
 
 ### Deposit
 

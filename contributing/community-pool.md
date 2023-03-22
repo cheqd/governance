@@ -1,6 +1,6 @@
 # Community Pool
 
-cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](../getting-started/learning-the-basics/introduction-to-cheqd-governance/what-is-bonding-delegation.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
+cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](../basic-concepts/delegation-and-bonding.md#what-is-a-participant) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
 
 ## Learn About the Community Pool
 
@@ -32,13 +32,16 @@ If a community-spend proposal passes successfully, the number of $CHEQ encoded i
 
 ## Drafting a Community-spend Proposal
 
-Drafting and submitting a proposal is a process that takes time, attention, and involves risk. The objective of this documentation is to make this process easier by preparing participants for what to pay attention to, the information that should be considered in a proposal, and how to reduce the risk of losing deposits. Ideally, a proposal should only fail to pass because the voters 1) are aware and engaged and 2) are able to make an informed decision to vote down the proposal.
+Drafting and submitting a proposal is a process that takes time, attention, and involves risk. The objective of this documentation is to make this process easier by preparing participants for what to pay attention to, the information that should be considered in a proposal, and how to reduce the risk of losing deposits. Ideally, a proposal should only fail to pass because the voters:
+
+1. are aware and engaged
+2. are able to make an informed decision to vote down the proposal.
 
 If you are considering drafting a proposal, you should review the general background on drafting and submitting a proposal:
 
-1. [How to contribute to cheqd;](https://gov.cheqd.io/contributing)
-2. [How to draft a major network proposal and engage the community](https://gov.cheqd.io/contributing/major-network-changes)
-3. [How voting on cheqd works](../getting-started/learning-the-basics/introduction-to-cheqd-governance/understanding-voting.md)
+1. [How to contribute to cheqd](README.md)
+2. [How to draft a major network proposal and engage the community](major-network-changes/README.md)
+3. [How voting on cheqd works](../basic-concepts/voting.md)
 
 ## Formatting a Community Pool Spend Proposal
 
@@ -48,7 +51,7 @@ There are five (5) components:
 2. **Description** - the body of the proposal that further describes what is being proposed and details surrounding the proposal
 3. **Recipient** - the cheqd address that will receive funding from the Community Pool
 4. **Amount** - the amount of funding that the recipient will receive in nanoCHEQ ("nCHEQ")
-5. **Deposit** - the amount that will be contributed to the deposit (in nanoCHEQ ("nCHEQ") from the account submitting the proposal
+5. **Deposit** - the amount that will be contributed to the deposit in nanoCHEQ ("nCHEQ") from the account submitting the proposal
 
 ### **Off-ledger template**
 

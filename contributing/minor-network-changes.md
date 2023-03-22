@@ -1,6 +1,6 @@
 # Minor Network changes
 
-## **Minor Network changes**
+## Context
 
 These are changes that are insignificant, and do not affect the way the Network runs overall. Minor Network changes include, but are not limited to:
 
@@ -16,7 +16,7 @@ To help YOU understand how to make changes on the cheqd Network, the decision tr
 
 ![Tree diagram showing when to use on-chain or off-chain governance](<../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
-## Voting off-chain
+### Voting off-chain
 
 One of the core components of cheqd governance is having both on-chain and off-chain voting mechanisms.
 
@@ -36,7 +36,7 @@ cheqd is an Open Source project which means that anyone is free to propose or ma
 
 Changes can be made through two routes:
 
-1. [GitBook](https://gov.cheqd.io/)
+1. [GitBook](https://docs.cheqd.io/governance/)
 2. [GitHub](https://github.com/cheqd)
 
 ### GitBook
@@ -50,45 +50,34 @@ We have a Wiki for:
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
 2. [Learning about cheqd](https://learn.cheqd.io/)
 3. [cheqd Product](https://product.cheqd.io/)
-4. [cheqd Governance Framework](https://gov.cheqd.io/)
+4. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
 
 To make a change on either Wiki, you need to use the link below to become an Open Source Editor on cheqd's GitBook:
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
 
-Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/team-management/setting-up-permissions). Reviewers are able to merge submitted changes.
+Once you have made your account using the link above, you will be classified as a [Editor](https://docs.gitbook.com/collaboration/invite-members-to-your-organization/roles) on cheqd's GitBook. This will give you the ability to make edits and submit them to be reviewed by a [Reviewer](https://docs.gitbook.com/collaboration/invite-members-to-your-organization/roles). Reviewers are able to merge submitted changes.
 
 You should follow these instructions to make a edit to any cheqd GitBook content.
 
-1. **Make your edits in the text directly or use comments**\
-   Via the link above, you will gain permissions to to read, edit and comment directly to the text.\
-   \
-   If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.\\
-2.  **Save your changes as a draft**
+1. **Make your edits in the text directly or use comments**: Via the link above, you will gain permissions to to read, edit and comment directly to the text. If you are confident with your edits, you can write and amend the text directly. If you are less confident, you can leave comments in the text, which admins will review and make changes from accordingly.
+2. **Save your changes as a draft**: You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
+3. **Submit your changes**: Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation. There will be a pop-up asking you to explain the changes you made. Make sure to write a clear sentence summarising your main changes to make it easier for the cheqd reviewers to go through your work.
 
-    ***
-
-    You can save your changes as a draft and return to your draft later. If you want to remind yourself with the changes you made previously, you should click the Diff view button:
+#### Comparing changes in Gitbook
 
 ![How to compare GitBook changes](<../.gitbook/assets/How to compare GitBook changes.png>)
 
 You should keep your changes in drafts until you are happy with them.
 
-\
 Following this as best practice, avoids the Wiki being misused or flooded with changes from one person.
-
-3\. **Submit your changes**\
-\
-Once you are happy with your changes in your draft you should click Submit. This will send your changes to one of our Reviewers to be moderated before being pushed onto the documentation.
-
-There will be a pop-up asking you to explain the changes you made. Make sure to write a clear sentence summarising your main changes to make it easier for the cheqd reviewers to go through your work.
 
 ### GitHub
 
-You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.\
-\
-We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).\
-\
+You may also use GitHub to make changes and amendments to both the source code and the written content in this documentation.
+
+We have multiple GitHub repositories which can all be accessed [here](https://github.com/cheqd).
+
 For instructions about making edits to GitHub repositories, we suggest you follow the instructions [here](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
 **Please use clean, concise titles for your pull requests.** Assume that the person reading the pull request title is not a programmer, but instead a cheqd Network user or lay-person, and **try to describe your change or fix from in plain English**. We use commit squashing, so the final commit in the main branch will carry the title of the pull request, and commits from the main branch are fed into the changelog. The changelog is separated into [keepachangelog.com categories](https://keepachangelog.com/en/1.0.0/), and while that spec does not prescribe how the entries ought to be named, for easier sorting, start your pull request titles using one of the verbs "Add", "Change", "Deprecate", "Remove", or "Fix" (present tense).

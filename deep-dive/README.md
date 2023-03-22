@@ -1,19 +1,15 @@
-# 📖 Learning the basics
+# 🤿 Deep-dive on our Governance Framework
 
 For general holders of coins or tokens across the industry, governance is often seen as something inaccessible and complex. This is because education about governance is often lackluster.
 
 At cheqd, we want to make participating in governance easy.
 
-{% content-ref url="introduction-to-governance.md" %}
-[introduction-to-governance.md](introduction-to-governance.md)
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
 {% endcontent-ref %}
 
-{% content-ref url="introduction-to-cheqd-governance/" %}
-[introduction-to-cheqd-governance](introduction-to-cheqd-governance/)
-{% endcontent-ref %}
-
-{% content-ref url="introduction-to-entropy.md" %}
-[introduction-to-entropy.md](introduction-to-entropy.md)
+{% content-ref url="entropy.md" %}
+[entropy.md](entropy.md)
 {% endcontent-ref %}
 
 {% content-ref url="network-parameters.md" %}
