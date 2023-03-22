@@ -63,8 +63,8 @@ We’ve also got some super simple videos on our [cheqd YouTube channel](https:/
 3. [Why SSI is a better way](https://www.youtube.com/watch?v=qObhY0SGsFY)
 4. [How cheqd’s model works and why we chose Cosmos](https://www.youtube.com/watch?v=KAxNUfJ75LI)
 
-And we also have a [Glossary](../terminology/glossary.md) to help you understand all this technical mumbo jumbo!
+And we also have a [Glossary](../terminology/README.md) to help you understand all this technical mumbo jumbo!
 
-{% content-ref url="../terminology/glossary.md" %}
-[glossary.md](../terminology/glossary.md)
+{% content-ref url="../terminology/README.md" %}
+[README.md](../terminology/README.md)
 {% endcontent-ref %}
