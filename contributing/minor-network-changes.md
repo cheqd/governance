@@ -36,7 +36,7 @@ cheqd is an Open Source project which means that anyone is free to propose or ma
 
 Changes can be made through two routes:
 
-1. [GitBook](https://gov.cheqd.io/)
+1. [GitBook](https://docs.cheqd.io/governance/)
 2. [GitHub](https://github.com/cheqd)
 
 ### GitBook
@@ -50,7 +50,7 @@ We have a Wiki for:
 1. [cheqd Technical documentation](https://docs.cheqd.io/node/)
 2. [Learning about cheqd](https://learn.cheqd.io/)
 3. [cheqd Product](https://product.cheqd.io/)
-4. [cheqd Governance Framework](https://gov.cheqd.io/)
+4. [cheqd Governance Framework](https://docs.cheqd.io/governance/)
 
 To make a change on either Wiki, you need to use the link below to become an Open Source Editor on cheqd's GitBook:
 
