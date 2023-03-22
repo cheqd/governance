@@ -120,20 +120,20 @@ Prior to sending the transaction that submits your Proposal on-chain, you must c
 
 Each Proposal type is unique in how the .json should be formatted:
 
-{% content-ref url="text-based-proposal/text-based-proposal-json-format.md" %}
-[text-based-proposal-json-format.md](text-based-proposal/text-based-proposal-json-format.md)
+{% content-ref url="text-based-proposal-template.md" %}
+[text-based-proposal-template.md](text-based-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="software-upgrade-proposal/software-update-json-format.md" %}
-[software-update-json-format.md](software-upgrade-proposal/software-update-json-format.md)
+{% content-ref url="software-upgrade-proposal-template.md" %}
+[software-upgrade-proposal-template.md](software-upgrade-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="parameter-change-proposal/parameter-change-json-format.md" %}
-[parameter-change-json-format.md](parameter-change-proposal/parameter-change-json-format.md)
+{% content-ref url="parameter-change-proposal-template.md" %}
+[parameter-change-proposal-template.md](parameter-change-proposal-template.md)
 {% endcontent-ref %}
 
-{% content-ref url="community-pool-proposal/community-pool-json-format.md" %}
-[community-pool-json-format.md](community-pool-proposal/community-pool-json-format.md)
+{% content-ref url="community-pool-proposal-template.md" %}
+[community-pool-proposal-template.md](community-pool-proposal-template.md)
 {% endcontent-ref %}
 
 To create a new Proposal type, you can propose a _**ParameterChangeProposal**_ with a custom handler, to perform another type of state change.
