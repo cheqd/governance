@@ -2,9 +2,9 @@
 
 * [cheqd Governance Framework](README.md)
 
-## Getting started
+## 👉 Learning the Basics
 
-* [🟢 Start Here](getting-started/README.md)
+* [🟢 Start Here](README.md)
 * [📖 Learning the basics](deep-dive/README.md)
   * [🧑⚖ Introduction to Governance](deep-dive/governance.md)
   * [🏁 Introduction to cheqd Governance](basic-concepts/README.md)
@@ -18,6 +18,13 @@
     * [Slashing explained](basic-concepts/slashing.md)
   * [☄ Introduction to Entropy](deep-dive/entropy.md)
   * [🔢 Network Parameters](deep-dive/network-parameters.md)
+
+## 🤿 Deep-dive on our Governance Framework
+
+* [Introduction](deep-dive/README.md)
+* [Governance Framework](deep-dive/governance.md)
+* [Entropy in Governance](deep-dive/entropy.md)
+* [Network Parameters](deep-dive/network-parameters.md)
 
 ## Contributing
 

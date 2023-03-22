@@ -1,4 +1,4 @@
-# 📖 Learning the basics
+# 🤿 Deep-dive on our Governance Framework
 
 For general holders of coins or tokens across the industry, governance is often seen as something inaccessible and complex. This is because education about governance is often lackluster.
 
