@@ -114,7 +114,7 @@ Currently, on Commonwealth, there is only a Text-Based Proposal and a Community-
 
 ### On-chain voting using cheqd CLI
 
-If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/docs/cheqd-cli), you must follow the instructions below.
+If you are using the [cheqd Command Line Interface](https://docs.cheqd.io/node/getting-started/cheqd-cli), you must follow the instructions below.
 
 Prior to sending the transaction that submits your Proposal on-chain, you must create a JSON file. This file will contain the information that will be stored on-chain as the governance Proposal. Begin by creating a new text (.txt) file to enter this information. Use these best practices as a guide for the contents of your proposal. When you're done, save the file as a .json file. See the examples that follow to help format your proposal.
 
@@ -155,7 +155,7 @@ cheqd-noded tx gov submit-proposal \
   --gas-prices="25ncheq"
 ```
 
-cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/docs/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
+cheqd noded is the [Command-Line Interface (CLI)](https://docs.cheqd.io/node/getting-started/cheqd-cli) client that is used to send transactions and query the cheqd testnet or mainnet;
 
 1. `tx gov submit-proposal` and `--type="Text"` indicates that the transaction is submitting a text proposal;
 2. `--from` is the account key that pays the transaction fee and deposit amount;
