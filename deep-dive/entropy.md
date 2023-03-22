@@ -18,7 +18,7 @@ Entropy is broadly defined as the degree of disorder or uncertainty in a system 
 
 Let’s think of a sandcastle sitting in a desert.
 
-![Sandcastle showing Entropy: stock image: https://jooinn.com/sand-castle.html](<../../.gitbook/assets/Sandcastle showing Entropy.png>)
+![Sandcastle showing Entropy: stock image: https://jooinn.com/sand-castle.html](<../.gitbook/assets/Sandcastle showing Entropy.png>)
 
 The sandcastle in the desert has both order and structure, and there are very few ways to arrange the sand grains to achieve the same structure.
 
@@ -74,7 +74,7 @@ To model Entropy, we wanted to build more visual and accessible than an algorith
 
 ### Where we landed was: a Scorecard
 
-![Entropy Scorecard: Blank](<../../.gitbook/assets/Entropy Scorecard.png>)
+![Entropy Scorecard: Blank](<../.gitbook/assets/Entropy Scorecard.png>)
 
 The spider diagram above, the Entropy Scorecard, shows a scale scoring from **1 - 5** which we refer to as Entropy Levels, measuring tangible decentralisation from a genesis state (and Low Entropy) to beyond the point of sufficient decentralisation (and High Entropy).
 
@@ -157,7 +157,7 @@ At launch our Entropy score was **lower than 14.**
 
 A low entropy score as such, can be represented by the scorecard below:
 
-![Entropy Scorecard: Low](<../../.gitbook/assets/Entropy Low.png>)
+![Entropy Scorecard: Low](<../.gitbook/assets/Entropy Low.png>)
 
 This score quickly began to shift after launch as more participants joined from different geographies and stake began to spread more evenly. We will soon be launching a Governance Dashboard which shows where the network is on this scale.
 
@@ -177,7 +177,7 @@ This combination is important because it will ensure that there is limited surfa
 
 A High Entropy Network would generate a scorecard illustrated by the example below:
 
-![Entropy Scorecard: High ](<../../.gitbook/assets/Entropy High.png>)
+![Entropy Scorecard: High ](<../.gitbook/assets/Entropy High.png>)
 
 At this point of High Entropy, we would hope that we would be considered a Network which is sufficiently decentralised, although of course this is not up for us to decide. Yet, we believe that this progression of Low to High Entropy is an important journey for every decentralised Network to embark on.
 
@@ -187,15 +187,15 @@ To increase Entropy, we have developed a governance framework that champions dec
 
 Achieving high Entropy involves:
 
-1. **Making it easy for Node Operators to onboard in an Open Source way;**
-2. **Having clear and transparent documentation, in multiple languages;**
-3. **Having simple governance processes to evolve the Network baked into the protocol;**
-4. **Incentivising a healthy community, with places to discuss positive and constructive ideas.**
-5. **Enabling all parties to be remunerated for their active contribution and participation.**
+1. Making it easy for Node Operators to onboard in an Open Source way
+2. Having clear and transparent documentation, in multiple languages
+3. Having simple governance processes to evolve the Network baked into the protocol
+4. Incentivising a healthy community, with places to discuss positive and constructive ideas
+5. Enabling all parties to be remunerated for their active contribution and participation
 
 And a combination of the above will increase the Network Entropy in a healthy and natural way, bridging the middleground between Low and High Entropy, as seen below:
 
-![Entropy Scorecard: Comparison](<../../.gitbook/assets/Entropy Comparison.png>)
+![Entropy Scorecard: Comparison](<../.gitbook/assets/Entropy Comparison.png>)
 
 As the initial team, we have a responsibility to, as we like to put it, create the first domino and push it over. Or in other terms, we need to take care in setting a strong technical foundation alongside a culture of transparency, inclusivity and open communication to push Entropy in the right direction.
 
@@ -211,10 +211,10 @@ And looking back now, what we want the reader to take away from this is to under
 
 Decentralised Networks and protocols often leave a lot to be desired, especially when it comes to clearly defined lines.
 
-Through our model of Entropy, we incentivise healthy behaviour, high resiliency, utility and generativity which should be the building blocks for any decentralised Network.
+Through our model of Entropy, we incentivise healthy behaviour, high resiliency, and utility which should be the building blocks for any decentralised Network.
 
 We also want this to move decentralisation towards greater regulatory clarity, rather than towards greater dissonance.
 
 If we want to make self-sovereign identity, rooted on a decentralised Network a reality, we can only do this through being open, creative and inclusive in the way we work. Helping frame decentralised ecosystems in a way which makes sense for laypersons will bolster the chances of SSI and token payment rails being used in regulated industries worldwide.
 
-The model of Increasing Entropy, as one of [cheqd’s Foundational Principles](../../principles/foundational-principles.md#3.-the-principle-of-increasing-entropy), attempts to build greater clarity around the labelling and framing of decentralised ecosystems and DAOs. We hope the community can iterate and build on the work done here and respond with feedback and opinion. This eventually can create an even more robust framework and help make cheqd’s vision of a Web 3.0, the new paradigm for human interaction.
+The model of Increasing Entropy, as one of [cheqd’s Foundational Principles](../principles/foundational-principles.md#3.-the-principle-of-increasing-entropy), attempts to build greater clarity around the labelling and framing of decentralised ecosystems and DAOs. We hope the community can iterate and build on the work done here and respond with feedback and opinion. This eventually can create an even more robust framework and help make cheqd’s vision of a Web 3.0, the new paradigm for human interaction.
