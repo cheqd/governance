@@ -6,8 +6,8 @@ Voting on cheqd is a core part of the Network and how each individual User can i
 
 If you already fully understand voting, you can go to our pages on staking, delegating and voting practically:
 
-{% content-ref url="../../../contributing/how-do-i-stake-delegate-and-vote-practically.md" %}
-[how-do-i-stake-delegate-and-vote-practically.md](../../../contributing/how-do-i-stake-delegate-and-vote-practically.md)
+{% content-ref url="../../../contributing/staking-and-voting.md" %}
+[staking-and-voting.md](../../../contributing/staking-and-voting.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../contributing/how-do-i-vote-practically.md" %}

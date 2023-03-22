@@ -28,7 +28,7 @@
   * [Parameter Change Proposal](contributing/major-network-changes/parameter-change-proposal-template.md)
   * [Software Upgrade Proposal](contributing/major-network-changes/software-upgrade-proposal-template.md)
   * [Community Pool Proposal](contributing/major-network-changes/community-pool-proposal-template.md)
-* [How do I stake and delegate practically?](contributing/how-do-i-stake-delegate-and-vote-practically.md)
+* [How do I stake and delegate practically?](contributing/staking-and-voting.md)
 * [How do I vote practically?](contributing/how-do-i-vote-practically.md)
 * [Community Pool](contributing/community-pool.md)
 
