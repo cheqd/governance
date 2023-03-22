@@ -5,8 +5,8 @@
 ## Getting started
 
 * [🟢 Start Here](getting-started/README.md)
-* [📖 Learning the basics](getting-started/deep-dive/README.md)
-  * [🧑⚖ Introduction to Governance](getting-started/deep-dive/introduction-to-governance.md)
+* [📖 Learning the basics](deep-dive/README.md)
+  * [🧑⚖ Introduction to Governance](deep-dive/introduction-to-governance.md)
   * [🏁 Introduction to cheqd Governance](basic-concepts/README.md)
     * [What is the active pool?](basic-concepts/active-pool.md)
     * [What is bonding / delegation?](basic-concepts/delegation-and-bonding.md)
@@ -16,8 +16,8 @@
     * [Why should I delegate and stake my tokens?](basic-concepts/why-stake.md)
     * [Redelegating and Unbonding](basic-concepts/redelegating-and-unbonding.md)
     * [Slashing explained](basic-concepts/slashing.md)
-  * [☄ Introduction to Entropy](getting-started/deep-dive/introduction-to-entropy.md)
-  * [🔢 Network Parameters](getting-started/deep-dive/network-parameters.md)
+  * [☄ Introduction to Entropy](deep-dive/introduction-to-entropy.md)
+  * [🔢 Network Parameters](deep-dive/network-parameters.md)
 
 ## Contributing
 
