@@ -21,7 +21,7 @@
 
 ## Contributing
 
-* [✍ How to Contribute](contributing/contributing.md)
+* [✍ How to Contribute](contributing/README.md)
 * [Minor Network changes](contributing/minor-network-changes.md)
 * [Major Network changes](contributing/major-network-changes/README.md)
   * [Text based Proposal](contributing/major-network-changes/text-based-proposal/README.md)
