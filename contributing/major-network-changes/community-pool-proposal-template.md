@@ -1,51 +1,23 @@
-# Community Pool Proposal Template
+# Community Pool Proposal
 
-{% hint style="info" %}
-Tip: Click 'Edit on Github' and you will be able to copy this template in Markdown (.md)
-{% endhint %}
+## Proposal template
 
-## Community Pool {1} {Example Proposal}
-
-### Status
-
-{PROPOSED} {Not Implemented}
-
-_Select from below:_ _{DRAFT | PROPOSED | ACCEPTED | REJECTED | SUPERSEEDED by PROPOSAL-xxx | ABANDONED} {Implemented | Not Implemented}_
-
-### Summary
-
-A short (\~150 word) description of the Proposal you want to make. Provide a simplified and layman-accessible explanation of the Proposal in plain English to have the best chance of gaining community interest and having it accepted.
-
-### Description
-
-A longer 500 description of what you want the community pool to be spent on, making direct references to where you want to make changes from, using links.
-
-I want to donate the community pool to X initiative because they support X. A link to the initiative can be found here:
-
-\[insert link]
-
-### Recipient
-
-Describe who the recipient of the pool is.
-
-_\[insert cheqd Network address]_
-
-### Amount
-
-_\[insert amount of cheq tokens from the community pool to allocate to this address]_
-
-### **Consequences**
-
-_This section describes the resulting context, after applying the decision. All consequences should be listed here, not just the "positive" ones. A particular decision may have positive, negative, and neutral consequences, but all of them affect the community and project in the future._
-
-#### **Positive**
-
-_\[Insert positive consequences here]_
-
-#### **Negative**
-
-\[insert negative consequences here]
-
-#### **Neutral**
-
-\[insert neutral consequences here]
+```jsonc
+{
+  "title": "Community Pool Spend",
+  "description": "This is the summary of the key information about this proposal. Include the URL to a PDF version of your full proposal.",
+  "recipient": "cheqd1qgfdn8h6fkh0ekt4n4d2c93c5gz3cv5gce783m",
+  "amount": [
+    {
+      "denom": "ncheq",
+      "amount": "1000000"
+    }
+  ],
+  "deposit": [
+    {
+      "denom": "ncheq",
+      "amount": "8000000000000"
+    }
+  ]
+}
+```
