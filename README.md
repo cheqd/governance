@@ -27,7 +27,7 @@ Through this Governance Framework, WE want to help YOU as a Network User, Node O
 
 1. What [Governance (and decentralised governance) is](getting-started/deep-dive/introduction-to-governance.md);
 2. What [cheqd’s mission](https://learn.cheqd.io) is, and how our Network functions;
-3. How you can [impact Network Governance](getting-started/basic-concepts/understanding-voting.md), either in off-chain forums, or through on-chain Proposals;
+3. How you can [impact Network Governance](getting-started/basic-concepts/voting.md), either in off-chain forums, or through on-chain Proposals;
 4. How the cheqd Network [rewards participants](getting-started/basic-concepts/why-should-i-delegate-and-stake-my-tokens.md) through transaction fees and rewards;
 5. What [Principles](principles/principles.md) YOU SHOULD uphold while using the cheqd Network;
 6. How cheqd has built its Network to become more decentralised over time, as [Low Entropy](getting-started/deep-dive/introduction-to-entropy.md#entropy-progression) tends towards [High Entropy](getting-started/deep-dive/introduction-to-entropy.md#entropy-progression).

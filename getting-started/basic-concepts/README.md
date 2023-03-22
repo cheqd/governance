@@ -22,8 +22,8 @@ To fully understand how this works, we will walk through some basic concepts:
 [validators-and-node-operators.md](validators-and-node-operators.md)
 {% endcontent-ref %}
 
-{% content-ref url="understanding-voting.md" %}
-[understanding-voting.md](understanding-voting.md)
+{% content-ref url="voting.md" %}
+[voting.md](voting.md)
 {% endcontent-ref %}
 
 {% content-ref url="why-should-i-delegate-and-stake-my-tokens.md" %}

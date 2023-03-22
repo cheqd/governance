@@ -12,7 +12,7 @@
     * [What is bonding / delegation?](getting-started/basic-concepts/what-is-bonding-delegation.md)
     * [What is staking?](getting-started/basic-concepts/what-is-staking.md)
     * [Validators and Node Operators](getting-started/basic-concepts/validators-and-node-operators.md)
-    * [Understanding voting](getting-started/basic-concepts/understanding-voting.md)
+    * [Understanding voting](getting-started/basic-concepts/voting.md)
     * [Why should I delegate and stake my tokens?](getting-started/basic-concepts/why-should-i-delegate-and-stake-my-tokens.md)
     * [Redelegating and Unbonding](getting-started/basic-concepts/redelegating-and-unbonding.md)
     * [Slashing explained](getting-started/basic-concepts/slashing.md)
