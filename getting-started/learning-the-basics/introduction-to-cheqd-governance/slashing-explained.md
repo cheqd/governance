@@ -28,7 +28,7 @@ When delegating tokens to a validator in order to earn staking rewards, there is
 Any tokens directly staked by the validator as well as delegated tokens are counted in what gets slashed for bad behaviour. This means that if a validator exhibits a double-sign infraction or downtime, you may be slashed:
 
 * **1%** for (validator experiencing enough downtime to be put in validator jail).
-* &#x20;**5%** (for double-sign infraction)
+* **5%** (for double-sign infraction)
 
 For this reason, if you are delegated to a Validator and you notice them experiencing downtime, which can be seen on the [block explorer](https://explorer.cheqd.io/), it is suggested that you should **redelegate** your tokens to another Validator which is stable.
 

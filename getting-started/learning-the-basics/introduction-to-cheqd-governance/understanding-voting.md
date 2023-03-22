@@ -58,7 +58,7 @@ Once a proposal reaches _**MinDeposit**_, it immediately enters Voting period. W
 
 The initial value of the cheqd Voting period was **1 week**.
 
-This has since been reduced to **5 days** to accelerate the process of releasing updates. &#x20;
+This has since been reduced to **5 days** to accelerate the process of releasing updates. 
 
 ### Unbonding period
 
@@ -68,7 +68,7 @@ The initial value of the cheqd Unbonding period is **2 weeks**.
 
 ### Redelegation
 
-It is **always possible** to change (redelegate) the Node Operator you are delegated to, with a minimal time delay, using the redelegation option.&#x20;
+It is **always possible** to change (redelegate) the Node Operator you are delegated to, with a minimal time delay, using the redelegation option.
 
 You are also able to delegate to multiple Node Operators at the same time.
 
