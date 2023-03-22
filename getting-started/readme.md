@@ -20,15 +20,11 @@ If you are not familiar with governance, and especially decentralised governance
 [learning-the-basics](learning-the-basics/)
 {% endcontent-ref %}
 
-###
-
 ### Editor
 
 If you want to get your teeth into this documentation, improve it and make everything better, you can use the invite link here:
 
 {% embed url="https://app.gitbook.com/invite/-MiQSPMufVJdYEwQHd2c/ZjsHHhppPs7PQyoJed7u" %}
-
-###
 
 ### Community buzzer
 
@@ -38,8 +34,6 @@ If you want to get jump into our community, across a variety of platforms, you c
 [contributing.md](../contributing/contributing.md)
 {% endcontent-ref %}
 
-###
-
 ### Protagonist
 
 If you want to use change the way cheqd Network functions, and use CHEQ for governance purposes, you can read how on-ledger governance works:
@@ -47,8 +41,6 @@ If you want to use change the way cheqd Network functions, and use CHEQ for gove
 {% content-ref url="../contributing/major-network-changes/" %}
 [major-network-changes](../contributing/major-network-changes/)
 {% endcontent-ref %}
-
-###
 
 ### Vendor
 
