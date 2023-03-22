@@ -13,7 +13,7 @@
     * [What is staking?](getting-started/basic-concepts/staking.md)
     * [Validators and Node Operators](getting-started/basic-concepts/validators.md)
     * [Understanding voting](getting-started/basic-concepts/voting.md)
-    * [Why should I delegate and stake my tokens?](getting-started/basic-concepts/why-should-i-delegate-and-stake-my-tokens.md)
+    * [Why should I delegate and stake my tokens?](getting-started/basic-concepts/why-stake.md)
     * [Redelegating and Unbonding](getting-started/basic-concepts/redelegating-and-unbonding.md)
     * [Slashing explained](getting-started/basic-concepts/slashing.md)
   * [☄ Introduction to Entropy](getting-started/deep-dive/introduction-to-entropy.md)

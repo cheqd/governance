@@ -16,8 +16,8 @@ Users can delegate to multiple [Node Operators](validators.md) at the same time 
 
 There are multiple reasons why Users may want to delegate their tokens:
 
-{% content-ref url="why-should-i-delegate-and-stake-my-tokens.md" %}
-[why-should-i-delegate-and-stake-my-tokens.md](why-should-i-delegate-and-stake-my-tokens.md)
+{% content-ref url="why-stake.md" %}
+[why-stake.md](why-stake.md)
 {% endcontent-ref %}
 
 The hard-coded goal for bonded tokens on the cheqd Network is **60%**.

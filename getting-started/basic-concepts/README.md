@@ -26,8 +26,8 @@ To fully understand how this works, we will walk through some basic concepts:
 [voting.md](voting.md)
 {% endcontent-ref %}
 
-{% content-ref url="why-should-i-delegate-and-stake-my-tokens.md" %}
-[why-should-i-delegate-and-stake-my-tokens.md](why-should-i-delegate-and-stake-my-tokens.md)
+{% content-ref url="why-stake.md" %}
+[why-stake.md](why-stake.md)
 {% endcontent-ref %}
 
 {% content-ref url="redelegating-and-unbonding.md" %}
