@@ -2,7 +2,7 @@
 
 ## How do I choose which **Node Operator** to **delegate** to?
 
-Choosing your [Node Operator](validators-and-node-operators.md#what-is-a-validator-or-node-operator) or multiple Node Operators is an important decision. There a few things you can take into consideration:
+Choosing your [Node Operator](validators.md#what-is-a-validator-or-node-operator) or multiple Node Operators is an important decision. There a few things you can take into consideration:
 
 ### Commission rate
 

@@ -18,8 +18,8 @@ To fully understand how this works, we will walk through some basic concepts:
 [what-is-staking.md](what-is-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="validators-and-node-operators.md" %}
-[validators-and-node-operators.md](validators-and-node-operators.md)
+{% content-ref url="validators.md" %}
+[validators.md](validators.md)
 {% endcontent-ref %}
 
 {% content-ref url="voting.md" %}

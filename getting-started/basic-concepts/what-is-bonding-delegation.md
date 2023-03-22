@@ -6,13 +6,13 @@ Bonded tokens are those present in the [active pool](what-is-the-active-pool.md)
 
 ### What is a User?
 
-Users are persons who hold $CHEQ. Users are able to delegate tokens to [Node Operators](validators-and-node-operators.md) in order to have those tokens bonded and added to the [active pool](what-is-the-active-pool.md).
+Users are persons who hold $CHEQ. Users are able to delegate tokens to [Node Operators](validators.md) in order to have those tokens bonded and added to the [active pool](what-is-the-active-pool.md).
 
 ### What is a Participant?
 
 Once a User has delegated tokens to a Node Operator and has tokens added to the [active pool](what-is-the-active-pool.md), they are known as "**Participants".**
 
-Users can delegate to multiple [Node Operators](validators-and-node-operators.md) at the same time to diversify their bonded token portfolio.
+Users can delegate to multiple [Node Operators](validators.md) at the same time to diversify their bonded token portfolio.
 
 There are multiple reasons why Users may want to delegate their tokens:
 
