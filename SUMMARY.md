@@ -9,10 +9,10 @@
   * [Delegation & Bonding](basic-concepts/delegation-and-bonding.md)
   * [Redelegation & Unbonding](basic-concepts/redelegating-and-unbonding.md)
   * [Why stake?](basic-concepts/why-stake.md)
-* [Validator & Node Operators](basic-concepts/validators.md)
+* [🔏 Validator & Node Operators](basic-concepts/validators.md)
   * [Slashing](basic-concepts/slashing.md)
   * [Active Pool](basic-concepts/active-pool.md)
-* [Voting](basic-concepts/voting.md)
+* [🗳️ Voting](basic-concepts/voting.md)
 
 ## 🤿 Deep-dive on our Governance Framework
 
